@@ -7,7 +7,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-07-30T14:05:51.090923+00:00",
-      "last_seen": "2026-07-31T02:15:41.324392+00:00",
+      "last_seen": "2026-07-31T02:20:35.844346+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 154
+        "bots_uploaded": 2,
+        "logins": 166
       }
     },
     "8488076583": {
@@ -153,28 +153,27 @@
       "last_exit_code": -15,
       "last_exit_at": "2026-07-30T18:01:06.847716+00:00"
     },
-    "bf8ad54e1cae78d6": {
-      "_id": "bf8ad54e1cae78d6",
+    "9eeefd46f785e269": {
+      "_id": "9eeefd46f785e269",
       "owner": 8740135346,
       "name": "cvgg",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_bf8ad54e1cae78d6",
-      "created": "2026-07-31T01:36:37.533137+00:00",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_9eeefd46f785e269",
+      "created": "2026-07-31T02:18:06.158960+00:00",
       "enc_files": [
         {
-          "key_id": "5i2Rl7E9UwPmL6HO71ZezQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8740135346/1785461798_cvgg_py.enc",
+          "key_id": "bF34t-n4vvjyJ_UGn3QG6A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8740135346/1785464286_cvgg_py.enc",
           "filename": "cvgg.py",
           "rel_path": "cvgg.py"
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-07-31T01:36:47.559974+00:00",
-      "last_error": "Powered By @FROXLS\n[STARTED] SMS Worker for https://api-junaid-production.up.railway.app/api/ps?type=sms\n[STARTED] SMS Worker for https://api-junaid-production.up.railway.app/api/np?type=sms\n[STARTED] Numbers Worker for https://api-junaid-production.up.railway.app/api/ps?type=numbers\n[STARTED] Numbers Worker for https://api-junaid-production.up.railway.app/api/np?type=numbers\n[2026-07-31 01:36:49.305510] Sent new OTP from 258866828549 | API: https://api-junaid-production.up.railway.app/api/ps?type=sms\n[2026-07-31 01:36:49.679708] Sent new number from 258866828549 | API: https://api-junaid-production.up.railway.app/api/ps?type=numbers\n[2026-07-31 01:36:50.096358] Sent new number from  | API: https://api-junaid-production.up.railway.app/api/np?type=numbers",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-07-31T01:52:39.850165+00:00"
+      "last_started": "2026-07-31T02:18:11.930523+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [],
@@ -257,6 +256,12 @@
       "uid": 8740135346,
       "action": "pip_install",
       "detail": "bot=bf8ad54e1cae78d6 ok=True"
+    },
+    {
+      "ts": "2026-07-31T02:17:46.041759+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=bf8ad54e1cae78d6"
     }
   ],
   "coupons": {},
@@ -303,6 +308,14 @@
     },
     {
       "ts": "2026-07-31T01:36:37.803985+00:00",
+      "uid": "8740135346",
+      "filename": "cvgg.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-07-31T02:18:06.430233+00:00",
       "uid": "8740135346",
       "filename": "cvgg.py",
       "verdict": "SAFE",
