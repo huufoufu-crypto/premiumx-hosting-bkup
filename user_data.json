@@ -1,0 +1,307 @@
+{
+  "users": {
+    "8740135346": {
+      "_id": 8740135346,
+      "name": "𝚸гσxꪗ 𓏲ּ𝄢",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-07-30T14:05:51.090923+00:00",
+      "last_seen": "2026-07-31T02:06:55.927155+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 140
+      }
+    },
+    "8488076583": {
+      "_id": 8488076583,
+      "name": "Proxy !",
+      "username": "proxynxe",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-07-30T14:23:28.062928+00:00",
+      "last_seen": "2026-07-30T17:47:31.917717+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-07-30T16:08:29.356121+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 24
+      }
+    },
+    "8262559292": {
+      "_id": 8262559292,
+      "name": "𝐇𝐔𝐍𝐍𝐘",
+      "username": "Hunnynxe",
+      "plan": "lifetime",
+      "plan_expires": "2026-08-14T15:33:52.184250+00:00",
+      "joined": "2026-07-30T15:31:17.441838+00:00",
+      "last_seen": "2026-07-30T18:00:35.798949+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-07-30T15:32:52.567878+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 21
+      },
+      "last_expiry_warn": -1
+    },
+    "7519814996": {
+      "_id": 7519814996,
+      "name": "‏جمال الطنطاوي",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-07-31T01:39:28.852176+00:00",
+      "last_seen": "2026-07-31T01:46:30.457977+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-07-31T01:39:37.136309+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 2
+      }
+    },
+    "7958364334": {
+      "_id": 7958364334,
+      "name": "Crystal !!",
+      "username": "crystelq",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-07-31T01:48:53.859795+00:00",
+      "last_seen": "2026-07-31T01:53:59.253973+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-07-31T01:49:03.273156+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 8
+      }
+    }
+  },
+  "bots": {
+    "0cd7ad0d46294c3b": {
+      "_id": "0cd7ad0d46294c3b",
+      "owner": 8488076583,
+      "name": "cvgg",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8488076583_0cd7ad0d46294c3b",
+      "created": "2026-07-30T17:46:50.428863+00:00",
+      "enc_files": [
+        {
+          "key_id": "f2zuktmr8N7HJTaMjXjffA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8488076583/1785433610_cvgg_py.enc",
+          "filename": "cvgg.py",
+          "rel_path": "cvgg.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-07-30T17:47:11.812602+00:00",
+      "last_error": "Error sending to group -1003425873264: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.\n[2026-07-30 17:47:13.707986] Sent new OTP from 263773284779 | API: https://api-junaid-production.up.railway.app/api/np?type=sms\nError sending to group -1003425873264: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.\n[2026-07-30 17:47:13.820540] Sent new number from 258866319657 | API: https://api-junaid-production.up.railway.app/api/ps?type=numbers\nError sending to group -1003425873264: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.\n[2026-07-30 17:47:14.244359] Sent new number from  | API: https://api-junaid-production.up.railway.app/api/np?type=numbers\nError sending to group -1003425873264: Timed out\n[2026-07-30 17:47:18.411291] Sent new OTP from 258866319657 | API: https://api-junaid-production.up.railway.app/api/ps?type=sms",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-07-30T18:01:06.847716+00:00"
+    },
+    "bf8ad54e1cae78d6": {
+      "_id": "bf8ad54e1cae78d6",
+      "owner": 8740135346,
+      "name": "cvgg",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_bf8ad54e1cae78d6",
+      "created": "2026-07-31T01:36:37.533137+00:00",
+      "enc_files": [
+        {
+          "key_id": "5i2Rl7E9UwPmL6HO71ZezQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8740135346/1785461798_cvgg_py.enc",
+          "filename": "cvgg.py",
+          "rel_path": "cvgg.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-07-31T01:36:47.559974+00:00",
+      "last_error": "Powered By @FROXLS\n[STARTED] SMS Worker for https://api-junaid-production.up.railway.app/api/ps?type=sms\n[STARTED] SMS Worker for https://api-junaid-production.up.railway.app/api/np?type=sms\n[STARTED] Numbers Worker for https://api-junaid-production.up.railway.app/api/ps?type=numbers\n[STARTED] Numbers Worker for https://api-junaid-production.up.railway.app/api/np?type=numbers\n[2026-07-31 01:36:49.305510] Sent new OTP from 258866828549 | API: https://api-junaid-production.up.railway.app/api/ps?type=sms\n[2026-07-31 01:36:49.679708] Sent new number from 258866828549 | API: https://api-junaid-production.up.railway.app/api/ps?type=numbers\n[2026-07-31 01:36:50.096358] Sent new number from  | API: https://api-junaid-production.up.railway.app/api/np?type=numbers",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-07-31T01:52:39.850165+00:00"
+    }
+  },
+  "payments": [],
+  "admins": {},
+  "audit": [
+    {
+      "ts": "2026-07-30T14:07:03.323511+00:00",
+      "uid": 8740135346,
+      "action": "set_footer",
+      "detail": "PREMIUM PROXY HOSTING"
+    },
+    {
+      "ts": "2026-07-30T14:18:47.682133+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-07-30T15:32:53.087893+00:00",
+      "uid": 8262559292,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-07-30T15:33:52.551023+00:00",
+      "uid": 8740135346,
+      "action": "give_plan",
+      "detail": "uid=8262559292 plan=lifetime days=15"
+    },
+    {
+      "ts": "2026-07-30T15:38:10.730873+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-07-30T16:08:30.183668+00:00",
+      "uid": 8488076583,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-07-30T17:18:16.211662+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=cf736a37c6131d61"
+    },
+    {
+      "ts": "2026-07-30T17:43:30.223330+00:00",
+      "uid": 8740135346,
+      "action": "ticket_close",
+      "detail": "tid=LP62YH"
+    },
+    {
+      "ts": "2026-07-30T17:47:06.322619+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=0cd7ad0d46294c3b"
+    },
+    {
+      "ts": "2026-07-30T18:00:36.077995+00:00",
+      "uid": 8262559292,
+      "action": "bot_delete",
+      "detail": "bot=cf736a37c6131d61"
+    },
+    {
+      "ts": "2026-07-31T01:39:37.632764+00:00",
+      "uid": 7519814996,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-07-31T01:49:03.941291+00:00",
+      "uid": 7958364334,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    }
+  ],
+  "coupons": {},
+  "tickets": {
+    "LP62YH": {
+      "id": "LP62YH",
+      "uid": 8488076583,
+      "subject": "I WANT A STARTER PLAN",
+      "status": "closed",
+      "messages": [
+        {
+          "from": "user",
+          "text": "I have paid for starter plan please accept it",
+          "ts": "2026-07-30T17:41:47.464056+00:00"
+        },
+        {
+          "from": "admin",
+          "text": "OKAY DM @REVULET with payment proofs i will confrim it and will thebplan provided",
+          "ts": "2026-07-30T17:43:24.451471+00:00"
+        }
+      ],
+      "opened_at": "2026-07-30T17:41:47.464066+00:00"
+    }
+  },
+  "scheduled_broadcasts": [],
+  "notes": {},
+  "rate_violations": {},
+  "scan_log": [
+    {
+      "ts": "2026-07-30T17:18:01.005444+00:00",
+      "uid": "8262559292",
+      "filename": "dheryahu.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-07-30T17:46:50.705028+00:00",
+      "uid": "8488076583",
+      "filename": "cvgg.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-07-31T01:36:37.803985+00:00",
+      "uid": "8740135346",
+      "filename": "cvgg.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    }
+  ]
+}
