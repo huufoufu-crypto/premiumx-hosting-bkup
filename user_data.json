@@ -7,7 +7,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-07-30T14:05:51.090923+00:00",
-      "last_seen": "2026-07-31T02:38:08.388890+00:00",
+      "last_seen": "2026-07-31T02:47:01.550295+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 173
+        "logins": 187
       }
     },
     "8488076583": {
@@ -201,7 +201,18 @@
       "last_exit_code": null
     }
   },
-  "payments": [],
+  "payments": [
+    {
+      "id": "ZOLTNNVW",
+      "uid": 8740135346,
+      "method": "unknown",
+      "plan": null,
+      "amount": 0,
+      "status": "pending",
+      "ts": "2026-07-31T02:46:13.045913+00:00",
+      "telegram_msg_id": 389
+    }
+  ],
   "admins": {},
   "audit": [
     {
@@ -299,6 +310,12 @@
       "uid": 8740135346,
       "action": "bot_delete",
       "detail": "bot=14534928ff04b143"
+    },
+    {
+      "ts": "2026-07-31T02:47:02.051365+00:00",
+      "uid": 8740135346,
+      "action": "token_check",
+      "detail": "valid=0 invalid=0"
     }
   ],
   "coupons": {},
