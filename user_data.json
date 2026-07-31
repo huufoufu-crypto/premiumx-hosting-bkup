@@ -4,10 +4,10 @@
       "_id": 8740135346,
       "name": "𝚸гσxꪗ 𓏲ּ𝄢",
       "username": "",
-      "plan": "free",
-      "plan_expires": null,
+      "plan": "lifetime",
+      "plan_expires": "2026-08-20T02:53:26.016345+00:00",
       "joined": "2026-07-30T14:05:51.090923+00:00",
-      "last_seen": "2026-07-31T02:49:30.476667+00:00",
+      "last_seen": "2026-07-31T02:55:17.291274+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,8 +22,9 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 208
-      }
+        "logins": 218
+      },
+      "last_expiry_warn": -1
     },
     "8488076583": {
       "_id": 8488076583,
@@ -316,6 +317,12 @@
       "uid": 8740135346,
       "action": "token_check",
       "detail": "valid=0 invalid=0"
+    },
+    {
+      "ts": "2026-07-31T02:53:26.285606+00:00",
+      "uid": 8740135346,
+      "action": "give_plan",
+      "detail": "uid=8740135346 plan=lifetime days=20"
     }
   ],
   "coupons": {},
