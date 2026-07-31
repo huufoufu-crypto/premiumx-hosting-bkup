@@ -159,7 +159,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-07-31T05:08:50.856979+00:00",
-      "last_seen": "2026-07-31T05:19:47.425162+00:00",
+      "last_seen": "2026-07-31T05:27:26.150193+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -174,7 +174,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 5
+        "logins": 10
       }
     }
   },
@@ -225,31 +225,6 @@
       "last_started": "2026-07-31T02:18:11.930523+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "2fd911d98e798b6e": {
-      "_id": "2fd911d98e798b6e",
-      "owner": 8692778240,
-      "name": "f",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8692778240_2fd911d98e798b6e",
-      "created": "2026-07-31T05:19:50.048018+00:00",
-      "enc_files": [
-        {
-          "key_id": "D-vfOYBynD0ztUZzPSsvvg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8692778240/1785475190_f_py.enc",
-          "filename": "f.py",
-          "rel_path": "f.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "approval_status": "approved",
-      "approval_reason": "",
-      "last_started": "2026-07-31T05:21:58.837457+00:00",
-      "last_error": "[ERR] Failed to add bot 8780514098:AAGgx7iDK...: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes\n[ERR] Failed to add bot 8523546270:AAH2QYAhz...: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes\n[ERR] Failed to add bot 8888534241:AAF_WjcYC...: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes\n[ERR] Failed to add bot 8839502799:AAH2V5XqX...: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes\n[ERR] Failed to add bot 7953768283:AAF8VIIlF...: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes\n[ERR] Failed to add bot 8587611672:AAHpHP9sF...: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes\n[ERR] Failed to add bot 8689705653:AAGPLwOKn...: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes\n[FATAL] No bots loaded. Exiting.",
-      "last_exit_code": 0,
-      "last_exit_at": "2026-07-31T05:21:59.353638+00:00"
     }
   },
   "payments": [
@@ -384,6 +359,12 @@
       "ts": "2026-07-31T05:21:58.284234+00:00",
       "uid": 8740135346,
       "action": "approve_bot",
+      "detail": "bot=2fd911d98e798b6e"
+    },
+    {
+      "ts": "2026-07-31T05:27:26.568012+00:00",
+      "uid": 8692778240,
+      "action": "bot_delete",
       "detail": "bot=2fd911d98e798b6e"
     }
   ],
