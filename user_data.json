@@ -184,7 +184,7 @@
       "plan": "lifetime",
       "plan_expires": "2026-08-30T08:21:44.518869+00:00",
       "joined": "2026-07-31T08:12:18.799924+00:00",
-      "last_seen": "2026-07-31T08:20:41.075869+00:00",
+      "last_seen": "2026-07-31T08:35:46.299223+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -198,8 +198,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 14
+        "bots_uploaded": 1,
+        "logins": 17
       },
       "last_expiry_warn": -1
     }
@@ -251,6 +251,29 @@
       "last_started": "2026-07-31T02:18:11.930523+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "b41af75fc884f60d": {
+      "_id": "b41af75fc884f60d",
+      "owner": 7786013581,
+      "name": "sayanmusic",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7786013581_b41af75fc884f60d",
+      "created": "2026-07-31T08:35:19.257343+00:00",
+      "enc_files": [
+        {
+          "key_id": "fg48WpCd3DSpy8mxo-BZSA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7786013581/1785486919_sayanmusic_py.enc",
+          "filename": "sayanmusic.py",
+          "rel_path": "sayanmusic.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-07-31T08:38:48.509646+00:00",
+      "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7786013581_b41af75fc884f60d/sayanmusic.py\", line 324, in main\n    app = Application.builder().token(BOT_TOKEN).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-07-31T08:38:48.898145+00:00"
     }
   },
   "payments": [
@@ -498,6 +521,14 @@
       "ts": "2026-07-31T05:19:50.372091+00:00",
       "uid": "8692778240",
       "filename": "f.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-07-31T08:35:19.554017+00:00",
+      "uid": "7786013581",
+      "filename": "sayanmusic.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
