@@ -7,7 +7,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-07-30T14:05:51.090923+00:00",
-      "last_seen": "2026-07-31T02:31:20.008633+00:00",
+      "last_seen": "2026-07-31T02:38:08.388890+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 170
+        "logins": 173
       }
     },
     "8488076583": {
@@ -199,28 +199,6 @@
       "last_started": "2026-07-31T02:18:11.930523+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "14534928ff04b143": {
-      "_id": "14534928ff04b143",
-      "owner": 8740135346,
-      "name": "multifrature",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_14534928ff04b143",
-      "created": "2026-07-31T02:31:00.519780+00:00",
-      "enc_files": [
-        {
-          "key_id": "Q-Ij6Ie0l0VQejCyqNGnkw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8740135346/1785465061_multifrature_py.enc",
-          "filename": "multifrature.py",
-          "rel_path": "multifrature.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-07-31T02:31:11.586187+00:00",
-      "last_error": "",
-      "last_exit_code": null
     }
   },
   "payments": [],
@@ -315,6 +293,12 @@
       "uid": 5193826370,
       "action": "captcha_pass",
       "detail": "verified after 1 try(s)"
+    },
+    {
+      "ts": "2026-07-31T02:38:08.818279+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=14534928ff04b143"
     }
   ],
   "coupons": {},
