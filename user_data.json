@@ -125,6 +125,31 @@
         "bots_uploaded": 0,
         "logins": 8
       }
+    },
+    "5193826370": {
+      "_id": 5193826370,
+      "name": "Spyther",
+      "username": "Spyther7",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-07-31T02:36:26.506860+00:00",
+      "last_seen": "2026-07-31T02:36:26.506877+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-07-31T02:37:03.894219+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
@@ -284,6 +309,12 @@
       "uid": 8740135346,
       "action": "bot_delete",
       "detail": "bot=bf8ad54e1cae78d6"
+    },
+    {
+      "ts": "2026-07-31T02:37:04.395740+00:00",
+      "uid": 5193826370,
+      "action": "captcha_pass",
+      "detail": "verified after 1 try(s)"
     }
   ],
   "coupons": {},
