@@ -7,7 +7,7 @@
       "plan": "lifetime",
       "plan_expires": "2026-08-20T02:53:26.016345+00:00",
       "joined": "2026-07-30T14:05:51.090923+00:00",
-      "last_seen": "2026-07-31T08:11:24.605438+00:00",
+      "last_seen": "2026-07-31T08:21:44.518094+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 234
+        "logins": 240
       },
       "last_expiry_warn": -1
     },
@@ -181,10 +181,10 @@
       "_id": 7786013581,
       "name": "𝐍𝐎𝐎𝐁 𝐇𝐎 𝐓𝐔𝐌",
       "username": "s4y_r",
-      "plan": "free",
-      "plan_expires": null,
+      "plan": "lifetime",
+      "plan_expires": "2026-08-30T08:21:44.518869+00:00",
       "joined": "2026-07-31T08:12:18.799924+00:00",
-      "last_seen": "2026-07-31T08:15:02.845180+00:00",
+      "last_seen": "2026-07-31T08:20:41.075869+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -199,8 +199,9 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 8
-      }
+        "logins": 14
+      },
+      "last_expiry_warn": -1
     }
   },
   "bots": {
@@ -262,6 +263,16 @@
       "status": "pending",
       "ts": "2026-07-31T02:46:13.045913+00:00",
       "telegram_msg_id": 389
+    },
+    {
+      "id": "RYQ89WOG",
+      "uid": 7786013581,
+      "method": "unknown",
+      "plan": null,
+      "amount": 0,
+      "status": "pending",
+      "ts": "2026-07-31T08:20:41.077771+00:00",
+      "telegram_msg_id": 450
     }
   ],
   "admins": {
@@ -409,6 +420,12 @@
       "uid": 7786013581,
       "action": "captcha_pass",
       "detail": "verified after 1 try(s)"
+    },
+    {
+      "ts": "2026-07-31T08:21:44.803156+00:00",
+      "uid": 8740135346,
+      "action": "give_plan",
+      "detail": "uid=7786013581 plan=lifetime days=30"
     }
   ],
   "coupons": {},
