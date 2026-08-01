@@ -7,7 +7,7 @@
       "plan": "lifetime",
       "plan_expires": "2026-08-20T02:53:26.016345+00:00",
       "joined": "2026-07-30T14:05:51.090923+00:00",
-      "last_seen": "2026-07-31T16:38:21.412380+00:00",
+      "last_seen": "2026-08-01T01:43:08.788620+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 270
+        "logins": 273
       },
       "last_expiry_warn": -1
     },
@@ -295,10 +295,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-01T01:38:32.928755+00:00",
+      "last_started": "2026-08-01T01:43:34.135032+00:00",
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7786013581_b41af75fc884f60d/sayanmusic.py\", line 324, in main\n    app = Application.builder().token(BOT_TOKEN).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 1,
-      "last_exit_at": "2026-08-01T01:38:33.320325+00:00"
+      "last_exit_at": "2026-08-01T01:43:34.516582+00:00"
     }
   },
   "payments": [
