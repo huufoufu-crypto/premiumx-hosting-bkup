@@ -295,10 +295,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-01T12:26:10.999824+00:00",
+      "last_started": "2026-08-01T12:31:12.254136+00:00",
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7786013581_b41af75fc884f60d/sayanmusic.py\", line 324, in main\n    app = Application.builder().token(BOT_TOKEN).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 1,
-      "last_exit_at": "2026-08-01T12:26:11.389303+00:00"
+      "last_exit_at": "2026-08-01T12:31:12.638140+00:00"
     }
   },
   "payments": [
