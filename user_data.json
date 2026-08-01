@@ -210,7 +210,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-07-31T10:32:34.897539+00:00",
-      "last_seen": "2026-07-31T10:33:00.281696+00:00",
+      "last_seen": "2026-08-01T02:36:14.996813+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -225,7 +225,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 2
+        "logins": 3
       }
     }
   },
@@ -292,13 +292,13 @@
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-01T02:33:44.489750+00:00",
-      "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7786013581_b41af75fc884f60d/sayanmusic.py\", line 324, in main\n    app = Application.builder().token(BOT_TOKEN).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-08-01T02:33:44.879646+00:00"
+      "last_started": "2026-08-01T02:38:48.891958+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-08-01T02:38:45.737316+00:00"
     }
   },
   "payments": [
