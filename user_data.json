@@ -227,6 +227,31 @@
         "bots_uploaded": 0,
         "logins": 3
       }
+    },
+    "7289146443": {
+      "_id": 7289146443,
+      "name": "~@α4уυѕн💝",
+      "username": "ia4yush",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-01T18:12:43.313103+00:00",
+      "last_seen": "2026-08-01T18:14:11.693312+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-01T18:13:01.466505+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 11
+      }
     }
   },
   "bots": {
@@ -292,13 +317,13 @@
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-01T18:12:37.103637+00:00",
-      "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7786013581_b41af75fc884f60d/sayanmusic.py\", line 324, in main\n    app = Application.builder().token(BOT_TOKEN).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-08-01T18:12:37.494408+00:00"
+      "last_started": "2026-08-01T18:17:38.714678+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-08-01T18:17:35.550383+00:00"
     }
   },
   "payments": [
@@ -484,6 +509,12 @@
     {
       "ts": "2026-07-31T10:32:49.588051+00:00",
       "uid": 8196970790,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-01T18:13:02.186881+00:00",
+      "uid": 7289146443,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
     }
