@@ -252,6 +252,31 @@
         "bots_uploaded": 0,
         "logins": 11
       }
+    },
+    "8605542364": {
+      "_id": 8605542364,
+      "name": "🦣",
+      "username": "Ayaansh",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-02T03:33:21.563819+00:00",
+      "last_seen": "2026-08-02T03:34:31.895022+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-02T03:33:31.919256+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 4
+      }
     }
   },
   "bots": {
@@ -320,10 +345,35 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-02T03:29:52.271999+00:00",
+      "last_started": "2026-08-02T03:34:53.700908+00:00",
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7786013581_b41af75fc884f60d/sayanmusic.py\", line 324, in main\n    app = Application.builder().token(BOT_TOKEN).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 1,
-      "last_exit_at": "2026-08-02T03:29:52.679548+00:00"
+      "last_exit_at": "2026-08-02T03:34:54.086678+00:00"
+    },
+    "74e80d1d4bbddb28": {
+      "_id": "74e80d1d4bbddb28",
+      "owner": 8605542364,
+      "name": "gunslol",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8605542364_74e80d1d4bbddb28",
+      "created": "2026-08-02T03:34:22.797362+00:00",
+      "enc_files": [
+        {
+          "key_id": "DRk18rpDGcxvJnmmteAqNA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8605542364/1785641663_gunslol_py.enc",
+          "filename": "gunslol.py",
+          "rel_path": "gunslol.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 35,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -517,6 +567,12 @@
       "uid": 7289146443,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-02T03:33:32.591788+00:00",
+      "uid": 8605542364,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -600,6 +656,14 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-08-02T03:34:23.092188+00:00",
+      "uid": "8605542364",
+      "filename": "gunslol.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 35,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
