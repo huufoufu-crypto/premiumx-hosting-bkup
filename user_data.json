@@ -367,13 +367,13 @@
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-02T14:52:40.442692+00:00",
-      "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7786013581_b41af75fc884f60d/sayanmusic.py\", line 324, in main\n    app = Application.builder().token(BOT_TOKEN).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-08-02T14:52:40.831702+00:00"
+      "last_started": "2026-08-02T14:57:43.210729+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-08-02T14:57:40.058723+00:00"
     },
     "74e80d1d4bbddb28": {
       "_id": "74e80d1d4bbddb28",
@@ -422,10 +422,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-02T14:52:39.310086+00:00",
+      "last_started": "2026-08-02T14:57:41.407527+00:00",
       "last_error": "    async_to_sync(source, name)\n    ~~~~~~~~~~~~~^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_b1ec08ad951d9da6/.deps/pyrogram/sync.py\", line 31, in async_to_sync\n    main_loop = asyncio.get_event_loop()\n  File \"/usr/lib/python3.14/asyncio/events.py\", line 715, in get_event_loop\n    raise RuntimeError('There is no current event loop in thread %r.'\n                       % threading.current_thread().name)\nRuntimeError: There is no current event loop in thread 'MainThread'.",
       "last_exit_code": 1,
-      "last_exit_at": "2026-08-02T14:52:39.930707+00:00"
+      "last_exit_at": "2026-08-02T14:57:42.022402+00:00"
     }
   },
   "payments": [
