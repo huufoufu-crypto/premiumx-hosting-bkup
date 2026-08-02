@@ -277,6 +277,31 @@
         "bots_uploaded": 1,
         "logins": 4
       }
+    },
+    "8456607744": {
+      "_id": 8456607744,
+      "name": "𝘴𝓽ꪮ𝘳ꪑ ꫝʙʙᴜ !👑!",
+      "username": "Ipullherbra",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-02T06:12:56.060900+00:00",
+      "last_seen": "2026-08-02T06:12:56.060914+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-02T06:13:06.984327+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
@@ -345,10 +370,10 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-02T06:10:33.392609+00:00",
+      "last_started": "2026-08-02T06:15:34.628176+00:00",
       "last_error": "",
       "last_exit_code": null,
-      "last_exit_at": "2026-08-02T06:10:30.239420+00:00"
+      "last_exit_at": "2026-08-02T06:15:31.464236+00:00"
     },
     "74e80d1d4bbddb28": {
       "_id": "74e80d1d4bbddb28",
@@ -571,6 +596,12 @@
     {
       "ts": "2026-08-02T03:33:32.591788+00:00",
       "uid": 8605542364,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-02T06:13:07.692523+00:00",
+      "uid": 8456607744,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
     }
