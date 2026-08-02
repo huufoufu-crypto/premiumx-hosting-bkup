@@ -370,10 +370,10 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-02T08:56:14.011383+00:00",
+      "last_started": "2026-08-02T09:01:15.366339+00:00",
       "last_error": "",
       "last_exit_code": null,
-      "last_exit_at": "2026-08-02T08:56:10.855008+00:00"
+      "last_exit_at": "2026-08-02T09:01:12.217080+00:00"
     },
     "74e80d1d4bbddb28": {
       "_id": "74e80d1d4bbddb28",
