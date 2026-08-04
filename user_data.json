@@ -7,7 +7,7 @@
       "plan": "lifetime",
       "plan_expires": "2026-08-20T02:53:26.016345+00:00",
       "joined": "2026-07-30T14:05:51.090923+00:00",
-      "last_seen": "2026-08-02T12:35:03.295887+00:00",
+      "last_seen": "2026-08-04T08:31:48.595110+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 4,
-        "logins": 279
+        "logins": 280
       },
       "last_expiry_warn": -1
     },
@@ -348,7 +348,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-07-31T02:18:11.930523+00:00",
+      "last_started": "2026-08-04T08:31:03.212308+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -370,10 +370,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-02T15:32:49.457248+00:00",
+      "last_started": "2026-08-02T15:35:54.836254+00:00",
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7786013581_b41af75fc884f60d/sayanmusic.py\", line 324, in main\n    app = Application.builder().token(BOT_TOKEN).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 1,
-      "last_exit_at": "2026-08-02T15:32:49.870108+00:00"
+      "last_exit_at": "2026-08-02T15:35:55.230794+00:00"
     },
     "74e80d1d4bbddb28": {
       "_id": "74e80d1d4bbddb28",
@@ -400,7 +400,7 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-02T12:32:38.673679+00:00",
+      "last_started": "2026-08-04T08:31:03.391308+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -422,10 +422,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-08-02T15:32:49.192743+00:00",
+      "last_started": "2026-08-02T15:35:52.244482+00:00",
       "last_error": "    async_to_sync(source, name)\n    ~~~~~~~~~~~~~^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_b1ec08ad951d9da6/.deps/pyrogram/sync.py\", line 31, in async_to_sync\n    main_loop = asyncio.get_event_loop()\n  File \"/usr/lib/python3.14/asyncio/events.py\", line 715, in get_event_loop\n    raise RuntimeError('There is no current event loop in thread %r.'\n                       % threading.current_thread().name)\nRuntimeError: There is no current event loop in thread 'MainThread'.",
       "last_exit_code": 1,
-      "last_exit_at": "2026-08-02T15:32:49.823762+00:00"
+      "last_exit_at": "2026-08-02T15:35:52.893365+00:00"
     }
   },
   "payments": [
