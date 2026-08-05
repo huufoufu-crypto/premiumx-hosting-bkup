@@ -260,7 +260,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-02T03:33:21.563819+00:00",
-      "last_seen": "2026-08-02T03:34:31.895022+00:00",
+      "last_seen": "2026-08-05T04:42:29.016988+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -275,7 +275,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 4
+        "logins": 8
       }
     },
     "8456607744": {
@@ -636,6 +636,12 @@
       "ts": "2026-08-02T12:32:36.442401+00:00",
       "uid": 8740135346,
       "action": "approve_bot",
+      "detail": "bot=74e80d1d4bbddb28"
+    },
+    {
+      "ts": "2026-08-05T04:42:31.197189+00:00",
+      "uid": 8605542364,
+      "action": "bot_download",
       "detail": "bot=74e80d1d4bbddb28"
     }
   ],
