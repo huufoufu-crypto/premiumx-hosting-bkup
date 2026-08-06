@@ -260,7 +260,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-02T03:33:21.563819+00:00",
-      "last_seen": "2026-08-05T04:44:14.153957+00:00",
+      "last_seen": "2026-08-06T15:02:36.416671+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -274,8 +274,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 11
+        "bots_uploaded": 2,
+        "logins": 15
       }
     },
     "8456607744": {
@@ -426,6 +426,26 @@
       "last_error": "    async_to_sync(source, name)\n    ~~~~~~~~~~~~~^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_b1ec08ad951d9da6/.deps/pyrogram/sync.py\", line 31, in async_to_sync\n    main_loop = asyncio.get_event_loop()\n  File \"/usr/lib/python3.14/asyncio/events.py\", line 715, in get_event_loop\n    raise RuntimeError('There is no current event loop in thread %r.'\n                       % threading.current_thread().name)\nRuntimeError: There is no current event loop in thread 'MainThread'.",
       "last_exit_code": 1,
       "last_exit_at": "2026-08-02T15:35:52.893365+00:00"
+    },
+    "2b4a47d223a15b97": {
+      "_id": "2b4a47d223a15b97",
+      "owner": 8605542364,
+      "name": "app",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8605542364_2b4a47d223a15b97",
+      "created": "2026-08-06T15:02:39.341340+00:00",
+      "enc_files": [
+        {
+          "key_id": "N9YG00IPbesSiJwHVjYLuQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8605542364/1786028559_app_py.enc",
+          "filename": "app.py",
+          "rel_path": "app.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -741,6 +761,14 @@
       "filename": "selfxe.py",
       "verdict": "SAFE",
       "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-08-06T15:02:39.631546+00:00",
+      "uid": "8605542364",
+      "filename": "app.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
