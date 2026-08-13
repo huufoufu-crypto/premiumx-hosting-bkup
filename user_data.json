@@ -7,7 +7,7 @@
       "plan": "lifetime",
       "plan_expires": "2026-08-20T02:53:26.016345+00:00",
       "joined": "2026-07-30T14:05:51.090923+00:00",
-      "last_seen": "2026-08-13T14:22:26.180254+00:00",
+      "last_seen": "2026-08-13T15:18:05.987118+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 4,
-        "logins": 294
+        "logins": 296
       },
       "last_expiry_warn": 7
     },
@@ -363,7 +363,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:03:22.493521+00:00",
-      "last_seen": "2026-08-13T15:13:25.481020+00:00",
+      "last_seen": "2026-08-13T15:18:36.271358+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -378,7 +378,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 4
+        "logins": 8
       }
     },
     "7818582914": {
@@ -740,7 +740,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:08:54.434900+00:00",
-      "last_seen": "2026-08-13T15:08:54.434914+00:00",
+      "last_seen": "2026-08-13T15:19:17.404746+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -755,7 +755,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 1
+        "logins": 4
       }
     },
     "8695946179": {
@@ -1166,7 +1166,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:16:31.967257+00:00",
-      "last_seen": "2026-08-13T15:16:48.015877+00:00",
+      "last_seen": "2026-08-13T15:18:45.281792+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1181,7 +1181,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 2
+        "logins": 6
       }
     },
     "7651030474": {
@@ -1191,7 +1191,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:16:35.670766+00:00",
-      "last_seen": "2026-08-13T15:16:53.238217+00:00",
+      "last_seen": "2026-08-13T15:17:19.361827+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1205,24 +1205,76 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 2
+        "bots_uploaded": 1,
+        "logins": 3
       }
     },
     "8790645158": {
       "_id": 8790645158,
       "name": "夔『𝑬𝒓𝒆𝒏』(єℓιƒ)🍷",
       "username": "liesworlds",
-      "plan": "free",
-      "plan_expires": null,
+      "plan": "pro",
+      "plan_expires": "2026-08-15T15:17:21.994041+00:00",
       "joined": "2026-08-13T15:16:49.038487+00:00",
-      "last_seen": "2026-08-13T15:16:49.038501+00:00",
+      "last_seen": "2026-08-13T15:17:33.171302+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
       "kyc": false,
-      "verified": false,
-      "verified_at": null,
+      "verified": true,
+      "verified_at": "2026-08-13T15:17:13.651647+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": true,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 4
+      },
+      "last_expiry_warn": 1
+    },
+    "8421783864": {
+      "_id": 8421783864,
+      "name": "ＣＯＤＥＸ メ SAITO いつき",
+      "username": "saito_ea",
+      "plan": "pro",
+      "plan_expires": "2026-08-15T15:17:42.441822+00:00",
+      "joined": "2026-08-13T15:17:02.504176+00:00",
+      "last_seen": "2026-08-13T15:18:59.886511+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:17:10.650388+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": true,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 12
+      },
+      "last_expiry_warn": 1
+    },
+    "7612984527": {
+      "_id": 7612984527,
+      "name": "𝗥𝗜𝗬𝗔 𝗙𝗙",
+      "username": "RIYAxLIVE",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:17:22.383349+00:00",
+      "last_seen": "2026-08-13T15:17:57.202023+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:17:35.239826+00:00",
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -1231,23 +1283,23 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 1
+        "logins": 4
       }
     },
-    "8421783864": {
-      "_id": 8421783864,
-      "name": "ＣＯＤＥＸ メ SAITO いつき",
-      "username": "saito_ea",
+    "8204336028": {
+      "_id": 8204336028,
+      "name": "ElevateX By",
+      "username": "elevatexzaid",
       "plan": "free",
       "plan_expires": null,
-      "joined": "2026-08-13T15:17:02.504176+00:00",
-      "last_seen": "2026-08-13T15:17:02.504191+00:00",
+      "joined": "2026-08-13T15:18:10.575119+00:00",
+      "last_seen": "2026-08-13T15:18:10.575135+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
       "kyc": false,
-      "verified": false,
-      "verified_at": null,
+      "verified": true,
+      "verified_at": "2026-08-13T15:18:19.936648+00:00",
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -1430,7 +1482,7 @@
         }
       ],
       "env": {},
-      "status": "pending_approval",
+      "status": "running",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1438,7 +1490,12 @@
         "summary": "File type 'admin.html' allow nahi hai."
       },
       "gh_synced_at": 0,
-      "approval_status": "pending"
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-08-13T15:19:25.953899+00:00",
+      "last_error": "📍 Admin: http://localhost:5000/login\n🔗 API: http://localhost:5000/api/create\n👤 admin / admin123\n==================================================\n * Debugger is active!\n * Debugger PIN: 283-675-973\n * Detected change in '/home/ubuntu/premium-hosting/hosting/sandbox/8629274424_04535e6ebff37171/app.py', reloading\n * Restarting with stat",
+      "last_exit_code": 0,
+      "last_exit_at": "2026-08-13T15:19:32.513973+00:00"
     },
     "5a18abb449c8bf78": {
       "_id": "5a18abb449c8bf78",
@@ -1459,6 +1516,36 @@
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "pending"
+    },
+    "e495c65f0374c79b": {
+      "_id": "e495c65f0374c79b",
+      "owner": 7651030474,
+      "name": "ReferEarnBotss",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7651030474_e495c65f0374c79b",
+      "created": "2026-08-13T15:17:21.265476+00:00",
+      "enc_files": [
+        {
+          "key_id": "e8Aoul0byHnm4SBeC3bORw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7651030474/1786634241_ReferEarnBotss_py.enc",
+          "filename": "ReferEarnBotss.py",
+          "rel_path": "ReferEarnBotss.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 40,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-08-13T15:18:06.355554+00:00",
+      "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7651030474_e495c65f0374c79b/ReferEarnBotss.py\", line 986, in main\n    app = Application.builder().token(BOT_TOKEN).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-08-13T15:18:06.747532+00:00"
     }
   },
   "payments": [
@@ -1922,6 +2009,54 @@
       "uid": 7651030474,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:17:11.173526+00:00",
+      "uid": 8421783864,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:17:14.222740+00:00",
+      "uid": 8790645158,
+      "action": "captcha_pass",
+      "detail": "verified after 1 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:17:22.294709+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=8790645158"
+    },
+    {
+      "ts": "2026-08-13T15:17:35.782258+00:00",
+      "uid": 7612984527,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:17:42.898232+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=8421783864"
+    },
+    {
+      "ts": "2026-08-13T15:18:00.998326+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=04535e6ebff37171"
+    },
+    {
+      "ts": "2026-08-13T15:18:05.993056+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=e495c65f0374c79b"
+    },
+    {
+      "ts": "2026-08-13T15:18:20.464902+00:00",
+      "uid": 8204336028,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -2053,6 +2188,14 @@
       "verdict": "DANGEROUS",
       "risk_score": 100,
       "summary": "⚠️ File DANGEROUS hai! 23 threat(s) mili hain."
+    },
+    {
+      "ts": "2026-08-13T15:17:21.595762+00:00",
+      "uid": "7651030474",
+      "filename": "ReferEarnBotss.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 40,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
