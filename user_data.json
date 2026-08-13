@@ -663,7 +663,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:08:10.963044+00:00",
-      "last_seen": "2026-08-13T15:09:09.697114+00:00",
+      "last_seen": "2026-08-13T15:10:09.246306+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -678,7 +678,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 8
+        "logins": 9
       }
     },
     "7879752485": {
@@ -688,13 +688,13 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:08:37.298113+00:00",
-      "last_seen": "2026-08-13T15:08:37.298128+00:00",
+      "last_seen": "2026-08-13T15:10:31.535070+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
       "kyc": false,
-      "verified": false,
-      "verified_at": null,
+      "verified": true,
+      "verified_at": "2026-08-13T15:10:08.054192+00:00",
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -703,7 +703,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 1
+        "logins": 5
       }
     },
     "8322029867": {
@@ -763,13 +763,163 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:09:15.922965+00:00",
-      "last_seen": "2026-08-13T15:09:15.922978+00:00",
+      "last_seen": "2026-08-13T15:10:45.202047+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:09:28.821646+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 6
+      }
+    },
+    "8915316853": {
+      "_id": 8915316853,
+      "name": "MrlDi",
+      "username": "Vro_Mt9",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:09:37.185248+00:00",
+      "last_seen": "2026-08-13T15:09:37.185263+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
       "kyc": false,
       "verified": false,
       "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "7981894574": {
+      "_id": 7981894574,
+      "name": "𝐑𝐀𝐉 !!",
+      "username": "BOTisJOD",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:10:02.229561+00:00",
+      "last_seen": "2026-08-13T15:10:02.229576+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:10:11.075669+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8757838567": {
+      "_id": 8757838567,
+      "name": "☠️꧁𓊈𒆜𝐋𝐚𝐤𝐬𝐡𝐞𝐬𝐰𝐚𝐫𒆜𓊉꧂🫂",
+      "username": "LaksheswarX",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:10:38.914502+00:00",
+      "last_seen": "2026-08-13T15:10:38.914516+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8790937904": {
+      "_id": 8790937904,
+      "name": "Abhay",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:11:13.203228+00:00",
+      "last_seen": "2026-08-13T15:11:13.203241+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:11:22.627528+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "7433851021": {
+      "_id": 7433851021,
+      "name": "𝑀𝑒𝓈𝒽𝒸𝒽𝒶𝒾𝓃 𝒜𝐼 💀",
+      "username": "XproCarderX",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:11:35.519786+00:00",
+      "last_seen": "2026-08-13T15:11:35.519883+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:11:52.865509+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8125127666": {
+      "_id": 8125127666,
+      "name": "RAJU",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:11:51.295597+00:00",
+      "last_seen": "2026-08-13T15:11:51.295613+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:12:00.577740+00:00",
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -1322,6 +1472,42 @@
     {
       "ts": "2026-08-13T15:09:18.879253+00:00",
       "uid": 1854936869,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:09:29.341177+00:00",
+      "uid": 8695946179,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:10:08.947624+00:00",
+      "uid": 7879752485,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:10:11.672431+00:00",
+      "uid": 7981894574,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:11:23.161252+00:00",
+      "uid": 8790937904,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:11:53.398013+00:00",
+      "uid": 7433851021,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:12:01.095015+00:00",
+      "uid": 8125127666,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
     }
