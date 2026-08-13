@@ -1191,7 +1191,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:16:35.670766+00:00",
-      "last_seen": "2026-08-13T15:24:07.597676+00:00",
+      "last_seen": "2026-08-13T15:26:20.818595+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1206,7 +1206,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 13
+        "logins": 14
       }
     },
     "8790645158": {
@@ -1242,7 +1242,7 @@
       "plan": "pro",
       "plan_expires": "2026-08-15T15:17:42.441822+00:00",
       "joined": "2026-08-13T15:17:02.504176+00:00",
-      "last_seen": "2026-08-13T15:19:46.967562+00:00",
+      "last_seen": "2026-08-13T15:25:02.181744+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1257,7 +1257,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 13
+        "logins": 19
       },
       "last_expiry_warn": 1
     },
@@ -1425,6 +1425,57 @@
       "kyc": false,
       "verified": true,
       "verified_at": "2026-08-13T15:23:26.498410+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8935215927": {
+      "_id": 8935215927,
+      "name": "Syuda",
+      "username": "Elfaria02",
+      "plan": "pro",
+      "plan_expires": "2026-08-15T15:27:47.054694+00:00",
+      "joined": "2026-08-13T15:27:03.219537+00:00",
+      "last_seen": "2026-08-13T15:28:14.957372+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:27:23.561240+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": true,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 11
+      },
+      "last_expiry_warn": -1
+    },
+    "8662212642": {
+      "_id": 8662212642,
+      "name": "𝑫𝒂𝒊𝒌𝒊 大樹",
+      "username": "offical_laminpaing",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:28:09.809333+00:00",
+      "last_seen": "2026-08-13T15:28:09.809347+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -1617,10 +1668,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T15:24:26.847145+00:00",
-      "last_error": "📍 Admin: http://localhost:5000/login\n🔗 API: http://localhost:5000/api/create\n👤 admin / admin123\n==================================================\n * Debugger is active!\n * Debugger PIN: 283-675-973\n * Detected change in '/home/ubuntu/premium-hosting/hosting/sandbox/8629274424_04535e6ebff37171/app.py', reloading\n * Restarting with stat",
-      "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T15:24:33.430652+00:00"
+      "last_started": "2026-08-13T15:28:12.960549+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-08-13T15:28:07.648227+00:00"
     },
     "5a18abb449c8bf78": {
       "_id": "5a18abb449c8bf78",
@@ -1697,10 +1748,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T15:24:35.217948+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-08-13T15:24:31.997349+00:00"
+      "last_started": "2026-08-13T15:28:13.661263+00:00",
+      "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8421783864_e9b036f54e91e160/run.py\", line 3350, in main\n    application = app_builder.build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
+      "last_exit_code": 0,
+      "last_exit_at": "2026-08-13T15:28:14.237827+00:00"
     },
     "e13470783bbb29bc": {
       "_id": "e13470783bbb29bc",
@@ -3312,6 +3363,18 @@
       "uid": 8244117177,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:27:24.152871+00:00",
+      "uid": 8935215927,
+      "action": "captcha_pass",
+      "detail": "verified after 2 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:27:47.345413+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=8935215927"
     }
   ],
   "coupons": {},
