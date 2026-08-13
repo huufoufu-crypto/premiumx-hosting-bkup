@@ -435,10 +435,10 @@
       "_id": 8375080088,
       "name": "The Vens ID #2",
       "username": "thevensid2",
-      "plan": "free",
-      "plan_expires": null,
+      "plan": "pro",
+      "plan_expires": "2026-08-15T15:15:26.209103+00:00",
       "joined": "2026-08-13T15:06:48.389476+00:00",
-      "last_seen": "2026-08-13T15:07:18.398081+00:00",
+      "last_seen": "2026-08-13T15:15:53.609484+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -448,13 +448,14 @@
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
-      "trial_used": false,
+      "trial_used": true,
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 6
-      }
+        "logins": 10
+      },
+      "last_expiry_warn": 1
     },
     "6073577480": {
       "_id": 6073577480,
@@ -685,10 +686,10 @@
       "_id": 7879752485,
       "name": "𝗡𝗫𝗖 </> VECTRA 🇮🇳",
       "username": "Xouoh",
-      "plan": "free",
-      "plan_expires": null,
+      "plan": "pro",
+      "plan_expires": "2026-08-15T15:15:54.610510+00:00",
       "joined": "2026-08-13T15:08:37.298113+00:00",
-      "last_seen": "2026-08-13T15:10:31.535070+00:00",
+      "last_seen": "2026-08-13T15:16:32.950702+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -698,13 +699,14 @@
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
-      "trial_used": false,
+      "trial_used": true,
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 5
-      }
+        "logins": 18
+      },
+      "last_expiry_warn": 1
     },
     "8322029867": {
       "_id": 8322029867,
@@ -1014,7 +1016,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:13:08.783522+00:00",
-      "last_seen": "2026-08-13T15:13:29.677498+00:00",
+      "last_seen": "2026-08-13T15:15:49.777559+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1029,7 +1031,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 3
+        "logins": 4
       }
     },
     "8116111827": {
@@ -1055,6 +1057,206 @@
         "commands": 0,
         "bots_uploaded": 0,
         "logins": 5
+      }
+    },
+    "7505070902": {
+      "_id": 7505070902,
+      "name": "𝐒𝐇𝐀𝐃𝐎𝐖 𝐕𝐈𝐏",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:14:40.089374+00:00",
+      "last_seen": "2026-08-13T15:14:40.089388+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:14:47.835420+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8224757249": {
+      "_id": 8224757249,
+      "name": "𓋰 𓆩𝐓ᴇᴄʜɴᴏ𓆪 ˣ [𝗧𝗢𝗣 𝗩𝗜𝗣 𝗦𝗘𝗟𝗟𝗘𝗥]",
+      "username": "TECHNOXTAMIL",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:15:15.111330+00:00",
+      "last_seen": "2026-08-13T15:15:15.111342+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:15:24.739338+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "6912974998": {
+      "_id": 6912974998,
+      "name": "𝐊 𝐋𝐨𝐬𝐭 𝐈𝐧 \"𝐓\"",
+      "username": "xoni_l",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:16:24.248651+00:00",
+      "last_seen": "2026-08-13T15:16:24.248666+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:16:36.149917+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "7171541681": {
+      "_id": 7171541681,
+      "name": "𝗡𝗼𝘁𝘅𝗸𝗿𝗶𝘀𝗵𝗻𝗮",
+      "username": "notxkrishna",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:16:27.841588+00:00",
+      "last_seen": "2026-08-13T15:17:03.271673+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:16:36.602110+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 3
+      }
+    },
+    "8480538679": {
+      "_id": 8480538679,
+      "name": "𝐀ɴꜱʜ 𝐂ᴏɴꜰɪɢ",
+      "username": "AnshXmodzyt",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:16:31.967257+00:00",
+      "last_seen": "2026-08-13T15:16:48.015877+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:16:41.569629+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 2
+      }
+    },
+    "7651030474": {
+      "_id": 7651030474,
+      "name": "𓆩 𝐏ʀɪᴍᴇ 𝐍ꪮႦιтα𓆪",
+      "username": "VerifyNobita",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:16:35.670766+00:00",
+      "last_seen": "2026-08-13T15:16:53.238217+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:16:47.555132+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 2
+      }
+    },
+    "8790645158": {
+      "_id": 8790645158,
+      "name": "夔『𝑬𝒓𝒆𝒏』(єℓιƒ)🍷",
+      "username": "liesworlds",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:16:49.038487+00:00",
+      "last_seen": "2026-08-13T15:16:49.038501+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8421783864": {
+      "_id": 8421783864,
+      "name": "ＣＯＤＥＸ メ SAITO いつき",
+      "username": "saito_ea",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:17:02.504176+00:00",
+      "last_seen": "2026-08-13T15:17:02.504191+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
       }
     }
   },
@@ -1666,6 +1868,60 @@
       "uid": 8116111827,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:14:48.363999+00:00",
+      "uid": 7505070902,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:15:25.461977+00:00",
+      "uid": 8224757249,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:15:26.507504+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=8375080088"
+    },
+    {
+      "ts": "2026-08-13T15:15:54.911174+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=7879752485"
+    },
+    {
+      "ts": "2026-08-13T15:15:57.426002+00:00",
+      "uid": 8550204715,
+      "action": "security_reject",
+      "detail": "file=hosting.zip risk=100 verdict=DANGEROUS"
+    },
+    {
+      "ts": "2026-08-13T15:16:36.667506+00:00",
+      "uid": 6912974998,
+      "action": "captcha_pass",
+      "detail": "verified after 1 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:16:37.313380+00:00",
+      "uid": 7171541681,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:16:42.110700+00:00",
+      "uid": 8480538679,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:16:48.100287+00:00",
+      "uid": 7651030474,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -1789,6 +2045,14 @@
       "verdict": "SAFE",
       "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-08-13T15:15:56.530425+00:00",
+      "uid": "8550204715",
+      "filename": "security_scanner_free.py",
+      "verdict": "DANGEROUS",
+      "risk_score": 100,
+      "summary": "⚠️ File DANGEROUS hai! 23 threat(s) mili hain."
     }
   ]
 }
