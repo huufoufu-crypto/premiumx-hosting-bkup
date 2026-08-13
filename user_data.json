@@ -1775,10 +1775,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T15:39:38.482832+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-08-13T15:39:33.177701+00:00"
+      "last_started": "2026-08-13T15:43:14.529636+00:00",
+      "last_error": "📍 Admin: http://localhost:5000/login\n🔗 API: http://localhost:5000/api/create\n👤 admin / admin123\n==================================================\n * Debugger is active!\n * Debugger PIN: 283-675-973\n * Detected change in '/home/ubuntu/premium-hosting/hosting/sandbox/8629274424_04535e6ebff37171/app.py', reloading\n * Restarting with stat",
+      "last_exit_code": 0,
+      "last_exit_at": "2026-08-13T15:43:21.086136+00:00"
     },
     "5a18abb449c8bf78": {
       "_id": "5a18abb449c8bf78",
@@ -1825,10 +1825,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T15:39:41.412338+00:00",
+      "last_started": "2026-08-13T15:43:19.513271+00:00",
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8421783864_e9b036f54e91e160/run.py\", line 3350, in main\n    application = app_builder.build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T15:39:42.000081+00:00"
+      "last_exit_at": "2026-08-13T15:43:20.108111+00:00"
     },
     "e13470783bbb29bc": {
       "_id": "e13470783bbb29bc",
