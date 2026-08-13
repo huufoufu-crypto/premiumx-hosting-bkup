@@ -438,7 +438,7 @@
       "plan": "pro",
       "plan_expires": "2026-08-15T15:15:26.209103+00:00",
       "joined": "2026-08-13T15:06:48.389476+00:00",
-      "last_seen": "2026-08-13T15:23:12.283174+00:00",
+      "last_seen": "2026-08-13T15:24:13.874250+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -452,8 +452,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 13
+        "bots_uploaded": 1,
+        "logins": 14
       },
       "last_expiry_warn": 1
     },
@@ -1041,7 +1041,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:13:24.897384+00:00",
-      "last_seen": "2026-08-13T15:23:07.491083+00:00",
+      "last_seen": "2026-08-13T15:23:35.664358+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1056,7 +1056,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 2,
-        "logins": 18
+        "logins": 21
       }
     },
     "7505070902": {
@@ -1191,7 +1191,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:16:35.670766+00:00",
-      "last_seen": "2026-08-13T15:22:33.789188+00:00",
+      "last_seen": "2026-08-13T15:24:07.597676+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1206,7 +1206,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 8
+        "logins": 13
       }
     },
     "8790645158": {
@@ -1410,6 +1410,31 @@
         "bots_uploaded": 0,
         "logins": 1
       }
+    },
+    "8244117177": {
+      "_id": 8244117177,
+      "name": "𝐋",
+      "username": "y_xyv",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:23:17.395108+00:00",
+      "last_seen": "2026-08-13T15:23:17.395123+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:23:26.498410+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
@@ -1592,10 +1617,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T15:23:03.298749+00:00",
+      "last_started": "2026-08-13T15:24:26.847145+00:00",
       "last_error": "📍 Admin: http://localhost:5000/login\n🔗 API: http://localhost:5000/api/create\n👤 admin / admin123\n==================================================\n * Debugger is active!\n * Debugger PIN: 283-675-973\n * Detected change in '/home/ubuntu/premium-hosting/hosting/sandbox/8629274424_04535e6ebff37171/app.py', reloading\n * Restarting with stat",
       "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T15:23:09.910731+00:00"
+      "last_exit_at": "2026-08-13T15:24:33.430652+00:00"
     },
     "5a18abb449c8bf78": {
       "_id": "5a18abb449c8bf78",
@@ -1672,10 +1697,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T15:23:10.990483+00:00",
-      "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8421783864_e9b036f54e91e160/run.py\", line 3350, in main\n    application = app_builder.build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
-      "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T15:23:11.559854+00:00"
+      "last_started": "2026-08-13T15:24:35.217948+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-08-13T15:24:31.997349+00:00"
     },
     "e13470783bbb29bc": {
       "_id": "e13470783bbb29bc",
@@ -2714,6 +2739,26 @@
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "pending"
+    },
+    "a71fb4fd3ce8efeb": {
+      "_id": "a71fb4fd3ce8efeb",
+      "owner": 8375080088,
+      "name": "vensid",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8375080088_a71fb4fd3ce8efeb",
+      "created": "2026-08-13T15:24:16.580095+00:00",
+      "enc_files": [
+        {
+          "key_id": "pGrKOfUtjNcbmRXt414xfg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8375080088/1786634657_vensid_py.enc",
+          "filename": "vensid.py",
+          "rel_path": "vensid.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -3261,6 +3306,12 @@
       "uid": 8740135346,
       "action": "approve_bot",
       "detail": "bot=e9b036f54e91e160"
+    },
+    {
+      "ts": "2026-08-13T15:23:27.031748+00:00",
+      "uid": 8244117177,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -3437,6 +3488,14 @@
       "ts": "2026-08-13T15:22:55.812367+00:00",
       "uid": "8754911003",
       "filename": "arshrndyca.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-08-13T15:24:17.105171+00:00",
+      "uid": "8375080088",
+      "filename": "vensid.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
