@@ -311,7 +311,7 @@
       "plan": "lifetime",
       "plan_expires": "2026-09-12T13:57:09.456113+00:00",
       "joined": "2026-08-13T13:55:52.891152+00:00",
-      "last_seen": "2026-08-13T15:06:21.681684+00:00",
+      "last_seen": "2026-08-13T16:05:10.314725+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -326,7 +326,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 11
+        "logins": 12
       },
       "last_expiry_warn": -1
     },
@@ -1695,6 +1695,56 @@
         "bots_uploaded": 0,
         "logins": 2
       }
+    },
+    "8242063895": {
+      "_id": 8242063895,
+      "name": "𝗭𝗚ᵡ 𝙰𝚕𝚎𝚡",
+      "username": "ZG_Alex_05",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T16:05:33.397584+00:00",
+      "last_seen": "2026-08-13T16:06:10.757707+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T16:05:42.295435+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 4
+      }
+    },
+    "6041378940": {
+      "_id": 6041378940,
+      "name": "Fenix",
+      "username": "fenixhu007",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T16:06:03.813006+00:00",
+      "last_seen": "2026-08-13T16:06:46.634687+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T16:06:12.060543+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 3
+      }
     }
   },
   "bots": {
@@ -1877,10 +1927,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T16:04:48.003905+00:00",
-      "last_error": "📍 Admin: http://localhost:5000/login\n🔗 API: http://localhost:5000/api/create\n👤 admin / admin123\n==================================================\n * Debugger is active!\n * Debugger PIN: 283-675-973\n * Detected change in '/home/ubuntu/premium-hosting/hosting/sandbox/8629274424_04535e6ebff37171/app.py', reloading\n * Restarting with stat",
-      "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T16:04:54.587482+00:00"
+      "last_started": "2026-08-13T16:08:37.237821+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-08-13T16:08:31.908596+00:00"
     },
     "5a18abb449c8bf78": {
       "_id": "5a18abb449c8bf78",
@@ -1927,10 +1977,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T16:04:54.002525+00:00",
+      "last_started": "2026-08-13T16:08:38.420349+00:00",
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8421783864_e9b036f54e91e160/run.py\", line 3350, in main\n    application = app_builder.build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T16:04:54.602054+00:00"
+      "last_exit_at": "2026-08-13T16:08:39.011402+00:00"
     },
     "e13470783bbb29bc": {
       "_id": "e13470783bbb29bc",
@@ -3099,6 +3149,51 @@
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "pending"
+    },
+    "0bba6dd551aa37bb": {
+      "_id": "0bba6dd551aa37bb",
+      "owner": 8242063895,
+      "name": "pythonweb_Cyber-D_PyEncrypter",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8242063895_0bba6dd551aa37bb",
+      "created": "2026-08-13T16:06:15.486453+00:00",
+      "enc_files": [
+        {
+          "key_id": "XbR2VEJsHaphXJU1LomLlA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8242063895/1786637176_pythonweb_Cyber-D_PyEncrypter_py.enc",
+          "filename": "pythonweb_Cyber-D_PyEncrypter.py",
+          "rel_path": "pythonweb_Cyber-D_PyEncrypter.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
+    },
+    "9e8b3c5baf875c1f": {
+      "_id": "9e8b3c5baf875c1f",
+      "owner": 6041378940,
+      "name": "skyv11",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6041378940_9e8b3c5baf875c1f",
+      "created": "2026-08-13T16:06:51.221039+00:00",
+      "enc_files": [
+        {
+          "key_id": "Osoyl_bIDjLZpI9KQTqTYA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6041378940/1786637211_skyv11_mjs.enc",
+          "filename": "skyv11.mjs",
+          "rel_path": "skyv11.mjs"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'skyv11.mjs' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -3742,6 +3837,18 @@
       "uid": 7771179016,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T16:05:42.824343+00:00",
+      "uid": 8242063895,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T16:06:12.637376+00:00",
+      "uid": 6041378940,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -3969,6 +4076,22 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 10,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-08-13T16:06:15.852399+00:00",
+      "uid": "8242063895",
+      "filename": "pythonweb_Cyber-D_PyEncrypter.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-08-13T16:06:51.530406+00:00",
+      "uid": "6041378940",
+      "filename": "skyv11.mjs",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'skyv11.mjs' allow nahi hai."
     }
   ]
 }
