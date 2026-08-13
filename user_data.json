@@ -1955,7 +1955,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T17:12:58.759928+00:00",
-      "last_seen": "2026-08-13T17:13:44.780927+00:00",
+      "last_seen": "2026-08-13T17:14:10.896911+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1969,8 +1969,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 6
+        "bots_uploaded": 1,
+        "logins": 7
       }
     }
   },
@@ -2154,10 +2154,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T17:14:05.222183+00:00",
+      "last_started": "2026-08-13T17:15:28.467292+00:00",
       "last_error": "",
       "last_exit_code": null,
-      "last_exit_at": "2026-08-13T17:13:59.949269+00:00"
+      "last_exit_at": "2026-08-13T17:15:23.205738+00:00"
     },
     "5a18abb449c8bf78": {
       "_id": "5a18abb449c8bf78",
@@ -2204,10 +2204,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T17:14:07.337179+00:00",
+      "last_started": "2026-08-13T17:15:27.966316+00:00",
       "last_error": "",
       "last_exit_code": null,
-      "last_exit_at": "2026-08-13T17:14:04.106307+00:00"
+      "last_exit_at": "2026-08-13T17:15:24.721052+00:00"
     },
     "e13470783bbb29bc": {
       "_id": "e13470783bbb29bc",
@@ -3461,6 +3461,26 @@
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "pending"
+    },
+    "d005e927f09a36fc": {
+      "_id": "d005e927f09a36fc",
+      "owner": 8961660027,
+      "name": "likebot",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8961660027_d005e927f09a36fc",
+      "created": "2026-08-13T17:14:12.920509+00:00",
+      "enc_files": [
+        {
+          "key_id": "p-6WjGDgetY3R_UTomgYMA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8961660027/1786641253_likebot_py.enc",
+          "filename": "likebot.py",
+          "rel_path": "likebot.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -4449,6 +4469,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 10,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-08-13T17:14:13.240646+00:00",
+      "uid": "8961660027",
+      "filename": "likebot.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
