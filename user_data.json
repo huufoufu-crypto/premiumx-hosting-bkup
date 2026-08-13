@@ -363,7 +363,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:03:22.493521+00:00",
-      "last_seen": "2026-08-13T15:03:22.493535+00:00",
+      "last_seen": "2026-08-13T15:07:37.760128+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -378,7 +378,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 1
+        "logins": 3
       }
     },
     "7818582914": {
@@ -438,7 +438,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:06:48.389476+00:00",
-      "last_seen": "2026-08-13T15:07:02.582467+00:00",
+      "last_seen": "2026-08-13T15:07:18.398081+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -453,7 +453,332 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 2
+        "logins": 6
+      }
+    },
+    "6073577480": {
+      "_id": 6073577480,
+      "name": "𝐑ᴇɪɢɴ 𝐆ᴏᴅ𝐬 • 𝐑ᴇᴅѕᴛᴏɴᴇ",
+      "username": "ReignGods",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:07:17.018499+00:00",
+      "last_seen": "2026-08-13T15:07:17.018513+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:07:27.185298+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "6805412676": {
+      "_id": 6805412676,
+      "name": "ＧＡＭＥＯＶＥＲ",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:07:23.425285+00:00",
+      "last_seen": "2026-08-13T15:07:23.425299+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:07:39.416478+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "5549516234": {
+      "_id": 5549516234,
+      "name": "RAGE NXTY",
+      "username": "Hehesssssw",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:07:41.924456+00:00",
+      "last_seen": "2026-08-13T15:08:22.468721+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:07:50.404483+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 6
+      }
+    },
+    "6266185456": {
+      "_id": 6266185456,
+      "name": "Adi",
+      "username": "devils_lux",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:07:46.500356+00:00",
+      "last_seen": "2026-08-13T15:07:46.500371+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:08:03.517672+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8386555596": {
+      "_id": 8386555596,
+      "name": "Ae.yamal",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:07:48.142588+00:00",
+      "last_seen": "2026-08-13T15:08:41.673326+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:07:57.875537+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 4
+      }
+    },
+    "7545664963": {
+      "_id": 7545664963,
+      "name": "Gupta",
+      "username": "Guptaji_302",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:07:48.492990+00:00",
+      "last_seen": "2026-08-13T15:09:21.544655+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:08:19.523600+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 6
+      }
+    },
+    "8137776838": {
+      "_id": 8137776838,
+      "name": "夔┋𝑰𝑴𝑴𝑶𝑹𝑻𝑨𝑳 🕸️🖤",
+      "username": "ImmortalDady",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:08:01.676858+00:00",
+      "last_seen": "2026-08-13T15:08:01.676871+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:08:11.841689+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "6349016055": {
+      "_id": 6349016055,
+      "name": "Jodx pr1nce ⚡",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:08:06.803555+00:00",
+      "last_seen": "2026-08-13T15:08:06.803568+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:08:17.625503+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "6580883005": {
+      "_id": 6580883005,
+      "name": "𝔸𝕀 𝔼𝕩𝕡𝕝𝕠𝕣𝕖𝕣",
+      "username": "official_mk1",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:08:10.963044+00:00",
+      "last_seen": "2026-08-13T15:09:09.697114+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:08:22.926194+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 8
+      }
+    },
+    "7879752485": {
+      "_id": 7879752485,
+      "name": "𝗡𝗫𝗖 </> VECTRA 🇮🇳",
+      "username": "Xouoh",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:08:37.298113+00:00",
+      "last_seen": "2026-08-13T15:08:37.298128+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8322029867": {
+      "_id": 8322029867,
+      "name": "夔 Ⲧ ͱ꧊ 𝛜 ⌯ Ƥ 𝛊 ᰻⃪᱂ ᧘ Ⲧ 𝛜 </>",
+      "username": "PirateCodez",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:08:49.835133+00:00",
+      "last_seen": "2026-08-13T15:08:49.835147+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "1854936869": {
+      "_id": 1854936869,
+      "name": "Darshan",
+      "username": "DARSHANXNAIK",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:08:54.434900+00:00",
+      "last_seen": "2026-08-13T15:08:54.434914+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:09:18.341674+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8695946179": {
+      "_id": 8695946179,
+      "name": "ㅤ⏤͟͟͞͞𝗦ᴀ𝗛ɪ𝗟",
+      "username": "Sahilxalone",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:09:15.922965+00:00",
+      "last_seen": "2026-08-13T15:09:15.922978+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
       }
     }
   },
@@ -634,6 +959,26 @@
         "risk_score": 30,
         "summary": "File type 'admin.html' allow nahi hai."
       },
+      "gh_synced_at": 0,
+      "approval_status": "pending"
+    },
+    "5a18abb449c8bf78": {
+      "_id": "5a18abb449c8bf78",
+      "owner": 8386555596,
+      "name": "z3love",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8386555596_5a18abb449c8bf78",
+      "created": "2026-08-13T15:08:46.345103+00:00",
+      "enc_files": [
+        {
+          "key_id": "dg0tMIT_LM-5-pkUmU9JBQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8386555596/1786633727_z3love_py.enc",
+          "filename": "z3love.py",
+          "rel_path": "z3love.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
       "gh_synced_at": 0,
       "approval_status": "pending"
     }
@@ -919,6 +1264,66 @@
       "uid": 8375080088,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:07:27.796170+00:00",
+      "uid": 6073577480,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:07:39.941622+00:00",
+      "uid": 6805412676,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:07:50.924808+00:00",
+      "uid": 5549516234,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:07:58.403833+00:00",
+      "uid": 8386555596,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:08:04.076142+00:00",
+      "uid": 6266185456,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:08:12.388159+00:00",
+      "uid": 8137776838,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:08:18.330575+00:00",
+      "uid": 6349016055,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:08:20.068232+00:00",
+      "uid": 7545664963,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:08:23.450143+00:00",
+      "uid": 6580883005,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:09:18.879253+00:00",
+      "uid": 1854936869,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -1034,6 +1439,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "File type 'admin.html' allow nahi hai."
+    },
+    {
+      "ts": "2026-08-13T15:08:46.822991+00:00",
+      "uid": "8386555596",
+      "filename": "z3love.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
