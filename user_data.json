@@ -329,6 +329,82 @@
         "logins": 9
       },
       "last_expiry_warn": -1
+    },
+    "8757307701": {
+      "_id": 8757307701,
+      "name": "AREXNVRLOSE",
+      "username": "Arexowner",
+      "plan": "pro",
+      "plan_expires": "2026-08-15T15:03:48.282394+00:00",
+      "joined": "2026-08-13T15:03:09.108027+00:00",
+      "last_seen": "2026-08-13T15:03:47.786094+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:03:36.077853+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": true,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 3
+      },
+      "last_expiry_warn": 1
+    },
+    "8335023642": {
+      "_id": 8335023642,
+      "name": "˹Fᴇʟɪx ꭙ Bʜꫝɪ !!",
+      "username": "Felix_Bhai",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:03:22.493521+00:00",
+      "last_seen": "2026-08-13T15:03:22.493535+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:03:30.945174+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "7818582914": {
+      "_id": 7818582914,
+      "name": "𓆩𓆩𝔇𝔬𝔱𝔅𝔥𝔞𝔦𓆩⃟",
+      "username": "Dotbhai",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:03:46.493914+00:00",
+      "last_seen": "2026-08-13T15:03:46.493930+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:03:55.152054+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
@@ -696,6 +772,30 @@
       "uid": 8740135346,
       "action": "give_plan",
       "detail": "uid=8629274424 plan=lifetime days=30"
+    },
+    {
+      "ts": "2026-08-13T15:03:31.650064+00:00",
+      "uid": 8335023642,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:03:36.628490+00:00",
+      "uid": 8757307701,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:03:48.587732+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=8757307701"
+    },
+    {
+      "ts": "2026-08-13T15:03:55.692942+00:00",
+      "uid": 7818582914,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
