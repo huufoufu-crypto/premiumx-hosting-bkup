@@ -311,7 +311,7 @@
       "plan": "lifetime",
       "plan_expires": "2026-09-12T13:57:09.456113+00:00",
       "joined": "2026-08-13T13:55:52.891152+00:00",
-      "last_seen": "2026-08-13T13:57:20.528463+00:00",
+      "last_seen": "2026-08-13T15:06:21.681684+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -325,8 +325,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 9
+        "bots_uploaded": 1,
+        "logins": 11
       },
       "last_expiry_warn": -1
     },
@@ -404,6 +404,56 @@
         "commands": 0,
         "bots_uploaded": 0,
         "logins": 1
+      }
+    },
+    "8017692422": {
+      "_id": 8017692422,
+      "name": "S A H I L",
+      "username": "Thesahil123",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:04:31.106665+00:00",
+      "last_seen": "2026-08-13T15:04:31.106678+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:04:50.376867+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8375080088": {
+      "_id": 8375080088,
+      "name": "The Vens ID #2",
+      "username": "thevensid2",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:06:48.389476+00:00",
+      "last_seen": "2026-08-13T15:07:02.582467+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:06:58.628796+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 2
       }
     }
   },
@@ -525,6 +575,67 @@
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8605542364_2b4a47d223a15b97/app.py\", line 455, in run_bot\n    app = Application.builder().token(token).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 0,
       "last_exit_at": "2026-08-13T13:54:21.409751+00:00"
+    },
+    "04535e6ebff37171": {
+      "_id": "04535e6ebff37171",
+      "owner": 8629274424,
+      "name": "hosting-web-by-jubayer",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8629274424_04535e6ebff37171",
+      "created": "2026-08-13T15:06:13.454390+00:00",
+      "enc_files": [
+        {
+          "key_id": "-tn9vuxff6IJZbxwktZDBw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8629274424/1786633574_templates_admin_html.enc",
+          "filename": "admin.html",
+          "rel_path": "templates/admin.html"
+        },
+        {
+          "key_id": "9Khz0Nbwpi9PQxhn8oHixA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8629274424/1786633574_templates_error_html.enc",
+          "filename": "error.html",
+          "rel_path": "templates/error.html"
+        },
+        {
+          "key_id": "S9OfpKCa-gg2mX5eAL1Vuw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8629274424/1786633575_templates_home_html.enc",
+          "filename": "home.html",
+          "rel_path": "templates/home.html"
+        },
+        {
+          "key_id": "6lbOD35TVY5QLvUnuRIIaw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8629274424/1786633579_templates_landing_html.enc",
+          "filename": "landing.html",
+          "rel_path": "templates/landing.html"
+        },
+        {
+          "key_id": "heasVCgZtarDrHU9lY8X0w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8629274424/1786633580_templates_login_html.enc",
+          "filename": "login.html",
+          "rel_path": "templates/login.html"
+        },
+        {
+          "key_id": "eWUFs8qYMmDaCYSHqZR_jw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8629274424/1786633580_app_py.enc",
+          "filename": "app.py",
+          "rel_path": "app.py"
+        },
+        {
+          "key_id": "p_kSl60sKobukJIcej0VEg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8629274424/1786633581_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "requirements.txt"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'admin.html' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -796,6 +907,18 @@
       "uid": 7818582914,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:04:50.904194+00:00",
+      "uid": 8017692422,
+      "action": "captcha_pass",
+      "detail": "verified after 1 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:06:59.342285+00:00",
+      "uid": 8375080088,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -903,6 +1026,14 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-08-13T15:06:13.806237+00:00",
+      "uid": "8629274424",
+      "filename": "admin.html",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'admin.html' allow nahi hai."
     }
   ]
 }
