@@ -1678,7 +1678,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T16:01:35.059287+00:00",
-      "last_seen": "2026-08-13T16:14:26.427940+00:00",
+      "last_seen": "2026-08-13T16:15:30.260345+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1692,8 +1692,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 3
+        "bots_uploaded": 1,
+        "logins": 4
       }
     },
     "8242063895": {
@@ -1927,10 +1927,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T16:14:59.671859+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-08-13T16:14:54.381964+00:00"
+      "last_started": "2026-08-13T16:18:35.008653+00:00",
+      "last_error": "📍 Admin: http://localhost:5000/login\n🔗 API: http://localhost:5000/api/create\n👤 admin / admin123\n==================================================\n * Debugger is active!\n * Debugger PIN: 283-675-973\n * Detected change in '/home/ubuntu/premium-hosting/hosting/sandbox/8629274424_04535e6ebff37171/app.py', reloading\n * Restarting with stat",
+      "last_exit_code": 0,
+      "last_exit_at": "2026-08-13T16:18:41.618874+00:00"
     },
     "5a18abb449c8bf78": {
       "_id": "5a18abb449c8bf78",
@@ -1977,10 +1977,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T16:15:00.726330+00:00",
+      "last_started": "2026-08-13T16:18:41.464251+00:00",
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8421783864_e9b036f54e91e160/run.py\", line 3350, in main\n    application = app_builder.build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T16:15:01.337248+00:00"
+      "last_exit_at": "2026-08-13T16:18:42.075067+00:00"
     },
     "e13470783bbb29bc": {
       "_id": "e13470783bbb29bc",
@@ -3194,6 +3194,26 @@
       },
       "gh_synced_at": 0,
       "approval_status": "pending"
+    },
+    "86922f4233dfe06d": {
+      "_id": "86922f4233dfe06d",
+      "owner": 7771179016,
+      "name": "chintu",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7771179016_86922f4233dfe06d",
+      "created": "2026-08-13T16:15:32.936786+00:00",
+      "enc_files": [
+        {
+          "key_id": "3X2gHRn5Gp7ysEBEmj-_FQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7771179016/1786637733_chintu_js.enc",
+          "filename": "chintu.js",
+          "rel_path": "chintu.js"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -4092,6 +4112,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "File type 'skyv11.mjs' allow nahi hai."
+    },
+    {
+      "ts": "2026-08-13T16:15:33.266092+00:00",
+      "uid": "7771179016",
+      "filename": "chintu.js",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
