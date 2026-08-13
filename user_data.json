@@ -7,7 +7,7 @@
       "plan": "lifetime",
       "plan_expires": "2026-08-20T02:53:26.016345+00:00",
       "joined": "2026-07-30T14:05:51.090923+00:00",
-      "last_seen": "2026-08-13T15:18:05.987118+00:00",
+      "last_seen": "2026-08-13T15:22:45.282597+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 4,
-        "logins": 296
+        "logins": 300
       },
       "last_expiry_warn": 7
     },
@@ -438,7 +438,7 @@
       "plan": "pro",
       "plan_expires": "2026-08-15T15:15:26.209103+00:00",
       "joined": "2026-08-13T15:06:48.389476+00:00",
-      "last_seen": "2026-08-13T15:15:53.609484+00:00",
+      "last_seen": "2026-08-13T15:23:12.283174+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -453,7 +453,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 10
+        "logins": 13
       },
       "last_expiry_warn": 1
     },
@@ -740,7 +740,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:08:54.434900+00:00",
-      "last_seen": "2026-08-13T15:19:17.404746+00:00",
+      "last_seen": "2026-08-13T15:20:00.583296+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -754,8 +754,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 4
+        "bots_uploaded": 1,
+        "logins": 5
       }
     },
     "8695946179": {
@@ -1041,7 +1041,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:13:24.897384+00:00",
-      "last_seen": "2026-08-13T15:14:25.448538+00:00",
+      "last_seen": "2026-08-13T15:23:07.491083+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1055,8 +1055,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 5
+        "bots_uploaded": 2,
+        "logins": 18
       }
     },
     "7505070902": {
@@ -1191,7 +1191,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-08-13T15:16:35.670766+00:00",
-      "last_seen": "2026-08-13T15:17:19.361827+00:00",
+      "last_seen": "2026-08-13T15:22:33.789188+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1206,7 +1206,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 3
+        "logins": 8
       }
     },
     "8790645158": {
@@ -1242,7 +1242,7 @@
       "plan": "pro",
       "plan_expires": "2026-08-15T15:17:42.441822+00:00",
       "joined": "2026-08-13T15:17:02.504176+00:00",
-      "last_seen": "2026-08-13T15:18:59.886511+00:00",
+      "last_seen": "2026-08-13T15:19:46.967562+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1256,8 +1256,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 12
+        "bots_uploaded": 1,
+        "logins": 13
       },
       "last_expiry_warn": 1
     },
@@ -1300,6 +1300,106 @@
       "kyc": false,
       "verified": true,
       "verified_at": "2026-08-13T15:18:19.936648+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8640008211": {
+      "_id": 8640008211,
+      "name": "Godz",
+      "username": "Goreboobskodabakepiyunga",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:20:37.878886+00:00",
+      "last_seen": "2026-08-13T15:21:17.491240+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:20:45.598612+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 5
+      }
+    },
+    "8187995105": {
+      "_id": 8187995105,
+      "name": "𝐁ᴀʙᴀ",
+      "username": "BABATILLUOP",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:21:35.417696+00:00",
+      "last_seen": "2026-08-13T15:22:39.861359+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:21:48.935016+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 11
+      }
+    },
+    "8754911003": {
+      "_id": 8754911003,
+      "name": "ARSH",
+      "username": "arshh_off",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:21:56.650770+00:00",
+      "last_seen": "2026-08-13T15:22:53.158282+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T15:22:19.077041+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 3
+      }
+    },
+    "8519988731": {
+      "_id": 8519988731,
+      "name": "夔┋𝗦𝗜𝗟𝗘𝗡𝗧 𝗕𝗔𝗡𝗡𝗘𝗥 𝗡𝗫𝗧 ➪",
+      "username": "Silent_Banner_Nxt",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T15:22:08.944571+00:00",
+      "last_seen": "2026-08-13T15:22:08.944585+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -1492,10 +1592,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T15:19:25.953899+00:00",
+      "last_started": "2026-08-13T15:23:03.298749+00:00",
       "last_error": "📍 Admin: http://localhost:5000/login\n🔗 API: http://localhost:5000/api/create\n👤 admin / admin123\n==================================================\n * Debugger is active!\n * Debugger PIN: 283-675-973\n * Detected change in '/home/ubuntu/premium-hosting/hosting/sandbox/8629274424_04535e6ebff37171/app.py', reloading\n * Restarting with stat",
       "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T15:19:32.513973+00:00"
+      "last_exit_at": "2026-08-13T15:23:09.910731+00:00"
     },
     "5a18abb449c8bf78": {
       "_id": "5a18abb449c8bf78",
@@ -1546,6 +1646,1074 @@
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7651030474_e495c65f0374c79b/ReferEarnBotss.py\", line 986, in main\n    app = Application.builder().token(BOT_TOKEN).build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 1,
       "last_exit_at": "2026-08-13T15:18:06.747532+00:00"
+    },
+    "e9b036f54e91e160": {
+      "_id": "e9b036f54e91e160",
+      "owner": 8421783864,
+      "name": "run",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8421783864_e9b036f54e91e160",
+      "created": "2026-08-13T15:19:49.754788+00:00",
+      "enc_files": [
+        {
+          "key_id": "1mY70Qx-Q4M7ESwarkPAJA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8421783864/1786634390_run_py.enc",
+          "filename": "run.py",
+          "rel_path": "run.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-08-13T15:23:10.990483+00:00",
+      "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8421783864_e9b036f54e91e160/run.py\", line 3350, in main\n    application = app_builder.build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
+      "last_exit_code": 0,
+      "last_exit_at": "2026-08-13T15:23:11.559854+00:00"
+    },
+    "e13470783bbb29bc": {
+      "_id": "e13470783bbb29bc",
+      "owner": 1854936869,
+      "name": "read",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/1854936869_e13470783bbb29bc",
+      "created": "2026-08-13T15:20:02.472893+00:00",
+      "enc_files": [
+        {
+          "key_id": "DmNg7jK0xBtWJjrnM03v7g",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/1854936869/1786634403_read_py.enc",
+          "filename": "read.py",
+          "rel_path": "read.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-08-13T15:21:09.793788+00:00",
+      "last_error": "════════════════ START 2026-08-13T15:21:09.752238+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/1854936869_e13470783bbb29bc/read.py\", line 501\n    data\nSyntaxError: expected 'except' or 'finally' block",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-08-13T15:21:09.847132+00:00"
+    },
+    "cd2bdfb2e902611a": {
+      "_id": "cd2bdfb2e902611a",
+      "owner": 8116111827,
+      "name": "nuub",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8116111827_cd2bdfb2e902611a",
+      "created": "2026-08-13T15:19:38.693865+00:00",
+      "enc_files": [
+        {
+          "key_id": "RB4v8fq2bBp-QGIFy3K0WQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634379_AccountPersonalShow_pb2_py.enc",
+          "filename": "AccountPersonalShow_pb2.py",
+          "rel_path": "AccountPersonalShow_pb2.py"
+        },
+        {
+          "key_id": "IKIAwInrf_bE0IbjHCh5VQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634381_FreeFire_pb2_py.enc",
+          "filename": "FreeFire_pb2.py",
+          "rel_path": "FreeFire_pb2.py"
+        },
+        {
+          "key_id": "7Jfj5ug2_8zrqvc_e54iZg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634382_Pb2_CreateGuild_pb2_py.enc",
+          "filename": "CreateGuild_pb2.py",
+          "rel_path": "Pb2/CreateGuild_pb2.py"
+        },
+        {
+          "key_id": "bScNs5GbXmqf_6TxWONw9g",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634384_Pb2_DEcwHisPErMsG_pb2_py.enc",
+          "filename": "DEcwHisPErMsG_pb2.py",
+          "rel_path": "Pb2/DEcwHisPErMsG_pb2.py"
+        },
+        {
+          "key_id": "ZYuqCUp7NwZQl0Ynf14rrQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634385_Pb2_Fo_pb2_py.enc",
+          "filename": "Fo_pb2.py",
+          "rel_path": "Pb2/Fo_pb2.py"
+        },
+        {
+          "key_id": "4O185LJmy1WR0axL6b35-w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634387_Pb2_GenWhisperMsg_pb2_py.enc",
+          "filename": "GenWhisperMsg_pb2.py",
+          "rel_path": "Pb2/GenWhisperMsg_pb2.py"
+        },
+        {
+          "key_id": "POhmgyJ5wNpnPlbHkx7woQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634388_Pb2_GetFriend_Res_pb2_py.enc",
+          "filename": "GetFriend_Res_pb2.py",
+          "rel_path": "Pb2/GetFriend_Res_pb2.py"
+        },
+        {
+          "key_id": "BacZT_NjJxzzkBfE_VzWUw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634389_Pb2_MajoRLoGinrEq_pb2_py.enc",
+          "filename": "MajoRLoGinrEq_pb2.py",
+          "rel_path": "Pb2/MajoRLoGinrEq_pb2.py"
+        },
+        {
+          "key_id": "gXlzOVD12ESJLCD_zjAQTA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634390_Pb2_MajoRLoGinrEs_pb2_py.enc",
+          "filename": "MajoRLoGinrEs_pb2.py",
+          "rel_path": "Pb2/MajoRLoGinrEs_pb2.py"
+        },
+        {
+          "key_id": "oJOtLO7ADcq4ffUAHljzWQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634391_Pb2_PorTs_pb2_py.enc",
+          "filename": "PorTs_pb2.py",
+          "rel_path": "Pb2/PorTs_pb2.py"
+        },
+        {
+          "key_id": "3_wjLKdLVKDWvw6ipfJcdQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634392_Pb2_QuitClanReq_pb2_py.enc",
+          "filename": "QuitClanReq_pb2.py",
+          "rel_path": "Pb2/QuitClanReq_pb2.py"
+        },
+        {
+          "key_id": "5CBb9mTNlkbghMyesKXACA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634395_Pb2_RR.enc",
+          "filename": "RR",
+          "rel_path": "Pb2/RR"
+        },
+        {
+          "key_id": "5DHPy4WZ6P7lQ5JlxRsaeg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634396_Pb2_RemoveFriend_Req_pb2_py.enc",
+          "filename": "RemoveFriend_Req_pb2.py",
+          "rel_path": "Pb2/RemoveFriend_Req_pb2.py"
+        },
+        {
+          "key_id": "iBy9jWmkDRfxkYVfQGPzMQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634396_Pb2_ReqCLan_pb2_py.enc",
+          "filename": "ReqCLan_pb2.py",
+          "rel_path": "Pb2/ReqCLan_pb2.py"
+        },
+        {
+          "key_id": "ZkJjfOF1MNYjg2-MW1CDIQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634397_Pb2_Team_msg_pb2_py.enc",
+          "filename": "Team_msg_pb2.py",
+          "rel_path": "Pb2/Team_msg_pb2.py"
+        },
+        {
+          "key_id": "JO_tdt2kFbqi6HhVDk8yGA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634398_Pb2___pycache___CreateGuild_pb2_cpython-313_pyc.enc",
+          "filename": "CreateGuild_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/CreateGuild_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "Otsceo9I0DYR46c6MsLWaA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634399_Pb2___pycache___DEcwHisPErMsG_pb2_cpython-313_py.enc",
+          "filename": "DEcwHisPErMsG_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/DEcwHisPErMsG_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "wBNf2N339SI1CMXX6MfFdQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634401_Pb2___pycache___GetFriend_Res_pb2_cpython-313_py.enc",
+          "filename": "GetFriend_Res_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/GetFriend_Res_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "Hl2HXcjIiCFWFR45d_lZcQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634402_Pb2___pycache___MajoRLoGinrEq_pb2_cpython-313_py.enc",
+          "filename": "MajoRLoGinrEq_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/MajoRLoGinrEq_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "VLrM755ccI5QL-7nAPFsuw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634403_Pb2___pycache___MajoRLoGinrEs_pb2_cpython-313_py.enc",
+          "filename": "MajoRLoGinrEs_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/MajoRLoGinrEs_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "W4qvJIhvfYPf3rk5Aybvyg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634404_Pb2___pycache___PorTs_pb2_cpython-313_pyc.enc",
+          "filename": "PorTs_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/PorTs_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "bKUA4yoOZLYYsTk60XVYIA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634405_Pb2___pycache___RemoveFriend_Req_pb2_cpython-313.enc",
+          "filename": "RemoveFriend_Req_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/RemoveFriend_Req_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "2AozNtoWKHVFki7qi2rayw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634407_Pb2___pycache___Team_msg_pb2_cpython-313_pyc.enc",
+          "filename": "Team_msg_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/Team_msg_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "TqTEKADfGDRWhwkHXh75Tg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634408_Pb2___pycache___data_pb2_cpython-313_pyc.enc",
+          "filename": "data_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/data_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "FvBU7RuHe_bw7ZZtJlu2uQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634409_Pb2___pycache___dev_generator_pb2_cpython-313_py.enc",
+          "filename": "dev_generator_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/dev_generator_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "meuGXz0CITfTxy4_u1d9iw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634410_Pb2___pycache___devxt_count_pb2_cpython-313_pyc.enc",
+          "filename": "devxt_count_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/devxt_count_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "gJsYaOSVWxVtgE4YsXIgcg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634412_Pb2___pycache___kyro_title_pb2_cpython-313_pyc.enc",
+          "filename": "kyro_title_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/kyro_title_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "vJnp-XBGv4kjF2pUsYKbmg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634413_Pb2___pycache___my_pb2_cpython-313_pyc.enc",
+          "filename": "my_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/my_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "BXECOQSJ4Z9ds0yW2gCMqg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634414_Pb2___pycache___output_pb2_cpython-313_pyc.enc",
+          "filename": "output_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/output_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "6P0OGmkJSuCmUvLA6spIYw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634416_Pb2___pycache___room_join_pb2_cpython-313_pyc.enc",
+          "filename": "room_join_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/room_join_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "GcvNrBx9yBWuGE4q7LsWfw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634419_Pb2___pycache___sQ_pb2_cpython-313_pyc.enc",
+          "filename": "sQ_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/sQ_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "a7OXR1zvftSQ6L3GRbKOGA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634420_Pb2___pycache___spam_request_pb2_cpython-313_pyc.enc",
+          "filename": "spam_request_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/spam_request_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "sybpkc6JYQFZM1icmoEKsQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634420_Pb2___pycache___uid_generator_pb2_cpython-313_py.enc",
+          "filename": "uid_generator_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/uid_generator_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "N2feQPLEAcAw8JFNgWGQeg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634421_Pb2_byte_py.enc",
+          "filename": "byte.py",
+          "rel_path": "Pb2/byte.py"
+        },
+        {
+          "key_id": "9cz9U8iB2EFAaZZEG0xhEg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634424_Pb2_data_pb2_py.enc",
+          "filename": "data_pb2.py",
+          "rel_path": "Pb2/data_pb2.py"
+        },
+        {
+          "key_id": "oQIJbjQcL7H6NZqmnFY23A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634425_Pb2_dev_generator_pb2_py.enc",
+          "filename": "dev_generator_pb2.py",
+          "rel_path": "Pb2/dev_generator_pb2.py"
+        },
+        {
+          "key_id": "6UWK9LJYqym7Mmt4hR9Dew",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634426_Pb2_devxt_count_pb2_py.enc",
+          "filename": "devxt_count_pb2.py",
+          "rel_path": "Pb2/devxt_count_pb2.py"
+        },
+        {
+          "key_id": "kTc0PuoblrDsaaZO2Txz-g",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634427_Pb2_join_spam_manager_py.enc",
+          "filename": "join_spam_manager.py",
+          "rel_path": "Pb2/join_spam_manager.py"
+        },
+        {
+          "key_id": "V40UR-Vm_HPQ3EkThKLdcw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634428_Pb2_join_spam_manager_py_bak.enc",
+          "filename": "join_spam_manager.py.bak",
+          "rel_path": "Pb2/join_spam_manager.py.bak"
+        },
+        {
+          "key_id": "UR1EBxEVM64OHAwVvl61wQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634428_Pb2_kyro_title_pb2_py.enc",
+          "filename": "kyro_title_pb2.py",
+          "rel_path": "Pb2/kyro_title_pb2.py"
+        },
+        {
+          "key_id": "iGVGxmBlMuQ_V9QvbH23kg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634430_Pb2_like_count_pb2_py.enc",
+          "filename": "like_count_pb2.py",
+          "rel_path": "Pb2/like_count_pb2.py"
+        },
+        {
+          "key_id": "Klr9qNduIFX_bK0bBNWJHQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634432_Pb2_like_pb2_py.enc",
+          "filename": "like_pb2.py",
+          "rel_path": "Pb2/like_pb2.py"
+        },
+        {
+          "key_id": "uvGM3D1wsbhYBJw9Fg34tA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634433_Pb2_my_pb2_py.enc",
+          "filename": "my_pb2.py",
+          "rel_path": "Pb2/my_pb2.py"
+        },
+        {
+          "key_id": "EiwPqvY0RTEnlb0vLT2YcQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634434_Pb2_output_pb2_py.enc",
+          "filename": "output_pb2.py",
+          "rel_path": "Pb2/output_pb2.py"
+        },
+        {
+          "key_id": "QaaB__Btyyf75oxhmnFU0A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634437_Pb2_protobuf_parser_py.enc",
+          "filename": "protobuf_parser.py",
+          "rel_path": "Pb2/protobuf_parser.py"
+        },
+        {
+          "key_id": "bTc47n_12-0H2lC_2ufeDQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634438_Pb2_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "Pb2/requirements.txt"
+        },
+        {
+          "key_id": "rJyAEyj7wr9wB4T5z30tNA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634438_Pb2_room_join_proto.enc",
+          "filename": "room_join.proto",
+          "rel_path": "Pb2/room_join.proto"
+        },
+        {
+          "key_id": "SHPWS_78g56Emxf28Up-5A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634439_Pb2_room_join_pb2_py.enc",
+          "filename": "room_join_pb2.py",
+          "rel_path": "Pb2/room_join_pb2.py"
+        },
+        {
+          "key_id": "2eAx7-jVAb69KE01_rzkEA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634443_Pb2_sQ_pb2_py.enc",
+          "filename": "sQ_pb2.py",
+          "rel_path": "Pb2/sQ_pb2.py"
+        },
+        {
+          "key_id": "sWut34Sp6qzDCnGeZt8eHA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634444_Pb2_spam_join_pb2_py.enc",
+          "filename": "spam_join_pb2.py",
+          "rel_path": "Pb2/spam_join_pb2.py"
+        },
+        {
+          "key_id": "xgSFAzJIPLamJk_rW-13lw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634445_Pb2_spam_request_pb2_py.enc",
+          "filename": "spam_request_pb2.py",
+          "rel_path": "Pb2/spam_request_pb2.py"
+        },
+        {
+          "key_id": "lSubahZjuIStS_fTN6svLQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634449_Pb2_uid_generator_pb2_py.enc",
+          "filename": "uid_generator_pb2.py",
+          "rel_path": "Pb2/uid_generator_pb2.py"
+        },
+        {
+          "key_id": "cu7a2cxpXvsIP9YEEADwQQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634450_Pb2_vercel_json.enc",
+          "filename": "vercel.json",
+          "rel_path": "Pb2/vercel.json"
+        },
+        {
+          "key_id": "VTyD5U8-Xsq4YhNN28l4Ew",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634451_Pb2_visit_count_pb2_py.enc",
+          "filename": "visit_count_pb2.py",
+          "rel_path": "Pb2/visit_count_pb2.py"
+        },
+        {
+          "key_id": "dPiHKXzFaq8AgRZWOnAcAQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634454_Pb2_wallet_pb2_py.enc",
+          "filename": "wallet_pb2.py",
+          "rel_path": "Pb2/wallet_pb2.py"
+        },
+        {
+          "key_id": "b31tTOMnr740oDGaAckMNg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634455_PorTs_pb2_py.enc",
+          "filename": "PorTs_pb2.py",
+          "rel_path": "PorTs_pb2.py"
+        },
+        {
+          "key_id": "vvmxDXz0S1EcnTrob9suuw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634456_init___py.enc",
+          "filename": "__init__.py",
+          "rel_path": "__init__.py"
+        },
+        {
+          "key_id": "jUbXIKXoQisYqVbgn9gm9Q",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634460_pycache___byte_cpython-313_pyc.enc",
+          "filename": "byte.cpython-313.pyc",
+          "rel_path": "__pycache__/byte.cpython-313.pyc"
+        },
+        {
+          "key_id": "yx9pVQ9aIp0XIN-_goKRdQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634461_pycache___xC4_cpython-313_pyc.enc",
+          "filename": "xC4.cpython-313.pyc",
+          "rel_path": "__pycache__/xC4.cpython-313.pyc"
+        },
+        {
+          "key_id": "O79QHj9EO41yyUCvsy16Uw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634462_pycache___xHeaders_cpython-313_pyc.enc",
+          "filename": "xHeaders.cpython-313.pyc",
+          "rel_path": "__pycache__/xHeaders.cpython-313.pyc"
+        },
+        {
+          "key_id": "mMC0AP1p-QtGMlVSbeDrkg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634465_base_handler_py.enc",
+          "filename": "base_handler.py",
+          "rel_path": "base_handler.py"
+        },
+        {
+          "key_id": "64Pz9kYhpCkcnOqGghpNGQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634467_byte_py.enc",
+          "filename": "byte.py",
+          "rel_path": "byte.py"
+        },
+        {
+          "key_id": "wu1Nau-KcZ_ay0vFe-srYQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634467_chat_py.enc",
+          "filename": "chat.py",
+          "rel_path": "chat.py"
+        },
+        {
+          "key_id": "1Lz8KFfrxCuiM9jY1Kyk5w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634471_def_RIFAT.enc",
+          "filename": "def RIFAT",
+          "rel_path": "def RIFAT"
+        },
+        {
+          "key_id": "zSVoykE_UNECfXVCOaKY9Q",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634472_dynamic_py.enc",
+          "filename": "dynamic.py",
+          "rel_path": "dynamic.py"
+        },
+        {
+          "key_id": "hb6cEUW5iWgmHr62CupBNA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634473_emotes_json.enc",
+          "filename": "emotes.json",
+          "rel_path": "emotes.json"
+        },
+        {
+          "key_id": "OHkStRQBnnQ4_zXcPZ5EBg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634476_full_squad_1766157883_json.enc",
+          "filename": "full_squad_1766157883.json",
+          "rel_path": "full_squad_1766157883.json"
+        },
+        {
+          "key_id": "MpPD8Jcvh1DZmB8ttoR4oA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634477_main_py.enc",
+          "filename": "main.py",
+          "rel_path": "main.py"
+        },
+        {
+          "key_id": "i4u6_ra38bUHrOiav-936g",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634478_main_py_bak.enc",
+          "filename": "main.py.bak",
+          "rel_path": "main.py.bak"
+        },
+        {
+          "key_id": "Asb4ktWeY0bIh6FCXNv4qg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634479_main_pb2_py.enc",
+          "filename": "main_pb2.py",
+          "rel_path": "main_pb2.py"
+        },
+        {
+          "key_id": "ZpTWDziZ8tJ_dqRkQcrSVA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634480_package-lock_json.enc",
+          "filename": "package-lock.json",
+          "rel_path": "package-lock.json"
+        },
+        {
+          "key_id": "ZA4qoHfjT9ZvZa5SIyjCNQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634481_package_json.enc",
+          "filename": "package.json",
+          "rel_path": "package.json"
+        },
+        {
+          "key_id": "VoJrXjfrtVX27Ovqi6ankA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634481_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "requirements.txt"
+        },
+        {
+          "key_id": "Pet25612H4nOv2tqCJ6amg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634483_status_cache_pkl.enc",
+          "filename": "status_cache.pkl",
+          "rel_path": "status_cache.pkl"
+        },
+        {
+          "key_id": "e8mtHK2oD_Bwf9KtscCI-Q",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634484_tahmid_txt.enc",
+          "filename": "tahmid.txt",
+          "rel_path": "tahmid.txt"
+        },
+        {
+          "key_id": "CVqv6-lklPy3MPIneDFtmA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634485_token_json.enc",
+          "filename": "token.json",
+          "rel_path": "token.json"
+        },
+        {
+          "key_id": "hDiztf_rM87G6CZ5sk8r3w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634485_xC4_py.enc",
+          "filename": "xC4.py",
+          "rel_path": "xC4.py"
+        },
+        {
+          "key_id": "5CybG53lV5tS6UpvrqFD4w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634487_xHeaders_py.enc",
+          "filename": "xHeaders.py",
+          "rel_path": "xHeaders.py"
+        },
+        {
+          "key_id": "XHmK6F5eqUF5e_Kkdu1BTQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634488_xKEys_py.enc",
+          "filename": "xKEys.py",
+          "rel_path": "xKEys.py"
+        },
+        {
+          "key_id": "W3PPVb7RdqIGqLlTkOscug",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634488_xMAX_py.enc",
+          "filename": "xMAX.py",
+          "rel_path": "xMAX.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-08-13T15:22:24.898315+00:00",
+      "last_error": "    message = connection.recv_bytes(256)         # reject large message\n  File \"/usr/lib/python3.14/multiprocessing/connection.py\", line 223, in recv_bytes\n    buf = self._recv_bytes(maxlength)\n  File \"/usr/lib/python3.14/multiprocessing/connection.py\", line 448, in _recv_bytes\n    buf = self._recv(4)\n  File \"/usr/lib/python3.14/multiprocessing/connection.py\", line 413, in _recv\n    chunk = read(handle, to_read)\nConnectionResetError: [Errno 104] Connection reset by peer",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-08-13T15:22:26.081879+00:00"
+    },
+    "b9aac9119bd9986d": {
+      "_id": "b9aac9119bd9986d",
+      "owner": 8116111827,
+      "name": "nuub",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8116111827_b9aac9119bd9986d",
+      "created": "2026-08-13T15:21:02.125741+00:00",
+      "enc_files": [
+        {
+          "key_id": "SAy09QTx-8hcqWTMv_wJJg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634462_AccountPersonalShow_pb2_py.enc",
+          "filename": "AccountPersonalShow_pb2.py",
+          "rel_path": "AccountPersonalShow_pb2.py"
+        },
+        {
+          "key_id": "WEFBw5u2P0C4PFZ-G2gRFg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634463_FreeFire_pb2_py.enc",
+          "filename": "FreeFire_pb2.py",
+          "rel_path": "FreeFire_pb2.py"
+        },
+        {
+          "key_id": "tTV0vc7HQVA7T_GL6sKmcw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634465_Pb2_CreateGuild_pb2_py.enc",
+          "filename": "CreateGuild_pb2.py",
+          "rel_path": "Pb2/CreateGuild_pb2.py"
+        },
+        {
+          "key_id": "ensDnUmr49dwkurLAw-Utg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634467_Pb2_DEcwHisPErMsG_pb2_py.enc",
+          "filename": "DEcwHisPErMsG_pb2.py",
+          "rel_path": "Pb2/DEcwHisPErMsG_pb2.py"
+        },
+        {
+          "key_id": "y7qKi4d29Zv2SuiNYgnYsg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634468_Pb2_Fo_pb2_py.enc",
+          "filename": "Fo_pb2.py",
+          "rel_path": "Pb2/Fo_pb2.py"
+        },
+        {
+          "key_id": "uhP-CY08P9kAvOi82QwSsA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634471_Pb2_GenWhisperMsg_pb2_py.enc",
+          "filename": "GenWhisperMsg_pb2.py",
+          "rel_path": "Pb2/GenWhisperMsg_pb2.py"
+        },
+        {
+          "key_id": "suK2rMAX5VHO-AdHDINBJw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634472_Pb2_GetFriend_Res_pb2_py.enc",
+          "filename": "GetFriend_Res_pb2.py",
+          "rel_path": "Pb2/GetFriend_Res_pb2.py"
+        },
+        {
+          "key_id": "sfSpU91rCE3a2kcq4kE54Q",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634472_Pb2_MajoRLoGinrEq_pb2_py.enc",
+          "filename": "MajoRLoGinrEq_pb2.py",
+          "rel_path": "Pb2/MajoRLoGinrEq_pb2.py"
+        },
+        {
+          "key_id": "JWZ4Wm-LJ60GVI0YQc8y8g",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634477_Pb2_MajoRLoGinrEs_pb2_py.enc",
+          "filename": "MajoRLoGinrEs_pb2.py",
+          "rel_path": "Pb2/MajoRLoGinrEs_pb2.py"
+        },
+        {
+          "key_id": "zLAPXdORCsr-8hrMCcioTg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634477_Pb2_PorTs_pb2_py.enc",
+          "filename": "PorTs_pb2.py",
+          "rel_path": "Pb2/PorTs_pb2.py"
+        },
+        {
+          "key_id": "TVIanoww0VMEJ6BRIijxGA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634478_Pb2_QuitClanReq_pb2_py.enc",
+          "filename": "QuitClanReq_pb2.py",
+          "rel_path": "Pb2/QuitClanReq_pb2.py"
+        },
+        {
+          "key_id": "idD1AkVFIA5pjZZNUc7kIQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634479_Pb2_RR.enc",
+          "filename": "RR",
+          "rel_path": "Pb2/RR"
+        },
+        {
+          "key_id": "TSwfs107p3u6ienvj5r09A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634480_Pb2_RemoveFriend_Req_pb2_py.enc",
+          "filename": "RemoveFriend_Req_pb2.py",
+          "rel_path": "Pb2/RemoveFriend_Req_pb2.py"
+        },
+        {
+          "key_id": "XJ7f_PJCsNutY-uWEej-5A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634481_Pb2_ReqCLan_pb2_py.enc",
+          "filename": "ReqCLan_pb2.py",
+          "rel_path": "Pb2/ReqCLan_pb2.py"
+        },
+        {
+          "key_id": "OnDOsKwrTidx3G3CgaIb6A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634483_Pb2_Team_msg_pb2_py.enc",
+          "filename": "Team_msg_pb2.py",
+          "rel_path": "Pb2/Team_msg_pb2.py"
+        },
+        {
+          "key_id": "XduxjGHWSLTUw-4t5Tljsg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634484_Pb2___pycache___CreateGuild_pb2_cpython-313_pyc.enc",
+          "filename": "CreateGuild_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/CreateGuild_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "bpw_qd8NsoiIbHcX15HpXw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634484_Pb2___pycache___DEcwHisPErMsG_pb2_cpython-313_py.enc",
+          "filename": "DEcwHisPErMsG_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/DEcwHisPErMsG_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "9D9tK1qes5ZGu7mSP0ZNgA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634485_Pb2___pycache___GetFriend_Res_pb2_cpython-313_py.enc",
+          "filename": "GetFriend_Res_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/GetFriend_Res_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "cwKSfyBkut82UBMfirpiFw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634487_Pb2___pycache___MajoRLoGinrEq_pb2_cpython-313_py.enc",
+          "filename": "MajoRLoGinrEq_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/MajoRLoGinrEq_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "KsokmS7NyJF7OPl3DC6dLg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634487_Pb2___pycache___MajoRLoGinrEs_pb2_cpython-313_py.enc",
+          "filename": "MajoRLoGinrEs_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/MajoRLoGinrEs_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "JLq85pqIF-isCV2Q5tmqng",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634489_Pb2___pycache___PorTs_pb2_cpython-313_pyc.enc",
+          "filename": "PorTs_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/PorTs_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "Y5bLtH6ZEQnuvoiH1L-lzA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634490_Pb2___pycache___RemoveFriend_Req_pb2_cpython-313.enc",
+          "filename": "RemoveFriend_Req_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/RemoveFriend_Req_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "7lOQXh1M-Ifl7tHUaElUfA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634491_Pb2___pycache___Team_msg_pb2_cpython-313_pyc.enc",
+          "filename": "Team_msg_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/Team_msg_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "ZM8lkfFKF_SQxVMlVTBg-A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634492_Pb2___pycache___data_pb2_cpython-313_pyc.enc",
+          "filename": "data_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/data_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "bAWSSM4j1G-dkLDoncIiZg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634493_Pb2___pycache___dev_generator_pb2_cpython-313_py.enc",
+          "filename": "dev_generator_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/dev_generator_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "ttcLG2SSur0yRYivT3k0dA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634495_Pb2___pycache___devxt_count_pb2_cpython-313_pyc.enc",
+          "filename": "devxt_count_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/devxt_count_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "7a3--hpseKL1MhurgRaIHw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634496_Pb2___pycache___kyro_title_pb2_cpython-313_pyc.enc",
+          "filename": "kyro_title_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/kyro_title_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "zG_X6bGTqxt9Rf2G7XpDPg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634497_Pb2___pycache___my_pb2_cpython-313_pyc.enc",
+          "filename": "my_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/my_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "cYwe8ARXHeR_62RYdCFUCw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634497_Pb2___pycache___output_pb2_cpython-313_pyc.enc",
+          "filename": "output_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/output_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "MjikA9baM6RUM80deXet4A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634500_Pb2___pycache___room_join_pb2_cpython-313_pyc.enc",
+          "filename": "room_join_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/room_join_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "filoeFU1acyd78N1CUlj0A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634501_Pb2___pycache___sQ_pb2_cpython-313_pyc.enc",
+          "filename": "sQ_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/sQ_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "edRtbSxPgBMbDvnR9a7kEA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634501_Pb2___pycache___spam_request_pb2_cpython-313_pyc.enc",
+          "filename": "spam_request_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/spam_request_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "Badop1eSM3JZXbypiu4xOA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634502_Pb2___pycache___uid_generator_pb2_cpython-313_py.enc",
+          "filename": "uid_generator_pb2.cpython-313.pyc",
+          "rel_path": "Pb2/__pycache__/uid_generator_pb2.cpython-313.pyc"
+        },
+        {
+          "key_id": "goVBhnns0Vuh0OVWJuxicA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634503_Pb2_byte_py.enc",
+          "filename": "byte.py",
+          "rel_path": "Pb2/byte.py"
+        },
+        {
+          "key_id": "9ptTYhZDAgZhmgrrymWr1w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634504_Pb2_data_pb2_py.enc",
+          "filename": "data_pb2.py",
+          "rel_path": "Pb2/data_pb2.py"
+        },
+        {
+          "key_id": "yhgekzmwFE2aNRosIX8FyA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634505_Pb2_dev_generator_pb2_py.enc",
+          "filename": "dev_generator_pb2.py",
+          "rel_path": "Pb2/dev_generator_pb2.py"
+        },
+        {
+          "key_id": "ed4TZnbw8zpNnSTJu_MPlQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634506_Pb2_devxt_count_pb2_py.enc",
+          "filename": "devxt_count_pb2.py",
+          "rel_path": "Pb2/devxt_count_pb2.py"
+        },
+        {
+          "key_id": "n359s6_lh3sDg9jZuhob6A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634507_Pb2_join_spam_manager_py.enc",
+          "filename": "join_spam_manager.py",
+          "rel_path": "Pb2/join_spam_manager.py"
+        },
+        {
+          "key_id": "L4Waf921jRuS6_Pr5YPVKA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634508_Pb2_join_spam_manager_py_bak.enc",
+          "filename": "join_spam_manager.py.bak",
+          "rel_path": "Pb2/join_spam_manager.py.bak"
+        },
+        {
+          "key_id": "WaN27Ujkv77qhmJKTZfmxA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634508_Pb2_kyro_title_pb2_py.enc",
+          "filename": "kyro_title_pb2.py",
+          "rel_path": "Pb2/kyro_title_pb2.py"
+        },
+        {
+          "key_id": "uIMdwV4ERTq_VOtTnY76eA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634509_Pb2_like_count_pb2_py.enc",
+          "filename": "like_count_pb2.py",
+          "rel_path": "Pb2/like_count_pb2.py"
+        },
+        {
+          "key_id": "g79Jno-j3uRh6gidYZfyZA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634510_Pb2_like_pb2_py.enc",
+          "filename": "like_pb2.py",
+          "rel_path": "Pb2/like_pb2.py"
+        },
+        {
+          "key_id": "ycKyZuEnXc6jkXIJ8PC7aw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634511_Pb2_my_pb2_py.enc",
+          "filename": "my_pb2.py",
+          "rel_path": "Pb2/my_pb2.py"
+        },
+        {
+          "key_id": "3fJ3hSTbsuLJ7jUxn2IxIA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634512_Pb2_output_pb2_py.enc",
+          "filename": "output_pb2.py",
+          "rel_path": "Pb2/output_pb2.py"
+        },
+        {
+          "key_id": "zDzMf7Cj545JMqattIQ-1g",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634513_Pb2_protobuf_parser_py.enc",
+          "filename": "protobuf_parser.py",
+          "rel_path": "Pb2/protobuf_parser.py"
+        },
+        {
+          "key_id": "ZGytXm4fpd94V8yNZHRH5w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634513_Pb2_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "Pb2/requirements.txt"
+        },
+        {
+          "key_id": "9krxkeeATOgDVzLClQvjyQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634514_Pb2_room_join_proto.enc",
+          "filename": "room_join.proto",
+          "rel_path": "Pb2/room_join.proto"
+        },
+        {
+          "key_id": "2buu-H4YDnDo_XoyNDAYOw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634515_Pb2_room_join_pb2_py.enc",
+          "filename": "room_join_pb2.py",
+          "rel_path": "Pb2/room_join_pb2.py"
+        },
+        {
+          "key_id": "JLgxTzju8lRnx3eB2gOWLw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634516_Pb2_sQ_pb2_py.enc",
+          "filename": "sQ_pb2.py",
+          "rel_path": "Pb2/sQ_pb2.py"
+        },
+        {
+          "key_id": "EmehNWtmGMlJK4vSLRQ14w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634517_Pb2_spam_join_pb2_py.enc",
+          "filename": "spam_join_pb2.py",
+          "rel_path": "Pb2/spam_join_pb2.py"
+        },
+        {
+          "key_id": "VP_ZdEpth5m6XjJn3qIgTg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634518_Pb2_spam_request_pb2_py.enc",
+          "filename": "spam_request_pb2.py",
+          "rel_path": "Pb2/spam_request_pb2.py"
+        },
+        {
+          "key_id": "A0Rc6dt1Hp3jyl_CSPXdXA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634519_Pb2_uid_generator_pb2_py.enc",
+          "filename": "uid_generator_pb2.py",
+          "rel_path": "Pb2/uid_generator_pb2.py"
+        },
+        {
+          "key_id": "bVPaESy5KgZrDgT3fcx7bw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634520_Pb2_vercel_json.enc",
+          "filename": "vercel.json",
+          "rel_path": "Pb2/vercel.json"
+        },
+        {
+          "key_id": "uRY-s3dXaYqsV4syEuakdg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634521_Pb2_visit_count_pb2_py.enc",
+          "filename": "visit_count_pb2.py",
+          "rel_path": "Pb2/visit_count_pb2.py"
+        },
+        {
+          "key_id": "Ahw54GL0WJwN0_uCFXEnrg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634522_Pb2_wallet_pb2_py.enc",
+          "filename": "wallet_pb2.py",
+          "rel_path": "Pb2/wallet_pb2.py"
+        },
+        {
+          "key_id": "hMAq4VHBv5QD2KeViOiT6w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634523_PorTs_pb2_py.enc",
+          "filename": "PorTs_pb2.py",
+          "rel_path": "PorTs_pb2.py"
+        },
+        {
+          "key_id": "dqtiMLNo644PnRfTDjGZXg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634524_init___py.enc",
+          "filename": "__init__.py",
+          "rel_path": "__init__.py"
+        },
+        {
+          "key_id": "90lmhfZnugLVvR1dGeKY0A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634525_pycache___byte_cpython-313_pyc.enc",
+          "filename": "byte.cpython-313.pyc",
+          "rel_path": "__pycache__/byte.cpython-313.pyc"
+        },
+        {
+          "key_id": "Cf3mx4gp5Kmcxf9EWw-lmQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634526_pycache___xC4_cpython-313_pyc.enc",
+          "filename": "xC4.cpython-313.pyc",
+          "rel_path": "__pycache__/xC4.cpython-313.pyc"
+        },
+        {
+          "key_id": "tDsU8wnqUk99QtO0cqyUCA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634527_pycache___xHeaders_cpython-313_pyc.enc",
+          "filename": "xHeaders.cpython-313.pyc",
+          "rel_path": "__pycache__/xHeaders.cpython-313.pyc"
+        },
+        {
+          "key_id": "rjk-LeUfjeToZVRfaFfLEQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634528_base_handler_py.enc",
+          "filename": "base_handler.py",
+          "rel_path": "base_handler.py"
+        },
+        {
+          "key_id": "d7tR8unJ64MwGGXvmQr0Sw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634528_byte_py.enc",
+          "filename": "byte.py",
+          "rel_path": "byte.py"
+        },
+        {
+          "key_id": "cVDnmo-VwBTtSPaLOtjCAQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634530_chat_py.enc",
+          "filename": "chat.py",
+          "rel_path": "chat.py"
+        },
+        {
+          "key_id": "Fm7lJQ9mDpmzkT3RwdMRuQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634531_def_RIFAT.enc",
+          "filename": "def RIFAT",
+          "rel_path": "def RIFAT"
+        },
+        {
+          "key_id": "awZO-IN6VWOB69Uv_ltIPw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634532_dynamic_py.enc",
+          "filename": "dynamic.py",
+          "rel_path": "dynamic.py"
+        },
+        {
+          "key_id": "2KpzJHLWaU7s3l7wkwnauA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634533_emotes_json.enc",
+          "filename": "emotes.json",
+          "rel_path": "emotes.json"
+        },
+        {
+          "key_id": "obZfwPqwee7JNTXBppHf8A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634533_full_squad_1766157883_json.enc",
+          "filename": "full_squad_1766157883.json",
+          "rel_path": "full_squad_1766157883.json"
+        },
+        {
+          "key_id": "0Y-En5gPcn37je0uSPpR8w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634534_main_py.enc",
+          "filename": "main.py",
+          "rel_path": "main.py"
+        },
+        {
+          "key_id": "yhGe_AJgQM6du3NgP7UwuA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634535_main_py_bak.enc",
+          "filename": "main.py.bak",
+          "rel_path": "main.py.bak"
+        },
+        {
+          "key_id": "S_n9faoLEbJkXf8DjlAnRw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634536_main_pb2_py.enc",
+          "filename": "main_pb2.py",
+          "rel_path": "main_pb2.py"
+        },
+        {
+          "key_id": "2RJ-VD8BIpSNjPZl6G3H3Q",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634537_package-lock_json.enc",
+          "filename": "package-lock.json",
+          "rel_path": "package-lock.json"
+        },
+        {
+          "key_id": "o4wIU71TG1pTRDzIYHJRRw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634538_package_json.enc",
+          "filename": "package.json",
+          "rel_path": "package.json"
+        },
+        {
+          "key_id": "_KJWO8DHZFOeFl0KJWWLDw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634539_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "requirements.txt"
+        },
+        {
+          "key_id": "CIdgCNgi1sjG1q1VH_xW8Q",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634540_status_cache_pkl.enc",
+          "filename": "status_cache.pkl",
+          "rel_path": "status_cache.pkl"
+        },
+        {
+          "key_id": "eCblk76ukyQPivDY9is20w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634541_tahmid_txt.enc",
+          "filename": "tahmid.txt",
+          "rel_path": "tahmid.txt"
+        },
+        {
+          "key_id": "SbqbkCf3PV2FLVLb-q8Evw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634542_token_json.enc",
+          "filename": "token.json",
+          "rel_path": "token.json"
+        },
+        {
+          "key_id": "7lJ-5aCvFI5noYt37Q1brw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634543_xC4_py.enc",
+          "filename": "xC4.py",
+          "rel_path": "xC4.py"
+        },
+        {
+          "key_id": "w2czOceflt6TOPhF3rSGZg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634544_xHeaders_py.enc",
+          "filename": "xHeaders.py",
+          "rel_path": "xHeaders.py"
+        },
+        {
+          "key_id": "8M7QfHf2B56KeLgCtWE9-g",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634545_xKEys_py.enc",
+          "filename": "xKEys.py",
+          "rel_path": "xKEys.py"
+        },
+        {
+          "key_id": "_kFokio746lMSMaHqfcd7w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8116111827/1786634546_xMAX_py.enc",
+          "filename": "xMAX.py",
+          "rel_path": "xMAX.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
+    },
+    "c51d5ea00e5a1a29": {
+      "_id": "c51d5ea00e5a1a29",
+      "owner": 8754911003,
+      "name": "arshrndyca",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8754911003_c51d5ea00e5a1a29",
+      "created": "2026-08-13T15:22:55.395526+00:00",
+      "enc_files": [
+        {
+          "key_id": "YZl8LA8yBmNHKWGRLwswgA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8754911003/1786634576_arshrndyca_py.enc",
+          "filename": "arshrndyca.py",
+          "rel_path": "arshrndyca.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -2057,6 +3225,42 @@
       "uid": 8204336028,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:20:46.139149+00:00",
+      "uid": 8640008211,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:21:09.454922+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=e13470783bbb29bc"
+    },
+    {
+      "ts": "2026-08-13T15:21:49.454753+00:00",
+      "uid": 8187995105,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:22:18.025887+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=cd2bdfb2e902611a"
+    },
+    {
+      "ts": "2026-08-13T15:22:19.726032+00:00",
+      "uid": 8754911003,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-08-13T15:22:28.232151+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=e9b036f54e91e160"
     }
   ],
   "coupons": {},
@@ -2196,6 +3400,46 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 40,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-08-13T15:19:39.069513+00:00",
+      "uid": "8116111827",
+      "filename": "AccountPersonalShow_pb2.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-08-13T15:19:50.294058+00:00",
+      "uid": "8421783864",
+      "filename": "run.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-08-13T15:20:02.817382+00:00",
+      "uid": "1854936869",
+      "filename": "read.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-08-13T15:21:02.529276+00:00",
+      "uid": "8116111827",
+      "filename": "AccountPersonalShow_pb2.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-08-13T15:22:55.812367+00:00",
+      "uid": "8754911003",
+      "filename": "arshrndyca.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
