@@ -1675,10 +1675,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T15:33:16.010770+00:00",
+      "last_started": "2026-08-13T15:34:39.483619+00:00",
       "last_error": "",
       "last_exit_code": null,
-      "last_exit_at": "2026-08-13T15:33:10.783982+00:00"
+      "last_exit_at": "2026-08-13T15:34:34.259819+00:00"
     },
     "5a18abb449c8bf78": {
       "_id": "5a18abb449c8bf78",
@@ -1725,10 +1725,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T15:33:16.204128+00:00",
+      "last_started": "2026-08-13T15:34:36.896300+00:00",
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8421783864_e9b036f54e91e160/run.py\", line 3350, in main\n    application = app_builder.build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T15:33:16.861221+00:00"
+      "last_exit_at": "2026-08-13T15:34:37.505725+00:00"
     },
     "e13470783bbb29bc": {
       "_id": "e13470783bbb29bc",
