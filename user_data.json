@@ -1897,6 +1897,31 @@
         "bots_uploaded": 0,
         "logins": 4
       }
+    },
+    "6801360422": {
+      "_id": 6801360422,
+      "name": "『Jυɓαιя』",
+      "username": "JubairZ",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-08-13T17:01:03.343487+00:00",
+      "last_seen": "2026-08-13T17:01:19.364711+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-08-13T17:01:13.532021+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 2
+      }
     }
   },
   "bots": {
@@ -2079,10 +2104,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T17:00:11.811302+00:00",
+      "last_started": "2026-08-13T17:03:57.431465+00:00",
       "last_error": "📍 Admin: http://localhost:5000/login\n🔗 API: http://localhost:5000/api/create\n👤 admin / admin123\n==================================================\n * Debugger is active!\n * Debugger PIN: 283-675-973\n * Detected change in '/home/ubuntu/premium-hosting/hosting/sandbox/8629274424_04535e6ebff37171/app.py', reloading\n * Restarting with stat",
       "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T17:00:18.399321+00:00"
+      "last_exit_at": "2026-08-13T17:04:03.996181+00:00"
     },
     "5a18abb449c8bf78": {
       "_id": "5a18abb449c8bf78",
@@ -2129,10 +2154,10 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-08-13T17:00:18.167353+00:00",
+      "last_started": "2026-08-13T17:04:00.452774+00:00",
       "last_error": "  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8421783864_e9b036f54e91e160/run.py\", line 3350, in main\n    application = app_builder.build()\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_applicationbuilder.py\", line 312, in build\n    updater = Updater(bot=bot, update_queue=update_queue)\n  File \"/home/ubuntu/venv/lib/python3.14/site-packages/telegram/ext/_updater.py\", line 128, in __init__\n    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None\n    ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes",
       "last_exit_code": 0,
-      "last_exit_at": "2026-08-13T17:00:18.767550+00:00"
+      "last_exit_at": "2026-08-13T17:04:01.031100+00:00"
     },
     "e13470783bbb29bc": {
       "_id": "e13470783bbb29bc",
@@ -4089,6 +4114,12 @@
       "uid": 8994613565,
       "action": "bot_delete",
       "detail": "bot=0b18618d1e7d0362"
+    },
+    {
+      "ts": "2026-08-13T17:01:14.065165+00:00",
+      "uid": 6801360422,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
