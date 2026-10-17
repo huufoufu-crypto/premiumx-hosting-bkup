@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-17T05:38:40.732325+00:00",
+      "last_seen": "2026-10-17T05:42:40.451607+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 15,
-        "logins": 1308
+        "logins": 1314
       },
       "last_expiry_warn": -1
     },
@@ -493,7 +493,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-17T05:38:18.798771+00:00",
+      "last_seen": "2026-10-17T05:40:49.492191+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -508,7 +508,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 11,
-        "logins": 154
+        "logins": 159
       }
     },
     "8630447127": {
@@ -1040,7 +1040,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-17T05:37:44.855005+00:00",
+      "last_started": "2026-10-17T05:41:43.680397+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-16T13:48:04.406993+00:00"
@@ -1091,7 +1091,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-17T05:37:45.201424+00:00",
+      "last_started": "2026-10-17T05:41:44.040340+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1113,7 +1113,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-17T05:37:46.205570+00:00",
+      "last_started": "2026-10-17T05:41:45.002581+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1135,7 +1135,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-17T05:37:46.573621+00:00",
+      "last_started": "2026-10-17T05:41:45.405554+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -3286,6 +3286,12 @@
       "uid": 8740135346,
       "action": "maintenance_toggle",
       "detail": "now=on"
+    },
+    {
+      "ts": "2026-10-17T05:41:43.630917+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8373"
     }
   ],
   "coupons": {},
