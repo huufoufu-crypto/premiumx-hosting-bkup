@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-17T14:25:15.712049+00:00",
+      "last_seen": "2026-10-17T14:37:30.211755+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1418
+        "logins": 1419
       },
       "last_expiry_warn": -1
     },
@@ -1031,13 +1031,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-17T14:25:18.410728+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-16T13:17:45.340405+00:00"
+      "last_error": "💦 NC:    +randnc +burnc +ohyesnc +aahnc +Horneync +purenc +stealthnc\n💦 Enemy: /ncdel /ncwar /stopncwar\n💦 Chat:  /mute /restrict /unrestrict /gclist /leave\n💦 React: +autoreact +heartreact +boomreact +customreact /stopreact\n💦 Song:  +song <name>\n💦 Slide: +slidereply /stopslidereply\n💦 Menu:  /setmenuphoto /setmenuvideo /clearmenu\n👤 User account: @𝗣ʀᴏxʏ ❄️ | @REVULET connected",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-17T14:37:31.186488+00:00"
     },
     "a7dd98ea3d8f3266": {
       "_id": "a7dd98ea3d8f3266",
