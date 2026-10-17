@@ -3509,6 +3509,12 @@
       "uid": 8803185591,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-17T12:19:38.262530+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=9278"
     }
   ],
   "coupons": {},
