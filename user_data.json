@@ -493,7 +493,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-17T06:58:17.377462+00:00",
+      "last_seen": "2026-10-17T08:24:49.260126+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -508,7 +508,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 13,
-        "logins": 177
+        "logins": 181
       }
     },
     "8630447127": {
@@ -1155,12 +1155,12 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-17T06:57:33.204919+00:00",
-      "last_error": "💔🛑 Failed to start bot: 'NoneType' object has no attribute 'bot'\n💔🛑 Failed to start bot: 'NoneType' object has no attribute 'bot'\n💔🛑 Failed to start bot: 'NoneType' object has no attribute 'bot'\n🐍 KRISHNAPAPA is running with 0 bots!\n👑 Owner ID: 7745343711\n⚡ Default delay: 0.010s\n📸 Photo Loop: ACTIVE\n==================================================",
-      "last_exit_code": -15,
+      "last_started": "2026-10-17T08:24:08.431369+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-10-17T06:58:17.995132+00:00"
     },
     "76898dceae428395": {
