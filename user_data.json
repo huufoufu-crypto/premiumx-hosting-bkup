@@ -493,7 +493,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-17T08:24:49.260126+00:00",
+      "last_seen": "2026-10-17T08:36:35.361655+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -507,8 +507,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 13,
-        "logins": 181
+        "bots_uploaded": 14,
+        "logins": 189
       }
     },
     "8630447127": {
@@ -1140,29 +1140,6 @@
       "last_exit_code": -15,
       "last_exit_at": "2026-10-17T06:40:59.483672+00:00"
     },
-    "18c7d50137435f56": {
-      "_id": "18c7d50137435f56",
-      "owner": 7745343711,
-      "name": "Krishnafinal01",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_18c7d50137435f56",
-      "created": "2026-10-17T06:56:47.735901+00:00",
-      "enc_files": [
-        {
-          "key_id": "MjQIujs-4vVefayDNLU3Xw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792220208_Krishnafinal01_py.enc",
-          "filename": "Krishnafinal01.py",
-          "rel_path": "Krishnafinal01.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-17T08:24:08.431369+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-17T06:58:17.995132+00:00"
-    },
     "76898dceae428395": {
       "_id": "76898dceae428395",
       "owner": 6515961246,
@@ -1182,6 +1159,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-17T08:03:03.237341+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "f07fb04ebe71b345": {
+      "_id": "f07fb04ebe71b345",
+      "owner": 7745343711,
+      "name": "Krishnaxfinal_01",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_f07fb04ebe71b345",
+      "created": "2026-10-17T08:35:57.865920+00:00",
+      "enc_files": [
+        {
+          "key_id": "qLosMAOA5z2B_eCZBHSlRg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792226158_Krishnaxfinal_01_py.enc",
+          "filename": "Krishnaxfinal_01.py",
+          "rel_path": "Krishnaxfinal_01.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T08:36:05.897621+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -3412,6 +3411,12 @@
       "uid": 8740135346,
       "action": "unban_user",
       "detail": "uid=6515961246"
+    },
+    {
+      "ts": "2026-10-17T08:33:31.342666+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=18c7d50137435f56"
     }
   ],
   "coupons": {},
@@ -4761,6 +4766,14 @@
       "ts": "2026-10-17T08:02:49.356229+00:00",
       "uid": "6515961246",
       "filename": "prime1.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-17T08:35:58.486114+00:00",
+      "uid": "7745343711",
+      "filename": "Krishnaxfinal_01.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
