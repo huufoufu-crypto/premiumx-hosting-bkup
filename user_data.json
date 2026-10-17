@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-17T06:52:13.764546+00:00",
+      "last_seen": "2026-10-17T07:04:19.655376+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 5,
-        "logins": 90
+        "logins": 92
       }
     },
     "5478596644": {
@@ -518,7 +518,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-17T06:28:08.853780+00:00",
+      "last_seen": "2026-10-17T07:02:57.980291+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -532,8 +532,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 53
+        "bots_uploaded": 3,
+        "logins": 62
       }
     },
     "8854714402": {
@@ -3336,6 +3336,30 @@
       "uid": 7745343711,
       "action": "bot_delete",
       "detail": "bot=99486e8b32e20f54"
+    },
+    {
+      "ts": "2026-10-17T07:01:51.552030+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=11a261f172a80735"
+    },
+    {
+      "ts": "2026-10-17T07:02:59.506565+00:00",
+      "uid": 8630447127,
+      "action": "security_reject",
+      "detail": "file=virus.py risk=60 verdict=DANGEROUS"
+    },
+    {
+      "ts": "2026-10-17T07:03:59.284777+00:00",
+      "uid": 6515961246,
+      "action": "security_reject",
+      "detail": "file=5_6240169881417818315.py risk=60 verdict=DANGEROUS"
+    },
+    {
+      "ts": "2026-10-17T07:04:21.309660+00:00",
+      "uid": 6515961246,
+      "action": "security_reject",
+      "detail": "file=virus.py risk=60 verdict=DANGEROUS"
     }
   ],
   "coupons": {},
@@ -4624,6 +4648,38 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-17T07:01:15.379119+00:00",
+      "uid": "8630447127",
+      "filename": "virus.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-17T07:02:58.641133+00:00",
+      "uid": "8630447127",
+      "filename": "virus.py",
+      "verdict": "DANGEROUS",
+      "risk_score": 60,
+      "summary": "⚠️ File DANGEROUS hai! 5 threat(s) mili hain."
+    },
+    {
+      "ts": "2026-10-17T07:03:58.345948+00:00",
+      "uid": "6515961246",
+      "filename": "5_6240169881417818315.py",
+      "verdict": "DANGEROUS",
+      "risk_score": 60,
+      "summary": "⚠️ File DANGEROUS hai! 5 threat(s) mili hain."
+    },
+    {
+      "ts": "2026-10-17T07:04:20.476113+00:00",
+      "uid": "6515961246",
+      "filename": "virus.py",
+      "verdict": "DANGEROUS",
+      "risk_score": 60,
+      "summary": "⚠️ File DANGEROUS hai! 5 threat(s) mili hain."
     }
   ]
 }
