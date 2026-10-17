@@ -787,6 +787,31 @@
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-17"
+    },
+    "7950545220": {
+      "_id": 7950545220,
+      "name": "ᎮᏒᎥᎷᏋ •//• ᎧŦŦ",
+      "username": "primeyxe",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-17T20:24:39.294826+00:00",
+      "last_seen": "2026-10-17T20:26:34.122239+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-17T20:24:57.867975+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 6
+      }
     }
   },
   "bots": {
@@ -1278,6 +1303,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-17T17:45:34.484385+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "73f4dc4db996dd2a": {
+      "_id": "73f4dc4db996dd2a",
+      "owner": 7950545220,
+      "name": "vishux",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7950545220_73f4dc4db996dd2a",
+      "created": "2026-10-17T20:26:17.251073+00:00",
+      "enc_files": [
+        {
+          "key_id": "Tn7jMXV-IQOIwSb1py5PYw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7950545220/1792268778_vishux_py.enc",
+          "filename": "vishux.py",
+          "rel_path": "vishux.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T20:26:25.776345+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -3580,6 +3627,12 @@
       "uid": 8824267480,
       "action": "bot_delete",
       "detail": "bot=d512cc791008804e"
+    },
+    {
+      "ts": "2026-10-17T20:24:58.461232+00:00",
+      "uid": 7950545220,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -5003,6 +5056,14 @@
       "filename": "bomb.py",
       "verdict": "SAFE",
       "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-17T20:26:18.300766+00:00",
+      "uid": "7950545220",
+      "filename": "vishux.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
