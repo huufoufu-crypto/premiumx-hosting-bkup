@@ -1,0 +1,4522 @@
+{
+  "users": {
+    "8740135346": {
+      "_id": 8740135346,
+      "name": "𝚸гσxꪗ",
+      "username": "",
+      "plan": "pro",
+      "plan_expires": "2126-08-27T07:39:50.945318+00:00",
+      "joined": "2026-09-17T14:46:38.933030+00:00",
+      "last_seen": "2026-10-17T05:23:17.225466+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 1,
+      "ref_credit": 1,
+      "trial_used": true,
+      "bot_slots_bonus": 1,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 15,
+        "logins": 1292
+      },
+      "last_expiry_warn": -1
+    },
+    "7958364334": {
+      "_id": 7958364334,
+      "name": "Crystal !",
+      "username": "crystelq",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-17T15:22:28.443020+00:00",
+      "last_seen": "2026-09-25T15:02:43.825098+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-17T15:25:31.175980+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 7,
+        "logins": 112
+      }
+    },
+    "8944080637": {
+      "_id": 8944080637,
+      "name": "Babyyy",
+      "username": "Sikooooo52",
+      "plan": "pro",
+      "plan_expires": "2026-11-19T08:08:14.421352+00:00",
+      "joined": "2026-09-17T17:45:29.213743+00:00",
+      "last_seen": "2026-09-24T09:23:17.067350+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-17T17:49:21.307016+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": true,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 2,
+        "logins": 81
+      },
+      "last_expiry_warn": -1,
+      "plan_expiry": "2026-09-19T18:26:41.883623"
+    },
+    "6539720810": {
+      "_id": 6539720810,
+      "name": "𓆩दादा𓆪𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ🇧ᴀᴅᴍᴀsʜ 坏小子<¹²¹",
+      "username": "DADA_TG_KING",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-17T18:14:29.754737+00:00",
+      "last_seen": "2026-09-21T13:47:17.520827+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-17T18:14:40.299276+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 14
+      }
+    },
+    "7850084518": {
+      "_id": 7850084518,
+      "name": "◦•●◉✿ＡＶＩ✿◉●•◦",
+      "username": "avi5029",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-18T02:36:23.212590+00:00",
+      "last_seen": "2026-09-23T13:02:55.944214+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-18T02:36:50.680442+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": true,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 11
+      },
+      "last_expiry_warn": 1,
+      "last_renewal_reminder": "2026-09-20",
+      "transactions": [
+        {
+          "type": "downgrade",
+          "ts": "2026-09-20T02:52:08.385622+00:00",
+          "from_plan": "pro",
+          "reason": "expired"
+        }
+      ]
+    },
+    "8935215927": {
+      "_id": 8935215927,
+      "name": "E̶͙͎̹͉̲̋̽̑͐̈́͜͝ĺ̸̪͉̤̝̞͈̣̲́̀̄̑͋̓̕͝ͅf̶̞̥̻͔̝̰̓͗͗͗͐́͘͝ą̷̄́͊r̷̈́͆̉͋̚͝",
+      "username": "Elfaria02",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-18T09:17:29.514117+00:00",
+      "last_seen": "2026-09-25T08:16:40.012541+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 6
+      }
+    },
+    "8649287269": {
+      "_id": 8649287269,
+      "name": "Daaku !!",
+      "username": "lyrhegaa",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-19T13:36:22.052640+00:00",
+      "last_seen": "2026-10-14T15:43:32.248236+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-19T13:36:30.396448+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 9
+      },
+      "last_expiry_warn": 1,
+      "last_renewal_reminder": "2026-09-21",
+      "transactions": [
+        {
+          "type": "downgrade",
+          "ts": "2026-09-21T13:52:10.348231+00:00",
+          "from_plan": "starter",
+          "reason": "expired"
+        }
+      ]
+    },
+    "6760294810": {
+      "_id": 6760294810,
+      "name": "Sheep",
+      "username": "sheep_0321",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-19T14:39:21.468372+00:00",
+      "last_seen": "2026-09-19T14:41:48.403649+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-19T14:40:23.234892+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": true,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 13
+      },
+      "last_expiry_warn": 1,
+      "last_renewal_reminder": "2026-09-21",
+      "transactions": [
+        {
+          "type": "downgrade",
+          "ts": "2026-09-21T14:52:10.852386+00:00",
+          "from_plan": "pro",
+          "reason": "expired"
+        }
+      ]
+    },
+    "8262559292": {
+      "_id": 8262559292,
+      "name": "Huny",
+      "username": "hunnyplug",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-20T04:43:26.989677+00:00",
+      "last_seen": "2026-09-25T03:04:11.473471+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-20T04:43:38.110979+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 6
+      }
+    },
+    "6515961246": {
+      "_id": 6515961246,
+      "name": "Srushti !?💎",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-20T04:55:08.256400+00:00",
+      "last_seen": "2026-10-16T17:53:21.467929+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-24T09:25:59.989362+00:00",
+      "ref_by": 8740135346,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 5,
+        "logins": 78
+      }
+    },
+    "5478596644": {
+      "_id": 5478596644,
+      "name": "Rex....",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-21T03:40:43.685469+00:00",
+      "last_seen": "2026-09-21T06:18:24.490212+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-21T03:40:57.565665+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": true,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 11
+      },
+      "last_expiry_warn": -1,
+      "last_renewal_reminder": "2026-09-23"
+    },
+    "8444271488": {
+      "_id": 8444271488,
+      "name": "𝑰𝒗𝒐",
+      "username": "ivoqx",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-21T06:17:43.731369+00:00",
+      "last_seen": "2026-09-21T06:20:33.230620+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-21T06:17:54.070590+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 5
+      }
+    },
+    "7724735659": {
+      "_id": 7724735659,
+      "name": "𝙂𝘼𝙍𝘼 💸",
+      "username": "Zxvrg",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-23T14:57:58.226578+00:00",
+      "last_seen": "2026-09-28T14:31:44.443647+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-23T14:58:49.319132+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 59,
+        "logins": 377
+      }
+    },
+    "8439890658": {
+      "_id": 8439890658,
+      "name": "- 𝒍𝒆𝒗𝒊",
+      "username": "iflexlevi",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-23T15:00:34.373488+00:00",
+      "last_seen": "2026-09-23T16:04:29.733448+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-23T15:00:47.063588+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 3,
+        "logins": 25
+      }
+    },
+    "7289146443": {
+      "_id": 7289146443,
+      "name": "#𝙰4ʏᴜꜱʜ•//•🎀",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-24T13:39:45.449261+00:00",
+      "last_seen": "2026-09-24T13:43:07.914736+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-24T13:39:53.573944+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 2
+      }
+    },
+    "8790937904": {
+      "_id": 8790937904,
+      "name": "𐏓🝛꯭𝐑ᴏᴄᴋʏ 𝐃ᴇᴠꭗ",
+      "username": "crabhay",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-27T09:54:33.577753+00:00",
+      "last_seen": "2026-09-28T15:06:13.502100+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-27T09:54:46.212805+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 16,
+        "logins": 123
+      }
+    },
+    "8635333045": {
+      "_id": 8635333045,
+      "name": "𝗔𝗟 𝗛𝗔𝗞𝗘𝗥 Ø𝗪𝗡𝗘𝗥",
+      "username": "IOsOwner99",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-09-28T09:23:04.854588+00:00",
+      "last_seen": "2026-10-16T00:43:05.997994+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-09-28T09:23:13.160820+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 2,
+        "logins": 20
+      }
+    },
+    "8009335025": {
+      "_id": 8009335025,
+      "name": "Even",
+      "username": "",
+      "plan": "terminal",
+      "plan_expires": "2026-10-21T15:45:48.170816+00:00",
+      "joined": "2026-10-14T15:43:58.934672+00:00",
+      "last_seen": "2026-10-15T06:22:56.200328+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-14T15:44:07.635851+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 11,
+        "logins": 222
+      },
+      "last_expiry_warn": -1
+    },
+    "7745343711": {
+      "_id": 7745343711,
+      "name": "𓆩༒ 𝐊ʀɪꜱʜɴᴀ➳ᷧ͢𓆩⃟🍷",
+      "username": "ownerxkrishna",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-15T03:21:34.267758+00:00",
+      "last_seen": "2026-10-16T13:58:15.754678+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-15T03:21:45.505739+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 10,
+        "logins": 141
+      }
+    },
+    "8630447127": {
+      "_id": 8630447127,
+      "name": "Asmit ¿",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-15T03:23:31.261081+00:00",
+      "last_seen": "2026-10-16T14:02:11.208137+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-15T03:33:00.070823+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 2,
+        "logins": 50
+      }
+    },
+    "8854714402": {
+      "_id": 8854714402,
+      "name": "కꫝꪹꫀꪗ",
+      "username": "nakhrekrnewla",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-15T06:28:17.956729+00:00",
+      "last_seen": "2026-10-15T06:28:17.956745+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8814719976": {
+      "_id": 8814719976,
+      "name": "Asmit ¿",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-15T06:35:17.471445+00:00",
+      "last_seen": "2026-10-15T06:35:56.259632+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-15T06:35:37.629929+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 4
+      }
+    },
+    "8602543306": {
+      "_id": 8602543306,
+      "name": "RAQ !!",
+      "username": "Raqxe",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-15T06:53:49.789741+00:00",
+      "last_seen": "2026-10-15T06:58:48.334062+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-15T06:58:17.217239+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 5
+      }
+    },
+    "8032573119": {
+      "_id": 8032573119,
+      "name": "✧ ⋆⎯꯭̽𝅃꯭᳚GOD𝅃꯭꯭᳚ ⃪꯭〬⃝𐏓꯭꯭ ̶ͤ𝄄𝄀꯭𝄄꯭ ⃪͢.",
+      "username": "Godking02",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-15T08:37:06.164725+00:00",
+      "last_seen": "2026-10-16T18:58:56.382831+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-15T08:37:27.760641+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 4,
+        "logins": 31
+      }
+    },
+    "8788156789": {
+      "_id": 8788156789,
+      "name": "fuxk u",
+      "username": "fytrkanha",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-15T17:33:19.118551+00:00",
+      "last_seen": "2026-10-16T10:49:11.774748+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-15T17:33:28.438200+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 7,
+        "logins": 88
+      }
+    },
+    "8958555123": {
+      "_id": 8958555123,
+      "name": "User ?",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-16T04:48:03.262960+00:00",
+      "last_seen": "2026-10-16T04:48:03.262983+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-16T04:51:14.792372+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8824267480": {
+      "_id": 8824267480,
+      "name": "𝐑ɪ𝐒ʜ𝗶 हूँ /~🌙",
+      "username": "ri5hi8",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-16T08:34:51.126537+00:00",
+      "last_seen": "2026-10-16T09:45:12.204835+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-16T08:35:00.227072+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 6,
+        "logins": 37
+      }
+    },
+    "7204407681": {
+      "_id": 7204407681,
+      "name": "Deleted",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-16T11:38:43.108617+00:00",
+      "last_seen": "2026-10-16T17:01:23.365350+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-16T11:38:58.564362+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 2,
+        "logins": 18
+      }
+    }
+  },
+  "bots": {
+    "ec27e83ffe3bb6f6": {
+      "_id": "ec27e83ffe3bb6f6",
+      "owner": 8944080637,
+      "name": "mfgggg",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8944080637_ec27e83ffe3bb6f6",
+      "created": "2026-09-18T18:38:54.797743+00:00",
+      "enc_files": [
+        {
+          "key_id": "9ggAWqeqR3gHUh1yn9ApNQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8944080637/1789756735_mfgggg_py.enc",
+          "filename": "mfgggg.py",
+          "rel_path": "mfgggg.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-09-19T13:25:14.772307+00:00",
+      "last_error": "[2026-09-19 13:25:14] ✅ EICAR file created: /tmp/eicar_test.txt\n[2026-09-19 13:25:14] 📏 Size: 68 bytes\n[2026-09-19 13:25:14] 🧪 This is a HARMLESS test file - not a real virus!\n[2026-09-19 13:25:14]\n==================================================\n[2026-09-19 13:25:14] ✅ TEST COMPLETE\n[2026-09-19 13:25:14] ==================================================\n[2026-09-19 13:25:14] 📄 Report saved: /tmp/test_report_20260919_132514.txt",
+      "last_exit_code": 0,
+      "last_exit_at": "2026-09-19T13:25:14.841359+00:00"
+    },
+    "d6772fec4969fda2": {
+      "_id": "d6772fec4969fda2",
+      "owner": 8439890658,
+      "name": "add_premium_fixed_v2",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8439890658_d6772fec4969fda2",
+      "created": "2026-09-23T16:03:57.258607+00:00",
+      "enc_files": [
+        {
+          "key_id": "YvXcYn7t-kGKAyrllP_Zuw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8439890658/1790179437_add_premium_fixed_v2_py.enc",
+          "filename": "add_premium_fixed_v2.py",
+          "rel_path": "add_premium_fixed_v2.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-09-23T16:04:30.608463+00:00",
+      "last_error": "════════════════ START 2026-09-23T16:04:30.571340+00:00 ════════════════\nTraceback (most recent call last):\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8439890658_d6772fec4969fda2/add_premium_fixed_v2.py\", line 14, in <module>\n    raise RuntimeError(\"Missing API_ID/API_HASH/BOT_TOKEN/LOGS_BOT_TOKEN environment variables.\")\nRuntimeError: Missing API_ID/API_HASH/BOT_TOKEN/LOGS_BOT_TOKEN environment variables.",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-09-23T16:04:31.132674+00:00"
+    },
+    "4b01e8c9f56762cd": {
+      "_id": "4b01e8c9f56762cd",
+      "owner": 7958364334,
+      "name": "spammm",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7958364334_4b01e8c9f56762cd",
+      "created": "2026-09-25T13:29:42.316895+00:00",
+      "enc_files": [
+        {
+          "key_id": "9Puokdh8quMPpPi7jrNZwA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7958364334/1790342982_spammm_py.enc",
+          "filename": "spammm.py",
+          "rel_path": "spammm.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-09-25T13:29:47.774585+00:00",
+      "last_error": "2026-09-25 14:56:24,227 - INFO - 📦 Page 1: 40 items received\n2026-09-25 14:56:26,511 - INFO - 📦 Page 2: 40 items received\n2026-09-25 14:56:27,032 - INFO - ✅ Added 61 new items. Total: 1334\n2026-09-25 15:01:27,064 - INFO - 🔄 Auto-sync triggered\n2026-09-25 15:01:27,064 - INFO - 🔄 Starting LZT stock sync...\n2026-09-25 15:01:28,505 - INFO - 📦 Page 1: 40 items received\n2026-09-25 15:01:30,286 - INFO - 📦 Page 2: 40 items received\n2026-09-25 15:01:30,809 - INFO - ✅ Added 77 new items. Total: 1411",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-09-25T15:02:44.830755+00:00"
+    },
+    "4c9f9064f632e790": {
+      "_id": "4c9f9064f632e790",
+      "owner": 8790937904,
+      "name": "pyrunner-main1",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8790937904_4c9f9064f632e790",
+      "created": "2026-09-27T10:11:52.735511+00:00",
+      "enc_files": [
+        {
+          "key_id": "RfigtofK9q9X8Hidc8OP_A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8790937904/1790503913_Procfile.enc",
+          "filename": "Procfile",
+          "rel_path": "Procfile"
+        },
+        {
+          "key_id": "otcnby0XzUVaT_Kd3a5jpg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8790937904/1790503913_python_runner1_py.enc",
+          "filename": "python_runner1.py",
+          "rel_path": "python_runner1.py"
+        },
+        {
+          "key_id": "ZtRJJ5i6UwSbDzfEQ_LNzQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8790937904/1790503913_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "requirements.txt"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'procfile' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-14T14:52:34.622357+00:00",
+      "last_error": "    return cast(TelegramType, await middleware(bot, method))\n                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8790937904_4c9f9064f632e790/.deps/aiogram/client/session/aiohttp.py\", line 177, in make_request\n    response = self.check_response(\n               ^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8790937904_4c9f9064f632e790/.deps/aiogram/client/session/base.py\", line 127, in check_response\n    raise TelegramUnauthorizedError(method=method, message=description)\naiogram.exceptions.TelegramUnauthorizedError: Telegram server says - Unauthorized",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-14T14:52:41.724418+00:00"
+    },
+    "233de27d1f89bb0a": {
+      "_id": "233de27d1f89bb0a",
+      "owner": 7724735659,
+      "name": "ultimate",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7724735659_233de27d1f89bb0a",
+      "created": "2026-09-28T07:14:36.633038+00:00",
+      "enc_files": [
+        {
+          "key_id": "E2v7eYPpBwbcIqLZkaUoAg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7724735659/1790579677_ultimate_py.enc",
+          "filename": "ultimate.py",
+          "rel_path": "ultimate.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-14T16:10:17.117303+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "f5712e0934d26146": {
+      "_id": "f5712e0934d26146",
+      "owner": 7724735659,
+      "name": "LZT",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7724735659_f5712e0934d26146",
+      "created": "2026-09-28T14:31:14.390776+00:00",
+      "enc_files": [
+        {
+          "key_id": "QVBHwhROoB2aYdJ3V_R8lg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7724735659/1790605874_LZT_py.enc",
+          "filename": "LZT.py",
+          "rel_path": "LZT.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-09-28T14:31:45.256383+00:00",
+      "last_error": "════════════════ START 2026-09-28T14:31:45.214307+00:00 ════════════════\nSyntaxError: Non-UTF-8 code starting with '\\x95' in file /home/ubuntu/premium-hosting/hosting/sandbox/7724735659_f5712e0934d26146/LZT.py on line 66, but no encoding declared; see https://peps.python.org/pep-0263/ for details",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-09-28T14:31:45.275269+00:00"
+    },
+    "ec33720298f8db5c": {
+      "_id": "ec33720298f8db5c",
+      "owner": 8790937904,
+      "name": "kingreq5",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8790937904_ec33720298f8db5c",
+      "created": "2026-09-28T14:57:56.737138+00:00",
+      "enc_files": [
+        {
+          "key_id": "aLdpoOiHFV2ifmlIxR8wXw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8790937904/1790607477_kingreq5_py.enc",
+          "filename": "kingreq5.py",
+          "rel_path": "kingreq5.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-14T14:52:35.218153+00:00",
+      "last_error": "    return _make_request(token, method_url, params=payload)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telebot/apihelper.py\", line 168, in _make_request\n    json_result = _check_result(method_name, result)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telebot/apihelper.py\", line 197, in _check_result\n    raise ApiTelegramException(method_name, result, result_json)\ntelebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-14T14:52:39.489509+00:00"
+    },
+    "8f64b64bb0ac6548": {
+      "_id": "8f64b64bb0ac6548",
+      "owner": 8009335025,
+      "name": "proxyuser",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8009335025_8f64b64bb0ac6548",
+      "created": "2026-10-15T06:04:58.800716+00:00",
+      "enc_files": [
+        {
+          "key_id": "wIf1rqWXgWQNnathN9-lTw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8009335025/1792044299_proxyuser_py.enc",
+          "filename": "proxyuser.py",
+          "rel_path": "proxyuser.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-16T13:04:42.951260+00:00",
+      "last_error": "════════════════ START 2026-10-16T13:04:42.754842+00:00 ════════════════\nPlease enter your phone (or bot token): ",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-16T13:06:13.250994+00:00"
+    },
+    "829268d7a6448d27": {
+      "_id": "829268d7a6448d27",
+      "owner": 8602543306,
+      "name": "sruuserbot",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8602543306_829268d7a6448d27",
+      "created": "2026-10-15T06:58:36.453656+00:00",
+      "enc_files": [
+        {
+          "key_id": "d3pitEpiDVFayPo260Zyyg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8602543306/1792047517_sruuserbot_py.enc",
+          "filename": "sruuserbot.py",
+          "rel_path": "sruuserbot.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-15T06:58:42.136357+00:00",
+      "last_error": "════════════════ START 2026-10-15T06:58:42.098892+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8602543306_829268d7a6448d27/sruuserbot.py\", line 224\n    state[\"last_random\"][str(group.id)] = datetime.now().timestamp()                save_state(state)\n                                                                                    ^^^^^^^^^^\nSyntaxError: invalid syntax",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-15T06:58:42.160904+00:00"
+    },
+    "d5e8667d5d65c68b": {
+      "_id": "d5e8667d5d65c68b",
+      "owner": 8740135346,
+      "name": "proxybutterscoth",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_d5e8667d5d65c68b",
+      "created": "2026-10-15T07:09:47.806972+00:00",
+      "enc_files": [
+        {
+          "key_id": "wRiNAX0_507fYIAmNVLSbw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8740135346/1792048188_proxybutterscoth_py.enc",
+          "filename": "proxybutterscoth.py",
+          "rel_path": "proxybutterscoth.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-16T13:15:07.707898+00:00",
+      "last_error": "💦 NC:    +randnc +burnc +ohyesnc +aahnc +Horneync +purenc +stealthnc\n💦 Enemy: /ncdel /ncwar /stopncwar\n💦 Chat:  /mute /restrict /unrestrict /gclist /leave\n💦 React: +autoreact +heartreact +boomreact +customreact /stopreact\n💦 Song:  +song <name>\n💦 Slide: +slidereply /stopslidereply\n💦 Menu:  /setmenuphoto /setmenuvideo /clearmenu\n👤 User account: @𝗣ʀᴏxʏ ❄️ | @REVULET connected",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-16T13:17:45.340405+00:00"
+    },
+    "a7dd98ea3d8f3266": {
+      "_id": "a7dd98ea3d8f3266",
+      "owner": 8630447127,
+      "name": "kanhagod",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8630447127_a7dd98ea3d8f3266",
+      "created": "2026-10-15T10:00:30.756764+00:00",
+      "enc_files": [
+        {
+          "key_id": "f5wxGgJtEdy9YsoO7X0QTQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8630447127/1792058431_kanhagod_py.enc",
+          "filename": "kanhagod.py",
+          "rel_path": "kanhagod.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-15T10:00:37.474463+00:00",
+      "last_error": "[✓] KANHA GOD restarting…\n[*] Restarting in 3 s…\n[*] Starting 1 bots — PRIME GOD\n[!] Bot startup failed: The token `8877762232:AAGrbF2xq3pOWXUxBkveU-ZorijMqe_z2y08819889918:AAGLXYF5bxGXaQH-s2E26ZSiVwElLeJpWt88915270595:AAGw9bfGWa-0Ku2ttD4pz63YGthchLS5aaE8600713625:AAEyG7uOKx3fZQjAIULBB62gf1BgKIhCE5k8839814859:AAG-094iJ7rs3O8P6z7rYag7WeWXLDr6gB48948824553:AAFX6QA4oNq6cB4jjAo2dZ03pbnPmDEtT6A8716482711:AAEq1ijdKVzi67p52Uo4JMK_TfSH_nQ_cD88906573602:AAGvrODAU5Ay0D9BJK_G7e1OiSBWHZL2UPg8234759460:AAHb2JkCb7VyGBEJrt1LykW7Lyd7MGZlj648655865049:AAHmBY3_VwRC0-G2r8wdUAGlx5mN2raqTWU` was rejected by the server.\n[!] All bot tasks exited unexpectedly — triggering restart\n[*] Shutdown signal — stopping bots...\n[✓] KANHA GOD restarting…\n[*] Restarting in 3 s…",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-15T10:02:31.207727+00:00"
+    },
+    "3bbb79af67d30906": {
+      "_id": "3bbb79af67d30906",
+      "owner": 7745343711,
+      "name": "kanhabhagwan_1",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_3bbb79af67d30906",
+      "created": "2026-10-16T05:09:39.867793+00:00",
+      "enc_files": [
+        {
+          "key_id": "eAVjFcJbLSZzEqnhaM9Trw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792127380_kanhabhagwan_1_py.enc",
+          "filename": "kanhabhagwan_1.py",
+          "rel_path": "kanhabhagwan_1.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T05:22:01.382508+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-10-16T13:48:04.406993+00:00"
+    },
+    "9e3f7849d8bd4e9b": {
+      "_id": "9e3f7849d8bd4e9b",
+      "owner": 8824267480,
+      "name": "rishugidf",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8824267480_9e3f7849d8bd4e9b",
+      "created": "2026-10-16T09:21:51.467369+00:00",
+      "enc_files": [
+        {
+          "key_id": "OnQNZQHz2fRvVA6v4FM04A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8824267480/1792142512_rishugidf_py.enc",
+          "filename": "rishugidf.py",
+          "rel_path": "rishugidf.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-16T13:47:54.740606+00:00",
+      "last_error": "             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8808538083:AAG_YPaU5FzuaxuPCA2P8o97yTtQqgceRAI/getUpdates \"HTTP/1.1 200 OK\"",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-16T13:50:59.523282+00:00"
+    },
+    "7c28798f4bbd6d7b": {
+      "_id": "7c28798f4bbd6d7b",
+      "owner": 7745343711,
+      "name": "Krishnapapa_01",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_7c28798f4bbd6d7b",
+      "created": "2026-10-16T09:57:34.106360+00:00",
+      "enc_files": [
+        {
+          "key_id": "8FnKFqyTH6jtNit3_oNJ-w",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792144655_Krishnapapa_01_py.enc",
+          "filename": "Krishnapapa_01.py",
+          "rel_path": "Krishnapapa_01.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T05:22:01.736432+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "9c9d87ad681c4975": {
+      "_id": "9c9d87ad681c4975",
+      "owner": 8788156789,
+      "name": "kanhafytr_02",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8788156789_9c9d87ad681c4975",
+      "created": "2026-10-16T10:48:35.332458+00:00",
+      "enc_files": [
+        {
+          "key_id": "WdgmGtwswIT26PcNIa6rcw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8788156789/1792147716_kanhafytr_02_py.enc",
+          "filename": "kanhafytr_02.py",
+          "rel_path": "kanhafytr_02.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T05:22:02.314565+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "f00d745dfae65a1c": {
+      "_id": "f00d745dfae65a1c",
+      "owner": 6515961246,
+      "name": "primeabbu18",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6515961246_f00d745dfae65a1c",
+      "created": "2026-10-16T17:47:50.900606+00:00",
+      "enc_files": [
+        {
+          "key_id": "dk0N-ktK24VMAAOXHm-RYA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6515961246/1792172872_primeabbu18_py.enc",
+          "filename": "primeabbu18.py",
+          "rel_path": "primeabbu18.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T05:22:03.457915+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "b0e7a4cfe2e8e0c3": {
+      "_id": "b0e7a4cfe2e8e0c3",
+      "owner": 8032573119,
+      "name": "rebel16",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_b0e7a4cfe2e8e0c3",
+      "created": "2026-10-16T18:58:57.764634+00:00",
+      "enc_files": [
+        {
+          "key_id": "XE3JhjuuoZGvxyq4lEg9wQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792177139_rebel16_py.enc",
+          "filename": "rebel16.py",
+          "rel_path": "rebel16.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T05:22:04.015406+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    }
+  },
+  "payments": [
+    {
+      "id": "XZD4B2XN",
+      "uid": 8740135346,
+      "method": "unknown",
+      "plan": null,
+      "amount": 0,
+      "status": "approved",
+      "ts": "2026-09-17T17:09:01.054974+00:00",
+      "telegram_msg_id": 1408,
+      "approved_by": 8740135346,
+      "approved_at": "2026-09-17T17:09:35.710931+00:00"
+    },
+    {
+      "id": "NEQBUTTX",
+      "uid": 8740135346,
+      "method": "Gpay",
+      "plan": "pro",
+      "amount": 499,
+      "status": "pending",
+      "ts": "2026-09-17T17:37:16.127401+00:00",
+      "telegram_msg_id": 1422
+    },
+    {
+      "id": "Y7U3JWWU",
+      "uid": 8944080637,
+      "method": "Paytm",
+      "plan": "pro",
+      "amount": 499,
+      "status": "approved",
+      "ts": "2026-09-18T08:07:51.188063+00:00",
+      "telegram_msg_id": 1735,
+      "approved_by": 8740135346,
+      "approved_at": "2026-09-18T08:08:14.419627+00:00"
+    },
+    {
+      "id": "OG22VZ9J",
+      "uid": 8649287269,
+      "method": "unknown",
+      "plan": null,
+      "amount": 0,
+      "status": "approved",
+      "ts": "2026-09-19T13:37:08.619551+00:00",
+      "telegram_msg_id": 1909,
+      "approved_by": 8740135346,
+      "approved_at": "2026-09-19T13:38:28.511362+00:00"
+    },
+    {
+      "id": "UYE7FHQS",
+      "uid": 8944080637,
+      "method": "unknown",
+      "plan": null,
+      "amount": 0,
+      "status": "approved",
+      "ts": "2026-09-23T03:24:27.408769+00:00",
+      "telegram_msg_id": 2045,
+      "approved_by": 8740135346,
+      "approved_at": "2026-09-23T03:24:35.477483+00:00"
+    },
+    {
+      "id": "0QDMRW42",
+      "uid": 8740135346,
+      "method": "unknown",
+      "plan": null,
+      "amount": 0,
+      "status": "approved",
+      "ts": "2026-10-14T15:41:35.131056+00:00",
+      "telegram_msg_id": 3036,
+      "approved_by": 8740135346,
+      "approved_at": "2026-10-14T15:42:11.839550+00:00"
+    },
+    {
+      "id": "NFT4SUVK",
+      "uid": 8009335025,
+      "method": "unknown",
+      "plan": null,
+      "amount": 0,
+      "status": "approved",
+      "ts": "2026-10-14T15:44:29.546723+00:00",
+      "telegram_msg_id": 3051,
+      "approved_by": 8740135346,
+      "approved_at": "2026-10-14T15:44:39.071232+00:00"
+    },
+    {
+      "id": "KAD22PQC",
+      "uid": 8630447127,
+      "method": "unknown",
+      "plan": null,
+      "amount": 0,
+      "status": "approved",
+      "ts": "2026-10-16T13:59:39.883525+00:00",
+      "telegram_msg_id": 4014,
+      "approved_by": 8740135346,
+      "approved_at": "2026-10-16T13:59:51.819265+00:00"
+    }
+  ],
+  "admins": {
+    "7958364334": {
+      "role": "full-access",
+      "added": "2026-09-18T02:44:36.208584+00:00",
+      "by": 8740135346
+    },
+    "8262559292": {
+      "role": "full-access",
+      "added": "2026-09-20T04:45:17.414463+00:00",
+      "by": 8740135346
+    }
+  },
+  "audit": [
+    {
+      "ts": "2026-09-17T15:21:45.638547+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=False"
+    },
+    {
+      "ts": "2026-09-17T15:21:50.477544+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=True"
+    },
+    {
+      "ts": "2026-09-17T15:22:08.325092+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-09-17T15:22:37.596882+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-09-17T15:25:31.870429+00:00",
+      "uid": 7958364334,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-17T15:26:31.486477+00:00",
+      "uid": 8740135346,
+      "action": "set_announce",
+      "detail": "-1003862203771"
+    },
+    {
+      "ts": "2026-09-17T15:28:11.589099+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=7dd016e695897381"
+    },
+    {
+      "ts": "2026-09-17T15:37:44.454363+00:00",
+      "uid": 7958364334,
+      "action": "bot_delete",
+      "detail": "bot=7dd016e695897381"
+    },
+    {
+      "ts": "2026-09-17T15:38:35.493515+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=False"
+    },
+    {
+      "ts": "2026-09-17T15:40:28.321690+00:00",
+      "uid": 8740135346,
+      "action": "set_announce",
+      "detail": "-1004360666004"
+    },
+    {
+      "ts": "2026-09-17T15:46:40.776491+00:00",
+      "uid": 7958364334,
+      "action": "bot_delete",
+      "detail": "bot=0e9724b9d9feb26e"
+    },
+    {
+      "ts": "2026-09-17T15:56:54.016652+00:00",
+      "uid": 8740135346,
+      "action": "broadcast_sent",
+      "detail": "sent=2 fail=0"
+    },
+    {
+      "ts": "2026-09-17T17:09:35.711832+00:00",
+      "uid": 8740135346,
+      "action": "pay_approve",
+      "detail": "pid=XZD4B2XN"
+    },
+    {
+      "ts": "2026-09-17T17:15:01.380584+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=True"
+    },
+    {
+      "ts": "2026-09-17T17:15:16.432342+00:00",
+      "uid": 8740135346,
+      "action": "plan_edit",
+      "detail": "starter max_bots=5"
+    },
+    {
+      "ts": "2026-09-17T17:15:19.372343+00:00",
+      "uid": 8740135346,
+      "action": "plan_edit",
+      "detail": "starter max_bots=4"
+    },
+    {
+      "ts": "2026-09-17T17:42:45.514127+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-09-17T17:49:07.178466+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-09-17T17:49:21.940293+00:00",
+      "uid": 8944080637,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-17T18:01:12.777929+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=0f2f85d202342e1d"
+    },
+    {
+      "ts": "2026-09-17T18:10:16.936051+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=6a60bf84f31222ed"
+    },
+    {
+      "ts": "2026-09-17T18:13:32.087965+00:00",
+      "uid": 8740135346,
+      "action": "reject_bot",
+      "detail": "bot=6a60bf84f31222ed reason=rejected by admin"
+    },
+    {
+      "ts": "2026-09-17T18:14:41.001844+00:00",
+      "uid": 6539720810,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-17T18:20:52.972845+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=5bafdbcc2efce9c5"
+    },
+    {
+      "ts": "2026-09-18T02:36:51.212126+00:00",
+      "uid": 7850084518,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-18T02:37:21.187190+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=7850084518"
+    },
+    {
+      "ts": "2026-09-18T02:44:36.209806+00:00",
+      "uid": 8740135346,
+      "action": "admin_add",
+      "detail": "uid=7958364334 role=full-access"
+    },
+    {
+      "ts": "2026-09-18T02:45:09.067739+00:00",
+      "uid": 8740135346,
+      "action": "admin_add",
+      "detail": "uid=7850084518 role=full-access"
+    },
+    {
+      "ts": "2026-09-18T02:53:39.081680+00:00",
+      "uid": 8740135346,
+      "action": "grpv_add",
+      "detail": "name=CHATS id=-1003797211695"
+    },
+    {
+      "ts": "2026-09-18T02:57:00.205573+00:00",
+      "uid": 8740135346,
+      "action": "force_scan_all",
+      "detail": "scanned=0 flagged=0"
+    },
+    {
+      "ts": "2026-09-18T03:00:24.849476+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=False"
+    },
+    {
+      "ts": "2026-09-18T03:00:27.671283+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=True"
+    },
+    {
+      "ts": "2026-09-18T03:04:49.610548+00:00",
+      "uid": 8740135346,
+      "action": "notify_user",
+      "detail": "to=7850084518"
+    },
+    {
+      "ts": "2026-09-18T03:05:43.811682+00:00",
+      "uid": 8740135346,
+      "action": "notify_user",
+      "detail": "to=7958364334"
+    },
+    {
+      "ts": "2026-09-18T03:16:27.819761+00:00",
+      "uid": 8740135346,
+      "action": "bc_set_currency_symbol",
+      "detail": "₹"
+    },
+    {
+      "ts": "2026-09-18T07:22:23.303848+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=473"
+    },
+    {
+      "ts": "2026-09-18T07:26:00.080105+00:00",
+      "uid": 8740135346,
+      "action": "bot_download",
+      "detail": "bot=04c8aaf7989a75ed"
+    },
+    {
+      "ts": "2026-09-18T07:26:08.908455+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=04c8aaf7989a75ed"
+    },
+    {
+      "ts": "2026-09-18T07:39:51.409903+00:00",
+      "uid": 8740135346,
+      "action": "give_plan",
+      "detail": "uid=8740135346 plan=lifetime days=None"
+    },
+    {
+      "ts": "2026-09-18T07:49:34.073882+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=473"
+    },
+    {
+      "ts": "2026-09-18T07:54:10.018415+00:00",
+      "uid": 8740135346,
+      "action": "bot_clone",
+      "detail": "src=6396b46e11f660d8 new=9d61cd73802148e0"
+    },
+    {
+      "ts": "2026-09-18T07:54:23.351786+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=9d61cd73802148e0"
+    },
+    {
+      "ts": "2026-09-18T08:00:11.161667+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=8740135346"
+    },
+    {
+      "ts": "2026-09-18T08:08:14.714052+00:00",
+      "uid": 8740135346,
+      "action": "pay_approve",
+      "detail": "pid=Y7U3JWWU"
+    },
+    {
+      "ts": "2026-09-18T08:15:08.313497+00:00",
+      "uid": 8740135346,
+      "action": "ticket_close",
+      "detail": "tid=92TJ78"
+    },
+    {
+      "ts": "2026-09-18T08:15:15.458147+00:00",
+      "uid": 8944080637,
+      "action": "ticket_close",
+      "detail": "tid=92TJ78"
+    },
+    {
+      "ts": "2026-09-18T10:06:25.312210+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-09-18T10:15:56.748424+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-09-18T13:49:35.660560+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1053"
+    },
+    {
+      "ts": "2026-09-18T17:37:49.925449+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=12bcad1da061755c"
+    },
+    {
+      "ts": "2026-09-18T18:14:56.934838+00:00",
+      "uid": 8740135346,
+      "action": "force_scan_all",
+      "detail": "scanned=0 flagged=0"
+    },
+    {
+      "ts": "2026-09-18T18:17:16.388262+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1496"
+    },
+    {
+      "ts": "2026-09-18T18:24:20.449850+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1503"
+    },
+    {
+      "ts": "2026-09-18T18:24:53.976413+00:00",
+      "uid": 8740135346,
+      "action": "sub_remind_all",
+      "detail": "sent=0 fail=0"
+    },
+    {
+      "ts": "2026-09-18T18:26:41.885455+00:00",
+      "uid": 8740135346,
+      "action": "sub_extend",
+      "detail": "uid=8944080637 days=1"
+    },
+    {
+      "ts": "2026-09-18T18:28:44.918935+00:00",
+      "uid": 8740135346,
+      "action": "grpv_add",
+      "detail": "name=CHATS id=-1003797211695"
+    },
+    {
+      "ts": "2026-09-18T18:38:36.642596+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=False"
+    },
+    {
+      "ts": "2026-09-18T18:39:56.164746+00:00",
+      "uid": 8944080637,
+      "action": "bot_delete",
+      "detail": "bot=ec27e83ffe3bb6f6"
+    },
+    {
+      "ts": "2026-09-18T18:42:18.758751+00:00",
+      "uid": 8944080637,
+      "action": "bot_delete",
+      "detail": "bot=ec27e83ffe3bb6f6"
+    },
+    {
+      "ts": "2026-09-18T18:42:31.056400+00:00",
+      "uid": 8944080637,
+      "action": "security_reject",
+      "detail": "file=mfgggg.py risk=60 verdict=DANGEROUS"
+    },
+    {
+      "ts": "2026-09-19T00:24:22.251662+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1957"
+    },
+    {
+      "ts": "2026-09-19T13:04:24.394710+00:00",
+      "uid": 8740135346,
+      "action": "sub_remind_all",
+      "detail": "sent=1 fail=0"
+    },
+    {
+      "ts": "2026-09-19T13:05:35.754554+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=True"
+    },
+    {
+      "ts": "2026-09-19T13:24:22.160612+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1963"
+    },
+    {
+      "ts": "2026-09-19T13:25:20.800439+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1966"
+    },
+    {
+      "ts": "2026-09-19T13:26:12.803825+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1966"
+    },
+    {
+      "ts": "2026-09-19T13:27:01.564506+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1966"
+    },
+    {
+      "ts": "2026-09-19T13:31:59.235631+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1966"
+    },
+    {
+      "ts": "2026-09-19T13:36:30.917096+00:00",
+      "uid": 8649287269,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-19T13:38:28.514026+00:00",
+      "uid": 8740135346,
+      "action": "pay_approve",
+      "detail": "pid=OG22VZ9J"
+    },
+    {
+      "ts": "2026-09-19T13:40:54.227932+00:00",
+      "uid": 8740135346,
+      "action": "give_plan",
+      "detail": "uid=8649287269 plan=enterprise days=1"
+    },
+    {
+      "ts": "2026-09-19T13:45:35.509289+00:00",
+      "uid": 8740135346,
+      "action": "sub_remind_all",
+      "detail": "sent=1 fail=0"
+    },
+    {
+      "ts": "2026-09-19T13:46:39.294977+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1966"
+    },
+    {
+      "ts": "2026-09-19T13:47:02.835499+00:00",
+      "uid": 8740135346,
+      "action": "sub_remind_all",
+      "detail": "sent=1 fail=0"
+    },
+    {
+      "ts": "2026-09-19T13:50:21.671886+00:00",
+      "uid": 8740135346,
+      "action": "admin_del",
+      "detail": "uid=7850084518"
+    },
+    {
+      "ts": "2026-09-19T13:51:20.226430+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1966"
+    },
+    {
+      "ts": "2026-09-19T13:52:07.351732+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=1966"
+    },
+    {
+      "ts": "2026-09-19T13:52:50.182870+00:00",
+      "uid": 8740135346,
+      "action": "give_plan",
+      "detail": "uid=8649287269 plan=starter days=1"
+    },
+    {
+      "ts": "2026-09-19T14:05:01.174748+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=f39cd74358a5bdd3"
+    },
+    {
+      "ts": "2026-09-19T14:40:23.924498+00:00",
+      "uid": 6760294810,
+      "action": "captcha_pass",
+      "detail": "verified after 1 try(s)"
+    },
+    {
+      "ts": "2026-09-19T14:40:53.631057+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=6760294810"
+    },
+    {
+      "ts": "2026-09-19T19:52:11.081910+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=3872"
+    },
+    {
+      "ts": "2026-09-20T04:43:38.807250+00:00",
+      "uid": 8262559292,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-20T04:45:17.419769+00:00",
+      "uid": 8740135346,
+      "action": "admin_add",
+      "detail": "uid=8262559292 role=full-access"
+    },
+    {
+      "ts": "2026-09-21T03:40:58.414346+00:00",
+      "uid": 5478596644,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-21T04:52:17.207728+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=5478596644"
+    },
+    {
+      "ts": "2026-09-21T06:17:54.579318+00:00",
+      "uid": 8444271488,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-23T03:00:31.331674+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=3878"
+    },
+    {
+      "ts": "2026-09-23T03:22:01.932261+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=3878"
+    },
+    {
+      "ts": "2026-09-23T03:24:35.481002+00:00",
+      "uid": 8740135346,
+      "action": "pay_approve",
+      "detail": "pid=UYE7FHQS"
+    },
+    {
+      "ts": "2026-09-23T03:25:32.182151+00:00",
+      "uid": 8740135346,
+      "action": "give_plan",
+      "detail": "uid=8944080637 plan=terminal days=30"
+    },
+    {
+      "ts": "2026-09-23T03:26:38.542778+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=dcc1d71d448fbbb1"
+    },
+    {
+      "ts": "2026-09-23T03:29:41.726584+00:00",
+      "uid": 8944080637,
+      "action": "bot_delete",
+      "detail": "bot=dcc1d71d448fbbb1"
+    },
+    {
+      "ts": "2026-09-23T09:22:05.354658+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=3878"
+    },
+    {
+      "ts": "2026-09-23T14:58:50.073100+00:00",
+      "uid": 7724735659,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-23T15:00:35.862285+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=f786881ea5e4d049"
+    },
+    {
+      "ts": "2026-09-23T15:00:47.574148+00:00",
+      "uid": 8439890658,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-23T15:05:51.439911+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=False"
+    },
+    {
+      "ts": "2026-09-23T15:06:14.321508+00:00",
+      "uid": 8740135346,
+      "action": "admin_add",
+      "detail": "uid=7724735659 role=manage-users"
+    },
+    {
+      "ts": "2026-09-23T15:06:50.623158+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=6396b46e11f660d8"
+    },
+    {
+      "ts": "2026-09-23T15:07:00.227106+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=f39cd74358a5bdd3"
+    },
+    {
+      "ts": "2026-09-23T15:08:41.910007+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=dec23ded03fc55f0"
+    },
+    {
+      "ts": "2026-09-23T15:09:12.469375+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=f786881ea5e4d049"
+    },
+    {
+      "ts": "2026-09-23T16:01:12.317830+00:00",
+      "uid": 8439890658,
+      "action": "bot_download",
+      "detail": "bot=4edc22e47d69287a"
+    },
+    {
+      "ts": "2026-09-23T16:03:04.494406+00:00",
+      "uid": 8439890658,
+      "action": "bot_delete",
+      "detail": "bot=4edc22e47d69287a"
+    },
+    {
+      "ts": "2026-09-23T16:03:32.652131+00:00",
+      "uid": 8439890658,
+      "action": "bot_delete",
+      "detail": "bot=0d5aea387220ed98"
+    },
+    {
+      "ts": "2026-09-24T09:23:04.500908+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=8944080637"
+    },
+    {
+      "ts": "2026-09-24T09:26:00.489083+00:00",
+      "uid": 6515961246,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-24T13:39:54.281174+00:00",
+      "uid": 7289146443,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-25T03:17:07.486398+00:00",
+      "uid": 8740135346,
+      "action": "set_brand",
+      "detail": "V2 HOSTING"
+    },
+    {
+      "ts": "2026-09-25T07:15:50.609567+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=2294"
+    },
+    {
+      "ts": "2026-09-25T11:29:32.276073+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=717c8e45d85b339d"
+    },
+    {
+      "ts": "2026-09-25T11:32:11.318115+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=af4955b09619a8b2"
+    },
+    {
+      "ts": "2026-09-25T11:35:37.238784+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=85d2212a78b0cc09"
+    },
+    {
+      "ts": "2026-09-25T11:39:34.739995+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=093ececa54469562"
+    },
+    {
+      "ts": "2026-09-25T12:12:49.904766+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=db45244059c8954a"
+    },
+    {
+      "ts": "2026-09-25T12:30:54.741535+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=209b2482872e7be4"
+    },
+    {
+      "ts": "2026-09-25T12:32:33.207366+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=6988cc47ce9042eb"
+    },
+    {
+      "ts": "2026-09-25T12:37:47.332634+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=d0696829131a023e"
+    },
+    {
+      "ts": "2026-09-25T12:40:38.450278+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=b876ab8a0688eb0e"
+    },
+    {
+      "ts": "2026-09-25T12:57:45.649933+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=257cd20917c99255"
+    },
+    {
+      "ts": "2026-09-25T13:08:03.384075+00:00",
+      "uid": 7958364334,
+      "action": "bot_delete",
+      "detail": "bot=c908b7701a859c3d"
+    },
+    {
+      "ts": "2026-09-25T13:10:41.533061+00:00",
+      "uid": 7958364334,
+      "action": "bot_delete",
+      "detail": "bot=eb42f9bc28d16f70"
+    },
+    {
+      "ts": "2026-09-25T13:15:53.004304+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=3194"
+    },
+    {
+      "ts": "2026-09-25T13:29:29.516190+00:00",
+      "uid": 7958364334,
+      "action": "bot_delete",
+      "detail": "bot=9e810e36c2deef94"
+    },
+    {
+      "ts": "2026-09-25T15:22:34.684100+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=e46b972dc18c5530"
+    },
+    {
+      "ts": "2026-09-25T15:28:38.437260+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=1aeda2af553eb788"
+    },
+    {
+      "ts": "2026-09-25T15:32:23.213790+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=603a52df69de6867"
+    },
+    {
+      "ts": "2026-09-25T15:35:34.881699+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=b968b83bb36fd2f2"
+    },
+    {
+      "ts": "2026-09-25T15:55:48.566586+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=1c12900e5f3a0b39"
+    },
+    {
+      "ts": "2026-09-25T16:09:09.943758+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=f6c8935526bda4bc"
+    },
+    {
+      "ts": "2026-09-25T16:11:36.483436+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=2987a1af28effe10"
+    },
+    {
+      "ts": "2026-09-26T11:01:12.921720+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=f886cb9f257e5924"
+    },
+    {
+      "ts": "2026-09-26T11:18:56.745767+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=80c8c7b6b83b3d75"
+    },
+    {
+      "ts": "2026-09-27T09:54:46.728577+00:00",
+      "uid": 8790937904,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-27T09:58:27.952115+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=237f57f1c1c645fb"
+    },
+    {
+      "ts": "2026-09-27T10:01:48.765257+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=5f40abc9638543f1"
+    },
+    {
+      "ts": "2026-09-27T10:03:07.967086+00:00",
+      "uid": 8790937904,
+      "action": "bot_clone",
+      "detail": "src=8d57a50d0f9aabc4 new=e27f4d14e1595799"
+    },
+    {
+      "ts": "2026-09-27T10:04:14.665612+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=e27f4d14e1595799"
+    },
+    {
+      "ts": "2026-09-27T10:04:23.911473+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=8d57a50d0f9aabc4"
+    },
+    {
+      "ts": "2026-09-27T10:06:47.406345+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=15a9aba6cd726390"
+    },
+    {
+      "ts": "2026-09-27T10:10:38.387225+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=d15a64645633da5f"
+    },
+    {
+      "ts": "2026-09-27T12:38:00.667691+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=b9142012141eccf0"
+    },
+    {
+      "ts": "2026-09-27T12:39:12.092733+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=d1ff2107e48ce1c8"
+    },
+    {
+      "ts": "2026-09-27T12:43:22.367323+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=3f68a535c0afad5c"
+    },
+    {
+      "ts": "2026-09-27T12:48:07.659072+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=ff523f40c47436b9"
+    },
+    {
+      "ts": "2026-09-27T12:48:49.089346+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=75987505a5d9ce9d"
+    },
+    {
+      "ts": "2026-09-27T12:51:32.074189+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=1581a5612d745899"
+    },
+    {
+      "ts": "2026-09-27T12:54:29.410958+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=35e42ecea3f26a99"
+    },
+    {
+      "ts": "2026-09-27T13:01:23.590383+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=64bbedada37d6fbb"
+    },
+    {
+      "ts": "2026-09-27T13:15:47.433644+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=5678b4d06920eeb5"
+    },
+    {
+      "ts": "2026-09-27T13:29:13.180888+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=f10f44fe331cccb6"
+    },
+    {
+      "ts": "2026-09-27T13:32:11.145664+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=474b42188025ce3b"
+    },
+    {
+      "ts": "2026-09-27T13:36:47.063308+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=84232f5f36e61364"
+    },
+    {
+      "ts": "2026-09-27T13:37:37.894418+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=5aa3a9849f23fd76"
+    },
+    {
+      "ts": "2026-09-27T13:43:39.942397+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=03686f4a4d93a458"
+    },
+    {
+      "ts": "2026-09-27T15:53:48.042104+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=b397cdc839cfd5a9"
+    },
+    {
+      "ts": "2026-09-27T15:58:48.123693+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=1a45ff1b123406cb"
+    },
+    {
+      "ts": "2026-09-27T16:01:23.730192+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=ab5f618371df6374"
+    },
+    {
+      "ts": "2026-09-27T16:15:34.308197+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=45e587acea86576b"
+    },
+    {
+      "ts": "2026-09-27T16:22:19.189286+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=b9be614d80897004"
+    },
+    {
+      "ts": "2026-09-27T16:25:37.351931+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=556fe6461076ef8d"
+    },
+    {
+      "ts": "2026-09-27T16:31:36.377358+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=8c629989496d8d0f"
+    },
+    {
+      "ts": "2026-09-27T16:38:40.532843+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=bfb78788fd772481"
+    },
+    {
+      "ts": "2026-09-27T16:43:52.828234+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=179322fe8cd40838"
+    },
+    {
+      "ts": "2026-09-27T16:48:39.937217+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=8188aefe8c7aef7d"
+    },
+    {
+      "ts": "2026-09-27T17:04:41.894747+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=9c1c2abe9fb6b634"
+    },
+    {
+      "ts": "2026-09-27T19:23:58.174314+00:00",
+      "uid": 8790937904,
+      "action": "pip_install",
+      "detail": "bot=4c9f9064f632e790 ok=True"
+    },
+    {
+      "ts": "2026-09-27T19:25:31.979060+00:00",
+      "uid": 8790937904,
+      "action": "pip_install",
+      "detail": "bot=4c9f9064f632e790 ok=False"
+    },
+    {
+      "ts": "2026-09-27T19:25:44.561590+00:00",
+      "uid": 8790937904,
+      "action": "pip_install",
+      "detail": "bot=4c9f9064f632e790 ok=False"
+    },
+    {
+      "ts": "2026-09-27T19:26:19.415728+00:00",
+      "uid": 8790937904,
+      "action": "pip_install",
+      "detail": "bot=4c9f9064f632e790 ok=False"
+    },
+    {
+      "ts": "2026-09-27T19:26:46.811585+00:00",
+      "uid": 8790937904,
+      "action": "pip_install",
+      "detail": "bot=4c9f9064f632e790 ok=True"
+    },
+    {
+      "ts": "2026-09-27T19:32:27.212490+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=87f902457a41278b"
+    },
+    {
+      "ts": "2026-09-27T19:36:51.650556+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=399e374b3ef43051"
+    },
+    {
+      "ts": "2026-09-27T19:45:53.214886+00:00",
+      "uid": 8790937904,
+      "action": "bot_download",
+      "detail": "bot=8153475623c694a1"
+    },
+    {
+      "ts": "2026-09-27T19:50:42.097337+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=8153475623c694a1"
+    },
+    {
+      "ts": "2026-09-27T20:00:27.191050+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=1034c1f1342ecb67"
+    },
+    {
+      "ts": "2026-09-28T05:00:03.209915+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=865b1a64e1dab4ec"
+    },
+    {
+      "ts": "2026-09-28T05:19:02.007011+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=be8f69d36100db69"
+    },
+    {
+      "ts": "2026-09-28T05:24:55.129073+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=3f06936b3118506e"
+    },
+    {
+      "ts": "2026-09-28T05:28:52.783263+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=27ec881518592e61"
+    },
+    {
+      "ts": "2026-09-28T05:37:18.882110+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=3aa5dc46cc97e428"
+    },
+    {
+      "ts": "2026-09-28T05:42:59.886911+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=95906a2269b5393b"
+    },
+    {
+      "ts": "2026-09-28T07:14:26.382808+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=45fc33b8b85d7dd7"
+    },
+    {
+      "ts": "2026-09-28T09:23:13.877477+00:00",
+      "uid": 8635333045,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-09-28T10:00:25.193900+00:00",
+      "uid": 8635333045,
+      "action": "bot_delete",
+      "detail": "bot=006248304bb30ccf"
+    },
+    {
+      "ts": "2026-09-28T12:13:28.817023+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=25d5cf12adbfaad5"
+    },
+    {
+      "ts": "2026-09-28T12:15:29.670474+00:00",
+      "uid": 7724735659,
+      "action": "bot_download",
+      "detail": "bot=839f8915b0e4584d"
+    },
+    {
+      "ts": "2026-09-28T13:31:26.378179+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=f995e5ddde40ea8c"
+    },
+    {
+      "ts": "2026-09-28T13:40:54.618686+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=5a8019526f6f6561"
+    },
+    {
+      "ts": "2026-09-28T14:14:20.637763+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=839f8915b0e4584d"
+    },
+    {
+      "ts": "2026-09-28T14:18:12.612320+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=5d2c1a32778aeadf"
+    },
+    {
+      "ts": "2026-09-28T14:25:31.087794+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=643baa20e47dafcb"
+    },
+    {
+      "ts": "2026-09-28T14:31:06.055522+00:00",
+      "uid": 7724735659,
+      "action": "bot_delete",
+      "detail": "bot=3be392afe014fce7"
+    },
+    {
+      "ts": "2026-09-28T14:42:34.288599+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=310b93a331075a81"
+    },
+    {
+      "ts": "2026-09-28T14:47:49.498755+00:00",
+      "uid": 8790937904,
+      "action": "bot_download",
+      "detail": "bot=baf81073f47a0218"
+    },
+    {
+      "ts": "2026-09-28T14:52:42.252594+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=baf81073f47a0218"
+    },
+    {
+      "ts": "2026-09-28T14:57:29.781759+00:00",
+      "uid": 8790937904,
+      "action": "bot_delete",
+      "detail": "bot=cc739e762e220b45"
+    },
+    {
+      "ts": "2026-10-14T14:52:21.688059+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=4660"
+    },
+    {
+      "ts": "2026-10-14T15:40:38.600641+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=4688"
+    },
+    {
+      "ts": "2026-10-14T15:42:11.845391+00:00",
+      "uid": 8740135346,
+      "action": "pay_approve",
+      "detail": "pid=0QDMRW42"
+    },
+    {
+      "ts": "2026-10-14T15:44:08.348677+00:00",
+      "uid": 8009335025,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-14T15:44:39.077345+00:00",
+      "uid": 8740135346,
+      "action": "pay_approve",
+      "detail": "pid=NFT4SUVK"
+    },
+    {
+      "ts": "2026-10-14T15:45:48.457780+00:00",
+      "uid": 8740135346,
+      "action": "give_plan",
+      "detail": "uid=8009335025 plan=terminal days=7"
+    },
+    {
+      "ts": "2026-10-14T15:49:42.356756+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=7032d7bd1b2331f5"
+    },
+    {
+      "ts": "2026-10-14T15:55:35.555257+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5142"
+    },
+    {
+      "ts": "2026-10-14T15:56:07.450939+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=0fc15ee0089e2f23"
+    },
+    {
+      "ts": "2026-10-14T16:04:22.649334+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5142"
+    },
+    {
+      "ts": "2026-10-14T16:05:12.813407+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=86eb8d833f4dc601"
+    },
+    {
+      "ts": "2026-10-14T16:07:18.248950+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=9b819f907e891955"
+    },
+    {
+      "ts": "2026-10-14T16:10:16.716510+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5143"
+    },
+    {
+      "ts": "2026-10-14T16:10:50.552132+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=d0fcd661c1c4feda"
+    },
+    {
+      "ts": "2026-10-14T16:17:54.722993+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5141"
+    },
+    {
+      "ts": "2026-10-14T16:21:25.378035+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5150"
+    },
+    {
+      "ts": "2026-10-14T16:29:56.892990+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5150"
+    },
+    {
+      "ts": "2026-10-14T16:35:58.550111+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=207d707f3c719403"
+    },
+    {
+      "ts": "2026-10-14T16:38:05.897946+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=4692"
+    },
+    {
+      "ts": "2026-10-14T16:39:00.219911+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=4692"
+    },
+    {
+      "ts": "2026-10-14T16:39:59.214123+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=4692"
+    },
+    {
+      "ts": "2026-10-14T16:48:00.015949+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5151"
+    },
+    {
+      "ts": "2026-10-15T01:35:58.966718+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5151"
+    },
+    {
+      "ts": "2026-10-15T01:37:21.609416+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=4ad14820b7363abc"
+    },
+    {
+      "ts": "2026-10-15T01:46:19.503346+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5150"
+    },
+    {
+      "ts": "2026-10-15T03:21:01.624935+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5151"
+    },
+    {
+      "ts": "2026-10-15T03:21:46.020988+00:00",
+      "uid": 7745343711,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-15T03:33:00.809807+00:00",
+      "uid": 8630447127,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-15T04:07:18.020468+00:00",
+      "uid": 6515961246,
+      "action": "bot_delete",
+      "detail": "bot=820ec3797c26419e"
+    },
+    {
+      "ts": "2026-10-15T04:52:11.037901+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-10-15T04:52:24.128865+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-10-15T04:52:40.286984+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-10-15T04:54:51.596279+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=5609"
+    },
+    {
+      "ts": "2026-10-15T04:59:59.588160+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6070"
+    },
+    {
+      "ts": "2026-10-15T05:03:48.762555+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6072"
+    },
+    {
+      "ts": "2026-10-15T05:36:07.399110+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6072"
+    },
+    {
+      "ts": "2026-10-15T05:40:39.970855+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-10-15T05:46:10.918052+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=601b8b3bf104d803"
+    },
+    {
+      "ts": "2026-10-15T05:47:28.598101+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6978"
+    },
+    {
+      "ts": "2026-10-15T05:47:45.917705+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6980"
+    },
+    {
+      "ts": "2026-10-15T05:54:47.626149+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6983"
+    },
+    {
+      "ts": "2026-10-15T05:58:48.195374+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6988"
+    },
+    {
+      "ts": "2026-10-15T06:00:29.680995+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6988"
+    },
+    {
+      "ts": "2026-10-15T06:02:46.039699+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6988"
+    },
+    {
+      "ts": "2026-10-15T06:04:08.537999+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=601b8b3bf104d803"
+    },
+    {
+      "ts": "2026-10-15T06:04:15.850135+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=12dffcb63317b584"
+    },
+    {
+      "ts": "2026-10-15T06:04:24.387463+00:00",
+      "uid": 8009335025,
+      "action": "bot_delete",
+      "detail": "bot=c54609c74ae3fe7f"
+    },
+    {
+      "ts": "2026-10-15T06:11:21.989659+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6067"
+    },
+    {
+      "ts": "2026-10-15T06:18:43.079763+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=6067"
+    },
+    {
+      "ts": "2026-10-15T06:35:38.339150+00:00",
+      "uid": 8814719976,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-15T06:58:17.933853+00:00",
+      "uid": 8602543306,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-15T07:09:33.103271+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=4dede2b26bf28fd2"
+    },
+    {
+      "ts": "2026-10-15T08:08:01.278577+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-10-15T08:09:53.499827+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-10-15T08:37:28.468727+00:00",
+      "uid": 8032573119,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-15T08:52:52.052972+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=b54510539f59bcf1"
+    },
+    {
+      "ts": "2026-10-15T09:46:09.648067+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=f2d6993836bd99a5"
+    },
+    {
+      "ts": "2026-10-15T09:59:26.744775+00:00",
+      "uid": 6515961246,
+      "action": "bot_delete",
+      "detail": "bot=4b68987ca7e94a83"
+    },
+    {
+      "ts": "2026-10-15T10:00:00.982934+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=fab680575fa76ee8"
+    },
+    {
+      "ts": "2026-10-15T10:09:12.197320+00:00",
+      "uid": 8740135346,
+      "action": "notify_user",
+      "detail": "to=8032573119"
+    },
+    {
+      "ts": "2026-10-15T10:10:55.144454+00:00",
+      "uid": 8740135346,
+      "action": "notify_user",
+      "detail": "to=8630447127"
+    },
+    {
+      "ts": "2026-10-15T11:16:04.572117+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=0a11029d875006eb"
+    },
+    {
+      "ts": "2026-10-15T11:18:32.117257+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=92eb5af1fe50b9b2"
+    },
+    {
+      "ts": "2026-10-15T11:34:57.287733+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=a32ac0b603a42054"
+    },
+    {
+      "ts": "2026-10-15T12:18:47.555143+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8784"
+    },
+    {
+      "ts": "2026-10-15T13:09:28.742994+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=5722d5c95ecce052"
+    },
+    {
+      "ts": "2026-10-15T13:09:55.807945+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=725695f34949ecea"
+    },
+    {
+      "ts": "2026-10-15T14:15:46.295141+00:00",
+      "uid": 8740135346,
+      "action": "env_set",
+      "detail": "bot=621f8b8398ebf628 key=BOT_TOKEN"
+    },
+    {
+      "ts": "2026-10-15T14:16:01.962937+00:00",
+      "uid": 8740135346,
+      "action": "env_set",
+      "detail": "bot=621f8b8398ebf628 key=OWNER_ID"
+    },
+    {
+      "ts": "2026-10-15T14:17:10.110367+00:00",
+      "uid": 8740135346,
+      "action": "env_set",
+      "detail": "bot=621f8b8398ebf628 key=BOT_USERNAME"
+    },
+    {
+      "ts": "2026-10-15T14:17:22.498087+00:00",
+      "uid": 8740135346,
+      "action": "env_set",
+      "detail": "bot=621f8b8398ebf628 key=SUPPORT_USERNAME"
+    },
+    {
+      "ts": "2026-10-15T14:17:32.853222+00:00",
+      "uid": 8740135346,
+      "action": "env_set",
+      "detail": "bot=621f8b8398ebf628 key=FORCE_CHANNEL_ID"
+    },
+    {
+      "ts": "2026-10-15T14:17:43.987062+00:00",
+      "uid": 8740135346,
+      "action": "env_set",
+      "detail": "bot=621f8b8398ebf628 key=FORCE_CHANNEL_LINK"
+    },
+    {
+      "ts": "2026-10-15T14:17:57.666455+00:00",
+      "uid": 8740135346,
+      "action": "env_set",
+      "detail": "bot=621f8b8398ebf628 key=PAYMENT_QR_URL"
+    },
+    {
+      "ts": "2026-10-15T14:21:56.985294+00:00",
+      "uid": 8740135346,
+      "action": "env_set",
+      "detail": "bot=621f8b8398ebf628 key=BOT_TOKEN"
+    },
+    {
+      "ts": "2026-10-15T14:22:34.035678+00:00",
+      "uid": 8740135346,
+      "action": "env_set",
+      "detail": "bot=621f8b8398ebf628 key=BOT_TOKEN"
+    },
+    {
+      "ts": "2026-10-15T16:20:55.479810+00:00",
+      "uid": 8740135346,
+      "action": "broadcast_sent",
+      "detail": "sent=24 fail=0"
+    },
+    {
+      "ts": "2026-10-15T16:23:51.626012+00:00",
+      "uid": 8740135346,
+      "action": "admin_del",
+      "detail": "uid=7724735659"
+    },
+    {
+      "ts": "2026-10-15T17:33:29.164499+00:00",
+      "uid": 8788156789,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-15T19:01:44.743214+00:00",
+      "uid": 8788156789,
+      "action": "bot_delete",
+      "detail": "bot=bbbf2943b4a23465"
+    },
+    {
+      "ts": "2026-10-15T19:07:05.467398+00:00",
+      "uid": 8788156789,
+      "action": "bot_delete",
+      "detail": "bot=b536a2639bcb20ba"
+    },
+    {
+      "ts": "2026-10-15T19:41:09.684307+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=ce25fb3ca70733b9"
+    },
+    {
+      "ts": "2026-10-16T00:43:09.566973+00:00",
+      "uid": 8635333045,
+      "action": "bot_delete",
+      "detail": "bot=732925eebd427e99"
+    },
+    {
+      "ts": "2026-10-16T01:13:24.995721+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=621f8b8398ebf628"
+    },
+    {
+      "ts": "2026-10-16T04:51:15.342857+00:00",
+      "uid": 8958555123,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-16T04:57:09.139260+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=9e320de6e3190271"
+    },
+    {
+      "ts": "2026-10-16T04:57:30.283149+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=c666d7d8732b16a6"
+    },
+    {
+      "ts": "2026-10-16T05:09:14.696449+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=b4dbe18fb762cfe6"
+    },
+    {
+      "ts": "2026-10-16T05:09:26.444660+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=20db511cf9df4a21"
+    },
+    {
+      "ts": "2026-10-16T08:35:00.790543+00:00",
+      "uid": 8824267480,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-16T08:45:33.989125+00:00",
+      "uid": 8824267480,
+      "action": "bot_delete",
+      "detail": "bot=d08ac63cd036d70b"
+    },
+    {
+      "ts": "2026-10-16T08:59:00.330155+00:00",
+      "uid": 8824267480,
+      "action": "bot_delete",
+      "detail": "bot=ddbc50fd6297842e"
+    },
+    {
+      "ts": "2026-10-16T09:14:57.429227+00:00",
+      "uid": 8824267480,
+      "action": "bot_delete",
+      "detail": "bot=6f9397a13e4295ba"
+    },
+    {
+      "ts": "2026-10-16T09:21:35.287752+00:00",
+      "uid": 8824267480,
+      "action": "bot_delete",
+      "detail": "bot=027ebe39852986bc"
+    },
+    {
+      "ts": "2026-10-16T09:45:12.690446+00:00",
+      "uid": 8824267480,
+      "action": "bot_delete",
+      "detail": "bot=9956d8e8fb9f7938"
+    },
+    {
+      "ts": "2026-10-16T09:55:54.286593+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=1aa64279f0b9d74a"
+    },
+    {
+      "ts": "2026-10-16T10:26:16.649935+00:00",
+      "uid": 8788156789,
+      "action": "bot_delete",
+      "detail": "bot=a0d5bb1803140ced"
+    },
+    {
+      "ts": "2026-10-16T10:26:32.176780+00:00",
+      "uid": 8788156789,
+      "action": "bot_delete",
+      "detail": "bot=3900cad69116bf5e"
+    },
+    {
+      "ts": "2026-10-16T10:45:32.349589+00:00",
+      "uid": 8788156789,
+      "action": "bot_delete",
+      "detail": "bot=eb6f22929d4553ee"
+    },
+    {
+      "ts": "2026-10-16T10:48:09.555916+00:00",
+      "uid": 8788156789,
+      "action": "bot_delete",
+      "detail": "bot=acf61a7f9ed8147c"
+    },
+    {
+      "ts": "2026-10-16T11:38:59.088142+00:00",
+      "uid": 7204407681,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-16T11:56:33.519936+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-10-16T12:23:22.561191+00:00",
+      "uid": 8740135346,
+      "action": "clear_cache",
+      "detail": "manual"
+    },
+    {
+      "ts": "2026-10-16T12:35:46.501942+00:00",
+      "uid": 8740135346,
+      "action": "bc_set_currency_symbol",
+      "detail": "₹"
+    },
+    {
+      "ts": "2026-10-16T12:58:04.686378+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=10160"
+    },
+    {
+      "ts": "2026-10-16T13:04:42.870747+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=10184"
+    },
+    {
+      "ts": "2026-10-16T13:08:46.126919+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=10192"
+    },
+    {
+      "ts": "2026-10-16T13:12:44.710250+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=10190"
+    },
+    {
+      "ts": "2026-10-16T13:14:31.662709+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=46c07cffd75fcdbb"
+    },
+    {
+      "ts": "2026-10-16T13:14:43.371015+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=621f8b8398ebf628"
+    },
+    {
+      "ts": "2026-10-16T13:14:57.875807+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=70e0fc34c2e8c59f"
+    },
+    {
+      "ts": "2026-10-16T13:36:26.872844+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8823"
+    },
+    {
+      "ts": "2026-10-16T13:42:11.039061+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8823"
+    },
+    {
+      "ts": "2026-10-16T13:45:32.529763+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8824"
+    },
+    {
+      "ts": "2026-10-16T13:47:54.023479+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8823"
+    },
+    {
+      "ts": "2026-10-16T13:49:32.197943+00:00",
+      "uid": 8740135346,
+      "action": "notify_user",
+      "detail": "to=7745343711"
+    },
+    {
+      "ts": "2026-10-16T13:51:08.887976+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8836"
+    },
+    {
+      "ts": "2026-10-16T13:53:38.074834+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-10-16T13:55:43.806040+00:00",
+      "uid": 8740135346,
+      "action": "notify_user",
+      "detail": "to=8032573119"
+    },
+    {
+      "ts": "2026-10-16T13:56:56.713649+00:00",
+      "uid": 8740135346,
+      "action": "notify_user",
+      "detail": "to=8630447127"
+    },
+    {
+      "ts": "2026-10-16T13:59:51.831704+00:00",
+      "uid": 8740135346,
+      "action": "pay_approve",
+      "detail": "pid=KAD22PQC"
+    },
+    {
+      "ts": "2026-10-16T17:01:11.170264+00:00",
+      "uid": 7204407681,
+      "action": "bot_delete",
+      "detail": "bot=d67960b8ce8230fe"
+    },
+    {
+      "ts": "2026-10-16T17:01:17.978566+00:00",
+      "uid": 7204407681,
+      "action": "bot_delete",
+      "detail": "bot=bb31fe4fed73effb"
+    },
+    {
+      "ts": "2026-10-16T17:35:56.377279+00:00",
+      "uid": 6515961246,
+      "action": "bot_delete",
+      "detail": "bot=01ce19f1b5d5775e"
+    },
+    {
+      "ts": "2026-10-16T17:47:41.595176+00:00",
+      "uid": 6515961246,
+      "action": "bot_delete",
+      "detail": "bot=112925eb166c3a1f"
+    },
+    {
+      "ts": "2026-10-16T18:25:11.663591+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=22b44679d430d143"
+    },
+    {
+      "ts": "2026-10-16T19:51:22.410861+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8367"
+    },
+    {
+      "ts": "2026-10-17T05:01:03.382806+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8367"
+    },
+    {
+      "ts": "2026-10-17T05:06:12.031895+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8379"
+    },
+    {
+      "ts": "2026-10-17T05:11:16.238523+00:00",
+      "uid": 8740135346,
+      "action": "gh_auto_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-10-17T05:11:20.239831+00:00",
+      "uid": 8740135346,
+      "action": "gh_auto_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-10-17T05:19:00.785064+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8376"
+    },
+    {
+      "ts": "2026-10-17T05:22:01.239681+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=8383"
+    }
+  ],
+  "coupons": {},
+  "tickets": {
+    "92TJ78": {
+      "id": "92TJ78",
+      "uid": 8944080637,
+      "subject": "I have a problem i am not able to host the bot i don't know requirements txt all ar olayy but bot is not hosting i have ",
+      "status": "closed",
+      "messages": [
+        {
+          "from": "user",
+          "text": "I have a problem i am not able to host the bot i don't know requirements txt all ar olayy but bot is not hosting i have payed 499₹ please help",
+          "ts": "2026-09-18T08:11:06.416962+00:00"
+        },
+        {
+          "from": "admin",
+          "text": "DM @REVULET with your .py file le me check then i can tell where is the problem  !",
+          "ts": "2026-09-18T08:12:48.860870+00:00"
+        },
+        {
+          "from": "user",
+          "text": "Ok check dm",
+          "ts": "2026-09-18T08:14:13.494610+00:00"
+        }
+      ],
+      "opened_at": "2026-09-18T08:11:06.416974+00:00"
+    }
+  },
+  "scheduled_broadcasts": [],
+  "notes": {},
+  "rate_violations": {},
+  "scan_log": [
+    {
+      "ts": "2026-09-17T15:27:40.477379+00:00",
+      "uid": "7958364334",
+      "filename": "selfxe.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-17T15:38:51.039252+00:00",
+      "uid": "7958364334",
+      "filename": "selfxe.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-17T18:00:04.619122+00:00",
+      "uid": "8740135346",
+      "filename": "stieng.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-17T18:10:04.098418+00:00",
+      "uid": "7958364334",
+      "filename": "stieng.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-17T18:20:31.531993+00:00",
+      "uid": "8740135346",
+      "filename": "stieng.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-18T07:22:42.099685+00:00",
+      "uid": "8740135346",
+      "filename": "stieng.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-18T07:52:25.126523+00:00",
+      "uid": "8740135346",
+      "filename": "README.md",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'readme.md' allow nahi hai."
+    },
+    {
+      "ts": "2026-09-18T17:28:59.339156+00:00",
+      "uid": "8740135346",
+      "filename": "num.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-18T17:38:52.204718+00:00",
+      "uid": "8740135346",
+      "filename": "num.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-18T18:38:55.089057+00:00",
+      "uid": "8944080637",
+      "filename": "mfgggg.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-18T18:42:30.238800+00:00",
+      "uid": "8944080637",
+      "filename": "mfgggg.py",
+      "verdict": "DANGEROUS",
+      "risk_score": 60,
+      "summary": "⚠️ File DANGEROUS hai! 5 threat(s) mili hain."
+    },
+    {
+      "ts": "2026-09-19T13:57:07.812275+00:00",
+      "uid": "8740135346",
+      "filename": ".env.example",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.env.example' allow nahi hai."
+    },
+    {
+      "ts": "2026-09-23T03:26:18.752619+00:00",
+      "uid": "8944080637",
+      "filename": "README.md",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'readme.md' allow nahi hai."
+    },
+    {
+      "ts": "2026-09-23T15:00:11.013274+00:00",
+      "uid": "7724735659",
+      "filename": "text.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-23T15:07:15.951862+00:00",
+      "uid": "8740135346",
+      "filename": "proxybutterscoth.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-23T15:09:26.570355+00:00",
+      "uid": "7724735659",
+      "filename": "add.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-23T15:12:51.244735+00:00",
+      "uid": "8439890658",
+      "filename": "addking.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-23T16:03:14.055940+00:00",
+      "uid": "8439890658",
+      "filename": "addking.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-23T16:03:57.614418+00:00",
+      "uid": "8439890658",
+      "filename": "add_premium_fixed_v2.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T07:16:16.286154+00:00",
+      "uid": "7724735659",
+      "filename": "session.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T11:30:49.542741+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T11:32:17.545139+00:00",
+      "uid": "7724735659",
+      "filename": "sahzebhostt.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-25T11:38:28.264562+00:00",
+      "uid": "7724735659",
+      "filename": "HOST.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-25T12:05:24.372085+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T12:12:55.127345+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T12:31:21.423572+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-25T12:34:09.096722+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T12:38:30.133283+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T12:42:10.083297+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T12:58:04.006058+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T13:06:36.059420+00:00",
+      "uid": "7958364334",
+      "filename": "spammm.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T13:08:56.349707+00:00",
+      "uid": "7958364334",
+      "filename": "spammm.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T13:11:29.626951+00:00",
+      "uid": "7958364334",
+      "filename": "spammm.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T13:29:42.634581+00:00",
+      "uid": "7958364334",
+      "filename": "spammm.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T15:23:11.312503+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T15:28:59.920559+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T15:32:44.539399+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T15:44:42.054196+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T15:55:52.422481+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T16:09:17.517400+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-25T16:15:11.088771+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-26T11:01:17.605463+00:00",
+      "uid": "7724735659",
+      "filename": "sahzebxgara.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-26T17:28:10.820743+00:00",
+      "uid": "8740135346",
+      "filename": "vehicleinfo.json",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'vehicleinfo.json' allow nahi hai."
+    },
+    {
+      "ts": "2026-09-27T09:57:06.122728+00:00",
+      "uid": "8790937904",
+      "filename": "Procfile",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'procfile' allow nahi hai."
+    },
+    {
+      "ts": "2026-09-27T09:59:57.630572+00:00",
+      "uid": "8790937904",
+      "filename": "Procfile",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'procfile' allow nahi hai."
+    },
+    {
+      "ts": "2026-09-27T10:02:38.965214+00:00",
+      "uid": "8790937904",
+      "filename": "Procfile",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'procfile' allow nahi hai."
+    },
+    {
+      "ts": "2026-09-27T10:05:09.375454+00:00",
+      "uid": "8790937904",
+      "filename": "Procfile",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'procfile' allow nahi hai."
+    },
+    {
+      "ts": "2026-09-27T10:08:46.117083+00:00",
+      "uid": "8790937904",
+      "filename": "Procfile",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'procfile' allow nahi hai."
+    },
+    {
+      "ts": "2026-09-27T10:11:53.030927+00:00",
+      "uid": "8790937904",
+      "filename": "Procfile",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'procfile' allow nahi hai."
+    },
+    {
+      "ts": "2026-09-27T12:33:41.612129+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T12:38:07.922768+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T12:39:37.627823+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T12:43:27.242104+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T12:48:12.302127+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T12:49:48.780411+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T12:51:35.641914+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T12:54:37.901356+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T13:01:32.931780+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T13:15:51.032369+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T13:29:18.411003+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T13:32:15.069755+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T13:36:58.941077+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T13:39:12.525060+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T13:43:44.484637+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T15:53:53.573373+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T15:58:52.607528+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T16:01:28.633986+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T16:15:39.648134+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T16:22:28.600379+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T16:25:45.080694+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T16:31:39.328147+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T16:38:48.357760+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T16:43:58.773748+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T16:48:44.981327+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T17:05:54.677220+00:00",
+      "uid": "7724735659",
+      "filename": "tgotp.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T19:29:47.964347+00:00",
+      "uid": "8790937904",
+      "filename": "freereq1.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T19:32:49.404065+00:00",
+      "uid": "8790937904",
+      "filename": "freereq2.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T19:36:57.307636+00:00",
+      "uid": "8790937904",
+      "filename": "freereq3.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T19:50:50.785587+00:00",
+      "uid": "8790937904",
+      "filename": "freereq4.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-27T20:00:52.278260+00:00",
+      "uid": "8790937904",
+      "filename": "freereq5.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T05:05:23.414918+00:00",
+      "uid": "7724735659",
+      "filename": "LZT.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T05:19:07.197941+00:00",
+      "uid": "7724735659",
+      "filename": "LZT.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T05:24:59.478334+00:00",
+      "uid": "7724735659",
+      "filename": "LZT.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T05:28:56.653579+00:00",
+      "uid": "7724735659",
+      "filename": "LZT.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T05:37:23.001040+00:00",
+      "uid": "7724735659",
+      "filename": "LZT.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T05:43:05.996057+00:00",
+      "uid": "7724735659",
+      "filename": "LZT.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T07:14:37.579449+00:00",
+      "uid": "7724735659",
+      "filename": "ultimate.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-28T09:23:42.960368+00:00",
+      "uid": "8635333045",
+      "filename": "Rose.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 35,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-09-28T12:13:33.698623+00:00",
+      "uid": "7724735659",
+      "filename": "lztfillled.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T13:31:35.925389+00:00",
+      "uid": "8790937904",
+      "filename": "kingreq.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T13:41:15.317466+00:00",
+      "uid": "8790937904",
+      "filename": "kingreq1.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T14:14:27.649049+00:00",
+      "uid": "7724735659",
+      "filename": "LZT.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T14:18:22.047310+00:00",
+      "uid": "7724735659",
+      "filename": "LZT.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T14:25:36.862426+00:00",
+      "uid": "7724735659",
+      "filename": "LZT.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T14:31:14.676158+00:00",
+      "uid": "7724735659",
+      "filename": "LZT.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T14:42:54.809037+00:00",
+      "uid": "8790937904",
+      "filename": "kingreq2.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T14:53:06.037995+00:00",
+      "uid": "8790937904",
+      "filename": "kingreq3.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-09-28T14:57:57.068984+00:00",
+      "uid": "8790937904",
+      "filename": "kingreq5.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-14T15:47:13.648697+00:00",
+      "uid": "8009335025",
+      "filename": "proxybutterscoth.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-14T15:50:24.831368+00:00",
+      "uid": "8009335025",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-14T15:56:34.137603+00:00",
+      "uid": "8009335025",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-14T16:05:29.338096+00:00",
+      "uid": "8009335025",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-14T16:07:01.454929+00:00",
+      "uid": "8009335025",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-14T16:11:05.374769+00:00",
+      "uid": "8009335025",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-14T16:42:32.935415+00:00",
+      "uid": "8009335025",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T01:37:45.708797+00:00",
+      "uid": "8009335025",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T03:33:13.375024+00:00",
+      "uid": "6515961246",
+      "filename": "primekeng.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T04:07:28.381476+00:00",
+      "uid": "6515961246",
+      "filename": "5_6235319334332276127.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T04:56:05.571520+00:00",
+      "uid": "8740135346",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T05:42:30.708586+00:00",
+      "uid": "8009335025",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T05:43:51.557394+00:00",
+      "uid": "8009335025",
+      "filename": "sruuserbot.py",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T06:04:59.245455+00:00",
+      "uid": "8009335025",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T06:40:17.939985+00:00",
+      "uid": "6515961246",
+      "filename": "useriown.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T06:58:36.754581+00:00",
+      "uid": "8602543306",
+      "filename": "sruuserbot.py",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T07:01:39.806589+00:00",
+      "uid": "8740135346",
+      "filename": "proxybutterscoth.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T07:09:48.322711+00:00",
+      "uid": "8740135346",
+      "filename": "proxybutterscoth.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T08:53:37.091958+00:00",
+      "uid": "8740135346",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T09:35:00.437452+00:00",
+      "uid": "7745343711",
+      "filename": "kanhagod.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-15T09:47:32.201929+00:00",
+      "uid": "7745343711",
+      "filename": "kanhagod.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-15T09:57:53.950391+00:00",
+      "uid": "8630447127",
+      "filename": "kanhagod.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-15T10:00:31.348672+00:00",
+      "uid": "8630447127",
+      "filename": "kanhagod.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-15T10:00:59.387724+00:00",
+      "uid": "8032573119",
+      "filename": "rebelkeng2.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T10:02:02.197242+00:00",
+      "uid": "8032573119",
+      "filename": "rebelkeng2.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T11:16:22.675613+00:00",
+      "uid": "7745343711",
+      "filename": "kanhagod.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-15T11:32:30.210854+00:00",
+      "uid": "7745343711",
+      "filename": "KANHAKRISHNA.PY",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T11:39:56.489454+00:00",
+      "uid": "7745343711",
+      "filename": "kanhaxgwd.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-15T13:10:46.534658+00:00",
+      "uid": "8032573119",
+      "filename": "rishw.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T14:13:36.554323+00:00",
+      "uid": "8740135346",
+      "filename": "sell.py",
+      "verdict": "SAFE",
+      "risk_score": 10,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T14:56:26.659491+00:00",
+      "uid": "7745343711",
+      "filename": "krishna.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-15T17:33:29.346637+00:00",
+      "uid": "8635333045",
+      "filename": "rosebot.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 35,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-15T17:33:44.759380+00:00",
+      "uid": "8788156789",
+      "filename": "kanhaxpapa.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-15T18:54:53.787445+00:00",
+      "uid": "8788156789",
+      "filename": "kanhapapa_1.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-15T19:02:05.342132+00:00",
+      "uid": "8788156789",
+      "filename": "kanhafinal_2.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T19:07:39.140293+00:00",
+      "uid": "8788156789",
+      "filename": "kanhhubkl.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-15T19:41:35.757286+00:00",
+      "uid": "7745343711",
+      "filename": "krishnaxpapa.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-16T04:48:37.125655+00:00",
+      "uid": "8740135346",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-16T05:09:40.528472+00:00",
+      "uid": "7745343711",
+      "filename": "kanhabhagwan_1.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-16T05:10:02.537686+00:00",
+      "uid": "7745343711",
+      "filename": "krishnapapa_1.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 42,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-16T08:36:35.578304+00:00",
+      "uid": "8824267480",
+      "filename": "rishigodncfixs.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-16T08:45:48.641872+00:00",
+      "uid": "8824267480",
+      "filename": "rishigodncfixzx.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-16T08:59:15.159925+00:00",
+      "uid": "8824267480",
+      "filename": "fixrishi.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-16T09:19:14.650041+00:00",
+      "uid": "8824267480",
+      "filename": "rishsafix.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-16T09:21:52.045877+00:00",
+      "uid": "8824267480",
+      "filename": "rishugidf.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-16T09:30:57.501301+00:00",
+      "uid": "8824267480",
+      "filename": "musicriahi.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-16T09:57:34.764095+00:00",
+      "uid": "7745343711",
+      "filename": "Krishnapapa_01.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-16T10:27:15.714853+00:00",
+      "uid": "8788156789",
+      "filename": "kanhafytr_1.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 42,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-16T10:46:16.965070+00:00",
+      "uid": "8788156789",
+      "filename": "kanhafytr_01.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 42,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-16T10:48:35.986297+00:00",
+      "uid": "8788156789",
+      "filename": "kanhafytr_02.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-16T11:39:36.356235+00:00",
+      "uid": "7204407681",
+      "filename": "R3B3L.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-16T16:59:28.066892+00:00",
+      "uid": "7204407681",
+      "filename": "R3B3L.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-16T17:36:09.092790+00:00",
+      "uid": "6515961246",
+      "filename": "primeabbu18.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-16T17:47:51.846917+00:00",
+      "uid": "6515961246",
+      "filename": "primeabbu18.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-16T18:58:58.832577+00:00",
+      "uid": "8032573119",
+      "filename": "rebel16.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    }
+  ]
+}
