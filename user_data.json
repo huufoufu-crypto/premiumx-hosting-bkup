@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-17T07:12:00.764087+00:00",
+      "last_seen": "2026-10-17T09:16:04.984038+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1409
+        "logins": 1413
       },
       "last_expiry_warn": -1
     },
@@ -693,7 +693,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-16T08:34:51.126537+00:00",
-      "last_seen": "2026-10-17T09:12:36.700805+00:00",
+      "last_seen": "2026-10-17T09:15:48.666116+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -707,8 +707,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 7,
-        "logins": 47
+        "bots_uploaded": 8,
+        "logins": 72
       }
     },
     "7204407681": {
@@ -1201,6 +1201,29 @@
       "status": "stopped",
       "cron": {},
       "gh_synced_at": 0
+    },
+    "c92c21861e149e35": {
+      "_id": "c92c21861e149e35",
+      "owner": 8824267480,
+      "name": "musicriahifx",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8824267480_c92c21861e149e35",
+      "created": "2026-10-17T09:15:49.812107+00:00",
+      "enc_files": [
+        {
+          "key_id": "vEm9fefRfvERXET5l3ePQw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8824267480/1792228552_musicriahifx_py.enc",
+          "filename": "musicriahifx.py",
+          "rel_path": "musicriahifx.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T09:16:03.940327+00:00",
+      "last_error": "2. remove package versions to allow pip to attempt to solve the dependency conflict\nERROR: Cannot install pytgcalls==0.0.10, pytgcalls==0.0.11, pytgcalls==0.0.12, pytgcalls==0.0.13, pytgcalls==0.0.14, pytgcalls==0.0.15, pytgcalls==0.0.16, pytgcalls==0.0.17, pytgcalls==0.0.18, pytgcalls==0.0.19, pytgcalls==0.0.2, pytgcalls==0.0.21, pytgcalls==0.0.22, pytgcalls==0.0.23, pytgcalls==0.0.24, pytgcalls==0.0.3, pytgcalls==0.0.4, pytgcalls==0.0.5, pytgcalls==0.0.6, pytgcalls==0.0.7, pytgcalls==0.0.8, pytgcalls==0.0.9, pytgcalls==1.0.0, pytgcalls==2.0.0 and pytgcalls==2.1.0 because these package versions have conflicting dependencies.\nERROR: ResolutionImpossible: for help visit https://pip.pypa.io/en/latest/topics/dependency-resolution/#dealing-with-dependency-conflicts\n[✓] auto-install done (rc=1)\nTraceback (most recent call last):\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8824267480_c92c21861e149e35/musicriahifx.py\", line 98, in <module>\n    from pyrogram import Client, filters\nModuleNotFoundError: No module named 'pyrogram'",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-17T09:16:05.729391+00:00"
     }
   },
   "payments": [
@@ -4817,6 +4840,14 @@
       "verdict": "SAFE",
       "risk_score": 5,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-17T09:15:51.854206+00:00",
+      "uid": "8824267480",
+      "filename": "musicriahifx.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
