@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-17T07:12:21.058916+00:00",
+      "last_seen": "2026-10-17T08:03:15.621482+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -279,8 +279,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 5,
-        "logins": 100
+        "bots_uploaded": 6,
+        "logins": 103
       }
     },
     "5478596644": {
@@ -1162,6 +1162,28 @@
       "last_error": "💔🛑 Failed to start bot: 'NoneType' object has no attribute 'bot'\n💔🛑 Failed to start bot: 'NoneType' object has no attribute 'bot'\n💔🛑 Failed to start bot: 'NoneType' object has no attribute 'bot'\n🐍 KRISHNAPAPA is running with 0 bots!\n👑 Owner ID: 7745343711\n⚡ Default delay: 0.010s\n📸 Photo Loop: ACTIVE\n==================================================",
       "last_exit_code": -15,
       "last_exit_at": "2026-10-17T06:58:17.995132+00:00"
+    },
+    "76898dceae428395": {
+      "_id": "76898dceae428395",
+      "owner": 6515961246,
+      "name": "prime1",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6515961246_76898dceae428395",
+      "created": "2026-10-17T08:02:48.562329+00:00",
+      "enc_files": [
+        {
+          "key_id": "FoJWgBnTRYYHMi5tbvZ6-Q",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6515961246/1792224169_prime1_py.enc",
+          "filename": "prime1.py",
+          "rel_path": "prime1.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T08:03:03.237341+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -4734,6 +4756,14 @@
       "verdict": "DANGEROUS",
       "risk_score": 60,
       "summary": "⚠️ File DANGEROUS hai! 5 threat(s) mili hain."
+    },
+    {
+      "ts": "2026-10-17T08:02:49.356229+00:00",
+      "uid": "6515961246",
+      "filename": "prime1.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
