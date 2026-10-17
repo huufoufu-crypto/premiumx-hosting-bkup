@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-17T06:24:08.666950+00:00",
+      "last_seen": "2026-10-17T06:34:17.465472+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 5,
-        "logins": 81
+        "logins": 87
       }
     },
     "5478596644": {
@@ -1092,28 +1092,6 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-10-17T06:19:18.288680+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "f00d745dfae65a1c": {
-      "_id": "f00d745dfae65a1c",
-      "owner": 6515961246,
-      "name": "primeabbu18",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6515961246_f00d745dfae65a1c",
-      "created": "2026-10-16T17:47:50.900606+00:00",
-      "enc_files": [
-        {
-          "key_id": "dk0N-ktK24VMAAOXHm-RYA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6515961246/1792172872_primeabbu18_py.enc",
-          "filename": "primeabbu18.py",
-          "rel_path": "primeabbu18.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-17T06:19:19.991441+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -3338,6 +3316,12 @@
       "uid": 8740135346,
       "action": "broadcast_sent",
       "detail": "sent=28 fail=0"
+    },
+    {
+      "ts": "2026-10-17T06:34:17.778671+00:00",
+      "uid": 6515961246,
+      "action": "bot_delete",
+      "detail": "bot=f00d745dfae65a1c"
     }
   ],
   "coupons": {},
