@@ -85,7 +85,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-17T18:14:29.754737+00:00",
-      "last_seen": "2026-09-21T13:47:17.520827+00:00",
+      "last_seen": "2026-10-17T17:45:21.622996+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -100,7 +100,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 14
+        "logins": 23
       }
     },
     "7850084518": {
@@ -317,7 +317,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-21T06:17:43.731369+00:00",
-      "last_seen": "2026-10-17T17:40:34.951639+00:00",
+      "last_seen": "2026-10-17T17:45:51.670367+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -331,8 +331,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 8
+        "bots_uploaded": 1,
+        "logins": 11
       }
     },
     "7724735659": {
@@ -1258,6 +1258,28 @@
       "status": "stopped",
       "cron": {},
       "gh_synced_at": 0
+    },
+    "9ab9a0468d3ee112": {
+      "_id": "9ab9a0468d3ee112",
+      "owner": 8444271488,
+      "name": "bomb",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8444271488_9ab9a0468d3ee112",
+      "created": "2026-10-17T17:45:25.658186+00:00",
+      "enc_files": [
+        {
+          "key_id": "DEm0-EN05vfI_9cQlYP6YQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8444271488/1792259127_bomb_py.enc",
+          "filename": "bomb.py",
+          "rel_path": "bomb.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T17:45:34.484385+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -4974,6 +4996,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 10,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-17T17:45:26.884247+00:00",
+      "uid": "8444271488",
+      "filename": "bomb.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
