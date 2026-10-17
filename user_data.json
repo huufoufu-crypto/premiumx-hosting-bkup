@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-17T05:56:43.109267+00:00",
+      "last_seen": "2026-10-17T05:59:59.228486+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 1,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 15,
-        "logins": 1320
+        "bots_uploaded": 16,
+        "logins": 1332
       },
       "last_expiry_warn": -1
     },
@@ -493,7 +493,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-17T05:48:52.414776+00:00",
+      "last_seen": "2026-10-17T05:58:26.816770+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -508,7 +508,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 11,
-        "logins": 162
+        "logins": 163
       }
     },
     "8630447127": {
@@ -1166,6 +1166,28 @@
       "last_error": "════════════════ START 2026-10-17T05:38:08.331694+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_027ab54d45e5b2a5/Krishna_erafile.py\", line 74\n    NON_SUDO_MSG = \"अपनी औकात बना, रंडी की औलाद \n                   ^\nSyntaxError: unterminated string literal (detected at line 74)",
       "last_exit_code": 1,
       "last_exit_at": "2026-10-17T05:38:08.373828+00:00"
+    },
+    "50394c1eabfa7015": {
+      "_id": "50394c1eabfa7015",
+      "owner": 8740135346,
+      "name": "proxyuser",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_50394c1eabfa7015",
+      "created": "2026-10-17T05:57:26.248762+00:00",
+      "enc_files": [
+        {
+          "key_id": "0U3fSKtIm4pWi3JZgWGHxg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8740135346/1792216646_proxyuser_py.enc",
+          "filename": "proxyuser.py",
+          "rel_path": "proxyuser.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T05:57:33.057002+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -4562,6 +4584,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-17T05:57:26.647437+00:00",
+      "uid": "8740135346",
+      "filename": "proxyuser.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
