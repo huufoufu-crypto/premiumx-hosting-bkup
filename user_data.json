@@ -493,7 +493,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-17T14:22:10.029313+00:00",
+      "last_seen": "2026-10-17T14:29:49.954188+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -507,8 +507,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 14,
-        "logins": 195
+        "bots_uploaded": 15,
+        "logins": 201
       }
     },
     "8630447127": {
@@ -1189,28 +1189,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "f07fb04ebe71b345": {
-      "_id": "f07fb04ebe71b345",
-      "owner": 7745343711,
-      "name": "Krishnaxfinal_01",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_f07fb04ebe71b345",
-      "created": "2026-10-17T08:35:57.865920+00:00",
-      "enc_files": [
-        {
-          "key_id": "qLosMAOA5z2B_eCZBHSlRg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792226158_Krishnaxfinal_01_py.enc",
-          "filename": "Krishnaxfinal_01.py",
-          "rel_path": "Krishnaxfinal_01.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-17T08:36:05.897621+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "f00890d9755c049c": {
       "_id": "f00890d9755c049c",
       "owner": 8824267480,
@@ -1251,6 +1229,33 @@
       "status": "stopped",
       "cron": {},
       "gh_synced_at": 0
+    },
+    "0ef95c2ab7eaa2e5": {
+      "_id": "0ef95c2ab7eaa2e5",
+      "owner": 7745343711,
+      "name": "Krishnapapa_01",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_0ef95c2ab7eaa2e5",
+      "created": "2026-10-17T14:29:26.067562+00:00",
+      "enc_files": [
+        {
+          "key_id": "SJThGG4cLsu0V-RDAswMKw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792247367_Krishnapapa_01_py.enc",
+          "filename": "Krishnapapa_01.py",
+          "rel_path": "Krishnapapa_01.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-17T14:29:35.260438+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -3515,6 +3520,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=9278"
+    },
+    {
+      "ts": "2026-10-17T14:25:29.503904+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=f07fb04ebe71b345"
     }
   ],
   "coupons": {},
@@ -4898,6 +4909,14 @@
       "filename": "musicriahifx.py",
       "verdict": "SUSPICIOUS",
       "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-17T14:29:27.638084+00:00",
+      "uid": "7745343711",
+      "filename": "Krishnapapa_01.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
