@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-17T07:10:21.556370+00:00",
+      "last_seen": "2026-10-17T07:12:00.764087+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1406
+        "logins": 1409
       },
       "last_expiry_warn": -1
     },
@@ -265,9 +265,9 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-17T07:10:17.464413+00:00",
-      "banned": true,
-      "ban_reason": "UPLOADING THREAT FILES",
+      "last_seen": "2026-10-17T07:12:21.058916+00:00",
+      "banned": false,
+      "ban_reason": "",
       "wallet": 0,
       "kyc": false,
       "verified": true,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 5,
-        "logins": 99
+        "logins": 100
       }
     },
     "5478596644": {
@@ -3383,6 +3383,12 @@
       "ts": "2026-10-17T07:10:21.603667+00:00",
       "uid": 8740135346,
       "action": "ban_user",
+      "detail": "uid=6515961246"
+    },
+    {
+      "ts": "2026-10-17T07:12:00.801451+00:00",
+      "uid": 8740135346,
+      "action": "unban_user",
       "detail": "uid=6515961246"
     }
   ],
