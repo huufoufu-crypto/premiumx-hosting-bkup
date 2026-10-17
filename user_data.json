@@ -785,7 +785,8 @@
         "bots_uploaded": 0,
         "logins": 11
       },
-      "last_expiry_warn": -1
+      "last_expiry_warn": -1,
+      "last_renewal_reminder": "2026-10-17"
     }
   },
   "bots": {
