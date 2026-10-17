@@ -693,7 +693,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-16T08:34:51.126537+00:00",
-      "last_seen": "2026-10-17T17:26:04.495265+00:00",
+      "last_seen": "2026-10-17T17:33:46.681887+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -707,8 +707,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 9,
-        "logins": 80
+        "bots_uploaded": 10,
+        "logins": 85
       }
     },
     "7204407681": {
@@ -3552,6 +3552,12 @@
       "uid": 8824267480,
       "action": "bot_delete",
       "detail": "bot=64d4e4e44ef1b2e7"
+    },
+    {
+      "ts": "2026-10-17T17:33:47.515716+00:00",
+      "uid": 8824267480,
+      "action": "bot_delete",
+      "detail": "bot=d512cc791008804e"
     }
   ],
   "coupons": {},
@@ -4957,6 +4963,14 @@
       "ts": "2026-10-17T17:22:56.611377+00:00",
       "uid": "8824267480",
       "filename": "muz.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-17T17:32:24.568952+00:00",
+      "uid": "8824267480",
+      "filename": "rishimuzi.py",
       "verdict": "SUSPICIOUS",
       "risk_score": 10,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
