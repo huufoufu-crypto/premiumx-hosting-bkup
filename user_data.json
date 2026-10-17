@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-17T06:55:29.712951+00:00",
+      "last_seen": "2026-10-17T06:57:44.200218+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1397
+        "logins": 1402
       },
       "last_expiry_warn": -1
     },
@@ -493,7 +493,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-17T06:55:00.494396+00:00",
+      "last_seen": "2026-10-17T06:58:17.377462+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -507,8 +507,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 12,
-        "logins": 167
+        "bots_uploaded": 13,
+        "logins": 177
       }
     },
     "8630447127": {
@@ -1140,32 +1140,28 @@
       "last_exit_code": -15,
       "last_exit_at": "2026-10-17T06:40:59.483672+00:00"
     },
-    "99486e8b32e20f54": {
-      "_id": "99486e8b32e20f54",
+    "18c7d50137435f56": {
+      "_id": "18c7d50137435f56",
       "owner": 7745343711,
-      "name": "krishnafile02",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_99486e8b32e20f54",
-      "created": "2026-10-17T06:54:47.256175+00:00",
+      "name": "Krishnafinal01",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_18c7d50137435f56",
+      "created": "2026-10-17T06:56:47.735901+00:00",
       "enc_files": [
         {
-          "key_id": "tp-kTHit8wUOeRQS0asxEg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792220087_krishnafile02_py.enc",
-          "filename": "krishnafile02.py",
-          "rel_path": "krishnafile02.py"
+          "key_id": "MjQIujs-4vVefayDNLU3Xw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792220208_Krishnafinal01_py.enc",
+          "filename": "Krishnafinal01.py",
+          "rel_path": "Krishnafinal01.py"
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "stopped",
       "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 30,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
       "gh_synced_at": 0,
-      "last_error": "════════════════ START 2026-10-17T06:54:54.046378+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_99486e8b32e20f54/krishnafile02.py\", line 27\n    TOKENS = [\n             ^\nSyntaxError: '[' was never closed",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-17T06:54:54.120152+00:00"
+      "last_started": "2026-10-17T06:57:33.204919+00:00",
+      "last_error": "💔🛑 Failed to start bot: 'NoneType' object has no attribute 'bot'\n💔🛑 Failed to start bot: 'NoneType' object has no attribute 'bot'\n💔🛑 Failed to start bot: 'NoneType' object has no attribute 'bot'\n🐍 KRISHNAPAPA is running with 0 bots!\n👑 Owner ID: 7745343711\n⚡ Default delay: 0.010s\n📸 Photo Loop: ACTIVE\n==================================================",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-17T06:58:17.995132+00:00"
     }
   },
   "payments": [
@@ -3334,6 +3330,12 @@
       "uid": 7745343711,
       "action": "bot_delete",
       "detail": "bot=027ab54d45e5b2a5"
+    },
+    {
+      "ts": "2026-10-17T06:56:23.462000+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=99486e8b32e20f54"
     }
   ],
   "coupons": {},
@@ -4614,6 +4616,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-17T06:56:48.133557+00:00",
+      "uid": "7745343711",
+      "filename": "Krishnafinal01.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
