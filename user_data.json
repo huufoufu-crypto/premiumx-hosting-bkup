@@ -765,26 +765,27 @@
       "_id": 8888740129,
       "name": "Luvvvv",
       "username": "Sugardaddy_luv",
-      "plan": "free",
-      "plan_expires": null,
+      "plan": "pro",
+      "plan_expires": "2026-10-19T15:40:31.035246+00:00",
       "joined": "2026-10-17T11:21:02.626038+00:00",
-      "last_seen": "2026-10-17T11:21:02.626056+00:00",
+      "last_seen": "2026-10-17T15:40:57.860118+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
       "kyc": false,
-      "verified": false,
-      "verified_at": null,
+      "verified": true,
+      "verified_at": "2026-10-17T15:40:10.042662+00:00",
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
-      "trial_used": false,
+      "trial_used": true,
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 1
-      }
+        "logins": 9
+      },
+      "last_expiry_warn": -1
     }
   },
   "bots": {
@@ -3526,6 +3527,18 @@
       "uid": 7745343711,
       "action": "bot_delete",
       "detail": "bot=f07fb04ebe71b345"
+    },
+    {
+      "ts": "2026-10-17T15:40:10.995152+00:00",
+      "uid": 8888740129,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-17T15:40:31.389647+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=8888740129"
     }
   ],
   "coupons": {},
