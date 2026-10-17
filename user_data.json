@@ -693,7 +693,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-16T08:34:51.126537+00:00",
-      "last_seen": "2026-10-17T09:20:03.217562+00:00",
+      "last_seen": "2026-10-17T17:26:04.495265+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -707,8 +707,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 8,
-        "logins": 75
+        "bots_uploaded": 9,
+        "logins": 80
       }
     },
     "7204407681": {
@@ -3546,6 +3546,12 @@
       "uid": 8788156789,
       "action": "bot_delete",
       "detail": "bot=b16994b3b07c2248"
+    },
+    {
+      "ts": "2026-10-17T17:26:07.091921+00:00",
+      "uid": 8824267480,
+      "action": "bot_delete",
+      "detail": "bot=64d4e4e44ef1b2e7"
     }
   ],
   "coupons": {},
@@ -4946,6 +4952,14 @@
       "verdict": "SAFE",
       "risk_score": 5,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-17T17:22:56.611377+00:00",
+      "uid": "8824267480",
+      "filename": "muz.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
