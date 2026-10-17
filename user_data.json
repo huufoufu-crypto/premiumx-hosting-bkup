@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-17T06:49:52.487914+00:00",
+      "last_seen": "2026-10-17T06:55:29.712951+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1386
+        "logins": 1397
       },
       "last_expiry_warn": -1
     },
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-17T06:41:35.787888+00:00",
+      "last_seen": "2026-10-17T06:52:13.764546+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 5,
-        "logins": 88
+        "logins": 90
       }
     },
     "5478596644": {
@@ -493,7 +493,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-17T05:58:26.816770+00:00",
+      "last_seen": "2026-10-17T06:55:00.494396+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -507,8 +507,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 11,
-        "logins": 163
+        "bots_uploaded": 12,
+        "logins": 167
       }
     },
     "8630447127": {
@@ -1117,34 +1117,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "027ab54d45e5b2a5": {
-      "_id": "027ab54d45e5b2a5",
-      "owner": 7745343711,
-      "name": "Krishna_erafile",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_027ab54d45e5b2a5",
-      "created": "2026-10-17T05:38:02.590098+00:00",
-      "enc_files": [
-        {
-          "key_id": "R5JGX4IMMjjah97sn-4cgQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792215483_Krishna_erafile_py.enc",
-          "filename": "Krishna_erafile.py",
-          "rel_path": "Krishna_erafile.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 30,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-17T05:38:08.351143+00:00",
-      "last_error": "════════════════ START 2026-10-17T05:38:08.331694+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_027ab54d45e5b2a5/Krishna_erafile.py\", line 74\n    NON_SUDO_MSG = \"अपनी औकात बना, रंडी की औलाद \n                   ^\nSyntaxError: unterminated string literal (detected at line 74)",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-17T05:38:08.373828+00:00"
-    },
     "50394c1eabfa7015": {
       "_id": "50394c1eabfa7015",
       "owner": 8740135346,
@@ -1167,6 +1139,33 @@
       "last_error": "════════════════ START 2026-10-17T06:19:21.403986+00:00 ════════════════\nPlease enter your phone (or bot token): ",
       "last_exit_code": -15,
       "last_exit_at": "2026-10-17T06:40:59.483672+00:00"
+    },
+    "99486e8b32e20f54": {
+      "_id": "99486e8b32e20f54",
+      "owner": 7745343711,
+      "name": "krishnafile02",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_99486e8b32e20f54",
+      "created": "2026-10-17T06:54:47.256175+00:00",
+      "enc_files": [
+        {
+          "key_id": "tp-kTHit8wUOeRQS0asxEg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792220087_krishnafile02_py.enc",
+          "filename": "krishnafile02.py",
+          "rel_path": "krishnafile02.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_error": "════════════════ START 2026-10-17T06:54:54.046378+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_99486e8b32e20f54/krishnafile02.py\", line 27\n    TOKENS = [\n             ^\nSyntaxError: '[' was never closed",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-17T06:54:54.120152+00:00"
     }
   },
   "payments": [
@@ -3329,6 +3328,12 @@
       "uid": 8740135346,
       "action": "broadcast_sent",
       "detail": "sent=28 fail=0"
+    },
+    {
+      "ts": "2026-10-17T06:54:31.953649+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=027ab54d45e5b2a5"
     }
   ],
   "coupons": {},
@@ -4601,6 +4606,14 @@
       "verdict": "SAFE",
       "risk_score": 12,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-17T06:54:47.623551+00:00",
+      "uid": "7745343711",
+      "filename": "krishnafile02.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
