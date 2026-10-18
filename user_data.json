@@ -618,7 +618,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-18T09:59:31.111919+00:00",
+      "last_seen": "2026-10-18T10:33:01.783939+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -632,8 +632,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 5,
-        "logins": 49
+        "bots_uploaded": 6,
+        "logins": 55
       }
     },
     "8788156789": {
@@ -1310,16 +1310,16 @@
       "last_exit_code": -15,
       "last_exit_at": "2026-10-18T09:57:55.251477+00:00"
     },
-    "5487c1fa27573527": {
-      "_id": "5487c1fa27573527",
+    "b22a2819c6828624": {
+      "_id": "b22a2819c6828624",
       "owner": 8032573119,
       "name": "rishugidf",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_5487c1fa27573527",
-      "created": "2026-10-18T02:29:47.754954+00:00",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_b22a2819c6828624",
+      "created": "2026-10-18T10:32:19.057064+00:00",
       "enc_files": [
         {
-          "key_id": "kD2Q3vmLxPZNDEu-RutNAg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792290589_rishugidf_py.enc",
+          "key_id": "L-QM218dNGLS8fOHciIFDw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792319540_rishugidf_py.enc",
           "filename": "rishugidf.py",
           "rel_path": "rishugidf.py"
         }
@@ -1328,10 +1328,9 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-18T10:00:08.932703+00:00",
+      "last_started": "2026-10-18T10:33:04.390398+00:00",
       "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-18T09:58:40.361002+00:00"
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -3662,6 +3661,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=10221"
+    },
+    {
+      "ts": "2026-10-18T10:32:39.572653+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=5487c1fa27573527"
     }
   ],
   "coupons": {},
@@ -5097,6 +5102,14 @@
     },
     {
       "ts": "2026-10-18T02:29:49.129587+00:00",
+      "uid": "8032573119",
+      "filename": "rishugidf.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-18T10:32:20.042175+00:00",
       "uid": "8032573119",
       "filename": "rishugidf.py",
       "verdict": "SAFE",
