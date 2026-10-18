@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-18T09:37:14.911472+00:00",
+      "last_seen": "2026-10-18T09:41:42.034318+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1431
+        "logins": 1434
       },
       "last_expiry_warn": -1
     },
@@ -1164,12 +1164,12 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-17T06:19:22.019336+00:00",
-      "last_error": "════════════════ START 2026-10-17T06:19:21.403986+00:00 ════════════════\nPlease enter your phone (or bot token): ",
-      "last_exit_code": -15,
+      "last_started": "2026-10-18T09:41:44.152852+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-10-17T06:40:59.483672+00:00"
     },
     "76898dceae428395": {
