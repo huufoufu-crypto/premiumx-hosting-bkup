@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-18T13:25:44.253084+00:00",
+      "last_seen": "2026-10-18T15:23:41.899939+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1471
+        "logins": 1473
       },
       "last_expiry_warn": -1
     },
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-18T13:44:34.647528+00:00",
+      "last_seen": "2026-10-18T15:22:54.138686+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 7,
-        "logins": 130
+        "logins": 139
       }
     },
     "5478596644": {
@@ -1451,6 +1451,16 @@
       "telegram_msg_id": 4014,
       "approved_by": 8740135346,
       "approved_at": "2026-10-16T13:59:51.819265+00:00"
+    },
+    {
+      "id": "661IEWMO",
+      "uid": 6515961246,
+      "method": "unknown",
+      "plan": null,
+      "amount": 0,
+      "status": "pending",
+      "ts": "2026-10-18T15:22:54.179798+00:00",
+      "telegram_msg_id": 4584
     }
   ],
   "admins": {
