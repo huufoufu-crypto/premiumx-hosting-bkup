@@ -618,7 +618,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-18T00:33:06.549711+00:00",
+      "last_seen": "2026-10-18T02:30:29.543458+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -632,8 +632,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 4,
-        "logins": 32
+        "bots_uploaded": 5,
+        "logins": 36
       }
     },
     "8788156789": {
@@ -1149,28 +1149,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "b0e7a4cfe2e8e0c3": {
-      "_id": "b0e7a4cfe2e8e0c3",
-      "owner": 8032573119,
-      "name": "rebel16",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_b0e7a4cfe2e8e0c3",
-      "created": "2026-10-16T18:58:57.764634+00:00",
-      "enc_files": [
-        {
-          "key_id": "XE3JhjuuoZGvxyq4lEg9wQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792177139_rebel16_py.enc",
-          "filename": "rebel16.py",
-          "rel_path": "rebel16.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-17T06:19:20.853115+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "50394c1eabfa7015": {
       "_id": "50394c1eabfa7015",
       "owner": 8740135346,
@@ -1325,6 +1303,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-17T20:26:25.776345+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "5487c1fa27573527": {
+      "_id": "5487c1fa27573527",
+      "owner": 8032573119,
+      "name": "rishugidf",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_5487c1fa27573527",
+      "created": "2026-10-18T02:29:47.754954+00:00",
+      "enc_files": [
+        {
+          "key_id": "kD2Q3vmLxPZNDEu-RutNAg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792290589_rishugidf_py.enc",
+          "filename": "rishugidf.py",
+          "rel_path": "rishugidf.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-18T02:29:56.940023+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -3633,6 +3633,12 @@
       "uid": 7950545220,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-18T02:30:30.430203+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=b0e7a4cfe2e8e0c3"
     }
   ],
   "coupons": {},
@@ -5062,6 +5068,14 @@
       "ts": "2026-10-17T20:26:18.300766+00:00",
       "uid": "7950545220",
       "filename": "vishux.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-18T02:29:49.129587+00:00",
+      "uid": "8032573119",
+      "filename": "rishugidf.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
