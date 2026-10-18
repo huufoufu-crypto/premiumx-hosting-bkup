@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-18T16:12:13.925658+00:00",
+      "last_seen": "2026-10-18T16:23:08.176064+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 4,
-        "logins": 69
+        "bots_uploaded": 5,
+        "logins": 78
       }
     },
     "8854714402": {
@@ -1356,28 +1356,6 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-18T12:26:20.998560+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "deab73303a307860": {
-      "_id": "deab73303a307860",
-      "owner": 8630447127,
-      "name": "ig",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8630447127_deab73303a307860",
-      "created": "2026-10-18T16:11:46.513672+00:00",
-      "enc_files": [
-        {
-          "key_id": "H2uE8zj6tdtQ3wjZzZUnoQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8630447127/1792339907_ig_py.enc",
-          "filename": "ig.py",
-          "rel_path": "ig.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-18T16:11:53.961490+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -3764,6 +3742,18 @@
       "uid": 8630447127,
       "action": "pip_install",
       "detail": "bot=deab73303a307860 ok=True"
+    },
+    {
+      "ts": "2026-10-18T16:21:44.738616+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=deab73303a307860"
+    },
+    {
+      "ts": "2026-10-18T16:23:08.991042+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=42b973b0f4e0f432"
     }
   ],
   "coupons": {},
@@ -5223,6 +5213,14 @@
     },
     {
       "ts": "2026-10-18T16:11:46.803478+00:00",
+      "uid": "8630447127",
+      "filename": "ig.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-18T16:21:55.500581+00:00",
       "uid": "8630447127",
       "filename": "ig.py",
       "verdict": "SAFE",
