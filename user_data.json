@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-18T12:22:10.218327+00:00",
+      "last_seen": "2026-10-18T12:26:13.240115+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1464
+        "logins": 1468
       },
       "last_expiry_warn": -1
     },
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-18T12:18:08.982794+00:00",
+      "last_seen": "2026-10-18T12:26:36.252258+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -279,8 +279,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 6,
-        "logins": 110
+        "bots_uploaded": 7,
+        "logins": 128
       }
     },
     "5478596644": {
@@ -1172,29 +1172,6 @@
       "last_exit_code": -15,
       "last_exit_at": "2026-10-18T09:57:55.509457+00:00"
     },
-    "76898dceae428395": {
-      "_id": "76898dceae428395",
-      "owner": 6515961246,
-      "name": "prime1",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6515961246_76898dceae428395",
-      "created": "2026-10-17T08:02:48.562329+00:00",
-      "enc_files": [
-        {
-          "key_id": "FoJWgBnTRYYHMi5tbvZ6-Q",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6515961246/1792224169_prime1_py.enc",
-          "filename": "prime1.py",
-          "rel_path": "prime1.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-18T12:18:11.209333+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-18T09:57:50.626421+00:00"
-    },
     "f00890d9755c049c": {
       "_id": "f00890d9755c049c",
       "owner": 8824267480,
@@ -1329,6 +1306,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-18T10:33:04.390398+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "2cc0baaf7ac11e7b": {
+      "_id": "2cc0baaf7ac11e7b",
+      "owner": 6515961246,
+      "name": "prime1",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6515961246_2cc0baaf7ac11e7b",
+      "created": "2026-10-18T12:26:06.725004+00:00",
+      "enc_files": [
+        {
+          "key_id": "5_n-GyfhKrpoWGFDuveMLw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6515961246/1792326367_prime1_py.enc",
+          "filename": "prime1.py",
+          "rel_path": "prime1.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-18T12:26:20.998560+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -3667,6 +3666,12 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=5487c1fa27573527"
+    },
+    {
+      "ts": "2026-10-18T12:25:53.550960+00:00",
+      "uid": 6515961246,
+      "action": "bot_delete",
+      "detail": "bot=76898dceae428395"
     }
   ],
   "coupons": {},
@@ -5112,6 +5117,14 @@
       "ts": "2026-10-18T10:32:20.042175+00:00",
       "uid": "8032573119",
       "filename": "rishugidf.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-18T12:26:07.469430+00:00",
+      "uid": "6515961246",
+      "filename": "prime1.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
