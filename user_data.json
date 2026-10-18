@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-18T09:55:09.434399+00:00",
+      "last_seen": "2026-10-18T10:00:56.604773+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1439
+        "logins": 1454
       },
       "last_expiry_warn": -1
     },
@@ -484,7 +484,7 @@
         "bots_uploaded": 11,
         "logins": 222
       },
-      "last_expiry_warn": -1
+      "last_expiry_warn": 3
     },
     "7745343711": {
       "_id": 7745343711,
@@ -618,7 +618,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-18T08:11:56.358631+00:00",
+      "last_seen": "2026-10-18T09:59:31.111919+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -633,7 +633,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 5,
-        "logins": 43
+        "logins": 49
       }
     },
     "8788156789": {
@@ -785,7 +785,7 @@
         "bots_uploaded": 0,
         "logins": 11
       },
-      "last_expiry_warn": -1,
+      "last_expiry_warn": 1,
       "last_renewal_reminder": "2026-10-18"
     },
     "7950545220": {
@@ -1117,10 +1117,10 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-17T06:19:17.403162+00:00",
+      "last_started": "2026-10-18T10:00:08.006577+00:00",
       "last_error": "",
       "last_exit_code": null,
-      "last_exit_at": "2026-10-16T13:48:04.406993+00:00"
+      "last_exit_at": "2026-10-18T09:57:47.281113+00:00"
     },
     "9c9d87ad681c4975": {
       "_id": "9c9d87ad681c4975",
@@ -1137,7 +1137,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1164,13 +1164,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-18T09:41:44.152852+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-17T06:40:59.483672+00:00"
+      "last_error": "   .promote - Promote all protected bots to admin\n   .removex - Instantly delete messages from specific bots\n   .stopremovex - Stop instant delete\n   .hunnyvanish - Delete all user/bot messages\n   .stophunnyvanish - Stop hunnyvanish\n   .muteaction - Delete all bot messages instantly\n   .stopmuteaction - Stop muteaction\n---",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-18T09:57:55.509457+00:00"
     },
     "76898dceae428395": {
       "_id": "76898dceae428395",
@@ -1187,12 +1187,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-17T08:03:03.237341+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "2026-10-17 19:47:34,961 - __main__ - INFO - Refresh command handled for bot 8705950973; polling remains active.\n2026-10-17 19:51:38,092 - __main__ - INFO - Refresh command handled for bot 8705950973; polling remains active.\n2026-10-17 20:33:58,430 - __main__ - INFO - Refresh command handled for bot 8705950973; polling remains active.\n2026-10-17 20:39:34,759 - __main__ - INFO - Refresh command handled for bot 8705950973; polling remains active.\n2026-10-18 06:12:38,757 - __main__ - INFO - Refresh command handled for bot 8705950973; polling remains active.\n2026-10-18 08:02:22,093 - __main__ - INFO - Refresh command handled for bot 8705950973; polling remains active.\n2026-10-18 08:13:18,467 - __main__ - INFO - Refresh command handled for bot 8705950973; polling remains active.\n2026-10-18 08:14:13,124 - __main__ - INFO - Refresh command handled for bot 8705950973; polling remains active.",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-18T09:57:50.626421+00:00"
     },
     "f00890d9755c049c": {
       "_id": "f00890d9755c049c",
@@ -1209,12 +1210,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-17T08:46:35.338476+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8719342571:AAGUIHM5FEBshvm9FISawYmOBaxiE9FxOwA/getUpdates \"HTTP/1.1 200 OK\"",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-18T09:57:50.754585+00:00"
     },
     "0ef95c2ab7eaa2e5": {
       "_id": "0ef95c2ab7eaa2e5",
@@ -1231,7 +1233,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1277,12 +1279,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-17T17:45:34.484385+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "01:11:49 [ERROR] aiogram.dispatcher — Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway\n01:11:49 [WARNING] aiogram.dispatcher — Sleep for 4.178326 seconds and try again... (tryings = 5, bot id = 8945895586)\n01:13:04 [ERROR] aiogram.dispatcher — Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error\n01:13:04 [WARNING] aiogram.dispatcher — Sleep for 4.782300 seconds and try again... (tryings = 6, bot id = 8945895586)\n01:14:03 [INFO] aiogram.dispatcher — Connection established (tryings = 7, bot id = 8945895586)\n09:57:53 [WARNING] aiogram.dispatcher — Received SIGTERM signal\n09:57:53 [INFO] aiogram.dispatcher — Polling stopped for bot @Bomerbbot id=8945895586 - 'Bombebebbrt'\n09:57:53 [INFO] aiogram.dispatcher — Polling stopped",
+      "last_exit_code": 0,
+      "last_exit_at": "2026-10-18T09:57:55.165257+00:00"
     },
     "73f4dc4db996dd2a": {
       "_id": "73f4dc4db996dd2a",
@@ -1299,12 +1302,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-17T20:26:25.776345+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "2026-10-18 09:57:46,969 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7965412435:AAH6fRZSiCzqxTRjYGY5GpsYr6oHxQU1Ppc/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:47,115 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8905913573:AAGCtduPayIoUgjOnocRPFpZk0g1qI9a7V0/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:47,729 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8528158754:AAGfm8yjJw8UjMxcuQU53noIQJ90srR7Bds/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,205 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7651290228:AAGgMoTvckHvwB4LuWLH5shMtdOZYIp0W5k/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,391 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8387018864:AAEfaNk0cOdSQHgP_U-PCX6m9xUK-sPT8rQ/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,721 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8593174886:AAH7ibZofWJGv1GnM7DZcDSpkjl1mILskbc/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,794 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8678463057:AAFW5rNIGH8f6cQV4wloe68N6WzJyjt91qE/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:51,227 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8369322630:AAFHqcsk4KpXMo_qYy6iicmdZd8Xgv1m4Vw/getUpdates \"HTTP/1.1 200 OK\"",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-18T09:57:55.251477+00:00"
     },
     "5487c1fa27573527": {
       "_id": "5487c1fa27573527",
@@ -1324,9 +1328,10 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-18T08:11:59.830897+00:00",
+      "last_started": "2026-10-18T10:00:08.932703+00:00",
       "last_error": "",
-      "last_exit_code": null
+      "last_exit_code": null,
+      "last_exit_at": "2026-10-18T09:58:40.361002+00:00"
     }
   },
   "payments": [
@@ -3639,6 +3644,24 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=b0e7a4cfe2e8e0c3"
+    },
+    {
+      "ts": "2026-10-18T09:57:55.609419+00:00",
+      "uid": 8740135346,
+      "action": "stop_all_bots",
+      "detail": "stopped=9"
+    },
+    {
+      "ts": "2026-10-18T09:58:40.405581+00:00",
+      "uid": 8740135346,
+      "action": "stop_all_bots",
+      "detail": "stopped=1"
+    },
+    {
+      "ts": "2026-10-18T10:00:08.689962+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=10221"
     }
   ],
   "coupons": {},
