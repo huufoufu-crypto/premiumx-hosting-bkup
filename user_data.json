@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-18T16:39:46.946752+00:00",
+      "last_seen": "2026-10-18T16:46:13.964685+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 7,
-        "logins": 86
+        "logins": 88
       }
     },
     "8854714402": {
@@ -771,7 +771,7 @@
       "plan": "pro",
       "plan_expires": "2026-10-19T15:40:31.035246+00:00",
       "joined": "2026-10-17T11:21:02.626038+00:00",
-      "last_seen": "2026-10-17T15:42:56.838297+00:00",
+      "last_seen": "2026-10-18T16:47:42.799297+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -786,7 +786,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 11
+        "logins": 12
       },
       "last_expiry_warn": 1,
       "last_renewal_reminder": "2026-10-18"
@@ -1378,8 +1378,9 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-18T16:39:54.786238+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "════════════════ START 2026-10-18T16:39:54.560965+00:00 ════════════════\nInstagram bot (with pic) chal raha hai...",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-18T16:46:14.798513+00:00"
     }
   },
   "payments": [
