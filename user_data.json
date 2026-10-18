@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-18T19:02:58.919523+00:00",
+      "last_seen": "2026-10-18T19:14:11.665405+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 4,
-        "logins": 22
+        "bots_uploaded": 6,
+        "logins": 35
       }
     }
   },
@@ -1407,22 +1407,22 @@
       "last_exit_code": -15,
       "last_exit_at": "2026-10-18T16:46:14.798513+00:00"
     },
-    "c7ce86310864e6ca": {
-      "_id": "c7ce86310864e6ca",
+    "5220e4b6e75cf7ba": {
+      "_id": "5220e4b6e75cf7ba",
       "owner": 8926345670,
-      "name": "zenoxgod_01",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_c7ce86310864e6ca",
-      "created": "2026-10-18T19:02:43.101232+00:00",
+      "name": "zenoxgod_1",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_5220e4b6e75cf7ba",
+      "created": "2026-10-18T19:13:55.566800+00:00",
       "enc_files": [
         {
-          "key_id": "sNY2OgMUZI2KGvk-VWHOSw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792350165_zenoxgod_01_py.enc",
-          "filename": "zenoxgod_01.py",
-          "rel_path": "zenoxgod_01.py"
+          "key_id": "ENUIq6u_szuJjqQ-WR7EVQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792350837_zenoxgod_1_py.enc",
+          "filename": "zenoxgod_1.py",
+          "rel_path": "zenoxgod_1.py"
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1430,10 +1430,9 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-18T19:02:52.876955+00:00",
-      "last_error": "════════════════ START 2026-10-18T19:02:52.074798+00:00 ════════════════\nTraceback (most recent call last):\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_c7ce86310864e6ca/zenoxgod_01.py\", line 6865, in <module>\n    \"zenox1\":            ZENOXPAPA_CMDS[\"zenoxpapa1\"],\n                         ^^^^^^^^^^^^^^\nNameError: name 'ZENOXPAPA_CMDS' is not defined",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-18T19:02:54.832000+00:00"
+      "last_started": "2026-10-18T19:14:04.848992+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -3860,6 +3859,18 @@
       "uid": 8926345670,
       "action": "bot_delete",
       "detail": "bot=3ab90cf72e95ecef"
+    },
+    {
+      "ts": "2026-10-18T19:11:47.343403+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=c7ce86310864e6ca"
+    },
+    {
+      "ts": "2026-10-18T19:13:10.760346+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=d4bc1ae4be420a83"
     }
   ],
   "coupons": {},
@@ -5377,6 +5388,22 @@
       "ts": "2026-10-18T19:02:44.877993+00:00",
       "uid": "8926345670",
       "filename": "zenoxgod_01.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-18T19:12:15.861737+00:00",
+      "uid": "8926345670",
+      "filename": "2newfile.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-18T19:13:57.240035+00:00",
+      "uid": "8926345670",
+      "filename": "zenoxgod_1.py",
       "verdict": "SUSPICIOUS",
       "risk_score": 37,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
