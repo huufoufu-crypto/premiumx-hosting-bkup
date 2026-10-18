@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-18T18:55:13.474649+00:00",
+      "last_seen": "2026-10-18T18:56:42.129124+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 15
+        "bots_uploaded": 3,
+        "logins": 19
       }
     }
   },
@@ -3826,6 +3826,12 @@
       "uid": 8926345670,
       "action": "bot_delete",
       "detail": "bot=56876323c0e47af5"
+    },
+    {
+      "ts": "2026-10-18T18:56:42.611923+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=3ab90cf72e95ecef"
     }
   ],
   "coupons": {},
@@ -5327,6 +5333,14 @@
       "ts": "2026-10-18T18:50:53.825913+00:00",
       "uid": "8926345670",
       "filename": "zenoxgod_1.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-18T18:55:58.271491+00:00",
+      "uid": "8926345670",
+      "filename": "newfile.py",
       "verdict": "SUSPICIOUS",
       "risk_score": 37,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
