@@ -282,7 +282,8 @@
         "bots_uploaded": 7,
         "logins": 142
       },
-      "last_expiry_warn": -1
+      "last_expiry_warn": -1,
+      "last_renewal_reminder": "2026-10-18"
     },
     "5478596644": {
       "_id": 5478596644,
@@ -485,7 +486,8 @@
         "bots_uploaded": 11,
         "logins": 222
       },
-      "last_expiry_warn": 3
+      "last_expiry_warn": 3,
+      "last_renewal_reminder": "2026-10-18"
     },
     "7745343711": {
       "_id": 7745343711,
@@ -3728,6 +3730,12 @@
       "uid": 8740135346,
       "action": "give_plan",
       "detail": "uid=6515961246 plan=terminal days=1"
+    },
+    {
+      "ts": "2026-10-18T16:00:30.213739+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=10204"
     }
   ],
   "coupons": {},
