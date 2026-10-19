@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-19T16:17:19.163399+00:00",
+      "last_seen": "2026-10-19T16:25:22.002126+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1527
+        "logins": 1530
       },
       "last_expiry_warn": -1
     },
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-18T15:25:30.295473+00:00",
+      "last_seen": "2026-10-19T16:28:47.766424+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 7,
-        "logins": 142
+        "logins": 146
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -521,9 +521,9 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-19T16:06:06.116092+00:00",
-      "banned": true,
-      "ban_reason": "CHANNEL JOIN AND LEAVE SIMULTANEOUS",
+      "last_seen": "2026-10-19T16:25:25.267591+00:00",
+      "banned": false,
+      "ban_reason": "",
       "wallet": 0,
       "kyc": false,
       "verified": true,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 11,
-        "logins": 124
+        "logins": 125
       }
     },
     "8854714402": {
@@ -1379,12 +1379,12 @@
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T15:12:36.026624+00:00",
-      "last_error": "✅ Worker bot 7/10: @primeabbu_7bot ready (no command polling)\n2026-10-19 15:12:50,356 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-10-19 15:12:51,379 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-10-19 15:12:52,223 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready",
-      "last_exit_code": -15,
+      "last_started": "2026-10-19T16:28:49.777438+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-10-19T15:59:18.374464+00:00"
     },
     "5220e4b6e75cf7ba": {
@@ -4040,6 +4040,12 @@
       "ts": "2026-10-19T16:17:19.210533+00:00",
       "uid": 8740135346,
       "action": "ban_user",
+      "detail": "uid=8630447127"
+    },
+    {
+      "ts": "2026-10-19T16:25:22.089782+00:00",
+      "uid": 8740135346,
+      "action": "unban_user",
       "detail": "uid=8630447127"
     }
   ],
