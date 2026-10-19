@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-19T21:32:07.380964+00:00",
+      "last_seen": "2026-10-19T21:34:01.458406+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 10,
-        "logins": 68
+        "bots_uploaded": 12,
+        "logins": 74
       }
     },
     "8831661619": {
@@ -1481,6 +1481,29 @@
       "last_started": "2026-10-19T20:41:23.058335+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "4f3bde4ad2d8d11a": {
+      "_id": "4f3bde4ad2d8d11a",
+      "owner": 8926345670,
+      "name": "2newfile",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_4f3bde4ad2d8d11a",
+      "created": "2026-10-19T21:33:48.052888+00:00",
+      "enc_files": [
+        {
+          "key_id": "HHmSXVCjSfHtjx1CG9TOtw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792445628_2newfile_py.enc",
+          "filename": "2newfile.py",
+          "rel_path": "2newfile.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-19T21:33:55.560032+00:00",
+      "last_error": "════════════════ START 2026-10-19T21:33:55.342697+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_4f3bde4ad2d8d11a/2newfile.py\", line 58\n    // ─────────────────────────────────────────────\n       ^\nSyntaxError: invalid character '─' (U+2500)",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-19T21:33:55.688858+00:00"
     }
   },
   "payments": [
@@ -4117,6 +4140,12 @@
       "uid": 8926345670,
       "action": "bot_delete",
       "detail": "bot=29188d50fa3c0e8f"
+    },
+    {
+      "ts": "2026-10-19T21:33:33.258460+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=6c35ed8515e281e2"
     }
   ],
   "coupons": {},
@@ -5818,6 +5847,14 @@
       "ts": "2026-10-19T21:32:08.527387+00:00",
       "uid": "8926345670",
       "filename": "1newfile.py",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T21:33:48.555454+00:00",
+      "uid": "8926345670",
+      "filename": "2newfile.py",
       "verdict": "SAFE",
       "risk_score": 5,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
