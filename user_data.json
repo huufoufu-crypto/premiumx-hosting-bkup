@@ -696,7 +696,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-16T08:34:51.126537+00:00",
-      "last_seen": "2026-10-17T17:33:46.681887+00:00",
+      "last_seen": "2026-10-19T08:00:17.002511+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -711,7 +711,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 10,
-        "logins": 85
+        "logins": 88
       }
     },
     "7204407681": {
@@ -1274,29 +1274,6 @@
       "last_error": "   .promote - Promote all protected bots to admin\n   .removex - Instantly delete messages from specific bots\n   .stopremovex - Stop instant delete\n   .hunnyvanish - Delete all user/bot messages\n   .stophunnyvanish - Stop hunnyvanish\n   .muteaction - Delete all bot messages instantly\n   .stopmuteaction - Stop muteaction\n---",
       "last_exit_code": -15,
       "last_exit_at": "2026-10-18T09:57:55.509457+00:00"
-    },
-    "f00890d9755c049c": {
-      "_id": "f00890d9755c049c",
-      "owner": 8824267480,
-      "name": "rishugidf",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8824267480_f00890d9755c049c",
-      "created": "2026-10-17T08:46:26.592424+00:00",
-      "enc_files": [
-        {
-          "key_id": "Leb2QEaiRYaOTpoeLRi3YA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8824267480/1792226788_rishugidf_py.enc",
-          "filename": "rishugidf.py",
-          "rel_path": "rishugidf.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-17T08:46:35.338476+00:00",
-      "last_error": "             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8719342571:AAGUIHM5FEBshvm9FISawYmOBaxiE9FxOwA/getUpdates \"HTTP/1.1 200 OK\"",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-18T09:57:50.754585+00:00"
     },
     "0ef95c2ab7eaa2e5": {
       "_id": "0ef95c2ab7eaa2e5",
@@ -3974,6 +3951,12 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=59efc19f27444685"
+    },
+    {
+      "ts": "2026-10-19T08:00:17.783812+00:00",
+      "uid": 8824267480,
+      "action": "bot_delete",
+      "detail": "bot=f00890d9755c049c"
     }
   ],
   "coupons": {},
