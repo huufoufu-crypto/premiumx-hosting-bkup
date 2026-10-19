@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-19T21:34:01.458406+00:00",
+      "last_seen": "2026-10-19T21:40:07.073062+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 12,
-        "logins": 74
+        "bots_uploaded": 13,
+        "logins": 79
       }
     },
     "8831661619": {
@@ -1482,28 +1482,28 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "4f3bde4ad2d8d11a": {
-      "_id": "4f3bde4ad2d8d11a",
+    "1448606dcd07874d": {
+      "_id": "1448606dcd07874d",
       "owner": 8926345670,
-      "name": "2newfile",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_4f3bde4ad2d8d11a",
-      "created": "2026-10-19T21:33:48.052888+00:00",
+      "name": "3newfile",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_1448606dcd07874d",
+      "created": "2026-10-19T21:39:53.286232+00:00",
       "enc_files": [
         {
-          "key_id": "HHmSXVCjSfHtjx1CG9TOtw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792445628_2newfile_py.enc",
-          "filename": "2newfile.py",
-          "rel_path": "2newfile.py"
+          "key_id": "jJgJi1VN_gNptvY1WSkLhA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792445994_3newfile_py.enc",
+          "filename": "3newfile.py",
+          "rel_path": "3newfile.py"
         }
       ],
       "env": {},
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T21:33:55.560032+00:00",
-      "last_error": "════════════════ START 2026-10-19T21:33:55.342697+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_4f3bde4ad2d8d11a/2newfile.py\", line 58\n    // ─────────────────────────────────────────────\n       ^\nSyntaxError: invalid character '─' (U+2500)",
+      "last_started": "2026-10-19T21:40:00.776339+00:00",
+      "last_error": "════════════════ START 2026-10-19T21:40:00.598928+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_1448606dcd07874d/3newfile.py\", line 73\n    ╔═━━━⚡ 𓆩𓆩#KANHA//~#भगवान 𓆪𓆪 𝐁𝐎𝐓 ⚡━━━═╗\n    ^\nSyntaxError: invalid character '╔' (U+2554)",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-19T21:33:55.688858+00:00"
+      "last_exit_at": "2026-10-19T21:40:00.900201+00:00"
     }
   },
   "payments": [
@@ -4146,6 +4146,12 @@
       "uid": 8926345670,
       "action": "bot_delete",
       "detail": "bot=6c35ed8515e281e2"
+    },
+    {
+      "ts": "2026-10-19T21:39:36.635079+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=4f3bde4ad2d8d11a"
     }
   ],
   "coupons": {},
@@ -5855,6 +5861,14 @@
       "ts": "2026-10-19T21:33:48.555454+00:00",
       "uid": "8926345670",
       "filename": "2newfile.py",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T21:39:53.816492+00:00",
+      "uid": "8926345670",
+      "filename": "3newfile.py",
       "verdict": "SAFE",
       "risk_score": 5,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
