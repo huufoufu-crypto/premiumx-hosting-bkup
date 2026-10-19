@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-19T15:08:37.574134+00:00",
+      "last_seen": "2026-10-19T15:13:28.379351+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1492
+        "logins": 1499
       },
       "last_expiry_warn": -1
     },
@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-19T15:03:06.601375+00:00",
+      "last_seen": "2026-10-19T15:11:11.451988+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -635,8 +635,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 8,
-        "logins": 93
+        "bots_uploaded": 9,
+        "logins": 101
       }
     },
     "8788156789": {
@@ -1245,7 +1245,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-18T10:00:08.006577+00:00",
+      "last_started": "2026-10-19T15:12:33.907925+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-18T09:57:47.281113+00:00"
@@ -1410,7 +1410,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-18T12:26:20.998560+00:00",
+      "last_started": "2026-10-19T15:12:36.026624+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1437,7 +1437,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-18T19:14:04.848992+00:00",
+      "last_started": "2026-10-19T15:12:37.938409+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1459,7 +1459,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T09:10:08.293649+00:00",
+      "last_started": "2026-10-19T15:12:39.017335+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1481,31 +1481,32 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T11:28:19.817406+00:00",
+      "last_started": "2026-10-19T15:12:42.047468+00:00",
       "last_error": "",
       "last_exit_code": null
     },
-    "8d4d442d81fa9ee3": {
-      "_id": "8d4d442d81fa9ee3",
+    "5622029cec61adf4": {
+      "_id": "5622029cec61adf4",
       "owner": 8032573119,
-      "name": "rishugidf",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_8d4d442d81fa9ee3",
-      "created": "2026-10-19T15:01:46.538532+00:00",
+      "name": "rebelx",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_5622029cec61adf4",
+      "created": "2026-10-19T15:10:43.566093+00:00",
       "enc_files": [
         {
-          "key_id": "i7oJ6yKspLh2WY3MI-ZV8g",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792422108_rishugidf_py.enc",
-          "filename": "rishugidf.py",
-          "rel_path": "rishugidf.py"
+          "key_id": "GXYOgts3Kpyg4WcyKWDYrw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792422645_rebelx_py.enc",
+          "filename": "rebelx.py",
+          "rel_path": "rebelx.py"
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T15:01:58.173636+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_started": "2026-10-19T15:12:44.894415+00:00",
+      "last_error": "════════════════ START 2026-10-19T15:12:43.222887+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-19T15:12:51.405237+00:00"
     }
   },
   "payments": [
@@ -4028,6 +4029,18 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=8a2295514c092ba4"
+    },
+    {
+      "ts": "2026-10-19T15:10:18.015969+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=8d4d442d81fa9ee3"
+    },
+    {
+      "ts": "2026-10-19T15:12:33.178096+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=11095"
     }
   ],
   "coupons": {},
@@ -5625,6 +5638,14 @@
       "ts": "2026-10-19T15:01:48.593887+00:00",
       "uid": "8032573119",
       "filename": "rishugidf.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T15:10:45.354342+00:00",
+      "uid": "8032573119",
+      "filename": "rebelx.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
