@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-19T21:40:07.073062+00:00",
+      "last_seen": "2026-10-19T21:47:34.501732+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -863,7 +863,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 13,
-        "logins": 79
+        "logins": 82
       }
     },
     "8831661619": {
@@ -1481,29 +1481,6 @@
       "last_started": "2026-10-19T20:41:23.058335+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "1448606dcd07874d": {
-      "_id": "1448606dcd07874d",
-      "owner": 8926345670,
-      "name": "3newfile",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_1448606dcd07874d",
-      "created": "2026-10-19T21:39:53.286232+00:00",
-      "enc_files": [
-        {
-          "key_id": "jJgJi1VN_gNptvY1WSkLhA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792445994_3newfile_py.enc",
-          "filename": "3newfile.py",
-          "rel_path": "3newfile.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-19T21:40:00.776339+00:00",
-      "last_error": "════════════════ START 2026-10-19T21:40:00.598928+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_1448606dcd07874d/3newfile.py\", line 73\n    ╔═━━━⚡ 𓆩𓆩#KANHA//~#भगवान 𓆪𓆪 𝐁𝐎𝐓 ⚡━━━═╗\n    ^\nSyntaxError: invalid character '╔' (U+2554)",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-19T21:40:00.900201+00:00"
     }
   },
   "payments": [
@@ -4152,6 +4129,12 @@
       "uid": 8926345670,
       "action": "bot_delete",
       "detail": "bot=4f3bde4ad2d8d11a"
+    },
+    {
+      "ts": "2026-10-19T21:47:32.196491+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=1448606dcd07874d"
     }
   ],
   "coupons": {},
