@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-19T16:02:35.050671+00:00",
+      "last_seen": "2026-10-19T16:07:48.883159+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1514
+        "logins": 1515
       },
       "last_expiry_warn": -1
     },
@@ -444,7 +444,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-28T09:23:04.854588+00:00",
-      "last_seen": "2026-10-19T16:03:59.638756+00:00",
+      "last_seen": "2026-10-19T16:04:28.241558+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -459,7 +459,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 2,
-        "logins": 22
+        "logins": 29
       }
     },
     "8009335025": {
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-19T15:54:26.572638+00:00",
+      "last_seen": "2026-10-19T16:06:06.116092+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 11,
-        "logins": 121
+        "logins": 124
       }
     },
     "8854714402": {
@@ -696,7 +696,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-16T08:34:51.126537+00:00",
-      "last_seen": "2026-10-19T11:28:07.932173+00:00",
+      "last_seen": "2026-10-19T16:08:34.315328+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -710,8 +710,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 11,
-        "logins": 90
+        "bots_uploaded": 12,
+        "logins": 97
       }
     },
     "7204407681": {
@@ -1194,34 +1194,6 @@
       "last_exit_code": -15,
       "last_exit_at": "2026-10-17T14:37:31.186488+00:00"
     },
-    "a7dd98ea3d8f3266": {
-      "_id": "a7dd98ea3d8f3266",
-      "owner": 8630447127,
-      "name": "kanhagod",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8630447127_a7dd98ea3d8f3266",
-      "created": "2026-10-15T10:00:30.756764+00:00",
-      "enc_files": [
-        {
-          "key_id": "f5wxGgJtEdy9YsoO7X0QTQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8630447127/1792058431_kanhagod_py.enc",
-          "filename": "kanhagod.py",
-          "rel_path": "kanhagod.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-15T10:00:37.474463+00:00",
-      "last_error": "[✓] KANHA GOD restarting…\n[*] Restarting in 3 s…\n[*] Starting 1 bots — PRIME GOD\n[!] Bot startup failed: The token `8877762232:AAGrbF2xq3pOWXUxBkveU-ZorijMqe_z2y08819889918:AAGLXYF5bxGXaQH-s2E26ZSiVwElLeJpWt88915270595:AAGw9bfGWa-0Ku2ttD4pz63YGthchLS5aaE8600713625:AAEyG7uOKx3fZQjAIULBB62gf1BgKIhCE5k8839814859:AAG-094iJ7rs3O8P6z7rYag7WeWXLDr6gB48948824553:AAFX6QA4oNq6cB4jjAo2dZ03pbnPmDEtT6A8716482711:AAEq1ijdKVzi67p52Uo4JMK_TfSH_nQ_cD88906573602:AAGvrODAU5Ay0D9BJK_G7e1OiSBWHZL2UPg8234759460:AAHb2JkCb7VyGBEJrt1LykW7Lyd7MGZlj648655865049:AAHmBY3_VwRC0-G2r8wdUAGlx5mN2raqTWU` was rejected by the server.\n[!] All bot tasks exited unexpectedly — triggering restart\n[*] Shutdown signal — stopping bots...\n[✓] KANHA GOD restarting…\n[*] Restarting in 3 s…",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-15T10:02:31.207727+00:00"
-    },
     "3bbb79af67d30906": {
       "_id": "3bbb79af67d30906",
       "owner": 7745343711,
@@ -1443,29 +1415,6 @@
       "last_exit_code": -9,
       "last_exit_at": "2026-10-19T15:59:19.864487+00:00"
     },
-    "df602b8284a77a9a": {
-      "_id": "df602b8284a77a9a",
-      "owner": 8824267480,
-      "name": "rishugidf",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8824267480_df602b8284a77a9a",
-      "created": "2026-10-19T11:28:09.537093+00:00",
-      "enc_files": [
-        {
-          "key_id": "ORU-DhE1eKEM6YUkn7cPCA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8824267480/1792409291_rishugidf_py.enc",
-          "filename": "rishugidf.py",
-          "rel_path": "rishugidf.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-19T15:12:42.047468+00:00",
-      "last_error": "             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8731282728:AAHM5i6NLUC6ygjHRXHuQpwQ_cXbl-JJ6Y8/getUpdates \"HTTP/1.1 200 OK\"",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-19T15:59:18.535448+00:00"
-    },
     "66860d7d78e8d4a4": {
       "_id": "66860d7d78e8d4a4",
       "owner": 8032573119,
@@ -1488,6 +1437,28 @@
       "last_error": "INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8783209005:AAEugQPsrdf-r8acsJ6uHC6bUaqhj_8PaeY/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8762410459:AAFLbLplKhMU4N3Ozr5mrGadqwt05yy0nFQ/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8719385959:AAGANlbBDmAoOQNczB_FoDp1m_NT2WK0yfs/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8647745260:AAHpcbw39tvkeib-5zLdoFLK7_z-Fmx4AEo/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8735892095:AAE3LoaLPdRKaaiI3OsNmYeSP6DnreBAF9Y/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8995767158:AAFxXkeR6Y1VdKWTnYcwaI5tNTD1pCpskQ8/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8855829549:AAGs_ttBYL990z0_lEcwfnNvDmUTP1_6nVw/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8478234264:AAHKqe0mMpEUzMUmfPYLvYagKaRhghbymJQ/getUpdates \"HTTP/1.1 200 OK\"",
       "last_exit_code": -15,
       "last_exit_at": "2026-10-19T15:59:18.624946+00:00"
+    },
+    "d44bb9cc0718f9ae": {
+      "_id": "d44bb9cc0718f9ae",
+      "owner": 8824267480,
+      "name": "rishugidf",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8824267480_d44bb9cc0718f9ae",
+      "created": "2026-10-19T16:08:35.274343+00:00",
+      "enc_files": [
+        {
+          "key_id": "FrWFOBqLxHE6yB09J6bVww",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8824267480/1792426116_rishugidf_py.enc",
+          "filename": "rishugidf.py",
+          "rel_path": "rishugidf.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-19T16:08:43.335571+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -4046,6 +4017,18 @@
       "uid": 8740135346,
       "action": "broadcast_sent",
       "detail": "sent=36 fail=0"
+    },
+    {
+      "ts": "2026-10-19T16:06:06.478148+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=a7dd98ea3d8f3266"
+    },
+    {
+      "ts": "2026-10-19T16:08:20.112830+00:00",
+      "uid": 8824267480,
+      "action": "bot_delete",
+      "detail": "bot=df602b8284a77a9a"
     }
   ],
   "coupons": {},
@@ -5667,6 +5650,14 @@
       "ts": "2026-10-19T15:17:35.132681+00:00",
       "uid": "8032573119",
       "filename": "rebelx.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T16:08:36.276969+00:00",
+      "uid": "8824267480",
+      "filename": "rishugidf.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
