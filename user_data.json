@@ -696,7 +696,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-16T08:34:51.126537+00:00",
-      "last_seen": "2026-10-19T08:00:17.002511+00:00",
+      "last_seen": "2026-10-19T11:28:07.932173+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -710,8 +710,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 10,
-        "logins": 88
+        "bots_uploaded": 11,
+        "logins": 90
       }
     },
     "7204407681": {
@@ -1482,6 +1482,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-19T09:10:08.293649+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "df602b8284a77a9a": {
+      "_id": "df602b8284a77a9a",
+      "owner": 8824267480,
+      "name": "rishugidf",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8824267480_df602b8284a77a9a",
+      "created": "2026-10-19T11:28:09.537093+00:00",
+      "enc_files": [
+        {
+          "key_id": "ORU-DhE1eKEM6YUkn7cPCA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8824267480/1792409291_rishugidf_py.enc",
+          "filename": "rishugidf.py",
+          "rel_path": "rishugidf.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-19T11:28:19.817406+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -5567,6 +5589,14 @@
       "ts": "2026-10-19T09:09:59.887183+00:00",
       "uid": "8630447127",
       "filename": "ig.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T11:28:11.472546+00:00",
+      "uid": "8824267480",
+      "filename": "rishugidf.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
