@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-19T21:57:22.416148+00:00",
+      "last_seen": "2026-10-19T21:59:57.235997+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -863,7 +863,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 14,
-        "logins": 87
+        "logins": 91
       }
     },
     "8831661619": {
@@ -1481,30 +1481,6 @@
       "last_started": "2026-10-19T20:41:23.058335+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "72ceeea5f47ab38c": {
-      "_id": "72ceeea5f47ab38c",
-      "owner": 8926345670,
-      "name": "3newfile_fixed",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_72ceeea5f47ab38c",
-      "created": "2026-10-19T21:52:50.894426+00:00",
-      "enc_files": [
-        {
-          "key_id": "Z9VYxTJtR49AE5FUJjbvFA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792446771_3newfile_fixed_mjs.enc",
-          "filename": "3newfile_fixed.mjs",
-          "rel_path": "3newfile_fixed.mjs"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 30,
-        "summary": "File type '3newfile_fixed.mjs' allow nahi hai."
-      },
-      "gh_synced_at": 0
     }
   },
   "payments": [
@@ -4159,6 +4135,12 @@
       "uid": 8926345670,
       "action": "bot_delete",
       "detail": "bot=1448606dcd07874d"
+    },
+    {
+      "ts": "2026-10-19T21:57:37.718943+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=72ceeea5f47ab38c"
     }
   ],
   "coupons": {},
