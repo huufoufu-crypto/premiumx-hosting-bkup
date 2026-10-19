@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-19T04:16:41.515480+00:00",
+      "last_seen": "2026-10-19T04:25:34.401055+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 8,
-        "logins": 94
+        "bots_uploaded": 9,
+        "logins": 104
       }
     },
     "8854714402": {
@@ -1461,27 +1461,28 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "28edbdc55479f223": {
-      "_id": "28edbdc55479f223",
+    "59efc19f27444685": {
+      "_id": "59efc19f27444685",
       "owner": 8630447127,
       "name": "ig",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8630447127_28edbdc55479f223",
-      "created": "2026-10-19T04:12:24.861180+00:00",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8630447127_59efc19f27444685",
+      "created": "2026-10-19T04:22:22.424742+00:00",
       "enc_files": [
         {
-          "key_id": "j_89FCEzc7H-Gdd3uqQMlQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8630447127/1792383145_ig_py.enc",
+          "key_id": "2azptjaS5PlhE35sgAlLIQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8630447127/1792383743_ig_py.enc",
           "filename": "ig.py",
           "rel_path": "ig.py"
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T04:12:33.939333+00:00",
+      "last_started": "2026-10-19T04:25:36.119332+00:00",
       "last_error": "",
-      "last_exit_code": null
+      "last_exit_code": null,
+      "last_exit_at": "2026-10-19T04:22:37.086369+00:00"
     }
   },
   "payments": [
@@ -3950,6 +3951,24 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=d3c2ed1d07d6c93f"
+    },
+    {
+      "ts": "2026-10-19T04:22:12.093551+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=28edbdc55479f223"
+    },
+    {
+      "ts": "2026-10-19T04:24:30.949138+00:00",
+      "uid": 8630447127,
+      "action": "pip_install",
+      "detail": "bot=59efc19f27444685 ok=False"
+    },
+    {
+      "ts": "2026-10-19T04:25:29.603625+00:00",
+      "uid": 8630447127,
+      "action": "pip_install",
+      "detail": "bot=59efc19f27444685 ok=True"
     }
   ],
   "coupons": {},
@@ -5497,6 +5516,14 @@
     },
     {
       "ts": "2026-10-19T04:12:25.329613+00:00",
+      "uid": "8630447127",
+      "filename": "ig.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T04:22:22.759191+00:00",
       "uid": "8630447127",
       "filename": "ig.py",
       "verdict": "SAFE",
