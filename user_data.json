@@ -496,7 +496,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-17T14:29:49.954188+00:00",
+      "last_seen": "2026-10-19T20:19:25.811265+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -511,7 +511,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 15,
-        "logins": 201
+        "logins": 209
       }
     },
     "8630447127": {
@@ -1209,7 +1209,7 @@
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1217,9 +1217,9 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T15:12:33.907925+00:00",
-      "last_error": "[✓] @kanhabhagwan3_bot polling\n[✓] @kanhabhagwan7_bot polling\n[✓] @kanhabhagwan5_bot polling\n[✓] @kanhabhagwan8_bot polling\n[✓] @kanhabhagwan10_bot polling\n[✓] @kanhabhagwan9_bot polling\n[✓] @kanhabhagwan6_bot polling\n[*] Shutdown signal — stopping bots...",
-      "last_exit_code": -9,
+      "last_started": "2026-10-19T20:19:21.422418+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-10-19T15:59:19.779526+00:00"
     },
     "9c9d87ad681c4975": {
@@ -1287,7 +1287,7 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1295,7 +1295,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-17T14:29:35.260438+00:00",
+      "last_started": "2026-10-19T20:19:08.126339+00:00",
       "last_error": "",
       "last_exit_code": null
     },
