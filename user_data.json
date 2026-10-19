@@ -4093,6 +4093,12 @@
       "uid": 8926345670,
       "action": "bot_delete",
       "detail": "bot=5220e4b6e75cf7ba"
+    },
+    {
+      "ts": "2026-10-19T21:13:04.326057+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=10653"
     }
   ],
   "coupons": {},
