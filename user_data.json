@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-19T17:18:41.637129+00:00",
+      "last_seen": "2026-10-19T18:44:44.798790+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -635,8 +635,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 11,
-        "logins": 125
+        "bots_uploaded": 12,
+        "logins": 130
       }
     },
     "8788156789": {
@@ -1482,6 +1482,28 @@
       "last_error": "    await coroutine\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/ext/_handlers/conversationhandler.py\", line 841, in handle_update\n    new_state: object = await handler.handle_update(\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/ext/_handlers/basehandler.py\", line 159, in handle_update\n    return await self.callback(update, context)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: object bool can't be used in 'await' expression",
       "last_exit_code": 0,
       "last_exit_at": "2026-10-19T17:10:18.470604+00:00"
+    },
+    "d462fe6d4c496526": {
+      "_id": "d462fe6d4c496526",
+      "owner": 8032573119,
+      "name": "rebel16",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_d462fe6d4c496526",
+      "created": "2026-10-19T18:44:45.838953+00:00",
+      "enc_files": [
+        {
+          "key_id": "hanSs622AcXS_IWSQipG_g",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792435486_rebel16_py.enc",
+          "filename": "rebel16.py",
+          "rel_path": "rebel16.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-19T18:44:54.265410+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -5735,6 +5757,14 @@
       "ts": "2026-10-19T17:02:04.630077+00:00",
       "uid": "8630447127",
       "filename": "ig.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T18:44:46.655678+00:00",
+      "uid": "8032573119",
+      "filename": "rebel16.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
