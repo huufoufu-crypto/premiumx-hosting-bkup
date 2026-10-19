@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-19T15:14:57.662334+00:00",
+      "last_seen": "2026-10-19T16:02:35.050671+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1507
+        "logins": 1514
       },
       "last_expiry_warn": -1
     },
@@ -444,7 +444,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-28T09:23:04.854588+00:00",
-      "last_seen": "2026-10-17T14:20:48.012411+00:00",
+      "last_seen": "2026-10-19T16:03:59.638756+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -459,7 +459,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 2,
-        "logins": 21
+        "logins": 22
       }
     },
     "8009335025": {
@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-18T19:14:11.665405+00:00",
+      "last_seen": "2026-10-19T16:03:38.905665+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -863,7 +863,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 6,
-        "logins": 35
+        "logins": 37
       }
     },
     "8831661619": {
@@ -1237,7 +1237,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1246,9 +1246,9 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-10-19T15:12:33.907925+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-18T09:57:47.281113+00:00"
+      "last_error": "[✓] @kanhabhagwan3_bot polling\n[✓] @kanhabhagwan7_bot polling\n[✓] @kanhabhagwan5_bot polling\n[✓] @kanhabhagwan8_bot polling\n[✓] @kanhabhagwan10_bot polling\n[✓] @kanhabhagwan9_bot polling\n[✓] @kanhabhagwan6_bot polling\n[*] Shutdown signal — stopping bots...",
+      "last_exit_code": -9,
+      "last_exit_at": "2026-10-19T15:59:19.779526+00:00"
     },
     "9c9d87ad681c4975": {
       "_id": "9c9d87ad681c4975",
@@ -1407,12 +1407,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-19T15:12:36.026624+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "✅ Worker bot 7/10: @primeabbu_7bot ready (no command polling)\n2026-10-19 15:12:50,356 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-10-19 15:12:51,379 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-10-19 15:12:52,223 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-19T15:59:18.374464+00:00"
     },
     "5220e4b6e75cf7ba": {
       "_id": "5220e4b6e75cf7ba",
@@ -1429,7 +1430,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1438,8 +1439,9 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-10-19T15:12:37.938409+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "  Ctrl+C to stop completely\n[*] Starting 5 bots — PRIME GOD\n[✓] @Zenoxxheree2_bot polling\n[✓] @Zenoxxheree5_bot polling\n[✓] @Zenoxxheree4_bot polling\n[✓] @Zenoxxheree3_bot polling\n[✓] @zenoxxheree1_bot polling\n[*] Shutdown signal — stopping bots...",
+      "last_exit_code": -9,
+      "last_exit_at": "2026-10-19T15:59:19.864487+00:00"
     },
     "df602b8284a77a9a": {
       "_id": "df602b8284a77a9a",
@@ -1456,12 +1458,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-19T15:12:42.047468+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8731282728:AAHM5i6NLUC6ygjHRXHuQpwQ_cXbl-JJ6Y8/getUpdates \"HTTP/1.1 200 OK\"",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-19T15:59:18.535448+00:00"
     },
     "66860d7d78e8d4a4": {
       "_id": "66860d7d78e8d4a4",
@@ -1478,12 +1481,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-19T15:17:42.261765+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8783209005:AAEugQPsrdf-r8acsJ6uHC6bUaqhj_8PaeY/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8762410459:AAFLbLplKhMU4N3Ozr5mrGadqwt05yy0nFQ/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8719385959:AAGANlbBDmAoOQNczB_FoDp1m_NT2WK0yfs/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8647745260:AAHpcbw39tvkeib-5zLdoFLK7_z-Fmx4AEo/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8735892095:AAE3LoaLPdRKaaiI3OsNmYeSP6DnreBAF9Y/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8995767158:AAFxXkeR6Y1VdKWTnYcwaI5tNTD1pCpskQ8/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8855829549:AAGs_ttBYL990z0_lEcwfnNvDmUTP1_6nVw/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8478234264:AAHKqe0mMpEUzMUmfPYLvYagKaRhghbymJQ/getUpdates \"HTTP/1.1 200 OK\"",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-19T15:59:18.624946+00:00"
     }
   },
   "payments": [
@@ -4036,6 +4040,12 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=54b466594f981b93"
+    },
+    {
+      "ts": "2026-10-19T16:02:51.149899+00:00",
+      "uid": 8740135346,
+      "action": "broadcast_sent",
+      "detail": "sent=36 fail=0"
     }
   ],
   "coupons": {},
