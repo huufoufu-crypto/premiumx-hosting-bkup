@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-19T16:07:48.883159+00:00",
+      "last_seen": "2026-10-19T16:17:19.163399+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1515
+        "logins": 1527
       },
       "last_expiry_warn": -1
     },
@@ -522,8 +522,8 @@
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
       "last_seen": "2026-10-19T16:06:06.116092+00:00",
-      "banned": false,
-      "ban_reason": "",
+      "banned": true,
+      "ban_reason": "CHANNEL JOIN AND LEAVE SIMULTANEOUS",
       "wallet": 0,
       "kyc": false,
       "verified": true,
@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-19T15:17:33.412369+00:00",
+      "last_seen": "2026-10-19T16:18:44.718862+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -636,7 +636,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 11,
-        "logins": 112
+        "logins": 116
       }
     },
     "8788156789": {
@@ -671,7 +671,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-16T04:48:03.262960+00:00",
-      "last_seen": "2026-10-17T11:32:09.361594+00:00",
+      "last_seen": "2026-10-19T16:17:26.727313+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -686,7 +686,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 2
+        "logins": 3
       }
     },
     "8824267480": {
@@ -697,8 +697,8 @@
       "plan_expires": null,
       "joined": "2026-10-16T08:34:51.126537+00:00",
       "last_seen": "2026-10-19T16:08:34.315328+00:00",
-      "banned": false,
-      "ban_reason": "",
+      "banned": true,
+      "ban_reason": "CHANNEL JOIN AND LEAVE SIMULTANEOUS",
       "wallet": 0,
       "kyc": false,
       "verified": true,
@@ -1453,7 +1453,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-19T16:08:43.335571+00:00",
@@ -4029,6 +4029,18 @@
       "uid": 8824267480,
       "action": "bot_delete",
       "detail": "bot=df602b8284a77a9a"
+    },
+    {
+      "ts": "2026-10-19T16:16:08.483484+00:00",
+      "uid": 8740135346,
+      "action": "ban_user",
+      "detail": "uid=8824267480"
+    },
+    {
+      "ts": "2026-10-19T16:17:19.210533+00:00",
+      "uid": 8740135346,
+      "action": "ban_user",
+      "detail": "uid=8630447127"
     }
   ],
   "coupons": {},
