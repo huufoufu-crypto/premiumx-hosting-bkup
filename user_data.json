@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-19T15:13:28.379351+00:00",
+      "last_seen": "2026-10-19T15:14:57.662334+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1499
+        "logins": 1507
       },
       "last_expiry_warn": -1
     },
@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-19T15:11:11.451988+00:00",
+      "last_seen": "2026-10-19T15:17:33.412369+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -635,8 +635,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 9,
-        "logins": 101
+        "bots_uploaded": 11,
+        "logins": 112
       }
     },
     "8788156789": {
@@ -1485,28 +1485,27 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "5622029cec61adf4": {
-      "_id": "5622029cec61adf4",
+    "66860d7d78e8d4a4": {
+      "_id": "66860d7d78e8d4a4",
       "owner": 8032573119,
       "name": "rebelx",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_5622029cec61adf4",
-      "created": "2026-10-19T15:10:43.566093+00:00",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_66860d7d78e8d4a4",
+      "created": "2026-10-19T15:17:34.000888+00:00",
       "enc_files": [
         {
-          "key_id": "GXYOgts3Kpyg4WcyKWDYrw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792422645_rebelx_py.enc",
+          "key_id": "LY2NznFiYcdTIZDeLdzOKw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792423055_rebelx_py.enc",
           "filename": "rebelx.py",
           "rel_path": "rebelx.py"
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T15:12:44.894415+00:00",
-      "last_error": "════════════════ START 2026-10-19T15:12:43.222887+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-19T15:12:51.405237+00:00"
+      "last_started": "2026-10-19T15:17:42.261765+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -4041,6 +4040,18 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=11095"
+    },
+    {
+      "ts": "2026-10-19T15:14:58.377489+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=5622029cec61adf4"
+    },
+    {
+      "ts": "2026-10-19T15:17:22.385392+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=52b05648817d00b0"
     }
   ],
   "coupons": {},
@@ -5644,6 +5655,22 @@
     },
     {
       "ts": "2026-10-19T15:10:45.354342+00:00",
+      "uid": "8032573119",
+      "filename": "rebelx.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T15:16:50.273715+00:00",
+      "uid": "8032573119",
+      "filename": "rebelx.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T15:17:35.132681+00:00",
       "uid": "8032573119",
       "filename": "rebelx.py",
       "verdict": "SAFE",
