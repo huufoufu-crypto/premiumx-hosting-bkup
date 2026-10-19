@@ -890,6 +890,31 @@
         "bots_uploaded": 1,
         "logins": 10
       }
+    },
+    "8939790753": {
+      "_id": 8939790753,
+      "name": "#~𝐒ᴀɴᴊɪ𝐁 ⁞ꪮғ𝐅",
+      "username": "sanjib_fuxkz",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-19T04:08:06.207741+00:00",
+      "last_seen": "2026-10-19T04:09:03.499045+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-19T04:08:38.339651+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 7
+      }
     }
   },
   "bots": {
@@ -3914,6 +3939,12 @@
       "uid": 8831661619,
       "action": "bot_delete",
       "detail": "bot=545f608de1a59296"
+    },
+    {
+      "ts": "2026-10-19T04:08:39.423115+00:00",
+      "uid": 8939790753,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
