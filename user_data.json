@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-19T21:20:08.555021+00:00",
+      "last_seen": "2026-10-19T21:32:07.380964+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 8,
-        "logins": 54
+        "bots_uploaded": 10,
+        "logins": 68
       }
     },
     "8831661619": {
@@ -1481,29 +1481,6 @@
       "last_started": "2026-10-19T20:41:23.058335+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "6c6463a0ec852232": {
-      "_id": "6c6463a0ec852232",
-      "owner": 8926345670,
-      "name": "kanhawp_1",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_6c6463a0ec852232",
-      "created": "2026-10-19T21:19:50.446851+00:00",
-      "enc_files": [
-        {
-          "key_id": "Srqzqe25CvR61cDP3ppHXA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792444791_kanhawp_1_py.enc",
-          "filename": "kanhawp_1.py",
-          "rel_path": "kanhawp_1.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-19T21:19:58.458413+00:00",
-      "last_error": "════════════════ START 2026-10-19T21:19:58.202590+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_6c6463a0ec852232/kanhawp_1.py\", line 1\n    // ╔══════════════════════════════════════════════╗\n       ^\nSyntaxError: invalid character '╔' (U+2554)",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-19T21:19:58.566743+00:00"
     }
   },
   "payments": [
@@ -4122,6 +4099,24 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=10653"
+    },
+    {
+      "ts": "2026-10-19T21:28:47.931602+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=6c6463a0ec852232"
+    },
+    {
+      "ts": "2026-10-19T21:30:03.481601+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=457fab0849def0dd"
+    },
+    {
+      "ts": "2026-10-19T21:31:54.988688+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=29188d50fa3c0e8f"
     }
   ],
   "coupons": {},
@@ -5799,6 +5794,30 @@
       "ts": "2026-10-19T21:19:50.958726+00:00",
       "uid": "8926345670",
       "filename": "kanhawp_1.py",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T21:29:01.437008+00:00",
+      "uid": "8926345670",
+      "filename": "wp.py",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T21:30:34.638661+00:00",
+      "uid": "8926345670",
+      "filename": "newfile.py",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T21:32:08.527387+00:00",
+      "uid": "8926345670",
+      "filename": "1newfile.py",
       "verdict": "SAFE",
       "risk_score": 5,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
