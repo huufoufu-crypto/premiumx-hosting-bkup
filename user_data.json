@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-19T04:55:19.958855+00:00",
+      "last_seen": "2026-10-19T09:09:48.876227+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 10,
-        "logins": 109
+        "logins": 113
       }
     },
     "8854714402": {
@@ -1435,28 +1435,6 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-10-18T19:14:04.848992+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "7a5cfb86396ecb20": {
-      "_id": "7a5cfb86396ecb20",
-      "owner": 8630447127,
-      "name": "ig",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8630447127_7a5cfb86396ecb20",
-      "created": "2026-10-19T04:55:20.999127+00:00",
-      "enc_files": [
-        {
-          "key_id": "1onjCGnfKq2cURoV1THVeA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8630447127/1792385721_ig_py.enc",
-          "filename": "ig.py",
-          "rel_path": "ig.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-19T04:55:29.087568+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -3957,6 +3935,12 @@
       "uid": 8824267480,
       "action": "bot_delete",
       "detail": "bot=f00890d9755c049c"
+    },
+    {
+      "ts": "2026-10-19T09:09:46.249614+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=7a5cfb86396ecb20"
     }
   ],
   "coupons": {},
