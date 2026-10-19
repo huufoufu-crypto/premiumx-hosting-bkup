@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-19T21:59:57.235997+00:00",
+      "last_seen": "2026-10-19T22:05:01.926992+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 14,
-        "logins": 91
+        "bots_uploaded": 15,
+        "logins": 98
       }
     },
     "8831661619": {
@@ -4141,6 +4141,12 @@
       "uid": 8926345670,
       "action": "bot_delete",
       "detail": "bot=72ceeea5f47ab38c"
+    },
+    {
+      "ts": "2026-10-19T22:05:02.245994+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=7990036f01d1d05c"
     }
   ],
   "coupons": {},
@@ -5869,6 +5875,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "File type '3newfile_fixed.mjs' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-19T22:04:00.258141+00:00",
+      "uid": "8926345670",
+      "filename": "index_single_file.js",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
