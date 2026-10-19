@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-19T20:21:55.198083+00:00",
+      "last_seen": "2026-10-19T20:41:11.769861+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 6,
-        "logins": 40
+        "bots_uploaded": 7,
+        "logins": 46
       }
     },
     "8831661619": {
@@ -1387,34 +1387,6 @@
       "last_exit_code": null,
       "last_exit_at": "2026-10-19T15:59:18.374464+00:00"
     },
-    "5220e4b6e75cf7ba": {
-      "_id": "5220e4b6e75cf7ba",
-      "owner": 8926345670,
-      "name": "zenoxgod_1",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_5220e4b6e75cf7ba",
-      "created": "2026-10-18T19:13:55.566800+00:00",
-      "enc_files": [
-        {
-          "key_id": "ENUIq6u_szuJjqQ-WR7EVQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792350837_zenoxgod_1_py.enc",
-          "filename": "zenoxgod_1.py",
-          "rel_path": "zenoxgod_1.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-19T20:21:58.481077+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-19T15:59:19.864487+00:00"
-    },
     "66860d7d78e8d4a4": {
       "_id": "66860d7d78e8d4a4",
       "owner": 8032573119,
@@ -1482,6 +1454,33 @@
       "last_error": "    await coroutine\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/ext/_handlers/conversationhandler.py\", line 841, in handle_update\n    new_state: object = await handler.handle_update(\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/ext/_handlers/basehandler.py\", line 159, in handle_update\n    return await self.callback(update, context)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: object bool can't be used in 'await' expression",
       "last_exit_code": 0,
       "last_exit_at": "2026-10-19T17:10:18.470604+00:00"
+    },
+    "393ed9e5f455be48": {
+      "_id": "393ed9e5f455be48",
+      "owner": 8926345670,
+      "name": "zenoxpapa_1",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_393ed9e5f455be48",
+      "created": "2026-10-19T20:41:13.130600+00:00",
+      "enc_files": [
+        {
+          "key_id": "MoeaeJF5WIhN3tFLWvewTw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792442475_zenoxpapa_1_py.enc",
+          "filename": "zenoxpapa_1.py",
+          "rel_path": "zenoxpapa_1.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-19T20:41:23.058335+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -4088,6 +4087,12 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=d462fe6d4c496526"
+    },
+    {
+      "ts": "2026-10-19T20:40:47.780772+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=5220e4b6e75cf7ba"
     }
   ],
   "coupons": {},
@@ -5752,6 +5757,14 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-19T20:41:14.923664+00:00",
+      "uid": "8926345670",
+      "filename": "zenoxpapa_1.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
