@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-20T12:29:53.925196+00:00",
+      "last_seen": "2026-10-20T14:04:14.416319+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -636,7 +636,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 12,
-        "logins": 138
+        "logins": 154
       }
     },
     "8788156789": {
@@ -1369,29 +1369,6 @@
       "last_error": "2026-10-18 09:57:46,969 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7965412435:AAH6fRZSiCzqxTRjYGY5GpsYr6oHxQU1Ppc/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:47,115 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8905913573:AAGCtduPayIoUgjOnocRPFpZk0g1qI9a7V0/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:47,729 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8528158754:AAGfm8yjJw8UjMxcuQU53noIQJ90srR7Bds/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,205 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7651290228:AAGgMoTvckHvwB4LuWLH5shMtdOZYIp0W5k/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,391 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8387018864:AAEfaNk0cOdSQHgP_U-PCX6m9xUK-sPT8rQ/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,721 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8593174886:AAH7ibZofWJGv1GnM7DZcDSpkjl1mILskbc/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,794 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8678463057:AAFW5rNIGH8f6cQV4wloe68N6WzJyjt91qE/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:51,227 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8369322630:AAFHqcsk4KpXMo_qYy6iicmdZd8Xgv1m4Vw/getUpdates \"HTTP/1.1 200 OK\"",
       "last_exit_code": -15,
       "last_exit_at": "2026-10-18T09:57:55.251477+00:00"
-    },
-    "66860d7d78e8d4a4": {
-      "_id": "66860d7d78e8d4a4",
-      "owner": 8032573119,
-      "name": "rebelx",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_66860d7d78e8d4a4",
-      "created": "2026-10-19T15:17:34.000888+00:00",
-      "enc_files": [
-        {
-          "key_id": "LY2NznFiYcdTIZDeLdzOKw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792423055_rebelx_py.enc",
-          "filename": "rebelx.py",
-          "rel_path": "rebelx.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-20T12:03:51.013408+00:00",
-      "last_error": "════════════════ START 2026-10-20T12:03:49.397991+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-20T12:04:03.689630+00:00"
     },
     "d44bb9cc0718f9ae": {
       "_id": "d44bb9cc0718f9ae",
@@ -4291,6 +4268,12 @@
       "uid": 6515961246,
       "action": "bot_delete",
       "detail": "bot=2cc0baaf7ac11e7b"
+    },
+    {
+      "ts": "2026-10-20T14:03:38.116016+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=66860d7d78e8d4a4"
     }
   ],
   "coupons": {},
