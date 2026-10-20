@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-20T17:49:56.075130+00:00",
+      "last_seen": "2026-10-20T18:07:29.766667+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 16,
-        "logins": 109
+        "bots_uploaded": 17,
+        "logins": 110
       }
     },
     "8831661619": {
@@ -1552,6 +1552,25 @@
       "last_started": "2026-10-20T14:04:34.942375+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "c6f7ef6232259d19": {
+      "_id": "c6f7ef6232259d19",
+      "owner": 8926345670,
+      "name": "KANHA_KRISHNA",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_c6f7ef6232259d19",
+      "created": "2026-10-20T18:07:33.748485+00:00",
+      "enc_files": [
+        {
+          "key_id": "XoBS8VZhYwmmCiZiPTYG1A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792519655_KANHA_KRISHNA_js.enc",
+          "filename": "KANHA_KRISHNA.js",
+          "rel_path": "KANHA_KRISHNA.js"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0
     }
   },
   "payments": [
@@ -4302,6 +4321,12 @@
       "uid": 8926345670,
       "action": "bot_delete",
       "detail": "bot=1f0d0f8a00bb6fef"
+    },
+    {
+      "ts": "2026-10-20T18:07:51.835805+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=11699"
     }
   ],
   "coupons": {},
@@ -6105,6 +6130,14 @@
     },
     {
       "ts": "2026-10-20T17:49:04.994042+00:00",
+      "uid": "8926345670",
+      "filename": "KANHA_KRISHNA.js",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-20T18:07:35.421253+00:00",
       "uid": "8926345670",
       "filename": "KANHA_KRISHNA.js",
       "verdict": "SAFE",
