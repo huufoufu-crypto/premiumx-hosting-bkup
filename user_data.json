@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-19T16:25:22.002126+00:00",
+      "last_seen": "2026-10-20T12:07:55.640206+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1530
+        "logins": 1532
       },
       "last_expiry_warn": -1
     },
@@ -1242,7 +1242,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T20:19:21.422418+00:00",
+      "last_started": "2026-10-20T12:07:00.779238+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-19T15:59:19.779526+00:00"
@@ -1270,7 +1270,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-20T02:23:16.379418+00:00",
+      "last_started": "2026-10-20T12:07:01.935613+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1320,7 +1320,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T20:19:08.126339+00:00",
+      "last_started": "2026-10-20T12:07:03.486610+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1388,7 +1388,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T16:28:49.777438+00:00",
+      "last_started": "2026-10-20T12:07:07.793005+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-19T15:59:18.374464+00:00"
@@ -1408,13 +1408,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T17:18:44.500397+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-19T15:59:18.624946+00:00"
+      "last_started": "2026-10-20T12:03:51.013408+00:00",
+      "last_error": "════════════════ START 2026-10-20T12:03:49.397991+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-20T12:04:03.689630+00:00"
     },
     "d44bb9cc0718f9ae": {
       "_id": "d44bb9cc0718f9ae",
@@ -1461,7 +1461,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-19T20:41:23.058335+00:00",
+      "last_started": "2026-10-20T12:07:10.073339+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1483,7 +1483,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-20T02:46:49.241418+00:00",
+      "last_started": "2026-10-20T12:07:11.233126+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1528,7 +1528,7 @@
         "summary": "File type 'procfile' allow nahi hai."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-20T04:38:32.971078+00:00",
+      "last_started": "2026-10-20T12:07:42.943336+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1550,7 +1550,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-20T04:53:40.739338+00:00",
+      "last_started": "2026-10-20T12:07:43.576900+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -4261,6 +4261,24 @@
       "uid": 8788156789,
       "action": "bot_delete",
       "detail": "bot=17729032998d9838"
+    },
+    {
+      "ts": "2026-10-20T12:03:39.817459+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=11244"
+    },
+    {
+      "ts": "2026-10-20T12:04:54.863135+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=11244"
+    },
+    {
+      "ts": "2026-10-20T12:06:59.776423+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=11246"
     }
   ],
   "coupons": {},
