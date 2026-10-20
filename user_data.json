@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-20T02:40:03.777782+00:00",
+      "last_seen": "2026-10-20T02:40:14.541110+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 16,
-        "logins": 164
+        "bots_uploaded": 17,
+        "logins": 166
       }
     },
     "8854714402": {
@@ -1456,6 +1456,28 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-10-19T20:41:23.058335+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "daa1aca872782e0c": {
+      "_id": "daa1aca872782e0c",
+      "owner": 8630447127,
+      "name": "ig",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8630447127_daa1aca872782e0c",
+      "created": "2026-10-20T02:40:15.689811+00:00",
+      "enc_files": [
+        {
+          "key_id": "Ob1DT7cMwEXDTpV7GUCqrg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8630447127/1792464016_ig_py.enc",
+          "filename": "ig.py",
+          "rel_path": "ig.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-20T02:40:23.838397+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -5889,6 +5911,14 @@
     },
     {
       "ts": "2026-10-20T02:12:57.839556+00:00",
+      "uid": "8630447127",
+      "filename": "ig.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-20T02:40:16.289131+00:00",
       "uid": "8630447127",
       "filename": "ig.py",
       "verdict": "SAFE",
