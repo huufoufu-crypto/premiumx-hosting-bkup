@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-20T12:31:36.575164+00:00",
+      "last_seen": "2026-10-20T12:53:08.087777+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -279,8 +279,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 7,
-        "logins": 155
+        "bots_uploaded": 8,
+        "logins": 158
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -923,7 +923,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-19T09:29:21.813916+00:00",
-      "last_seen": "2026-10-20T03:00:52.400015+00:00",
+      "last_seen": "2026-10-20T12:49:22.188587+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -938,7 +938,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 2
+        "logins": 3
       }
     },
     "8832189607": {
@@ -1385,10 +1385,10 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-20T12:28:05.890629+00:00",
+      "last_started": "2026-10-20T12:53:12.054483+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-20T12:27:59.272248+00:00"
@@ -1552,6 +1552,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-20T12:07:43.576900+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "99ebeb16f1581df9": {
+      "_id": "99ebeb16f1581df9",
+      "owner": 6515961246,
+      "name": "prime1",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6515961246_99ebeb16f1581df9",
+      "created": "2026-10-20T12:52:16.865400+00:00",
+      "enc_files": [
+        {
+          "key_id": "Gq4o_p39CzK2Y5oAa9cupA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6515961246/1792500738_prime1_py.enc",
+          "filename": "prime1.py",
+          "rel_path": "prime1.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-20T12:52:40.622059+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -6069,6 +6091,14 @@
       "filename": "sms_2.py",
       "verdict": "SAFE",
       "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-20T12:52:18.170055+00:00",
+      "uid": "6515961246",
+      "filename": "prime1.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
