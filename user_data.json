@@ -940,6 +940,31 @@
         "bots_uploaded": 0,
         "logins": 2
       }
+    },
+    "8832189607": {
+      "_id": 8832189607,
+      "name": "Roxxaa🔞",
+      "username": "rocxxx_18",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-20T04:37:13.440325+00:00",
+      "last_seen": "2026-10-20T04:37:53.327047+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-20T04:37:23.098019+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 3
+      }
     }
   },
   "bots": {
@@ -1478,6 +1503,51 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-20T02:46:49.241418+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "7601da3a7be5c8ba": {
+      "_id": "7601da3a7be5c8ba",
+      "owner": 8832189607,
+      "name": "HOSTHOM_py",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8832189607_7601da3a7be5c8ba",
+      "created": "2026-10-20T04:37:54.515712+00:00",
+      "enc_files": [
+        {
+          "key_id": "gqjm_qIy79btcixnl4a9ag",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8832189607/1792471075_bot_py.enc",
+          "filename": "bot.py",
+          "rel_path": "bot.py"
+        },
+        {
+          "key_id": "bejBaiVTtZMimkew68IYEA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8832189607/1792471076_Procfile.enc",
+          "filename": "Procfile",
+          "rel_path": "Procfile"
+        },
+        {
+          "key_id": "n-rPH-a1j10IM09uekmwYQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8832189607/1792471078_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "requirements.txt"
+        },
+        {
+          "key_id": "1UVES-Q-vDCSVAw1tMiaRg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8832189607/1792471079_runtime_txt.enc",
+          "filename": "runtime.txt",
+          "rel_path": "runtime.txt"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'procfile' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-20T04:38:32.971078+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -4176,6 +4246,12 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=daa1aca872782e0c"
+    },
+    {
+      "ts": "2026-10-20T04:37:24.109806+00:00",
+      "uid": 8832189607,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -5944,6 +6020,14 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-20T04:37:55.298900+00:00",
+      "uid": "8832189607",
+      "filename": "Procfile",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'procfile' allow nahi hai."
     }
   ]
 }
