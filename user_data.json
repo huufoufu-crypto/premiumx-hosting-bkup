@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-20T18:36:05.575984+00:00",
+      "last_seen": "2026-10-20T21:38:15.136007+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 18,
-        "logins": 128
+        "bots_uploaded": 19,
+        "logins": 131
       }
     },
     "8831661619": {
@@ -1553,6 +1553,29 @@
       "last_started": "2026-10-20T14:04:34.942375+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "e0d3043d5f0ace61": {
+      "_id": "e0d3043d5f0ace61",
+      "owner": 8926345670,
+      "name": "kanhawp_1",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_e0d3043d5f0ace61",
+      "created": "2026-10-20T21:37:59.694533+00:00",
+      "enc_files": [
+        {
+          "key_id": "15LyANfV-Xfn_vxyITB2KA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792532281_kanhawp_1_py.enc",
+          "filename": "kanhawp_1.py",
+          "rel_path": "kanhawp_1.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-20T21:38:09.167322+00:00",
+      "last_error": "════════════════ START 2026-10-20T21:38:08.873090+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_e0d3043d5f0ace61/kanhawp_1.py\", line 1\n    // ==================== KANHA MATRIX v5 — PURE RANDOM DELAY EDITION ====================\n                                            ^\nSyntaxError: invalid character '—' (U+2014)",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-20T21:38:09.344877+00:00"
     }
   },
   "payments": [
@@ -6144,6 +6167,14 @@
       "filename": "1newfile.py",
       "verdict": "SAFE",
       "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-20T21:38:01.177646+00:00",
+      "uid": "8926345670",
+      "filename": "kanhawp_1.py",
+      "verdict": "SAFE",
+      "risk_score": 5,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
