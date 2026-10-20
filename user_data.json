@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-20T17:48:47.516416+00:00",
+      "last_seen": "2026-10-20T17:49:56.075130+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 15,
-        "logins": 101
+        "bots_uploaded": 16,
+        "logins": 109
       }
     },
     "8831661619": {
@@ -4296,6 +4296,12 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=66860d7d78e8d4a4"
+    },
+    {
+      "ts": "2026-10-20T17:49:56.538228+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=1f0d0f8a00bb6fef"
     }
   ],
   "coupons": {},
@@ -6095,6 +6101,14 @@
       "filename": "rebelx.py",
       "verdict": "SAFE",
       "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-20T17:49:04.994042+00:00",
+      "uid": "8926345670",
+      "filename": "KANHA_KRISHNA.js",
+      "verdict": "SAFE",
+      "risk_score": 5,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
