@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-20T12:09:02.242701+00:00",
+      "last_seen": "2026-10-20T12:21:05.142472+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1538
+        "logins": 1539
       },
       "last_expiry_warn": -1
     },
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-20T04:09:59.724684+00:00",
+      "last_seen": "2026-10-20T12:22:15.575685+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 18,
-        "logins": 179
+        "logins": 184
       }
     },
     "8854714402": {
@@ -1483,9 +1483,10 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-20T12:07:11.233126+00:00",
+      "last_started": "2026-10-20T12:22:18.834269+00:00",
       "last_error": "",
-      "last_exit_code": null
+      "last_exit_code": null,
+      "last_exit_at": "2026-10-20T12:22:01.373484+00:00"
     },
     "7601da3a7be5c8ba": {
       "_id": "7601da3a7be5c8ba",
