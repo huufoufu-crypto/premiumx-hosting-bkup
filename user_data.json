@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-20T14:04:14.416319+00:00",
+      "last_seen": "2026-10-20T14:04:22.810724+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -635,8 +635,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 12,
-        "logins": 154
+        "bots_uploaded": 13,
+        "logins": 155
       }
     },
     "8788156789": {
@@ -1528,6 +1528,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-20T12:52:40.622059+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "cdd7128536e26e1b": {
+      "_id": "cdd7128536e26e1b",
+      "owner": 8032573119,
+      "name": "rebelx",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_cdd7128536e26e1b",
+      "created": "2026-10-20T14:04:24.085244+00:00",
+      "enc_files": [
+        {
+          "key_id": "Zr4ezD_QA-HQF7RtcK1tlg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792505066_rebelx_py.enc",
+          "filename": "rebelx.py",
+          "rel_path": "rebelx.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-20T14:04:34.942375+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -6063,6 +6085,14 @@
       "ts": "2026-10-20T12:52:18.170055+00:00",
       "uid": "6515961246",
       "filename": "prime1.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-20T14:04:26.034006+00:00",
+      "uid": "8032573119",
+      "filename": "rebelx.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
