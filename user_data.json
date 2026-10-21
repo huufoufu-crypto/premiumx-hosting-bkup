@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-21T03:14:52.031758+00:00",
+      "last_seen": "2026-10-21T17:16:24.508483+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -635,8 +635,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 13,
-        "logins": 159
+        "bots_uploaded": 14,
+        "logins": 162
       }
     },
     "8788156789": {
@@ -1601,10 +1601,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T15:15:16.417056+00:00",
-      "last_error": "════════════════ START 2026-10-21T15:15:16.044579+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
+      "last_started": "2026-10-21T17:16:25.915422+00:00",
+      "last_error": "════════════════ START 2026-10-21T17:16:25.749714+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-21T15:15:18.033788+00:00"
+      "last_exit_at": "2026-10-21T17:16:26.710049+00:00"
     },
     "e0d3043d5f0ace61": {
       "_id": "e0d3043d5f0ace61",
@@ -1628,6 +1628,28 @@
       "last_error": "════════════════ START 2026-10-20T21:38:08.873090+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_e0d3043d5f0ace61/kanhawp_1.py\", line 1\n    // ==================== KANHA MATRIX v5 — PURE RANDOM DELAY EDITION ====================\n                                            ^\nSyntaxError: invalid character '—' (U+2014)",
       "last_exit_code": 1,
       "last_exit_at": "2026-10-20T21:38:09.344877+00:00"
+    },
+    "1163991ea524ee39": {
+      "_id": "1163991ea524ee39",
+      "owner": 8032573119,
+      "name": "hamzu21bots",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_1163991ea524ee39",
+      "created": "2026-10-21T17:14:48.479569+00:00",
+      "enc_files": [
+        {
+          "key_id": "6sUwfq3l8mhqNYY1pidS7g",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792602889_hamzu21bots_py.enc",
+          "filename": "hamzu21bots.py",
+          "rel_path": "hamzu21bots.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-21T17:14:56.129716+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -6305,6 +6327,14 @@
       "filename": "kanhawp_1.py",
       "verdict": "SAFE",
       "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-21T17:14:48.897905+00:00",
+      "uid": "8032573119",
+      "filename": "hamzu21bots.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
