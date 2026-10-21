@@ -4496,6 +4496,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=11706"
+    },
+    {
+      "ts": "2026-10-21T21:15:11.665068+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=12157"
     }
   ],
   "coupons": {},
