@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-21T10:20:14.000045+00:00",
+      "last_seen": "2026-10-21T13:47:13.504946+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1544
+        "logins": 1546
       },
       "last_expiry_warn": -1
     },
@@ -989,6 +989,31 @@
         "commands": 0,
         "bots_uploaded": 0,
         "logins": 1
+      }
+    },
+    "7557062822": {
+      "_id": 7557062822,
+      "name": "𝐆ᴏᴅ 𝐑ᴅx (Off)",
+      "username": "rdxwantpeace",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-21T13:45:57.150939+00:00",
+      "last_seen": "2026-10-21T13:47:10.991845+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-21T13:46:08.995955+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 2
       }
     }
   },
@@ -4437,6 +4462,12 @@
       "uid": 7541401494,
       "action": "captcha_pass",
       "detail": "verified after 1 try(s)"
+    },
+    {
+      "ts": "2026-10-21T13:46:09.876448+00:00",
+      "uid": 7557062822,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
