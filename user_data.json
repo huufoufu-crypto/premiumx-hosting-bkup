@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-20T20:23:41.142848+00:00",
+      "last_seen": "2026-10-21T02:54:50.140721+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 8,
-        "logins": 208
+        "logins": 209
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -1528,7 +1528,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T01:04:51.345502+00:00",
+      "last_started": "2026-10-21T02:53:41.266328+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1547,12 +1547,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T01:04:53.078341+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_started": "2026-10-21T02:53:43.856339+00:00",
+      "last_error": "════════════════ START 2026-10-21T02:53:42.391389+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-21T02:53:54.000693+00:00"
     },
     "e0d3043d5f0ace61": {
       "_id": "e0d3043d5f0ace61",
