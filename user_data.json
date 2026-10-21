@@ -4400,6 +4400,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=11711"
+    },
+    {
+      "ts": "2026-10-21T09:12:14.968237+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=11707"
     }
   ],
   "coupons": {},
