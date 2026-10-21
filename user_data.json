@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-21T03:02:18.163356+00:00",
+      "last_seen": "2026-10-21T03:17:40.776187+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 8,
-        "logins": 212
+        "logins": 215
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-21T03:12:26.167799+00:00",
+      "last_seen": "2026-10-21T03:14:52.031758+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -636,7 +636,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 13,
-        "logins": 157
+        "logins": 159
       }
     },
     "8788156789": {
@@ -1525,12 +1525,12 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T02:53:41.266328+00:00",
-      "last_error": "2026-10-21 02:53:57,371 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-10-21 02:53:58,369 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-10-21 02:53:59,375 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready\n2026-10-21 02:56:17,296 - __main__ - INFO - Refresh command handled for bot 8705950973; polling remains active.",
-      "last_exit_code": -15,
+      "last_started": "2026-10-21T03:17:42.247833+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-10-21T03:02:19.447761+00:00"
     },
     "cdd7128536e26e1b": {
