@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-21T02:54:50.140721+00:00",
+      "last_seen": "2026-10-21T03:02:18.163356+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 8,
-        "logins": 209
+        "logins": 212
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -1242,7 +1242,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T02:52:39.638633+00:00",
+      "last_started": "2026-10-21T03:03:10.437501+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-19T15:59:19.779526+00:00"
@@ -1270,7 +1270,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T02:52:41.392411+00:00",
+      "last_started": "2026-10-21T03:03:11.039093+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-20T18:26:48.677309+00:00"
@@ -1321,7 +1321,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T02:52:44.349598+00:00",
+      "last_started": "2026-10-21T03:03:11.862326+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1416,7 +1416,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T02:52:47.665422+00:00",
+      "last_started": "2026-10-21T03:03:13.042329+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1438,7 +1438,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T02:52:49.970293+00:00",
+      "last_started": "2026-10-21T03:03:13.585345+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-20T12:22:01.373484+00:00"
@@ -1484,7 +1484,7 @@
         "summary": "File type 'procfile' allow nahi hai."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T02:53:34.878000+00:00",
+      "last_started": "2026-10-21T03:03:23.199942+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1506,7 +1506,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-21T02:53:35.629338+00:00",
+      "last_started": "2026-10-21T03:03:23.470397+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1525,12 +1525,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-21T02:53:41.266328+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "2026-10-21 02:53:57,371 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-10-21 02:53:58,369 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-10-21 02:53:59,375 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready\n2026-10-21 02:56:17,296 - __main__ - INFO - Refresh command handled for bot 8705950973; polling remains active.",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-21T03:02:19.447761+00:00"
     },
     "cdd7128536e26e1b": {
       "_id": "cdd7128536e26e1b",
@@ -4369,6 +4370,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=11710"
+    },
+    {
+      "ts": "2026-10-21T03:03:10.228906+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=11714"
     }
   ],
   "coupons": {},
