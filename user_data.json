@@ -1015,6 +1015,56 @@
         "bots_uploaded": 0,
         "logins": 6
       }
+    },
+    "6807058978": {
+      "_id": 6807058978,
+      "name": "𝐕𝑒𝑟𝑐𝑒𝑡𝑖𝑙𝑒𝑥𝑐 ⚚",
+      "username": "vercetile",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-22T02:24:46.675656+00:00",
+      "last_seen": "2026-10-22T02:24:46.675674+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8793132805": {
+      "_id": 8793132805,
+      "name": "𝙎𝙄𝙍 𝙀𝙂𝙊 (𝙐𝙄)",
+      "username": "Realegoalive",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-22T02:25:02.298292+00:00",
+      "last_seen": "2026-10-22T02:25:02.298310+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-22T02:25:12.379041+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
@@ -4502,6 +4552,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=12157"
+    },
+    {
+      "ts": "2026-10-22T02:25:13.129627+00:00",
+      "uid": 8793132805,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
