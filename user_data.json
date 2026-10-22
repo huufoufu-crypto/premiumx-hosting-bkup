@@ -1128,8 +1128,8 @@
       "ban_reason": "",
       "wallet": 0,
       "kyc": false,
-      "verified": false,
-      "verified_at": null,
+      "verified": true,
+      "verified_at": "2026-10-22T07:48:18.064717+00:00",
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -4689,6 +4689,12 @@
     {
       "ts": "2026-10-22T06:41:23.159572+00:00",
       "uid": 8827098905,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-22T07:48:19.032313+00:00",
+      "uid": 8915316853,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
     }
