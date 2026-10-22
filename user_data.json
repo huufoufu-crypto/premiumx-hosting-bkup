@@ -1098,7 +1098,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:41:05.716124+00:00",
-      "last_seen": "2026-10-22T06:42:15.668647+00:00",
+      "last_seen": "2026-10-22T06:46:02.653353+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1112,8 +1112,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 3
+        "bots_uploaded": 1,
+        "logins": 5
       }
     }
   },
@@ -1748,6 +1748,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-21T17:14:56.129716+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "e07f861322caaa23": {
+      "_id": "e07f861322caaa23",
+      "owner": 8827098905,
+      "name": "krishnav8",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8827098905_e07f861322caaa23",
+      "created": "2026-10-22T06:44:51.029528+00:00",
+      "enc_files": [
+        {
+          "key_id": "jJn1fnVZ-NyUFbH9gT1KBQ",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8827098905/1792651491_krishnav8_py.enc",
+          "filename": "krishnav8.py",
+          "rel_path": "krishnav8.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-22T06:44:58.107415+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -6492,6 +6514,14 @@
       "verdict": "DANGEROUS",
       "risk_score": 55,
       "summary": "⚠️ File DANGEROUS hai! 4 threat(s) mili hain."
+    },
+    {
+      "ts": "2026-10-22T06:44:51.435702+00:00",
+      "uid": "8827098905",
+      "filename": "krishnav8.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
