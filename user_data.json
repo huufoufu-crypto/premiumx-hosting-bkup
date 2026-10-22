@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-22T06:27:52.795391+00:00",
+      "last_seen": "2026-10-22T06:37:37.636192+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1554
+        "logins": 1555
       },
       "last_expiry_warn": -1
     },
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-22T06:34:29.738578+00:00",
+      "last_seen": "2026-10-22T06:40:44.797653+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,32 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 11
+        "logins": 12
+      }
+    },
+    "8827098905": {
+      "_id": 8827098905,
+      "name": "#𝐊",
+      "username": "xyzkrishna",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-22T06:41:05.716124+00:00",
+      "last_seen": "2026-10-22T06:42:15.668647+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-22T06:41:22.426552+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 3
       }
     }
   },
@@ -1840,9 +1865,11 @@
       "method": "Paytm",
       "plan": "terminal",
       "amount": 1500,
-      "status": "pending",
+      "status": "rejected",
       "ts": "2026-10-22T06:34:29.756942+00:00",
-      "telegram_msg_id": 5385
+      "telegram_msg_id": 5385,
+      "rejected_by": 8740135346,
+      "rejected_at": "2026-10-22T06:37:38.424088+00:00"
     }
   ],
   "admins": {
@@ -4605,6 +4632,18 @@
       "uid": 6426979067,
       "action": "security_reject",
       "detail": "file=scan.py risk=55 verdict=DANGEROUS"
+    },
+    {
+      "ts": "2026-10-22T06:37:38.446686+00:00",
+      "uid": 8740135346,
+      "action": "pay_reject",
+      "detail": "pid=9I4I9M33"
+    },
+    {
+      "ts": "2026-10-22T06:41:23.159572+00:00",
+      "uid": 8827098905,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
