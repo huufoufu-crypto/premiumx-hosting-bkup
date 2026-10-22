@@ -1115,6 +1115,31 @@
         "bots_uploaded": 1,
         "logins": 10
       }
+    },
+    "8915316853": {
+      "_id": 8915316853,
+      "name": "MrlDi",
+      "username": "NoeNoe_OfficalCs",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-22T07:47:59.066197+00:00",
+      "last_seen": "2026-10-22T07:47:59.066214+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
