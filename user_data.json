@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-21T18:28:40.808748+00:00",
+      "last_seen": "2026-10-22T02:27:26.008971+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 8,
-        "logins": 233
+        "logins": 234
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -1048,7 +1048,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T02:25:02.298292+00:00",
-      "last_seen": "2026-10-22T02:25:02.298310+00:00",
+      "last_seen": "2026-10-22T02:26:41.015628+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1063,7 +1063,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 1
+        "logins": 3
       }
     }
   },
