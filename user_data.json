@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-23T11:33:47.131425+00:00",
+      "last_seen": "2026-10-23T11:34:05.506108+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -279,8 +279,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 8,
-        "logins": 242
+        "bots_uploaded": 9,
+        "logins": 247
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -1839,6 +1839,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-23T09:02:53.520326+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "fa10f39f3ef65240": {
+      "_id": "fa10f39f3ef65240",
+      "owner": 6515961246,
+      "name": "primexgwd",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6515961246_fa10f39f3ef65240",
+      "created": "2026-10-23T11:33:54.286619+00:00",
+      "enc_files": [
+        {
+          "key_id": "APgJnFp3rRMVY89WIVTpZg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6515961246/1792755235_primexgwd_py.enc",
+          "filename": "primexgwd.py",
+          "rel_path": "primexgwd.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-23T11:34:03.189424+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -6689,6 +6711,14 @@
       "ts": "2026-10-23T09:02:44.833313+00:00",
       "uid": "8837858140",
       "filename": "anayana.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-23T11:33:55.161702+00:00",
+      "uid": "6515961246",
+      "filename": "primexgwd.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
