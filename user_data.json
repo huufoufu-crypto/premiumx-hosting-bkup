@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-23T11:34:05.506108+00:00",
+      "last_seen": "2026-10-23T13:49:40.276531+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 9,
-        "logins": 247
+        "logins": 252
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-23T13:15:57.274940+00:00",
+      "last_seen": "2026-10-23T13:46:33.054642+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 54
+        "logins": 70
       }
     },
     "8827098905": {
@@ -1882,10 +1882,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-23T13:15:59.147607+00:00",
-      "last_error": "════════════════ START 2026-10-23T13:15:58.934314+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/6426979067_9a2fcf6d0ef62a85/Harshithosting.py\", line 325\n    _PHOTO_ICONS = {\"welcome\":\"✦\", \"main\":\"◈\", \"tunnel\":\"⬡\", \"bots\":\"▸\", \"upload\":\"▴\", \"plans\":\"★\", \"buy\":\"◆\", \"pay\":\"◉\", \"profile\":\"◈\", \"wallet\":\"◆\", \"referral\":\"✦\", \"help\":\"◇\", \"support\":\"▫\", \"ticket\":\"✿\", \"admin\":\"⚔\", \"stats\":\"▲\", \"github\":\"⬡\", \"security\":\"▣\", \"bot\":\"▶\", \"logs\":\"▸\", \"trial\":\"✶\", \"coupon\":\"◉\", \"gift\":\"✦\", \"broadcast\":\"⚑\", \"maint\":\"⚙\"}def _build_local_photos() -> None:\n                                                                                                                                                                                                                                                                                                                                                                   ^^^\nSyntaxError: invalid syntax",
+      "last_started": "2026-10-23T13:46:00.118337+00:00",
+      "last_error": "════════════════ START 2026-10-23T13:45:59.716006+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/6426979067_9a2fcf6d0ef62a85/Harshithosting.py\", line 325\n    _PHOTO_ICONS = {\"welcome\":\"✦\", \"main\":\"◈\", \"tunnel\":\"⬡\", \"bots\":\"▸\", \"upload\":\"▴\", \"plans\":\"★\", \"buy\":\"◆\", \"pay\":\"◉\", \"profile\":\"◈\", \"wallet\":\"◆\", \"referral\":\"✦\", \"help\":\"◇\", \"support\":\"▫\", \"ticket\":\"✿\", \"admin\":\"⚔\", \"stats\":\"▲\", \"github\":\"⬡\", \"security\":\"▣\", \"bot\":\"▶\", \"logs\":\"▸\", \"trial\":\"✶\", \"coupon\":\"◉\", \"gift\":\"✦\", \"broadcast\":\"⚑\", \"maint\":\"⚙\"}def _build_local_photos() -> None:\n                                                                                                                                                                                                                                                                                                                                                                   ^^^\nSyntaxError: invalid syntax",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-23T13:15:59.342711+00:00"
+      "last_exit_at": "2026-10-23T13:46:00.366399+00:00"
     }
   },
   "payments": [
@@ -4833,6 +4833,18 @@
       "uid": 7745343711,
       "action": "bot_delete",
       "detail": "bot=0ef95c2ab7eaa2e5"
+    },
+    {
+      "ts": "2026-10-23T13:46:12.291572+00:00",
+      "uid": 6426979067,
+      "action": "bot_clone",
+      "detail": "src=9a2fcf6d0ef62a85 new=6124e757ff663121"
+    },
+    {
+      "ts": "2026-10-23T13:46:28.728728+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=6124e757ff663121"
     }
   ],
   "coupons": {},
