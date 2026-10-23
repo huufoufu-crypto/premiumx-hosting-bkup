@@ -923,7 +923,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-19T09:29:21.813916+00:00",
-      "last_seen": "2026-10-22T13:39:01.325979+00:00",
+      "last_seen": "2026-10-23T05:17:52.663387+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -937,8 +937,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 5
+        "bots_uploaded": 1,
+        "logins": 9
       }
     },
     "8832189607": {
@@ -1795,6 +1795,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-22T06:44:58.107415+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "b62919779ba174a4": {
+      "_id": "b62919779ba174a4",
+      "owner": 8837858140,
+      "name": "gwdpannel",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8837858140_b62919779ba174a4",
+      "created": "2026-10-23T05:17:38.935378+00:00",
+      "enc_files": [
+        {
+          "key_id": "Pr-cX8M6WaioCwcRUgDAxg",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8837858140/1792732659_gwdpannel_py.enc",
+          "filename": "gwdpannel.py",
+          "rel_path": "gwdpannel.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-23T05:17:46.640601+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -6573,6 +6595,14 @@
       "ts": "2026-10-22T06:44:51.435702+00:00",
       "uid": "8827098905",
       "filename": "krishnav8.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-23T05:17:39.492736+00:00",
+      "uid": "8837858140",
+      "filename": "gwdpannel.py",
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
