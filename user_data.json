@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-23T12:47:21.657091+00:00",
+      "last_seen": "2026-10-23T13:14:44.533776+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 49
+        "bots_uploaded": 3,
+        "logins": 52
       }
     },
     "8827098905": {
@@ -1863,6 +1863,25 @@
       "last_started": "2026-10-23T11:34:03.189424+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "9a2fcf6d0ef62a85": {
+      "_id": "9a2fcf6d0ef62a85",
+      "owner": 6426979067,
+      "name": "Harshithosting",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6426979067_9a2fcf6d0ef62a85",
+      "created": "2026-10-23T13:14:50.211960+00:00",
+      "enc_files": [
+        {
+          "key_id": "zPAi4ZSFV8iyUe6zcXuF8A",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6426979067/1792761291_Harshithosting_py.enc",
+          "filename": "Harshithosting.py",
+          "rel_path": "Harshithosting.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0
     }
   },
   "payments": [
@@ -6721,6 +6740,14 @@
       "filename": "primexgwd.py",
       "verdict": "SAFE",
       "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-23T13:14:50.853633+00:00",
+      "uid": "6426979067",
+      "filename": "Harshithosting.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
