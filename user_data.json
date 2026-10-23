@@ -948,7 +948,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-20T04:37:13.440325+00:00",
-      "last_seen": "2026-10-21T14:45:48.923617+00:00",
+      "last_seen": "2026-10-23T06:31:38.366254+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -962,8 +962,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 7
+        "bots_uploaded": 2,
+        "logins": 11
       }
     },
     "7541401494": {
@@ -4742,6 +4742,12 @@
       "uid": 8740135346,
       "action": "admin_del",
       "detail": "uid=6426979067"
+    },
+    {
+      "ts": "2026-10-23T06:31:39.254513+00:00",
+      "uid": 8832189607,
+      "action": "bot_delete",
+      "detail": "bot=44c7be1f47b30778"
     }
   ],
   "coupons": {},
@@ -6606,6 +6612,14 @@
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-23T06:30:50.966713+00:00",
+      "uid": "8832189607",
+      "filename": "a.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 35,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
