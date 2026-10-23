@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-23T14:39:22.011457+00:00",
+      "last_seen": "2026-10-23T14:42:04.261966+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 3,
-        "logins": 80
+        "bots_uploaded": 4,
+        "logins": 87
       }
     },
     "8827098905": {
@@ -1863,6 +1863,29 @@
       "last_started": "2026-10-23T11:34:03.189424+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "eb18219a6c27c703": {
+      "_id": "eb18219a6c27c703",
+      "owner": 6426979067,
+      "name": "HarshitOsint",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6426979067_eb18219a6c27c703",
+      "created": "2026-10-23T14:41:39.953153+00:00",
+      "enc_files": [
+        {
+          "key_id": "NprmjWWKDPsf2ZpapZvDSw",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6426979067/1792766501_HarshitOsint_py.enc",
+          "filename": "HarshitOsint.py",
+          "rel_path": "HarshitOsint.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-23T14:42:00.728698+00:00",
+      "last_error": "════════════════ START 2026-10-23T14:42:00.355941+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/6426979067_eb18219a6c27c703/HarshitOsint.py\", line 325\n    _PHOTO_ICONS = {\"welcome\":\"✦\", \"main\":\"◈\", \"tunnel\":\"⬡\", \"bots\":\"▸\", \"upload\":\"▴\", \"plans\":\"★\", \"buy\":\"◆\", \"pay\":\"◉\", \"profile\":\"◈\", \"wallet\":\"◆\", \"referral\":\"✦\", \"help\":\"◇\", \"support\":\"▫\", \"ticket\":\"✿\", \"admin\":\"⚔\", \"stats\":\"▲\", \"github\":\"⬡\", \"security\":\"▣\", \"bot\":\"▶\", \"logs\":\"▸\", \"trial\":\"✶\", \"coupon\":\"◉\", \"gift\":\"✦\", \"broadcast\":\"⚑\", \"maint\":\"⚙\"}def \n                                                                                                                                                                                                                                                                                                                                                                   ^^^\nSyntaxError: invalid syntax",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-23T14:42:01.043676+00:00"
     }
   },
   "payments": [
@@ -6745,6 +6768,14 @@
       "ts": "2026-10-23T13:14:50.853633+00:00",
       "uid": "6426979067",
       "filename": "Harshithosting.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-23T14:41:40.824888+00:00",
+      "uid": "6426979067",
+      "filename": "HarshitOsint.py",
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
