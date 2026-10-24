@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-24T10:43:19.302272+00:00",
+      "last_seen": "2026-10-24T10:45:11.354330+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -636,7 +636,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 15,
-        "logins": 180
+        "logins": 183
       }
     },
     "8788156789": {
@@ -1164,6 +1164,31 @@
         "commands": 0,
         "bots_uploaded": 0,
         "logins": 1
+      }
+    },
+    "8112920868": {
+      "_id": 8112920868,
+      "name": "𓆰ꪜᴇ𝐗ᴏ𝐑~!! ☠️भगवान //~💢",
+      "username": "Iownkenggod",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-24T10:45:29.694693+00:00",
+      "last_seen": "2026-10-24T10:46:14.426047+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-24T10:45:54.094681+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 4
       }
     }
   },
@@ -1863,28 +1888,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "7433afda6a4a0af7": {
-      "_id": "7433afda6a4a0af7",
-      "owner": 8032573119,
-      "name": "rebel16-1",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_7433afda6a4a0af7",
-      "created": "2026-10-24T10:24:49.515719+00:00",
-      "enc_files": [
-        {
-          "key_id": "avP4QVnz-0og2C4Zub-40Q",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1792837490_rebel16-1_py.enc",
-          "filename": "rebel16-1.py",
-          "rel_path": "rebel16-1.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T10:25:02.719890+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "50e8843a2623daa4": {
       "_id": "50e8843a2623daa4",
       "owner": 7204407681,
@@ -1904,6 +1907,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-24T10:30:07.414398+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "6f95dea8c133cc07": {
+      "_id": "6f95dea8c133cc07",
+      "owner": 8112920868,
+      "name": "JAYVEXOR",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8112920868_6f95dea8c133cc07",
+      "created": "2026-10-24T10:46:18.731005+00:00",
+      "enc_files": [
+        {
+          "key_id": "wvJSxmkicoiBdK43ZoMHtw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8112920868/1792838779_JAYVEXOR_py.enc",
+          "filename": "JAYVEXOR.py",
+          "rel_path": "JAYVEXOR.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T10:46:30.908917+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -4973,6 +4998,18 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=cdd7128536e26e1b"
+    },
+    {
+      "ts": "2026-10-24T10:45:08.804845+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=7433afda6a4a0af7"
+    },
+    {
+      "ts": "2026-10-24T10:45:55.007825+00:00",
+      "uid": 8112920868,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -6994,6 +7031,14 @@
       "ts": "2026-10-24T10:29:55.378597+00:00",
       "uid": "7204407681",
       "filename": "rebel15.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T10:46:19.377737+00:00",
+      "uid": "8112920868",
+      "filename": "JAYVEXOR.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
