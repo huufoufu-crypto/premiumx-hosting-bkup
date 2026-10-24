@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T14:46:57.435932+00:00",
+      "last_seen": "2026-10-24T15:36:35.853530+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 1,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 20,
-        "logins": 1702
+        "bots_uploaded": 22,
+        "logins": 1724
       },
       "last_expiry_warn": -1
     },
@@ -1977,6 +1977,28 @@
       "last_started": "2026-10-24T14:46:08.959422+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "605a4a3d5c591f3e": {
+      "_id": "605a4a3d5c591f3e",
+      "owner": 8740135346,
+      "name": "wpsell",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_605a4a3d5c591f3e",
+      "created": "2026-10-24T15:36:36.557688+00:00",
+      "enc_files": [
+        {
+          "key_id": "lCGEcgOQnzyDHgPS4d_Frg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792856197_wpsell_py.enc",
+          "filename": "wpsell.py",
+          "rel_path": "wpsell.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T15:36:45.941659+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2137,18 +2159,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-17T17:49:21.940293+00:00",
-      "uid": 8944080637,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
-    {
-      "ts": "2026-09-17T18:01:12.777929+00:00",
-      "uid": 8740135346,
-      "action": "bot_delete",
-      "detail": "bot=0f2f85d202342e1d"
-    },
     {
       "ts": "2026-09-17T18:10:16.936051+00:00",
       "uid": 8740135346,
@@ -5136,6 +5146,18 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=5dab059190ade67a"
+    },
+    {
+      "ts": "2026-10-24T15:35:16.244676+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-10-24T15:36:23.900261+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=39935b00e7342117"
     }
   ],
   "coupons": {},
@@ -7288,6 +7310,22 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "File type 'procfile' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-24T15:33:13.843327+00:00",
+      "uid": "8740135346",
+      "filename": "wpsell.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T15:36:37.032901+00:00",
+      "uid": "8740135346",
+      "filename": "wpsell.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
