@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T07:41:31.044538+00:00",
+      "last_seen": "2026-10-24T07:45:37.774962+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 17,
-        "logins": 1619
+        "logins": 1620
       },
       "last_expiry_warn": -1
     },
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-24T07:35:12.879581+00:00",
+      "last_seen": "2026-10-24T07:43:02.088694+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -279,8 +279,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 10,
-        "logins": 280
+        "bots_uploaded": 11,
+        "logins": 289
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -998,7 +998,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-21T13:45:57.150939+00:00",
-      "last_seen": "2026-10-23T15:31:50.835192+00:00",
+      "last_seen": "2026-10-24T07:42:42.447693+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1013,7 +1013,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 12
+        "logins": 19
       }
     },
     "6807058978": {
@@ -1798,28 +1798,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "fa10f39f3ef65240": {
-      "_id": "fa10f39f3ef65240",
-      "owner": 6515961246,
-      "name": "primexgwd",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6515961246_fa10f39f3ef65240",
-      "created": "2026-10-23T11:33:54.286619+00:00",
-      "enc_files": [
-        {
-          "key_id": "APgJnFp3rRMVY89WIVTpZg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6515961246/1792755235_primexgwd_py.enc",
-          "filename": "primexgwd.py",
-          "rel_path": "primexgwd.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:32:37.292432+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "0cba54ca6c92a3f4": {
       "_id": "0cba54ca6c92a3f4",
       "owner": 7557062822,
@@ -1835,7 +1813,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-23T16:32:39.454461+00:00",
@@ -1883,6 +1861,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-24T07:36:52.252627+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "7a8f5fcc885977be": {
+      "_id": "7a8f5fcc885977be",
+      "owner": 6515961246,
+      "name": "primexgwd",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6515961246_7a8f5fcc885977be",
+      "created": "2026-10-24T07:42:19.298195+00:00",
+      "enc_files": [
+        {
+          "key_id": "MznGSpF5MTafOJCSyYN6xA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6515961246/1792827740_primexgwd_py.enc",
+          "filename": "primexgwd.py",
+          "rel_path": "primexgwd.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T07:42:29.918292+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -4898,6 +4898,18 @@
       "uid": 8740135346,
       "action": "bot_delete",
       "detail": "bot=50394c1eabfa7015"
+    },
+    {
+      "ts": "2026-10-24T07:42:03.446474+00:00",
+      "uid": 8740135346,
+      "action": "broadcast_sent",
+      "detail": "sent=43 fail=1"
+    },
+    {
+      "ts": "2026-10-24T07:42:05.759776+00:00",
+      "uid": 6515961246,
+      "action": "bot_delete",
+      "detail": "bot=fa10f39f3ef65240"
     }
   ],
   "coupons": {},
@@ -6847,6 +6859,14 @@
       "ts": "2026-10-24T07:36:38.758885+00:00",
       "uid": "8740135346",
       "filename": "proxybutterscoth.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T07:42:19.820531+00:00",
+      "uid": "6515961246",
+      "filename": "primexgwd.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
