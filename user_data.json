@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T12:30:15.663282+00:00",
+      "last_seen": "2026-10-24T13:26:46.095808+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 20,
-        "logins": 1672
+        "logins": 1677
       },
       "last_expiry_warn": -1
     },
@@ -948,7 +948,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-20T04:37:13.440325+00:00",
-      "last_seen": "2026-10-23T06:31:38.366254+00:00",
+      "last_seen": "2026-10-24T13:28:22.759789+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -962,8 +962,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 11
+        "bots_uploaded": 3,
+        "logins": 18
       }
     },
     "7541401494": {
@@ -1595,51 +1595,6 @@
       "last_exit_code": null,
       "last_exit_at": "2026-10-20T12:22:01.373484+00:00"
     },
-    "7601da3a7be5c8ba": {
-      "_id": "7601da3a7be5c8ba",
-      "owner": 8832189607,
-      "name": "HOSTHOM_py",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8832189607_7601da3a7be5c8ba",
-      "created": "2026-10-20T04:37:54.515712+00:00",
-      "enc_files": [
-        {
-          "key_id": "gqjm_qIy79btcixnl4a9ag",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8832189607/1792471075_bot_py.enc",
-          "filename": "bot.py",
-          "rel_path": "bot.py"
-        },
-        {
-          "key_id": "bejBaiVTtZMimkew68IYEA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8832189607/1792471076_Procfile.enc",
-          "filename": "Procfile",
-          "rel_path": "Procfile"
-        },
-        {
-          "key_id": "n-rPH-a1j10IM09uekmwYQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8832189607/1792471078_requirements_txt.enc",
-          "filename": "requirements.txt",
-          "rel_path": "requirements.txt"
-        },
-        {
-          "key_id": "1UVES-Q-vDCSVAw1tMiaRg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8832189607/1792471079_runtime_txt.enc",
-          "filename": "runtime.txt",
-          "rel_path": "runtime.txt"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 30,
-        "summary": "File type 'procfile' allow nahi hai."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:32:23.324584+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "a68c9f81756c58aa": {
       "_id": "a68c9f81756c58aa",
       "owner": 8788156789,
@@ -1977,29 +1932,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "78584c6c30d8c937": {
-      "_id": "78584c6c30d8c937",
-      "owner": 8740135346,
-      "name": "newproxyuser",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937",
-      "created": "2026-10-24T11:47:31.926575+00:00",
-      "enc_files": [
-        {
-          "key_id": "VAohtoL4ONrZ0UoJy2mfOQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792842452_newproxyuser_py.enc",
-          "filename": "newproxyuser.py",
-          "rel_path": "newproxyuser.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T13:25:37.291469+00:00",
-      "last_error": "════════════════ START 2026-10-24T13:25:37.214571+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T13:25:37.320914+00:00"
-    },
     "40b6980c44fe84ab": {
       "_id": "40b6980c44fe84ab",
       "owner": 8740135346,
@@ -2018,10 +1950,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T13:25:38.071440+00:00",
-      "last_error": "════════════════ START 2026-10-24T13:25:38.028691+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_40b6980c44fe84ab/newproxyuser.py\", line 1474\n    @register_cmd(\"protectlist\")\nSyntaxError: expected 'except' or 'finally' block",
+      "last_started": "2026-10-24T13:30:41.715531+00:00",
+      "last_error": "════════════════ START 2026-10-24T13:30:41.670767+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_40b6980c44fe84ab/newproxyuser.py\", line 1474\n    @register_cmd(\"protectlist\")\nSyntaxError: expected 'except' or 'finally' block",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T13:25:38.102013+00:00"
+      "last_exit_at": "2026-10-24T13:30:41.745491+00:00"
     },
     "4714142c7ec6cd87": {
       "_id": "4714142c7ec6cd87",
@@ -2041,10 +1973,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T13:25:37.244638+00:00",
-      "last_error": "════════════════ START 2026-10-24T13:25:37.173122+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
+      "last_started": "2026-10-24T13:30:44.167115+00:00",
+      "last_error": "════════════════ START 2026-10-24T13:30:44.122998+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T13:25:37.266521+00:00"
+      "last_exit_at": "2026-10-24T13:30:44.204359+00:00"
     },
     "5dab059190ade67a": {
       "_id": "5dab059190ade67a",
@@ -2068,6 +2000,74 @@
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-24T12:34:29.155549+00:00"
+    },
+    "78584c6c30d8c937": {
+      "_id": "78584c6c30d8c937",
+      "owner": 8740135346,
+      "name": "newproxyuser",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937",
+      "created": "2026-10-24T11:47:31.926575+00:00",
+      "enc_files": [
+        {
+          "key_id": "VAohtoL4ONrZ0UoJy2mfOQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792842452_newproxyuser_py.enc",
+          "filename": "newproxyuser.py",
+          "rel_path": "newproxyuser.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T13:30:41.177693+00:00",
+      "last_error": "════════════════ START 2026-10-24T13:30:41.131874+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-24T13:30:41.215725+00:00"
+    },
+    "230d99202d2a42c3": {
+      "_id": "230d99202d2a42c3",
+      "owner": 8832189607,
+      "name": "HOSTHOM_py",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8832189607_230d99202d2a42c3",
+      "created": "2026-10-24T13:28:24.614911+00:00",
+      "enc_files": [
+        {
+          "key_id": "WwJH3QzKH4vND1F4EnYInw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1792848505_bot_py.enc",
+          "filename": "bot.py",
+          "rel_path": "bot.py"
+        },
+        {
+          "key_id": "HGShcWkbPXIeAg3XmZ4PDg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1792848506_Procfile.enc",
+          "filename": "Procfile",
+          "rel_path": "Procfile"
+        },
+        {
+          "key_id": "f4bkuqITJHRT9gzSmYdgEQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1792848508_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "requirements.txt"
+        },
+        {
+          "key_id": "2m1z-Bpzu-VvuOV7_bUiHQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1792848509_runtime_txt.enc",
+          "filename": "runtime.txt",
+          "rel_path": "runtime.txt"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'procfile' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T13:28:46.001257+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2228,24 +2228,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-17T15:37:44.454363+00:00",
-      "uid": 7958364334,
-      "action": "bot_delete",
-      "detail": "bot=7dd016e695897381"
-    },
-    {
-      "ts": "2026-09-17T15:38:35.493515+00:00",
-      "uid": 8740135346,
-      "action": "approval_toggle",
-      "detail": "now=False"
-    },
-    {
-      "ts": "2026-09-17T15:40:28.321690+00:00",
-      "uid": 8740135346,
-      "action": "set_announce",
-      "detail": "-1004360666004"
-    },
     {
       "ts": "2026-09-17T15:46:40.776491+00:00",
       "uid": 7958364334,
@@ -5227,6 +5209,24 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=86c5b0a8d1bcda50"
+    },
+    {
+      "ts": "2026-10-24T13:25:47.362035+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=17141"
+    },
+    {
+      "ts": "2026-10-24T13:26:47.149336+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=78584c6c30d8c937"
+    },
+    {
+      "ts": "2026-10-24T13:27:59.323912+00:00",
+      "uid": 8832189607,
+      "action": "bot_delete",
+      "detail": "bot=7601da3a7be5c8ba"
     }
   ],
   "coupons": {},
@@ -7371,6 +7371,14 @@
       "verdict": "SAFE",
       "risk_score": 12,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T13:28:25.169341+00:00",
+      "uid": "8832189607",
+      "filename": "Procfile",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'procfile' allow nahi hai."
     }
   ]
 }
