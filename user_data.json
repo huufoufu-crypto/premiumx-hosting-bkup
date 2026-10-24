@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-24T10:24:47.580752+00:00",
+      "last_seen": "2026-10-24T10:43:19.302272+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -636,7 +636,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 15,
-        "logins": 174
+        "logins": 180
       }
     },
     "8788156789": {
@@ -1636,29 +1636,6 @@
       "last_started": "2026-10-23T16:32:23.877337+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "cdd7128536e26e1b": {
-      "_id": "cdd7128536e26e1b",
-      "owner": 8032573119,
-      "name": "rebelx",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8032573119_cdd7128536e26e1b",
-      "created": "2026-10-20T14:04:24.085244+00:00",
-      "enc_files": [
-        {
-          "key_id": "Zr4ezD_QA-HQF7RtcK1tlg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8032573119/1792505066_rebelx_py.enc",
-          "filename": "rebelx.py",
-          "rel_path": "rebelx.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:32:25.679530+00:00",
-      "last_error": "════════════════ START 2026-10-23T16:32:24.547970+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-23T16:32:35.476941+00:00"
     },
     "e0d3043d5f0ace61": {
       "_id": "e0d3043d5f0ace61",
@@ -4990,6 +4967,12 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=1163991ea524ee39"
+    },
+    {
+      "ts": "2026-10-24T10:43:12.565105+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=cdd7128536e26e1b"
     }
   ],
   "coupons": {},
