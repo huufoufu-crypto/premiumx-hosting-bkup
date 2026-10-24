@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T01:52:22.164174+00:00",
+      "last_seen": "2026-10-24T07:26:08.370813+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1586
+        "logins": 1587
       },
       "last_expiry_warn": -1
     },
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-24T03:58:51.979010+00:00",
+      "last_seen": "2026-10-23T13:49:40.276531+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 9,
-        "logins": 261
+        "logins": 252
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-24T01:50:18.530128+00:00",
+      "last_seen": "2026-10-22T11:40:46.693970+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 18,
-        "logins": 241
+        "logins": 240
       }
     },
     "8854714402": {
@@ -923,7 +923,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-19T09:29:21.813916+00:00",
-      "last_seen": "2026-10-23T22:35:28.134929+00:00",
+      "last_seen": "2026-10-23T09:03:10.293824+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -938,7 +938,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 2,
-        "logins": 16
+        "logins": 15
       }
     },
     "8832189607": {
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-24T04:40:46.863174+00:00",
+      "last_seen": "2026-10-23T14:42:04.261966+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 6,
-        "logins": 106
+        "bots_uploaded": 4,
+        "logins": 87
       }
     },
     "8827098905": {
@@ -1139,56 +1139,6 @@
         "commands": 0,
         "bots_uploaded": 0,
         "logins": 1
-      }
-    },
-    "8882821469": {
-      "_id": 8882821469,
-      "name": "Kamzor ho ap",
-      "username": "Senseirnd",
-      "plan": "free",
-      "plan_expires": null,
-      "joined": "2026-10-23T22:09:33.371712+00:00",
-      "last_seen": "2026-10-23T22:09:33.371727+00:00",
-      "banned": false,
-      "ban_reason": "",
-      "wallet": 0,
-      "kyc": false,
-      "verified": false,
-      "verified_at": null,
-      "ref_by": null,
-      "ref_count": 0,
-      "ref_credit": 0,
-      "trial_used": false,
-      "bot_slots_bonus": 0,
-      "stats": {
-        "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 1
-      }
-    },
-    "8112920868": {
-      "_id": 8112920868,
-      "name": "𓆰ꪜᴇ𝐗ᴏ𝐑~!! ☠️भगवान //~💢",
-      "username": "Iownkenggod",
-      "plan": "free",
-      "plan_expires": null,
-      "joined": "2026-10-24T01:51:21.018202+00:00",
-      "last_seen": "2026-10-24T01:53:52.066593+00:00",
-      "banned": false,
-      "ban_reason": "",
-      "wallet": 0,
-      "kyc": false,
-      "verified": true,
-      "verified_at": "2026-10-24T01:52:53.416684+00:00",
-      "ref_by": null,
-      "ref_count": 0,
-      "ref_credit": 0,
-      "trial_used": false,
-      "bot_slots_bonus": 0,
-      "stats": {
-        "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 4
       }
     }
   },
@@ -1907,7 +1857,7 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-23T16:32:37.292432+00:00",
@@ -1933,28 +1883,6 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-23T16:32:39.454461+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "5703330ab421ea0c": {
-      "_id": "5703330ab421ea0c",
-      "owner": 8112920868,
-      "name": "JAYVEXOR",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8112920868_5703330ab421ea0c",
-      "created": "2026-10-24T01:53:53.600496+00:00",
-      "enc_files": [
-        {
-          "key_id": "ddmgbw4-OoOhy6MwTCB_CQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8112920868/1792806835_JAYVEXOR_py.enc",
-          "filename": "JAYVEXOR.py",
-          "rel_path": "JAYVEXOR.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T01:54:02.934737+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -4942,34 +4870,10 @@
       "detail": "now=on"
     },
     {
-      "ts": "2026-10-23T22:32:25.041551+00:00",
+      "ts": "2026-10-24T07:25:40.909529+00:00",
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=14467"
-    },
-    {
-      "ts": "2026-10-24T01:52:22.905884+00:00",
-      "uid": 8740135346,
-      "action": "maintenance_toggle",
-      "detail": "now=off"
-    },
-    {
-      "ts": "2026-10-24T01:52:54.388213+00:00",
-      "uid": 8112920868,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
-    {
-      "ts": "2026-10-24T04:38:42.666815+00:00",
-      "uid": 6426979067,
-      "action": "bot_delete",
-      "detail": "bot=f189a657d57ed69b"
-    },
-    {
-      "ts": "2026-10-24T04:40:47.559863+00:00",
-      "uid": 6426979067,
-      "action": "bot_delete",
-      "detail": "bot=34035fb485a817a5"
     }
   ],
   "coupons": {},
@@ -6906,30 +6810,6 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
-    },
-    {
-      "ts": "2026-10-24T01:53:55.186533+00:00",
-      "uid": "8112920868",
-      "filename": "JAYVEXOR.py",
-      "verdict": "SAFE",
-      "risk_score": 25,
-      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
-    },
-    {
-      "ts": "2026-10-24T04:34:10.803609+00:00",
-      "uid": "6426979067",
-      "filename": "vps.py",
-      "verdict": "SUSPICIOUS",
-      "risk_score": 35,
-      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-    },
-    {
-      "ts": "2026-10-24T04:38:34.838695+00:00",
-      "uid": "6426979067",
-      "filename": "5_6262485204342940450.py",
-      "verdict": "SUSPICIOUS",
-      "risk_score": 35,
-      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
