@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T14:46:49.945962+00:00",
+      "last_seen": "2026-10-24T14:46:57.435932+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 20,
-        "logins": 1700
+        "logins": 1702
       },
       "last_expiry_warn": -1
     },
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-24T12:35:13.254752+00:00",
+      "last_seen": "2026-10-24T14:49:24.472647+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 21,
-        "logins": 279
+        "logins": 282
       }
     },
     "8854714402": {
@@ -1933,29 +1933,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "5dab059190ade67a": {
-      "_id": "5dab059190ade67a",
-      "owner": 8630447127,
-      "name": "proxy_engine_fixed",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_5dab059190ade67a",
-      "created": "2026-10-24T12:28:17.193944+00:00",
-      "enc_files": [
-        {
-          "key_id": "C-zOz3c8zwxsc8vWue5QoQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792844898_proxy_engine_fixed_py.enc",
-          "filename": "proxy_engine_fixed.py",
-          "rel_path": "proxy_engine_fixed.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:45:58.981384+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-24T12:34:29.155549+00:00"
-    },
     "230d99202d2a42c3": {
       "_id": "230d99202d2a42c3",
       "owner": 8832189607,
@@ -2000,29 +1977,6 @@
       "last_started": "2026-10-24T14:46:08.959422+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "4714142c7ec6cd87": {
-      "_id": "4714142c7ec6cd87",
-      "owner": 8740135346,
-      "name": "newproxyuser",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87",
-      "created": "2026-10-24T11:54:30.124302+00:00",
-      "enc_files": [
-        {
-          "key_id": "K2bBn0Swb3nhcHIJ9-ba4A",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792842871_newproxyuser_py.enc",
-          "filename": "newproxyuser.py",
-          "rel_path": "newproxyuser.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:45:47.520498+00:00",
-      "last_error": "════════════════ START 2026-10-24T14:45:47.480430+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T14:45:47.552119+00:00"
     }
   },
   "payments": [
@@ -2183,18 +2137,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-17T17:42:45.514127+00:00",
-      "uid": 8740135346,
-      "action": "maintenance_toggle",
-      "detail": "now=on"
-    },
-    {
-      "ts": "2026-09-17T17:49:07.178466+00:00",
-      "uid": 8740135346,
-      "action": "maintenance_toggle",
-      "detail": "now=off"
-    },
     {
       "ts": "2026-09-17T17:49:21.940293+00:00",
       "uid": 8944080637,
@@ -5182,6 +5124,18 @@
       "uid": 8740135346,
       "action": "bot_delete",
       "detail": "bot=78584c6c30d8c937"
+    },
+    {
+      "ts": "2026-10-24T14:46:58.489157+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=4714142c7ec6cd87"
+    },
+    {
+      "ts": "2026-10-24T14:49:24.942300+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=5dab059190ade67a"
     }
   ],
   "coupons": {},
