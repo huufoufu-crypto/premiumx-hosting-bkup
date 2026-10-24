@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T12:29:57.359580+00:00",
+      "last_seen": "2026-10-24T12:30:15.663282+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 20,
-        "logins": 1669
+        "logins": 1672
       },
       "last_expiry_warn": -1
     },
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-24T12:29:38.429875+00:00",
+      "last_seen": "2026-10-24T12:34:57.545052+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 21,
-        "logins": 260
+        "logins": 276
       }
     },
     "8854714402": {
@@ -1992,13 +1992,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:30:02.331284+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-24T12:29:59.006968+00:00"
+      "last_started": "2026-10-24T12:35:05.086207+00:00",
+      "last_error": "════════════════ START 2026-10-24T12:35:05.038380+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-24T12:35:05.120231+00:00"
     },
     "40b6980c44fe84ab": {
       "_id": "40b6980c44fe84ab",
@@ -2018,10 +2018,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:30:01.447594+00:00",
-      "last_error": "════════════════ START 2026-10-24T12:30:01.396619+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_40b6980c44fe84ab/newproxyuser.py\", line 1474\n    @register_cmd(\"protectlist\")\nSyntaxError: expected 'except' or 'finally' block",
+      "last_started": "2026-10-24T12:35:02.427564+00:00",
+      "last_error": "════════════════ START 2026-10-24T12:35:02.375354+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_40b6980c44fe84ab/newproxyuser.py\", line 1474\n    @register_cmd(\"protectlist\")\nSyntaxError: expected 'except' or 'finally' block",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T12:30:01.481348+00:00"
+      "last_exit_at": "2026-10-24T12:35:02.468273+00:00"
     },
     "4714142c7ec6cd87": {
       "_id": "4714142c7ec6cd87",
@@ -2038,13 +2038,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:30:02.379227+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-24T12:29:58.916771+00:00"
+      "last_started": "2026-10-24T12:35:05.471729+00:00",
+      "last_error": "════════════════ START 2026-10-24T12:35:05.423912+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-24T12:35:05.512122+00:00"
     },
     "5dab059190ade67a": {
       "_id": "5dab059190ade67a",
@@ -2061,13 +2061,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:29:40.904451+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-24T12:29:04.927177+00:00"
+      "last_started": "2026-10-24T12:32:34.207296+00:00",
+      "last_error": "════════════════ START 2026-10-24T12:32:34.147105+00:00 ════════════════\nPlease enter your phone (or bot token): Please enter the code you received: Invalid code. Please try again.\nPlease enter the code you received: Invalid code. Please try again.\nPlease enter the code you received: \nStartup Error -> You also need to provide a phone_code_hash.",
+      "last_exit_code": 0,
+      "last_exit_at": "2026-10-24T12:34:29.155549+00:00"
     }
   },
   "payments": [
