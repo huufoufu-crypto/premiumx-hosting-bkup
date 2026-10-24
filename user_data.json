@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-24T11:24:13.803862+00:00",
+      "last_seen": "2026-10-24T11:29:20.165890+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 12,
-        "logins": 193
+        "logins": 194
       }
     },
     "8827098905": {
@@ -1173,7 +1173,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-24T10:45:29.694693+00:00",
-      "last_seen": "2026-10-24T10:46:14.426047+00:00",
+      "last_seen": "2026-10-24T11:27:37.860811+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1188,7 +1188,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 4
+        "logins": 8
       }
     }
   },
@@ -1903,12 +1903,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-24T10:46:30.908917+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8425330345:AAHfY6tbb58YSMMCxyG1TqtfUjBgkekt2sY/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8860592959:AAHA-6CEPl9oaAu7QbKGG2zTALknFgjx-tY/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8914481136:AAGZW2TBLlvydGv9kQqi3yTUmghbOUy0p0M/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8969329417:AAFo-Ipe6uJTrvVzQsV5Zt1KPoa6_8UYdCY/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8551550744:AAEiYhd0nPS7cLUmfdbF3FCnUSPrZImpkX4/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8918300922:AAFlfdhyfNdPZxRxnw_y80UhoXqNpPyPrsU/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8687216858:AAGTp86sBjUG5IjUJbrDf1MrGo7lVhtVb_w/getUpdates \"HTTP/1.1 200 OK\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8821693301:AAG9WIKRJXvt6swLbmP4o1xuXOUsMTNprCA/getUpdates \"HTTP/1.1 200 OK\"",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-24T11:27:39.272156+00:00"
     },
     "8db2cf5150697959": {
       "_id": "8db2cf5150697959",
