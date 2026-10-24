@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-24T04:34:27.639789+00:00",
+      "last_seen": "2026-10-24T04:38:49.873534+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 5,
-        "logins": 93
+        "bots_uploaded": 6,
+        "logins": 103
       }
     },
     "8827098905": {
@@ -1958,33 +1958,29 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "f189a657d57ed69b": {
-      "_id": "f189a657d57ed69b",
+    "34035fb485a817a5": {
+      "_id": "34035fb485a817a5",
       "owner": 6426979067,
-      "name": "vps",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6426979067_f189a657d57ed69b",
-      "created": "2026-10-24T04:34:10.504572+00:00",
+      "name": "5_6262485204342940450",
+      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6426979067_34035fb485a817a5",
+      "created": "2026-10-24T04:38:34.491873+00:00",
       "enc_files": [
         {
-          "key_id": "5r4hrA0F5PHJNPQoT73r4g",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6426979067/1792816451_vps_py.enc",
-          "filename": "vps.py",
-          "rel_path": "vps.py"
+          "key_id": "Vzs6mPYzRmLFpHxNHKnoUA",
+          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6426979067/1792816715_5_6262485204342940450_py.enc",
+          "filename": "5_6262485204342940450.py",
+          "rel_path": "5_6262485204342940450.py"
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "stopped",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
         "risk_score": 35,
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T04:34:28.892964+00:00",
-      "last_error": "[*] Starting VPS in background...\nTraceback (most recent call last):\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/6426979067_f189a657d57ed69b/vps.py\", line 82, in <module>\n    main()\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/6426979067_f189a657d57ed69b/vps.py\", line 46, in main\n    with open(boot_path, \"w\") as f:\n         ^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/data/data/com.termux/files/home/boot.sh'",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T04:34:29.035349+00:00"
+      "gh_synced_at": 0
     }
   },
   "payments": [
@@ -4986,6 +4982,12 @@
       "uid": 8112920868,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-24T04:38:42.666815+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=f189a657d57ed69b"
     }
   ],
   "coupons": {},
@@ -6935,6 +6937,14 @@
       "ts": "2026-10-24T04:34:10.803609+00:00",
       "uid": "6426979067",
       "filename": "vps.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 35,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-24T04:38:34.838695+00:00",
+      "uid": "6426979067",
+      "filename": "5_6262485204342940450.py",
       "verdict": "SUSPICIOUS",
       "risk_score": 35,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
