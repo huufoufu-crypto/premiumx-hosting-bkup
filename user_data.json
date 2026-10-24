@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-24T12:34:57.545052+00:00",
+      "last_seen": "2026-10-24T12:35:13.254752+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 21,
-        "logins": 276
+        "logins": 279
       }
     },
     "8854714402": {
@@ -1995,10 +1995,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:35:05.086207+00:00",
-      "last_error": "════════════════ START 2026-10-24T12:35:05.038380+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
+      "last_started": "2026-10-24T12:40:06.300665+00:00",
+      "last_error": "════════════════ START 2026-10-24T12:40:06.246927+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T12:35:05.120231+00:00"
+      "last_exit_at": "2026-10-24T12:40:06.362512+00:00"
     },
     "40b6980c44fe84ab": {
       "_id": "40b6980c44fe84ab",
@@ -2018,10 +2018,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:35:02.427564+00:00",
-      "last_error": "════════════════ START 2026-10-24T12:35:02.375354+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_40b6980c44fe84ab/newproxyuser.py\", line 1474\n    @register_cmd(\"protectlist\")\nSyntaxError: expected 'except' or 'finally' block",
+      "last_started": "2026-10-24T12:40:06.414252+00:00",
+      "last_error": "════════════════ START 2026-10-24T12:40:06.335696+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_40b6980c44fe84ab/newproxyuser.py\", line 1474\n    @register_cmd(\"protectlist\")\nSyntaxError: expected 'except' or 'finally' block",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T12:35:02.468273+00:00"
+      "last_exit_at": "2026-10-24T12:40:06.454185+00:00"
     },
     "4714142c7ec6cd87": {
       "_id": "4714142c7ec6cd87",
@@ -2041,10 +2041,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:35:05.471729+00:00",
-      "last_error": "════════════════ START 2026-10-24T12:35:05.423912+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
+      "last_started": "2026-10-24T12:40:05.924697+00:00",
+      "last_error": "════════════════ START 2026-10-24T12:40:05.870571+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T12:35:05.512122+00:00"
+      "last_exit_at": "2026-10-24T12:40:05.962139+00:00"
     },
     "5dab059190ade67a": {
       "_id": "5dab059190ade67a",
@@ -2061,12 +2061,12 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:32:34.207296+00:00",
-      "last_error": "════════════════ START 2026-10-24T12:32:34.147105+00:00 ════════════════\nPlease enter your phone (or bot token): Please enter the code you received: Invalid code. Please try again.\nPlease enter the code you received: Invalid code. Please try again.\nPlease enter the code you received: \nStartup Error -> You also need to provide a phone_code_hash.",
-      "last_exit_code": 0,
+      "last_started": "2026-10-24T12:35:15.777371+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-10-24T12:34:29.155549+00:00"
     }
   },
