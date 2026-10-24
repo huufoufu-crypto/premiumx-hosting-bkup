@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T13:26:46.095808+00:00",
+      "last_seen": "2026-10-24T14:30:06.226135+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 20,
-        "logins": 1677
+        "logins": 1681
       },
       "last_expiry_warn": -1
     },
@@ -1955,29 +1955,6 @@
       "last_exit_code": 1,
       "last_exit_at": "2026-10-24T13:39:31.851660+00:00"
     },
-    "4714142c7ec6cd87": {
-      "_id": "4714142c7ec6cd87",
-      "owner": 8740135346,
-      "name": "newproxyuser",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87",
-      "created": "2026-10-24T11:54:30.124302+00:00",
-      "enc_files": [
-        {
-          "key_id": "K2bBn0Swb3nhcHIJ9-ba4A",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792842871_newproxyuser_py.enc",
-          "filename": "newproxyuser.py",
-          "rel_path": "newproxyuser.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:26:20.930754+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-24T14:26:17.605605+00:00"
-    },
     "5dab059190ade67a": {
       "_id": "5dab059190ade67a",
       "owner": 8630447127,
@@ -2019,10 +1996,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:26:18.653893+00:00",
-      "last_error": "════════════════ START 2026-10-24T14:26:18.608298+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
+      "last_started": "2026-10-24T14:31:24.146846+00:00",
+      "last_error": "════════════════ START 2026-10-24T14:31:24.098019+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T14:26:18.686019+00:00"
+      "last_exit_at": "2026-10-24T14:31:24.184005+00:00"
     },
     "230d99202d2a42c3": {
       "_id": "230d99202d2a42c3",
@@ -2068,6 +2045,29 @@
       "last_started": "2026-10-24T13:28:46.001257+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "4714142c7ec6cd87": {
+      "_id": "4714142c7ec6cd87",
+      "owner": 8740135346,
+      "name": "newproxyuser",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87",
+      "created": "2026-10-24T11:54:30.124302+00:00",
+      "enc_files": [
+        {
+          "key_id": "K2bBn0Swb3nhcHIJ9-ba4A",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792842871_newproxyuser_py.enc",
+          "filename": "newproxyuser.py",
+          "rel_path": "newproxyuser.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T14:31:23.284410+00:00",
+      "last_error": "════════════════ START 2026-10-24T14:31:23.236680+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-24T14:31:23.317950+00:00"
     }
   },
   "payments": [
@@ -2228,12 +2228,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-17T15:46:40.776491+00:00",
-      "uid": 7958364334,
-      "action": "bot_delete",
-      "detail": "bot=0e9724b9d9feb26e"
-    },
     {
       "ts": "2026-09-17T15:56:54.016652+00:00",
       "uid": 8740135346,
@@ -5227,6 +5221,12 @@
       "uid": 8832189607,
       "action": "bot_delete",
       "detail": "bot=7601da3a7be5c8ba"
+    },
+    {
+      "ts": "2026-10-24T14:29:59.924286+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=4714142c7ec6cd87"
     }
   ],
   "coupons": {},
