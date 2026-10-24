@@ -1970,13 +1970,13 @@
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:21:15.128865+00:00",
-      "last_error": "════════════════ START 2026-10-24T14:21:15.083685+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T14:21:15.164952+00:00"
+      "last_started": "2026-10-24T14:26:20.930754+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-10-24T14:26:17.605605+00:00"
     },
     "5dab059190ade67a": {
       "_id": "5dab059190ade67a",
@@ -2019,10 +2019,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:21:16.269959+00:00",
-      "last_error": "════════════════ START 2026-10-24T14:21:16.228771+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
+      "last_started": "2026-10-24T14:26:18.653893+00:00",
+      "last_error": "════════════════ START 2026-10-24T14:26:18.608298+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T14:21:16.302621+00:00"
+      "last_exit_at": "2026-10-24T14:26:18.686019+00:00"
     },
     "230d99202d2a42c3": {
       "_id": "230d99202d2a42c3",
