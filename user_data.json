@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T15:36:35.853530+00:00",
+      "last_seen": "2026-10-24T15:49:18.226575+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 1,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 22,
-        "logins": 1724
+        "bots_uploaded": 23,
+        "logins": 1730
       },
       "last_expiry_warn": -1
     },
@@ -1978,16 +1978,16 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "605a4a3d5c591f3e": {
-      "_id": "605a4a3d5c591f3e",
+    "e737dde21747f97c": {
+      "_id": "e737dde21747f97c",
       "owner": 8740135346,
       "name": "wpsell",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_605a4a3d5c591f3e",
-      "created": "2026-10-24T15:36:36.557688+00:00",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_e737dde21747f97c",
+      "created": "2026-10-24T15:49:19.789938+00:00",
       "enc_files": [
         {
-          "key_id": "lCGEcgOQnzyDHgPS4d_Frg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792856197_wpsell_py.enc",
+          "key_id": "8ups79N0M4yG-GIcMUxTgQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792856960_wpsell_py.enc",
           "filename": "wpsell.py",
           "rel_path": "wpsell.py"
         }
@@ -1996,7 +1996,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T15:36:45.941659+00:00",
+      "last_started": "2026-10-24T15:49:28.853582+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2159,12 +2159,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-17T18:10:16.936051+00:00",
-      "uid": 8740135346,
-      "action": "approve_bot",
-      "detail": "bot=6a60bf84f31222ed"
-    },
     {
       "ts": "2026-09-17T18:13:32.087965+00:00",
       "uid": 8740135346,
@@ -5158,6 +5152,12 @@
       "uid": 8740135346,
       "action": "bot_delete",
       "detail": "bot=39935b00e7342117"
+    },
+    {
+      "ts": "2026-10-24T15:49:07.154717+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=605a4a3d5c591f3e"
     }
   ],
   "coupons": {},
@@ -7321,6 +7321,14 @@
     },
     {
       "ts": "2026-10-24T15:36:37.032901+00:00",
+      "uid": "8740135346",
+      "filename": "wpsell.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T15:49:20.269024+00:00",
       "uid": "8740135346",
       "filename": "wpsell.py",
       "verdict": "SAFE",
