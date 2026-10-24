@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T14:30:06.226135+00:00",
+      "last_seen": "2026-10-24T14:46:49.945962+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 20,
-        "logins": 1681
+        "logins": 1700
       },
       "last_expiry_warn": -1
     },
@@ -1773,7 +1773,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T07:34:55.944158+00:00",
+      "last_started": "2026-10-24T14:45:54.106382+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1795,7 +1795,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T07:36:52.252627+00:00",
+      "last_started": "2026-10-24T14:45:54.950353+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1817,7 +1817,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T07:42:29.918292+00:00",
+      "last_started": "2026-10-24T14:45:55.338479+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1839,7 +1839,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T10:30:07.414398+00:00",
+      "last_started": "2026-10-24T14:45:55.885095+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1861,7 +1861,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T13:44:42.432857+00:00",
+      "last_started": "2026-10-24T14:45:56.481244+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-24T11:27:39.272156+00:00"
@@ -1881,12 +1881,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T10:50:28.182126+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_started": "2026-10-24T14:45:57.197258+00:00",
+      "last_error": "════════════════ START 2026-10-24T14:45:56.887358+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-24T14:45:58.363369+00:00"
     },
     "28575d6f79a4003f": {
       "_id": "28575d6f79a4003f",
@@ -1906,7 +1907,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T11:13:16.821928+00:00",
+      "last_started": "2026-10-24T14:45:57.686230+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1928,7 +1929,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T11:18:23.147354+00:00",
+      "last_started": "2026-10-24T14:45:58.238190+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1950,7 +1951,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:35:15.777371+00:00",
+      "last_started": "2026-10-24T14:45:58.981384+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-24T12:34:29.155549+00:00"
@@ -1996,32 +1997,9 @@
         "summary": "File type 'procfile' allow nahi hai."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T13:28:46.001257+00:00",
+      "last_started": "2026-10-24T14:46:08.959422+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "78584c6c30d8c937": {
-      "_id": "78584c6c30d8c937",
-      "owner": 8740135346,
-      "name": "newproxyuser",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937",
-      "created": "2026-10-24T11:47:31.926575+00:00",
-      "enc_files": [
-        {
-          "key_id": "VAohtoL4ONrZ0UoJy2mfOQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792842452_newproxyuser_py.enc",
-          "filename": "newproxyuser.py",
-          "rel_path": "newproxyuser.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:41:30.964026+00:00",
-      "last_error": "════════════════ START 2026-10-24T14:41:30.915140+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T14:41:31.003097+00:00"
     },
     "4714142c7ec6cd87": {
       "_id": "4714142c7ec6cd87",
@@ -2041,10 +2019,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:41:28.914767+00:00",
-      "last_error": "════════════════ START 2026-10-24T14:41:28.868601+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
+      "last_started": "2026-10-24T14:45:47.520498+00:00",
+      "last_error": "════════════════ START 2026-10-24T14:45:47.480430+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T14:41:28.954848+00:00"
+      "last_exit_at": "2026-10-24T14:45:47.552119+00:00"
     }
   },
   "payments": [
@@ -2205,36 +2183,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-17T15:56:54.016652+00:00",
-      "uid": 8740135346,
-      "action": "broadcast_sent",
-      "detail": "sent=2 fail=0"
-    },
-    {
-      "ts": "2026-09-17T17:09:35.711832+00:00",
-      "uid": 8740135346,
-      "action": "pay_approve",
-      "detail": "pid=XZD4B2XN"
-    },
-    {
-      "ts": "2026-09-17T17:15:01.380584+00:00",
-      "uid": 8740135346,
-      "action": "approval_toggle",
-      "detail": "now=True"
-    },
-    {
-      "ts": "2026-09-17T17:15:16.432342+00:00",
-      "uid": 8740135346,
-      "action": "plan_edit",
-      "detail": "starter max_bots=5"
-    },
-    {
-      "ts": "2026-09-17T17:15:19.372343+00:00",
-      "uid": 8740135346,
-      "action": "plan_edit",
-      "detail": "starter max_bots=4"
-    },
     {
       "ts": "2026-09-17T17:42:45.514127+00:00",
       "uid": 8740135346,
@@ -5204,6 +5152,36 @@
       "uid": 8740135346,
       "action": "bot_delete",
       "detail": "bot=4714142c7ec6cd87"
+    },
+    {
+      "ts": "2026-10-24T14:43:20.257520+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=78584c6c30d8c937"
+    },
+    {
+      "ts": "2026-10-24T14:43:32.635750+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=4714142c7ec6cd87"
+    },
+    {
+      "ts": "2026-10-24T14:44:22.048560+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=78584c6c30d8c937"
+    },
+    {
+      "ts": "2026-10-24T14:45:53.674427+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=17137"
+    },
+    {
+      "ts": "2026-10-24T14:46:45.041744+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=78584c6c30d8c937"
     }
   ],
   "coupons": {},
