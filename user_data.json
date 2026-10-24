@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-24T11:09:09.113031+00:00",
+      "last_seen": "2026-10-24T11:09:18.989489+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -636,7 +636,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 18,
-        "logins": 196
+        "logins": 200
       }
     },
     "8788156789": {
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-24T10:55:25.909131+00:00",
+      "last_seen": "2026-10-24T11:13:42.445031+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 10,
-        "logins": 148
+        "bots_uploaded": 12,
+        "logins": 164
       }
     },
     "8827098905": {
@@ -1866,28 +1866,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "a7fcec7c1d4d3e6d": {
-      "_id": "a7fcec7c1d4d3e6d",
-      "owner": 6426979067,
-      "name": "deepseek_python_20261024_d6999e",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_a7fcec7c1d4d3e6d",
-      "created": "2026-10-24T10:04:15.134409+00:00",
-      "enc_files": [
-        {
-          "key_id": "yoc2kx6650xmqyqJnbl_KA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1792836258_deepseek_python_20261024_d6999e_py.enc",
-          "filename": "deepseek_python_20261024_d6999e.py",
-          "rel_path": "deepseek_python_20261024_d6999e.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T10:04:28.335298+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "50e8843a2623daa4": {
       "_id": "50e8843a2623daa4",
       "owner": 7204407681,
@@ -1977,10 +1955,32 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T11:08:49.570274+00:00",
-      "last_error": "════════════════ START 2026-10-24T11:08:49.548576+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8032573119_0630992560bca480/kashyap.py\", line 21\n    TOKENS = [\n             ^\nSyntaxError: '[' was never closed",
+      "last_started": "2026-10-24T11:09:20.696167+00:00",
+      "last_error": "════════════════ START 2026-10-24T11:09:20.670360+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8032573119_0630992560bca480/kashyap.py\", line 21\n    TOKENS = [\n             ^\nSyntaxError: '[' was never closed",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T11:08:49.592566+00:00"
+      "last_exit_at": "2026-10-24T11:09:20.716902+00:00"
+    },
+    "28575d6f79a4003f": {
+      "_id": "28575d6f79a4003f",
+      "owner": 6426979067,
+      "name": "vps",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_28575d6f79a4003f",
+      "created": "2026-10-24T11:13:07.620994+00:00",
+      "enc_files": [
+        {
+          "key_id": "z-WoEJwiRqecoYajmkiF3g",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1792840388_vps_py.enc",
+          "filename": "vps.py",
+          "rel_path": "vps.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T11:13:16.821928+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -5066,6 +5066,18 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=33088f89eaabebee"
+    },
+    {
+      "ts": "2026-10-24T11:12:16.207014+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=a7fcec7c1d4d3e6d"
+    },
+    {
+      "ts": "2026-10-24T11:12:16.512746+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=41fa81559d6056f2"
     }
   ],
   "coupons": {},
@@ -7122,6 +7134,22 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-24T11:11:41.229679+00:00",
+      "uid": "6426979067",
+      "filename": "vps.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T11:13:08.150468+00:00",
+      "uid": "6426979067",
+      "filename": "vps.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
