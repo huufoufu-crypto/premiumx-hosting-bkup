@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-23T16:40:43.685517+00:00",
+      "last_seen": "2026-10-24T01:52:22.164174+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1585
+        "logins": 1586
       },
       "last_expiry_warn": -1
     },
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-22T11:40:46.693970+00:00",
+      "last_seen": "2026-10-24T01:50:18.530128+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 18,
-        "logins": 240
+        "logins": 241
       }
     },
     "8854714402": {
@@ -1164,6 +1164,31 @@
         "commands": 0,
         "bots_uploaded": 0,
         "logins": 1
+      }
+    },
+    "8112920868": {
+      "_id": 8112920868,
+      "name": "𓆰ꪜᴇ𝐗ᴏ𝐑~!! ☠️भगवान //~💢",
+      "username": "Iownkenggod",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-24T01:51:21.018202+00:00",
+      "last_seen": "2026-10-24T01:52:58.997972+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-24T01:52:53.416684+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 3
       }
     }
   },
@@ -4899,6 +4924,18 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=14467"
+    },
+    {
+      "ts": "2026-10-24T01:52:22.905884+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-10-24T01:52:54.388213+00:00",
+      "uid": 8112920868,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
