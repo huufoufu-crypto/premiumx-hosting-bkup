@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T07:30:31.694129+00:00",
+      "last_seen": "2026-10-24T07:36:36.089031+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 1,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 16,
-        "logins": 1594
+        "bots_uploaded": 17,
+        "logins": 1612
       },
       "last_expiry_warn": -1
     },
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-24T07:31:30.251503+00:00",
+      "last_seen": "2026-10-24T07:35:12.879581+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -279,8 +279,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 9,
-        "logins": 260
+        "bots_uploaded": 10,
+        "logins": 280
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-24T07:31:02.042992+00:00",
+      "last_seen": "2026-10-24T07:34:26.532810+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 18,
-        "logins": 242
+        "logins": 243
       }
     },
     "8854714402": {
@@ -1396,29 +1396,6 @@
       "last_exit_code": 1,
       "last_exit_at": "2026-10-15T06:58:42.160904+00:00"
     },
-    "d5e8667d5d65c68b": {
-      "_id": "d5e8667d5d65c68b",
-      "owner": 8740135346,
-      "name": "proxybutterscoth",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_d5e8667d5d65c68b",
-      "created": "2026-10-15T07:09:47.806972+00:00",
-      "enc_files": [
-        {
-          "key_id": "wRiNAX0_507fYIAmNVLSbw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8740135346/1792048188_proxybutterscoth_py.enc",
-          "filename": "proxybutterscoth.py",
-          "rel_path": "proxybutterscoth.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-17T14:25:18.410728+00:00",
-      "last_error": "💦 NC:    +randnc +burnc +ohyesnc +aahnc +Horneync +purenc +stealthnc\n💦 Enemy: /ncdel /ncwar /stopncwar\n💦 Chat:  /mute /restrict /unrestrict /gclist /leave\n💦 React: +autoreact +heartreact +boomreact +customreact /stopreact\n💦 Song:  +song <name>\n💦 Slide: +slidereply /stopslidereply\n💦 Menu:  /setmenuphoto /setmenuvideo /clearmenu\n👤 User account: @𝗣ʀᴏxʏ ❄️ | @REVULET connected",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-17T14:37:31.186488+00:00"
-    },
     "3bbb79af67d30906": {
       "_id": "3bbb79af67d30906",
       "owner": 7745343711,
@@ -1474,29 +1451,6 @@
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-20T18:26:48.677309+00:00"
-    },
-    "50394c1eabfa7015": {
-      "_id": "50394c1eabfa7015",
-      "owner": 8740135346,
-      "name": "proxyuser",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8740135346_50394c1eabfa7015",
-      "created": "2026-10-17T05:57:26.248762+00:00",
-      "enc_files": [
-        {
-          "key_id": "0U3fSKtIm4pWi3JZgWGHxg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8740135346/1792216646_proxyuser_py.enc",
-          "filename": "proxyuser.py",
-          "rel_path": "proxyuser.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-18T09:41:44.152852+00:00",
-      "last_error": "   .promote - Promote all protected bots to admin\n   .removex - Instantly delete messages from specific bots\n   .stopremovex - Stop instant delete\n   .hunnyvanish - Delete all user/bot messages\n   .stophunnyvanish - Stop hunnyvanish\n   .muteaction - Delete all bot messages instantly\n   .stopmuteaction - Stop muteaction\n---",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-18T09:57:55.509457+00:00"
     },
     "9ab9a0468d3ee112": {
       "_id": "9ab9a0468d3ee112",
@@ -1682,29 +1636,6 @@
       "last_started": "2026-10-23T16:32:23.877337+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "99ebeb16f1581df9": {
-      "_id": "99ebeb16f1581df9",
-      "owner": 6515961246,
-      "name": "prime1",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/6515961246_99ebeb16f1581df9",
-      "created": "2026-10-20T12:52:16.865400+00:00",
-      "enc_files": [
-        {
-          "key_id": "Gq4o_p39CzK2Y5oAa9cupA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/6515961246/1792500738_prime1_py.enc",
-          "filename": "prime1.py",
-          "rel_path": "prime1.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-21T15:15:15.740531+00:00",
-      "last_error": "✅ Worker bot 7/10: @primeabbu_7bot ready (no command polling)\n2026-10-21 15:15:20,504 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-10-21 15:15:20,901 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-10-21 15:15:21,331 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-22T03:01:09.353258+00:00"
     },
     "cdd7128536e26e1b": {
       "_id": "cdd7128536e26e1b",
@@ -1910,6 +1841,47 @@
       "last_started": "2026-10-23T16:32:39.454461+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "da8829db1d35e63c": {
+      "_id": "da8829db1d35e63c",
+      "owner": 6515961246,
+      "name": "prime1",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6515961246_da8829db1d35e63c",
+      "created": "2026-10-24T07:34:42.446115+00:00",
+      "enc_files": [
+        {
+          "key_id": "-rWQezNSbl5GvG5z1nqFrA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6515961246/1792827283_prime1_py.enc",
+          "filename": "prime1.py",
+          "rel_path": "prime1.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T07:34:55.944158+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "fd22bd0a5bcadea5": {
+      "_id": "fd22bd0a5bcadea5",
+      "owner": 8740135346,
+      "name": "proxybutterscoth",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_fd22bd0a5bcadea5",
+      "created": "2026-10-24T07:36:38.173361+00:00",
+      "enc_files": [
+        {
+          "key_id": "zlBv9rbc7IpCmZCCUfFRJQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792827399_proxybutterscoth_py.enc",
+          "filename": "proxybutterscoth.py",
+          "rel_path": "proxybutterscoth.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0
     }
   },
   "payments": [
@@ -4899,6 +4871,30 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=14467"
+    },
+    {
+      "ts": "2026-10-24T07:31:57.610779+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-10-24T07:34:13.945736+00:00",
+      "uid": 6515961246,
+      "action": "bot_delete",
+      "detail": "bot=99ebeb16f1581df9"
+    },
+    {
+      "ts": "2026-10-24T07:35:52.385939+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=d5e8667d5d65c68b"
+    },
+    {
+      "ts": "2026-10-24T07:36:06.007792+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=50394c1eabfa7015"
     }
   ],
   "coupons": {},
@@ -6832,6 +6828,22 @@
       "ts": "2026-10-23T15:31:20.067992+00:00",
       "uid": "7557062822",
       "filename": "rdxv3.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T07:34:43.041445+00:00",
+      "uid": "6515961246",
+      "filename": "prime1.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T07:36:38.758885+00:00",
+      "uid": "8740135346",
+      "filename": "proxybutterscoth.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
