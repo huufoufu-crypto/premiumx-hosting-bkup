@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T12:11:40.606699+00:00",
+      "last_seen": "2026-10-24T12:29:57.359580+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 20,
-        "logins": 1667
+        "logins": 1669
       },
       "last_expiry_warn": -1
     },
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-24T12:24:24.118497+00:00",
+      "last_seen": "2026-10-24T12:29:38.429875+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 20,
-        "logins": 255
+        "bots_uploaded": 21,
+        "logins": 260
       }
     },
     "8854714402": {
@@ -1992,13 +1992,13 @@
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:24:58.801345+00:00",
-      "last_error": "════════════════ START 2026-10-24T12:24:58.751131+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_78584c6c30d8c937/newproxyuser.py\", line 1433\n    @register_cmd(\"come2\", group_only=True)\nSyntaxError: expected 'except' or 'finally' block",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T12:24:58.833016+00:00"
+      "last_started": "2026-10-24T12:30:02.331284+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-10-24T12:29:59.006968+00:00"
     },
     "40b6980c44fe84ab": {
       "_id": "40b6980c44fe84ab",
@@ -2018,10 +2018,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:24:58.455234+00:00",
-      "last_error": "════════════════ START 2026-10-24T12:24:58.407713+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_40b6980c44fe84ab/newproxyuser.py\", line 1474\n    @register_cmd(\"protectlist\")\nSyntaxError: expected 'except' or 'finally' block",
+      "last_started": "2026-10-24T12:30:01.447594+00:00",
+      "last_error": "════════════════ START 2026-10-24T12:30:01.396619+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_40b6980c44fe84ab/newproxyuser.py\", line 1474\n    @register_cmd(\"protectlist\")\nSyntaxError: expected 'except' or 'finally' block",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T12:24:58.496447+00:00"
+      "last_exit_at": "2026-10-24T12:30:01.481348+00:00"
     },
     "4714142c7ec6cd87": {
       "_id": "4714142c7ec6cd87",
@@ -2038,13 +2038,36 @@
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T12:24:58.077007+00:00",
-      "last_error": "════════════════ START 2026-10-24T12:24:58.036230+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_4714142c7ec6cd87/newproxyuser.py\", line 1432\n    except Exception as e:\n    ^^^^^^\nSyntaxError: invalid syntax",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T12:24:58.111464+00:00"
+      "last_started": "2026-10-24T12:30:02.379227+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-10-24T12:29:58.916771+00:00"
+    },
+    "5dab059190ade67a": {
+      "_id": "5dab059190ade67a",
+      "owner": 8630447127,
+      "name": "proxy_engine_fixed",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_5dab059190ade67a",
+      "created": "2026-10-24T12:28:17.193944+00:00",
+      "enc_files": [
+        {
+          "key_id": "C-zOz3c8zwxsc8vWue5QoQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792844898_proxy_engine_fixed_py.enc",
+          "filename": "proxy_engine_fixed.py",
+          "rel_path": "proxy_engine_fixed.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T12:29:40.904451+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-10-24T12:29:04.927177+00:00"
     }
   },
   "payments": [
@@ -7335,6 +7358,14 @@
     },
     {
       "ts": "2026-10-24T12:23:26.070960+00:00",
+      "uid": "8630447127",
+      "filename": "proxy_engine_fixed.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T12:28:17.747600+00:00",
       "uid": "8630447127",
       "filename": "proxy_engine_fixed.py",
       "verdict": "SAFE",
