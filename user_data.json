@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-24T11:33:05.326787+00:00",
+      "last_seen": "2026-10-24T11:38:37.092495+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 13,
-        "logins": 197
+        "bots_uploaded": 14,
+        "logins": 206
       }
     },
     "8827098905": {
@@ -1974,28 +1974,6 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-24T11:18:23.147354+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "6fe7f0c8fb38a057": {
-      "_id": "6fe7f0c8fb38a057",
-      "owner": 6426979067,
-      "name": "ultimate_host",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_6fe7f0c8fb38a057",
-      "created": "2026-10-24T11:29:30.369938+00:00",
-      "enc_files": [
-        {
-          "key_id": "ozCNxAVrnICrdVmOqtx9Ag",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1792841371_ultimate_host_py.enc",
-          "filename": "ultimate_host.py",
-          "rel_path": "ultimate_host.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T11:29:40.031356+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -5111,6 +5089,18 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=0630992560bca480"
+    },
+    {
+      "ts": "2026-10-24T11:34:48.575732+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=6fe7f0c8fb38a057"
+    },
+    {
+      "ts": "2026-10-24T11:38:38.258859+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=f7f089ff2ef238c9"
     }
   ],
   "coupons": {},
@@ -7199,6 +7189,14 @@
       "verdict": "SAFE",
       "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T11:35:01.490341+00:00",
+      "uid": "6426979067",
+      "filename": "requirement.txt",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'requirement.txt' allow nahi hai."
     }
   ]
 }
