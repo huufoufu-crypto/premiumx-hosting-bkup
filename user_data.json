@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-24T09:52:21.010393+00:00",
+      "last_seen": "2026-10-24T09:58:21.340265+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 7,
-        "logins": 109
+        "bots_uploaded": 9,
+        "logins": 132
       }
     },
     "8827098905": {
@@ -1886,25 +1886,25 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "8b89018de50f5d6e": {
-      "_id": "8b89018de50f5d6e",
+    "82d3fb527abec7a2": {
+      "_id": "82d3fb527abec7a2",
       "owner": 6426979067,
-      "name": "freerdp",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_8b89018de50f5d6e",
-      "created": "2026-10-24T09:52:01.972676+00:00",
+      "name": "deepseek_python_20261024_129c7e",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_82d3fb527abec7a2",
+      "created": "2026-10-24T09:56:56.781773+00:00",
       "enc_files": [
         {
-          "key_id": "XNCb2_mRCt2GpNR2MqrbOg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1792835522_freerdp_py.enc",
-          "filename": "freerdp.py",
-          "rel_path": "freerdp.py"
+          "key_id": "V2FVPvuxi2ul1RqU7iAEmg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1792835817_deepseek_python_20261024_129c7e_py.enc",
+          "filename": "deepseek_python_20261024_129c7e.py",
+          "rel_path": "deepseek_python_20261024_129c7e.py"
         }
       ],
       "env": {},
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T09:52:11.131684+00:00",
+      "last_started": "2026-10-24T09:57:06.464307+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -4944,6 +4944,18 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=afbb34584ba758f4"
+    },
+    {
+      "ts": "2026-10-24T09:54:28.401062+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=8b89018de50f5d6e"
+    },
+    {
+      "ts": "2026-10-24T09:56:35.857629+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=d879647b38bdd55c"
     }
   ],
   "coupons": {},
@@ -6925,6 +6937,22 @@
       "ts": "2026-10-24T09:52:02.468654+00:00",
       "uid": "6426979067",
       "filename": "freerdp.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T09:55:15.381258+00:00",
+      "uid": "6426979067",
+      "filename": "deepseek_python_20261024_62bf5f.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T09:56:57.268017+00:00",
+      "uid": "6426979067",
+      "filename": "deepseek_python_20261024_129c7e.py",
       "verdict": "SAFE",
       "risk_score": 0,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
