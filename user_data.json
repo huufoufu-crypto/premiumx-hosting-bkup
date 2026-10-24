@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-24T11:09:18.989489+00:00",
+      "last_seen": "2026-10-24T11:18:48.566228+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -635,8 +635,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 18,
-        "logins": 200
+        "bots_uploaded": 19,
+        "logins": 210
       }
     },
     "8788156789": {
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-24T11:13:42.445031+00:00",
+      "last_seen": "2026-10-24T11:19:05.947099+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 12,
-        "logins": 164
+        "logins": 191
       }
     },
     "8827098905": {
@@ -1932,34 +1932,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "0630992560bca480": {
-      "_id": "0630992560bca480",
-      "owner": 8032573119,
-      "name": "kashyap",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_0630992560bca480",
-      "created": "2026-10-24T11:06:24.777505+00:00",
-      "enc_files": [
-        {
-          "key_id": "OHIMbazbsVI5a94kXaEM_A",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1792839985_kashyap_py.enc",
-          "filename": "kashyap.py",
-          "rel_path": "kashyap.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 30,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T11:09:20.696167+00:00",
-      "last_error": "════════════════ START 2026-10-24T11:09:20.670360+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8032573119_0630992560bca480/kashyap.py\", line 21\n    TOKENS = [\n             ^\nSyntaxError: '[' was never closed",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-24T11:09:20.716902+00:00"
-    },
     "28575d6f79a4003f": {
       "_id": "28575d6f79a4003f",
       "owner": 6426979067,
@@ -1979,6 +1951,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-24T11:13:16.821928+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "cae34c5635c02629": {
+      "_id": "cae34c5635c02629",
+      "owner": 8032573119,
+      "name": "AnshuXkayamat",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_cae34c5635c02629",
+      "created": "2026-10-24T11:15:14.320626+00:00",
+      "enc_files": [
+        {
+          "key_id": "Qg4AnMG_KVwTiLtaPUbq_g",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1792840515_AnshuXkayamat_py.enc",
+          "filename": "AnshuXkayamat.py",
+          "rel_path": "AnshuXkayamat.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T11:18:23.147354+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -5078,6 +5072,12 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=41fa81559d6056f2"
+    },
+    {
+      "ts": "2026-10-24T11:14:45.130443+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=0630992560bca480"
     }
   ],
   "coupons": {},
@@ -7149,6 +7149,14 @@
       "filename": "vps.py",
       "verdict": "SAFE",
       "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T11:15:14.859720+00:00",
+      "uid": "8032573119",
+      "filename": "AnshuXkayamat.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
