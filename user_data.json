@@ -721,7 +721,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-16T11:38:43.108617+00:00",
-      "last_seen": "2026-10-16T17:01:23.365350+00:00",
+      "last_seen": "2026-10-24T10:29:48.494325+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -735,8 +735,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 18
+        "bots_uploaded": 3,
+        "logins": 20
       }
     },
     "8803185591": {
@@ -1905,6 +1905,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-24T10:25:02.719890+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "50e8843a2623daa4": {
+      "_id": "50e8843a2623daa4",
+      "owner": 7204407681,
+      "name": "rebel15",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/7204407681_50e8843a2623daa4",
+      "created": "2026-10-24T10:29:54.806547+00:00",
+      "enc_files": [
+        {
+          "key_id": "plxy9lq-JxcbnHhS3eSRFw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/7204407681/1792837795_rebel15_py.enc",
+          "filename": "rebel15.py",
+          "rel_path": "rebel15.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T10:30:07.414398+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -6981,6 +7003,14 @@
       "ts": "2026-10-24T10:24:50.077524+00:00",
       "uid": "8032573119",
       "filename": "rebel16-1.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T10:29:55.378597+00:00",
+      "uid": "7204407681",
+      "filename": "rebel15.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
