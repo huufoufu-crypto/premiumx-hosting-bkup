@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-24T07:26:08.370813+00:00",
+      "last_seen": "2026-10-24T07:30:31.694129+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 16,
-        "logins": 1587
+        "logins": 1594
       },
       "last_expiry_warn": -1
     },
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-23T13:49:40.276531+00:00",
+      "last_seen": "2026-10-24T07:31:30.251503+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 9,
-        "logins": 252
+        "logins": 260
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-22T11:40:46.693970+00:00",
+      "last_seen": "2026-10-24T07:31:02.042992+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 18,
-        "logins": 240
+        "logins": 242
       }
     },
     "8854714402": {
@@ -1130,6 +1130,31 @@
       "kyc": false,
       "verified": true,
       "verified_at": "2026-10-22T07:48:18.064717+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "7786013581": {
+      "_id": 7786013581,
+      "name": "𝐍𝐎𝐎𝐁 𝐇𝐎 𝐓𝐔𝐌",
+      "username": "s4y_r",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-24T07:31:35.688565+00:00",
+      "last_seen": "2026-10-24T07:31:35.688581+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
