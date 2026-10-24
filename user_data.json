@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-24T08:28:32.463181+00:00",
+      "last_seen": "2026-10-24T09:42:40.460075+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 4,
-        "logins": 90
+        "bots_uploaded": 5,
+        "logins": 97
       }
     },
     "8827098905": {
@@ -1885,6 +1885,29 @@
       "last_started": "2026-10-24T07:42:29.918292+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "b9a521d72a106d0f": {
+      "_id": "b9a521d72a106d0f",
+      "owner": 6426979067,
+      "name": "vps",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_b9a521d72a106d0f",
+      "created": "2026-10-24T09:40:18.097605+00:00",
+      "enc_files": [
+        {
+          "key_id": "i_H9kefBlUvafdzeR5FiDw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1792834819_vps_py.enc",
+          "filename": "vps.py",
+          "rel_path": "vps.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-24T09:42:13.695471+00:00",
+      "last_error": "85926\n85944\n\u001b[92m==================================================\u001b[0m\n\u001b[92m   YOUR CLOUD VPS IS LIVE!                        \u001b[0m\n\u001b[92m==================================================\u001b[0m\n  URL: \u001b[93mhttps://becoming-suppliers-they-clone.trycloudflare.com/vnc.html\u001b[0m\n  Password: \u001b[93mroot\u001b[0m\n==================================================",
+      "last_exit_code": 0,
+      "last_exit_at": "2026-10-24T09:42:13.754337+00:00"
     }
   },
   "payments": [
@@ -6869,6 +6892,14 @@
       "filename": "primexgwd.py",
       "verdict": "SAFE",
       "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T09:40:18.618414+00:00",
+      "uid": "6426979067",
+      "filename": "vps.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
