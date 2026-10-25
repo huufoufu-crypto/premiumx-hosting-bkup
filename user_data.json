@@ -1223,7 +1223,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-25T08:52:14.718898+00:00",
-      "last_seen": "2026-10-25T08:58:28.683645+00:00",
+      "last_seen": "2026-10-25T09:01:06.025160+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1237,8 +1237,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 16
+        "bots_uploaded": 2,
+        "logins": 23
       }
     }
   },
@@ -2029,28 +2029,27 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "9dfc4891b46b6382": {
-      "_id": "9dfc4891b46b6382",
+    "a98adf81fa1ebd8d": {
+      "_id": "a98adf81fa1ebd8d",
       "owner": 8527194057,
-      "name": "rajan",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8527194057_9dfc4891b46b6382",
-      "created": "2026-10-25T08:57:01.188456+00:00",
+      "name": "free",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8527194057_a98adf81fa1ebd8d",
+      "created": "2026-10-25T09:00:48.321819+00:00",
       "enc_files": [
         {
-          "key_id": "hONJhL_qy99LpzUyt9XjFA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8527194057/1792918622_rajan_py.enc",
-          "filename": "rajan.py",
-          "rel_path": "rajan.py"
+          "key_id": "U-qKkLTK6bT465wnpI9HKg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8527194057/1792918849_free_py.enc",
+          "filename": "free.py",
+          "rel_path": "free.py"
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-25T08:57:10.441718+00:00",
-      "last_error": "2026-10-25 08:58:14,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8972929638:AAHRJxiZIBp6-f89FRd-sfPGOHVIDT98G7M/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-25 08:58:14,615 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8906700964:AAFzAyHV7Pcr0vW4gbsbjoYwT4T9eDwApLk/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-25 08:58:16,047 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8209920262:AAE1e9dfdIzwqEVU39gvTVrNz9FCLF6TxBk/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-25 08:58:16,334 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8601587010:AAHkoRPeYTKj1uelTL8jcEaai-OUJTmzTS4/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-25 08:58:18,054 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8992492880:AAHxOjBuo8rUq2CIGvZNMmCmQ3oTXEB6bN0/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-25 08:58:19,643 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8687554495:AAFykNU9JdlrBBJJpIV0wlB-gcXRCOzCGFc/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-25 08:58:21,322 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8871018232:AAHptVDBVXr-KIe4HcUdNq2PM1ruj9-imG8/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-25 08:58:22,937 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8729132885:AAEA-JZhdF8FJzDFyZXAMv0lrY8M_dYQXus/getUpdates \"HTTP/1.1 200 OK\"",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-25T08:58:24.178883+00:00"
+      "last_started": "2026-10-25T09:00:57.378438+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2211,12 +2210,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T13:49:35.660560+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=1053"
-    },
     {
       "ts": "2026-09-18T17:37:49.925449+00:00",
       "uid": 8740135346,
@@ -5210,6 +5203,12 @@
       "uid": 8527194057,
       "action": "captcha_pass",
       "detail": "verified after 2 try(s)"
+    },
+    {
+      "ts": "2026-10-25T09:00:10.832443+00:00",
+      "uid": 8527194057,
+      "action": "bot_delete",
+      "detail": "bot=9dfc4891b46b6382"
     }
   ],
   "coupons": {},
@@ -7535,6 +7534,14 @@
       "ts": "2026-10-25T08:57:01.740393+00:00",
       "uid": "8527194057",
       "filename": "rajan.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T09:00:48.857574+00:00",
+      "uid": "8527194057",
+      "filename": "free.py",
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
