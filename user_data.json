@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-25T08:38:56.746268+00:00",
+      "last_seen": "2026-10-25T08:49:21.084407+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 19,
-        "logins": 148
+        "bots_uploaded": 20,
+        "logins": 168
       }
     },
     "8831661619": {
@@ -1542,33 +1542,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "393ed9e5f455be48": {
-      "_id": "393ed9e5f455be48",
-      "owner": 8926345670,
-      "name": "zenoxpapa_1",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_393ed9e5f455be48",
-      "created": "2026-10-19T20:41:13.130600+00:00",
-      "enc_files": [
-        {
-          "key_id": "MoeaeJF5WIhN3tFLWvewTw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792442475_zenoxpapa_1_py.enc",
-          "filename": "zenoxpapa_1.py",
-          "rel_path": "zenoxpapa_1.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:31:58.853823+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "ab0a76947ef274a8": {
       "_id": "ab0a76947ef274a8",
       "owner": 8630447127,
@@ -1613,29 +1586,6 @@
       "last_started": "2026-10-23T16:32:23.877337+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "e0d3043d5f0ace61": {
-      "_id": "e0d3043d5f0ace61",
-      "owner": 8926345670,
-      "name": "kanhawp_1",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_e0d3043d5f0ace61",
-      "created": "2026-10-20T21:37:59.694533+00:00",
-      "enc_files": [
-        {
-          "key_id": "15LyANfV-Xfn_vxyITB2KA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8926345670/1792532281_kanhawp_1_py.enc",
-          "filename": "kanhawp_1.py",
-          "rel_path": "kanhawp_1.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-20T21:38:09.167322+00:00",
-      "last_error": "════════════════ START 2026-10-20T21:38:08.873090+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8926345670_e0d3043d5f0ace61/kanhawp_1.py\", line 1\n    // ==================== KANHA MATRIX v5 — PURE RANDOM DELAY EDITION ====================\n                                            ^\nSyntaxError: invalid character '—' (U+2014)",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-20T21:38:09.344877+00:00"
     },
     "e07f861322caaa23": {
       "_id": "e07f861322caaa23",
@@ -2026,6 +1976,33 @@
       "last_started": "2026-10-25T07:47:44.340257+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "ede39ea045b0a139": {
+      "_id": "ede39ea045b0a139",
+      "owner": 8926345670,
+      "name": "zenoxgod_1",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8926345670_ede39ea045b0a139",
+      "created": "2026-10-25T08:49:00.641364+00:00",
+      "enc_files": [
+        {
+          "key_id": "YJc0JUQPwTZOCSQeW6cj1A",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8926345670/1792918141_zenoxgod_1_py.enc",
+          "filename": "zenoxgod_1.py",
+          "rel_path": "zenoxgod_1.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-25T08:49:10.376962+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2186,18 +2163,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T08:15:15.458147+00:00",
-      "uid": 8944080637,
-      "action": "ticket_close",
-      "detail": "tid=92TJ78"
-    },
-    {
-      "ts": "2026-09-18T10:06:25.312210+00:00",
-      "uid": 8740135346,
-      "action": "maintenance_toggle",
-      "detail": "now=on"
-    },
     {
       "ts": "2026-09-18T10:15:56.748424+00:00",
       "uid": 8740135346,
@@ -5185,6 +5150,18 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=8b0540c4f7f206a1"
+    },
+    {
+      "ts": "2026-10-25T08:45:22.843498+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=e0d3043d5f0ace61"
+    },
+    {
+      "ts": "2026-10-25T08:48:18.257819+00:00",
+      "uid": 8926345670,
+      "action": "bot_delete",
+      "detail": "bot=393ed9e5f455be48"
     }
   ],
   "coupons": {},
@@ -7497,6 +7474,14 @@
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T08:49:01.341183+00:00",
+      "uid": "8926345670",
+      "filename": "zenoxgod_1.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
