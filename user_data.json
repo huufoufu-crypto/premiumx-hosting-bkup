@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T09:08:05.393583+00:00",
+      "last_seen": "2026-10-25T10:20:24.818817+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 33,
-        "logins": 378
+        "logins": 383
       }
     },
     "8854714402": {
@@ -2001,28 +2001,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "78c4f40465eab73a": {
-      "_id": "78c4f40465eab73a",
-      "owner": 8630447127,
-      "name": "gara_wp_store",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_78c4f40465eab73a",
-      "created": "2026-10-25T09:05:29.539014+00:00",
-      "enc_files": [
-        {
-          "key_id": "9FF9xctfw5TdoAIG4zzx7Q",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792919130_gara_wp_store_py.enc",
-          "filename": "gara_wp_store.py",
-          "rel_path": "gara_wp_store.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T09:05:39.193195+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "81c5932ede5db218": {
       "_id": "81c5932ede5db218",
       "owner": 8788156789,
@@ -2209,12 +2187,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T18:17:16.388262+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=1496"
-    },
     {
       "ts": "2026-09-18T18:24:20.449850+00:00",
       "uid": 0,
@@ -5208,6 +5180,12 @@
       "uid": 8788156789,
       "action": "bot_delete",
       "detail": "bot=9c9d87ad681c4975"
+    },
+    {
+      "ts": "2026-10-25T10:20:21.992370+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=78c4f40465eab73a"
     }
   ],
   "coupons": {},
