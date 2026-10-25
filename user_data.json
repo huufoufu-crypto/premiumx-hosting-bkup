@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-25T04:32:21.275031+00:00",
+      "last_seen": "2026-10-25T04:46:14.768344+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 25,
-        "logins": 1746
+        "logins": 1750
       },
       "last_expiry_warn": -1
     },
@@ -1977,28 +1977,6 @@
       "last_started": "2026-10-24T14:46:08.959422+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "56749cf04dd38802": {
-      "_id": "56749cf04dd38802",
-      "owner": 8740135346,
-      "name": "wpsell",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_56749cf04dd38802",
-      "created": "2026-10-25T04:21:49.022375+00:00",
-      "enc_files": [
-        {
-          "key_id": "kK-8V5Qpa3wiSv8TIGXMKA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792902109_wpsell_py.enc",
-          "filename": "wpsell.py",
-          "rel_path": "wpsell.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T04:21:58.094162+00:00",
-      "last_error": "",
-      "last_exit_code": null
     }
   },
   "payments": [
@@ -2159,12 +2137,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T03:00:24.849476+00:00",
-      "uid": 8740135346,
-      "action": "approval_toggle",
-      "detail": "now=False"
-    },
     {
       "ts": "2026-09-18T03:00:27.671283+00:00",
       "uid": 8740135346,
@@ -5158,6 +5130,12 @@
       "uid": 8740135346,
       "action": "maintenance_toggle",
       "detail": "now=off"
+    },
+    {
+      "ts": "2026-10-25T04:46:15.836207+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=56749cf04dd38802"
     }
   ],
   "coupons": {},
