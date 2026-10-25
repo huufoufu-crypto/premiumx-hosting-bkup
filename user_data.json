@@ -646,7 +646,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T17:33:19.118551+00:00",
-      "last_seen": "2026-10-20T18:32:47.077196+00:00",
+      "last_seen": "2026-10-25T09:28:33.184879+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -660,8 +660,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 10,
-        "logins": 120
+        "bots_uploaded": 11,
+        "logins": 128
       }
     },
     "8958555123": {
@@ -1471,34 +1471,6 @@
       "last_exit_code": 1,
       "last_exit_at": "2026-10-15T06:58:42.160904+00:00"
     },
-    "9c9d87ad681c4975": {
-      "_id": "9c9d87ad681c4975",
-      "owner": 8788156789,
-      "name": "kanhafytr_02",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8788156789_9c9d87ad681c4975",
-      "created": "2026-10-16T10:48:35.332458+00:00",
-      "enc_files": [
-        {
-          "key_id": "WdgmGtwswIT26PcNIa6rcw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8788156789/1792147716_kanhafytr_02_py.enc",
-          "filename": "kanhafytr_02.py",
-          "rel_path": "kanhafytr_02.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:31:57.165332+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-20T18:26:48.677309+00:00"
-    },
     "9ab9a0468d3ee112": {
       "_id": "9ab9a0468d3ee112",
       "owner": 8444271488,
@@ -2050,6 +2022,33 @@
       "last_started": "2026-10-25T09:05:39.193195+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "81c5932ede5db218": {
+      "_id": "81c5932ede5db218",
+      "owner": 8788156789,
+      "name": "kanhafytr_02",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8788156789_81c5932ede5db218",
+      "created": "2026-10-25T09:28:35.594637+00:00",
+      "enc_files": [
+        {
+          "key_id": "8T6LkuCPPgLd_Zvd5Y5W7g",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8788156789/1792920516_kanhafytr_02_py.enc",
+          "filename": "kanhafytr_02.py",
+          "rel_path": "kanhafytr_02.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-25T09:28:45.423658+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2210,12 +2209,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T18:14:56.934838+00:00",
-      "uid": 8740135346,
-      "action": "force_scan_all",
-      "detail": "scanned=0 flagged=0"
-    },
     {
       "ts": "2026-09-18T18:17:16.388262+00:00",
       "uid": 0,
@@ -5209,6 +5202,12 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=d0d1f30ed38c49cb"
+    },
+    {
+      "ts": "2026-10-25T09:28:22.845613+00:00",
+      "uid": 8788156789,
+      "action": "bot_delete",
+      "detail": "bot=9c9d87ad681c4975"
     }
   ],
   "coupons": {},
@@ -7553,6 +7552,14 @@
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T09:28:36.505481+00:00",
+      "uid": "8788156789",
+      "filename": "kanhafytr_02.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
