@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-25T06:45:05.983054+00:00",
+      "last_seen": "2026-10-25T06:47:25.502369+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 25,
-        "logins": 1751
+        "logins": 1761
       },
       "last_expiry_warn": -1
     },
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T05:10:46.450597+00:00",
+      "last_seen": "2026-10-25T06:50:12.174353+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 29,
-        "logins": 336
+        "logins": 345
       }
     },
     "8854714402": {
@@ -1763,12 +1763,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-25T06:44:37.979205+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.12/socketserver.py\", line 457, in __init__\n    self.server_bind()\n  File \"/usr/lib/python3.12/http/server.py\", line 136, in server_bind\n    socketserver.TCPServer.server_bind(self)\n  File \"/usr/lib/python3.12/socketserver.py\", line 473, in server_bind\n    self.socket.bind(self.server_address)\nOSError: [Errno 98] Address already in use",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-25T06:49:51.328186+00:00"
     },
     "7a8f5fcc885977be": {
       "_id": "7a8f5fcc885977be",
@@ -1808,12 +1809,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-25T06:44:38.531633+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "    result = await request.post(\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/7204407681_50e8843a2623daa4/.deps/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/7204407681_50e8843a2623daa4/.deps/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-25T06:49:51.356634+00:00"
     },
     "6f95dea8c133cc07": {
       "_id": "6f95dea8c133cc07",
@@ -1830,13 +1832,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-25T06:44:39.075340+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-24T11:27:39.272156+00:00"
+      "last_error": "❌ Failed for token 8790042621...: The token `8790042621:AAH6roJ12qWs_D5aZzGQoLeeISMYN4_xfnw` was rejected by the server.\n⚠️ Bot 9 failed to start - retrying in 60s...\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8857844302:AAGCie1Fhw8qEggsqI6QzAGtOuuCwFIQE2E/getMe \"HTTP/1.1 401 Unauthorized\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8999813407:AAFyUElsKRDb97PctSKPifBXypiDGed5__A/getMe \"HTTP/1.1 401 Unauthorized\"\n❌ Failed for token 8857844302...: The token `8857844302:AAGCie1Fhw8qEggsqI6QzAGtOuuCwFIQE2E` was rejected by the server.\n⚠️ Bot 4 failed to start - retrying in 60s...\n❌ Failed for token 8999813407...: The token `8999813407:AAFyUElsKRDb97PctSKPifBXypiDGed5__A` was rejected by the server.\n⚠️ Bot 15 failed to start - retrying in 60s...",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-25T06:49:51.385997+00:00"
     },
     "8db2cf5150697959": {
       "_id": "8db2cf5150697959",
@@ -1876,12 +1878,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-25T06:44:39.487854+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "  URL: \u001b[93mURL_NOT_FOUND (Check ~/cf.log manually)\u001b[0m\n  Password: \u001b[93mroot\u001b[0m\n\u001b[92m==================================================\u001b[0m\n[!] DO NOT STOP THIS PROCESS.\n[Heartbeat 30s] YOUR URL: URL_NOT_FOUND (Check ~/cf.log manually)\n[Heartbeat 60s] YOUR URL: URL_NOT_FOUND (Check ~/cf.log manually)\n[Heartbeat 90s] YOUR URL: URL_NOT_FOUND (Check ~/cf.log manually)\n[Heartbeat 120s] YOUR URL: URL_NOT_FOUND (Check ~/cf.log manually)",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-25T06:49:51.414748+00:00"
     },
     "230d99202d2a42c3": {
       "_id": "230d99202d2a42c3",
@@ -1916,7 +1919,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1925,8 +1928,9 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-10-25T06:44:49.515600+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "2026-10-25 06:44:49,783 - __main__ - INFO - Loading data...\n2026-10-25 06:44:49,784 - __main__ - INFO - 🚀 Starting bot...\nFlask Keep-Alive started\n * Serving Flask app ''\n * Debug mode: off\nAddress already in use\nPort 10460 is in use by another program. Either identify and stop that program, or start the server with a different port.\n2026-10-25 06:44:50,805 - __main__ - INFO - Polling...",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-25T06:49:51.457454+00:00"
     },
     "79a5e3295635ef0a": {
       "_id": "79a5e3295635ef0a",
@@ -1989,12 +1993,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-25T06:44:49.893233+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "2026-10-25 06:45:04,644 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-25 06:45:11,200 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-25 06:45:17,756 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-25 06:45:30,309 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-25 06:45:54,863 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-25 06:46:43,417 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to th",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-25T06:49:51.482452+00:00"
     },
     "501cfa19931caf62": {
       "_id": "501cfa19931caf62",
@@ -2019,7 +2024,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-25T06:44:50.297234+00:00",
+      "last_started": "2026-10-25T06:50:08.806219+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2182,12 +2187,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T07:49:34.073882+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=473"
-    },
     {
       "ts": "2026-09-18T07:54:10.018415+00:00",
       "uid": 8740135346,
@@ -5181,6 +5180,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=16245"
+    },
+    {
+      "ts": "2026-10-25T06:50:08.732058+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=16281"
     }
   ],
   "coupons": {},
