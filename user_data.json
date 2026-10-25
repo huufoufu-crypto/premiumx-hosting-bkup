@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T10:58:24.525945+00:00",
+      "last_seen": "2026-10-25T11:09:21.746469+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 35,
-        "logins": 392
+        "bots_uploaded": 36,
+        "logins": 398
       }
     },
     "8854714402": {
@@ -1539,29 +1539,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "ab0a76947ef274a8": {
-      "_id": "ab0a76947ef274a8",
-      "owner": 8630447127,
-      "name": "ig",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8630447127_ab0a76947ef274a8",
-      "created": "2026-10-20T02:46:41.504517+00:00",
-      "enc_files": [
-        {
-          "key_id": "HFwAUsSOwWpBoxWyTcKe3Q",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8630447127/1792464402_ig_py.enc",
-          "filename": "ig.py",
-          "rel_path": "ig.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:31:59.955990+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-20T12:22:01.373484+00:00"
-    },
     "a68c9f81756c58aa": {
       "_id": "a68c9f81756c58aa",
       "owner": 8788156789,
@@ -2050,6 +2027,28 @@
       "last_error": "════════════════ START 2026-10-25T10:36:09.186663+00:00 ════════════════\n🚀 GARA WP STORE is Running...",
       "last_exit_code": -15,
       "last_exit_at": "2026-10-25T10:58:26.472413+00:00"
+    },
+    "305044058a4e762e": {
+      "_id": "305044058a4e762e",
+      "owner": 8630447127,
+      "name": "ig",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_305044058a4e762e",
+      "created": "2026-10-25T11:09:22.947586+00:00",
+      "enc_files": [
+        {
+          "key_id": "Jk72sEyIP67INxrQH9EWrQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792926563_ig_py.enc",
+          "filename": "ig.py",
+          "rel_path": "ig.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-25T11:09:32.279301+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2210,12 +2209,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T18:24:53.976413+00:00",
-      "uid": 8740135346,
-      "action": "sub_remind_all",
-      "detail": "sent=0 fail=0"
-    },
     {
       "ts": "2026-09-18T18:26:41.885455+00:00",
       "uid": 8740135346,
@@ -5209,6 +5202,12 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=7a82906a723bad47"
+    },
+    {
+      "ts": "2026-10-25T11:09:05.864943+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=ab0a76947ef274a8"
     }
   ],
   "coupons": {},
@@ -7576,6 +7575,14 @@
       "filename": "wpsell.py",
       "verdict": "SAFE",
       "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T11:09:23.449882+00:00",
+      "uid": "8630447127",
+      "filename": "ig.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
