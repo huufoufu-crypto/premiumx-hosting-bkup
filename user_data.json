@@ -2070,10 +2070,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-25T12:52:16.810239+00:00",
-      "last_error": "════════════════ START 2026-10-25T12:52:16.775935+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-25T12:57:20.708612+00:00",
+      "last_error": "════════════════ START 2026-10-25T12:57:20.676665+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-25T12:52:16.829664+00:00"
+      "last_exit_at": "2026-10-25T12:57:20.728076+00:00"
     }
   },
   "payments": [
@@ -2234,12 +2234,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T18:42:31.056400+00:00",
-      "uid": 8944080637,
-      "action": "security_reject",
-      "detail": "file=mfgggg.py risk=60 verdict=DANGEROUS"
-    },
     {
       "ts": "2026-09-19T00:24:22.251662+00:00",
       "uid": 0,
@@ -5233,6 +5227,12 @@
       "uid": 8740135346,
       "action": "bot_delete",
       "detail": "bot=dbb17fad50a04973"
+    },
+    {
+      "ts": "2026-10-25T12:52:38.477348+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=16678"
     }
   ],
   "coupons": {},
