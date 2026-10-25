@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-25T06:47:25.502369+00:00",
+      "last_seen": "2026-10-25T06:52:55.006979+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 25,
-        "logins": 1761
+        "logins": 1762
       },
       "last_expiry_warn": -1
     },
@@ -2024,7 +2024,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-25T06:50:08.806219+00:00",
+      "last_started": "2026-10-25T06:52:13.766229+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2187,12 +2187,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T07:54:10.018415+00:00",
-      "uid": 8740135346,
-      "action": "bot_clone",
-      "detail": "src=6396b46e11f660d8 new=9d61cd73802148e0"
-    },
     {
       "ts": "2026-09-18T07:54:23.351786+00:00",
       "uid": 8740135346,
@@ -5186,6 +5180,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=16281"
+    },
+    {
+      "ts": "2026-10-25T06:52:14.865535+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=16279"
     }
   ],
   "coupons": {},
