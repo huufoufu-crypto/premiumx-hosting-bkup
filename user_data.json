@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T10:35:35.305311+00:00",
+      "last_seen": "2026-10-25T10:35:58.320936+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 34,
-        "logins": 387
+        "bots_uploaded": 35,
+        "logins": 390
       }
     },
     "8854714402": {
@@ -2028,28 +2028,27 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "7a82906a723bad47": {
-      "_id": "7a82906a723bad47",
+    "8ef77cebae698833": {
+      "_id": "8ef77cebae698833",
       "owner": 8630447127,
       "name": "wpsell",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_7a82906a723bad47",
-      "created": "2026-10-25T10:20:37.455532+00:00",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_8ef77cebae698833",
+      "created": "2026-10-25T10:35:59.956354+00:00",
       "enc_files": [
         {
-          "key_id": "7MiLtslMQhaEEL6qJ3y4Jg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792923638_wpsell_py.enc",
+          "key_id": "4WL7ZoH-GA3_ePn7Hvd7GQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792924560_wpsell_py.enc",
           "filename": "wpsell.py",
           "rel_path": "wpsell.py"
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-25T10:20:46.818635+00:00",
-      "last_error": "════════════════ START 2026-10-25T10:20:46.773554+00:00 ════════════════\n🚀 GARA WP STORE is Running...",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-25T10:35:23.581043+00:00"
+      "last_started": "2026-10-25T10:36:09.238114+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2210,12 +2209,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T18:24:20.449850+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=1503"
-    },
     {
       "ts": "2026-09-18T18:24:53.976413+00:00",
       "uid": 8740135346,
@@ -5209,6 +5202,12 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=78c4f40465eab73a"
+    },
+    {
+      "ts": "2026-10-25T10:35:47.139273+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=7a82906a723bad47"
     }
   ],
   "coupons": {},
@@ -7564,6 +7563,14 @@
     },
     {
       "ts": "2026-10-25T10:20:37.964712+00:00",
+      "uid": "8630447127",
+      "filename": "wpsell.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T10:36:00.496953+00:00",
       "uid": "8630447127",
       "filename": "wpsell.py",
       "verdict": "SAFE",
