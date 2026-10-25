@@ -1215,6 +1215,31 @@
         "bots_uploaded": 1,
         "logins": 10
       }
+    },
+    "8527194057": {
+      "_id": 8527194057,
+      "name": "𝘳𝓲𝘴ꫝꪊ (died)🥀",
+      "username": "wri5hi",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-25T08:52:14.718898+00:00",
+      "last_seen": "2026-10-25T08:52:53.722484+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-25T08:52:36.990527+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 2
+      }
     }
   },
   "bots": {
@@ -2163,12 +2188,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T10:15:56.748424+00:00",
-      "uid": 8740135346,
-      "action": "maintenance_toggle",
-      "detail": "now=off"
-    },
     {
       "ts": "2026-09-18T13:49:35.660560+00:00",
       "uid": 0,
@@ -5162,6 +5181,12 @@
       "uid": 8926345670,
       "action": "bot_delete",
       "detail": "bot=393ed9e5f455be48"
+    },
+    {
+      "ts": "2026-10-25T08:52:37.888129+00:00",
+      "uid": 8527194057,
+      "action": "captcha_pass",
+      "detail": "verified after 2 try(s)"
     }
   ],
   "coupons": {},
