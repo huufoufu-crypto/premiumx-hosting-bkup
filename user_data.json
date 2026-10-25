@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-25T02:20:02.321055+00:00",
+      "last_seen": "2026-10-25T05:14:32.884359+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 11,
-        "logins": 297
+        "logins": 305
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -1795,12 +1795,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-24T14:45:54.106382+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "✅ Worker bot 7/10: @primeabbu_7bot ready (no command polling)\n2026-10-24 14:46:05,040 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-10-24 14:46:06,227 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-10-24 14:46:07,424 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-25T05:14:15.405599+00:00"
     },
     "fd22bd0a5bcadea5": {
       "_id": "fd22bd0a5bcadea5",
@@ -1839,12 +1840,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-24T14:45:55.338479+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "    result = await request.post(\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/6515961246_7a8f5fcc885977be/.deps/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/6515961246_7a8f5fcc885977be/.deps/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-25T05:14:34.845741+00:00"
     },
     "50e8843a2623daa4": {
       "_id": "50e8843a2623daa4",
