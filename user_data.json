@@ -1242,6 +1242,31 @@
         "bots_uploaded": 2,
         "logins": 23
       }
+    },
+    "8097500497": {
+      "_id": 8097500497,
+      "name": "𓆰ꪜɪsʜʜᴜ~!! हुन //~💋",
+      "username": "Tguserxyt",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-25T22:15:40.864896+00:00",
+      "last_seen": "2026-10-25T22:15:40.864909+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
@@ -2047,10 +2072,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-25T22:13:48.685593+00:00",
-      "last_error": "════════════════ START 2026-10-25T22:13:48.652310+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-25T22:18:49.234618+00:00",
+      "last_error": "════════════════ START 2026-10-25T22:18:49.198893+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-25T22:13:48.711964+00:00"
+      "last_exit_at": "2026-10-25T22:18:49.253876+00:00"
     },
     "f481486328c8b497": {
       "_id": "f481486328c8b497",
