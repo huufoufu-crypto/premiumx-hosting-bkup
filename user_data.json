@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T04:47:40.439703+00:00",
+      "last_seen": "2026-10-25T04:54:00.621687+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 27,
-        "logins": 322
+        "bots_uploaded": 28,
+        "logins": 328
       }
     },
     "8854714402": {
@@ -635,7 +635,7 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 19,
+        "bots_uploaded": 20,
         "logins": 216
       }
     },
@@ -1956,16 +1956,39 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "8bc33bc862d1e6af": {
-      "_id": "8bc33bc862d1e6af",
-      "owner": 8630447127,
-      "name": "wpsell",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_8bc33bc862d1e6af",
-      "created": "2026-10-25T04:47:41.627801+00:00",
+    "1a720682feeca56a": {
+      "_id": "1a720682feeca56a",
+      "owner": 8032573119,
+      "name": "RISHIV16",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_1a720682feeca56a",
+      "created": "2026-10-25T04:51:32.553241+00:00",
       "enc_files": [
         {
-          "key_id": "9GUNSsdRdedi47wWHiBdkQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792903662_wpsell_py.enc",
+          "key_id": "6udJPqFJ7NdDtnLVFND6PQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1792903893_RISHIV16_py.enc",
+          "filename": "RISHIV16.py",
+          "rel_path": "RISHIV16.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-25T04:51:41.794310+00:00",
+      "last_error": "════════════════ START 2026-10-25T04:51:41.751522+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8032573119_1a720682feeca56a/RISHIV16.py\", line 2256\n    \"{t} ᴋᴀʟɪ ᴋᴜᴛᴛɪ ᴋɪ ᴄʜᴜᴛ sᴀ ɴɪᴋʟᴀ ᴋᴜᴛᴛᴀ ᴋᴀ ᴘɪʟʟᴀ👻 ᴛᴇʀʏ ᴍᴀᴀ ʜᴀᴄᴋʟᴀ ᴋʀ ᴍᴀʀ ᴊᴀʏᴇ🤣\",{t} ᴛᴇʀʏ ᴅᴀᴅɪ ᴋ ᴄʜᴜᴛᴀᴅ ᴍᴀ ᴀᴀᴍ ᴋᴀ ᴛʀᴇᴇ ʟɢᴀᴋᴇ 𝐋ᴜɴ ғᴇᴋ ᴍʀ ᴍᴀʀᴋᴇ ᴛᴏʀᴜɴɢᴀ😘🤩\",\n                                                                                                                                                       ^\nSyntaxError: invalid character '😘' (U+1F618)",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-25T04:51:41.825835+00:00"
+    },
+    "8a3b1fdd53516a77": {
+      "_id": "8a3b1fdd53516a77",
+      "owner": 8630447127,
+      "name": "wpsell",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_8a3b1fdd53516a77",
+      "created": "2026-10-25T04:54:03.830919+00:00",
+      "enc_files": [
+        {
+          "key_id": "xNI0WHt74BbMl_GbNCNzmQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792904044_wpsell_py.enc",
           "filename": "wpsell.py",
           "rel_path": "wpsell.py"
         }
@@ -1974,7 +1997,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-25T04:47:51.300004+00:00",
+      "last_started": "2026-10-25T04:54:13.153112+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2137,12 +2160,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T03:04:49.610548+00:00",
-      "uid": 8740135346,
-      "action": "notify_user",
-      "detail": "to=7850084518"
-    },
     {
       "ts": "2026-09-18T03:05:43.811682+00:00",
       "uid": 8740135346,
@@ -5136,6 +5153,12 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=cae34c5635c02629"
+    },
+    {
+      "ts": "2026-10-25T04:53:50.294551+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=8bc33bc862d1e6af"
     }
   ],
   "coupons": {},
@@ -7371,6 +7394,22 @@
     },
     {
       "ts": "2026-10-25T04:47:42.275508+00:00",
+      "uid": "8630447127",
+      "filename": "wpsell.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T04:51:33.099052+00:00",
+      "uid": "8032573119",
+      "filename": "RISHIV16.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T04:54:04.354603+00:00",
       "uid": "8630447127",
       "filename": "wpsell.py",
       "verdict": "SAFE",
