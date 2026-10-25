@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-25T06:52:55.006979+00:00",
+      "last_seen": "2026-10-25T06:55:14.304204+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 25,
-        "logins": 1762
+        "logins": 1768
       },
       "last_expiry_warn": -1
     },
@@ -33,7 +33,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-17T15:22:28.443020+00:00",
-      "last_seen": "2026-09-25T15:02:43.825098+00:00",
+      "last_seen": "2026-10-25T06:54:08.138509+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -48,7 +48,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 7,
-        "logins": 112
+        "logins": 113
       }
     },
     "8944080637": {
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-25T05:14:32.884359+00:00",
+      "last_seen": "2026-10-25T06:55:31.658633+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 11,
-        "logins": 305
+        "logins": 312
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -496,7 +496,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-25T06:19:27.352520+00:00",
+      "last_seen": "2026-10-25T06:55:38.069982+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -511,7 +511,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 17,
-        "logins": 242
+        "logins": 244
       }
     },
     "8630447127": {
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T06:50:12.174353+00:00",
+      "last_seen": "2026-10-25T06:53:46.931302+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 29,
-        "logins": 345
+        "logins": 346
       }
     },
     "8854714402": {
@@ -1740,12 +1740,12 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:45:54.106382+00:00",
-      "last_error": "✅ Worker bot 7/10: @primeabbu_7bot ready (no command polling)\n2026-10-24 14:46:05,040 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-10-24 14:46:06,227 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-10-24 14:46:07,424 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready",
-      "last_exit_code": -15,
+      "last_started": "2026-10-25T06:53:33.500233+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-10-25T05:14:15.405599+00:00"
     },
     "fd22bd0a5bcadea5": {
@@ -1786,12 +1786,12 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:45:55.338479+00:00",
-      "last_error": "    result = await request.post(\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/6515961246_7a8f5fcc885977be/.deps/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/6515961246_7a8f5fcc885977be/.deps/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
-      "last_exit_code": -15,
+      "last_started": "2026-10-25T06:53:58.330739+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-10-25T05:14:34.845741+00:00"
     },
     "50e8843a2623daa4": {
@@ -2187,12 +2187,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T07:54:23.351786+00:00",
-      "uid": 8740135346,
-      "action": "bot_delete",
-      "detail": "bot=9d61cd73802148e0"
-    },
     {
       "ts": "2026-09-18T08:00:11.161667+00:00",
       "uid": 0,
@@ -5186,6 +5180,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=16279"
+    },
+    {
+      "ts": "2026-10-25T06:55:44.219922+00:00",
+      "uid": 8740135346,
+      "action": "broadcast_sent",
+      "detail": "sent=43 fail=3"
     }
   ],
   "coupons": {},
