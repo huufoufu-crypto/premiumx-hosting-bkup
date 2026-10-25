@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T04:21:03.755098+00:00",
+      "last_seen": "2026-10-25T04:47:40.439703+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 26,
-        "logins": 320
+        "bots_uploaded": 27,
+        "logins": 322
       }
     },
     "8854714402": {
@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-24T11:18:48.566228+00:00",
+      "last_seen": "2026-10-25T04:51:26.633923+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -636,7 +636,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 19,
-        "logins": 210
+        "logins": 216
       }
     },
     "8788156789": {
@@ -1911,28 +1911,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "cae34c5635c02629": {
-      "_id": "cae34c5635c02629",
-      "owner": 8032573119,
-      "name": "AnshuXkayamat",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_cae34c5635c02629",
-      "created": "2026-10-24T11:15:14.320626+00:00",
-      "enc_files": [
-        {
-          "key_id": "Qg4AnMG_KVwTiLtaPUbq_g",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1792840515_AnshuXkayamat_py.enc",
-          "filename": "AnshuXkayamat.py",
-          "rel_path": "AnshuXkayamat.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-24T14:45:58.238190+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "230d99202d2a42c3": {
       "_id": "230d99202d2a42c3",
       "owner": 8832189607,
@@ -1975,6 +1953,28 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-10-24T14:46:08.959422+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "8bc33bc862d1e6af": {
+      "_id": "8bc33bc862d1e6af",
+      "owner": 8630447127,
+      "name": "wpsell",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_8bc33bc862d1e6af",
+      "created": "2026-10-25T04:47:41.627801+00:00",
+      "enc_files": [
+        {
+          "key_id": "9GUNSsdRdedi47wWHiBdkQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792903662_wpsell_py.enc",
+          "filename": "wpsell.py",
+          "rel_path": "wpsell.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-25T04:47:51.300004+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2137,12 +2137,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T03:00:27.671283+00:00",
-      "uid": 8740135346,
-      "action": "approval_toggle",
-      "detail": "now=True"
-    },
     {
       "ts": "2026-09-18T03:04:49.610548+00:00",
       "uid": 8740135346,
@@ -5136,6 +5130,12 @@
       "uid": 8740135346,
       "action": "bot_delete",
       "detail": "bot=56749cf04dd38802"
+    },
+    {
+      "ts": "2026-10-25T04:50:59.946741+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=cae34c5635c02629"
     }
   ],
   "coupons": {},
@@ -7364,6 +7364,14 @@
     {
       "ts": "2026-10-25T04:21:49.516643+00:00",
       "uid": "8740135346",
+      "filename": "wpsell.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T04:47:42.275508+00:00",
+      "uid": "8630447127",
       "filename": "wpsell.py",
       "verdict": "SAFE",
       "risk_score": 20,
