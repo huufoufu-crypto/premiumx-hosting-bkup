@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T07:47:32.877447+00:00",
+      "last_seen": "2026-10-25T09:08:05.393583+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 32,
-        "logins": 367
+        "bots_uploaded": 33,
+        "logins": 378
       }
     },
     "8854714402": {
@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-25T07:35:05.576240+00:00",
+      "last_seen": "2026-10-25T09:05:51.588299+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -636,7 +636,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 21,
-        "logins": 238
+        "logins": 243
       }
     },
     "8788156789": {
@@ -1833,7 +1833,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-25T07:35:07.356434+00:00",
+      "last_started": "2026-10-25T09:05:54.472068+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-24T14:45:58.363369+00:00"
@@ -1980,28 +1980,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "d0d1f30ed38c49cb": {
-      "_id": "d0d1f30ed38c49cb",
-      "owner": 8630447127,
-      "name": "gara_wp_store",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_d0d1f30ed38c49cb",
-      "created": "2026-10-25T07:47:34.988517+00:00",
-      "enc_files": [
-        {
-          "key_id": "V9fDp8-XHOVpm-KWkKmkeA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792914455_gara_wp_store_py.enc",
-          "filename": "gara_wp_store.py",
-          "rel_path": "gara_wp_store.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T07:47:44.340257+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "ede39ea045b0a139": {
       "_id": "ede39ea045b0a139",
       "owner": 8926345670,
@@ -2048,6 +2026,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-25T09:00:57.378438+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "78c4f40465eab73a": {
+      "_id": "78c4f40465eab73a",
+      "owner": 8630447127,
+      "name": "gara_wp_store",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_78c4f40465eab73a",
+      "created": "2026-10-25T09:05:29.539014+00:00",
+      "enc_files": [
+        {
+          "key_id": "9FF9xctfw5TdoAIG4zzx7Q",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792919130_gara_wp_store_py.enc",
+          "filename": "gara_wp_store.py",
+          "rel_path": "gara_wp_store.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-25T09:05:39.193195+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2210,12 +2210,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T17:37:49.925449+00:00",
-      "uid": 8740135346,
-      "action": "bot_delete",
-      "detail": "bot=12bcad1da061755c"
-    },
     {
       "ts": "2026-09-18T18:14:56.934838+00:00",
       "uid": 8740135346,
@@ -5209,6 +5203,12 @@
       "uid": 8527194057,
       "action": "bot_delete",
       "detail": "bot=9dfc4891b46b6382"
+    },
+    {
+      "ts": "2026-10-25T09:05:02.146195+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=d0d1f30ed38c49cb"
     }
   ],
   "coupons": {},
@@ -7542,6 +7542,14 @@
       "ts": "2026-10-25T09:00:48.857574+00:00",
       "uid": "8527194057",
       "filename": "free.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T09:05:30.091798+00:00",
+      "uid": "8630447127",
+      "filename": "gara_wp_store.py",
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
