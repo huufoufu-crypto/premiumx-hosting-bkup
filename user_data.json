@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T07:23:26.271863+00:00",
+      "last_seen": "2026-10-25T07:26:32.707945+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 29,
-        "logins": 351
+        "bots_uploaded": 30,
+        "logins": 355
       }
     },
     "8854714402": {
@@ -2002,6 +2002,28 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-10-25T06:52:13.766229+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "f87f5e773358641b": {
+      "_id": "f87f5e773358641b",
+      "owner": 8630447127,
+      "name": "gara_wp_store",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_f87f5e773358641b",
+      "created": "2026-10-25T07:23:35.819794+00:00",
+      "enc_files": [
+        {
+          "key_id": "ecHALCTf8C8wRdwDV2Xlmw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792913016_gara_wp_store_py.enc",
+          "filename": "gara_wp_store.py",
+          "rel_path": "gara_wp_store.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-25T07:23:45.286206+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -7451,6 +7473,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 37,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-25T07:23:36.340228+00:00",
+      "uid": "8630447127",
+      "filename": "gara_wp_store.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
