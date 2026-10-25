@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T11:09:21.746469+00:00",
+      "last_seen": "2026-10-25T16:42:18.696270+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 36,
-        "logins": 398
+        "bots_uploaded": 37,
+        "logins": 403
       }
     },
     "8854714402": {
@@ -2007,29 +2007,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "8ef77cebae698833": {
-      "_id": "8ef77cebae698833",
-      "owner": 8630447127,
-      "name": "wpsell",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_8ef77cebae698833",
-      "created": "2026-10-25T10:35:59.956354+00:00",
-      "enc_files": [
-        {
-          "key_id": "4WL7ZoH-GA3_ePn7Hvd7GQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792924560_wpsell_py.enc",
-          "filename": "wpsell.py",
-          "rel_path": "wpsell.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T10:36:09.238114+00:00",
-      "last_error": "════════════════ START 2026-10-25T10:36:09.186663+00:00 ════════════════\n🚀 GARA WP STORE is Running...",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-25T10:58:26.472413+00:00"
-    },
     "305044058a4e762e": {
       "_id": "305044058a4e762e",
       "owner": 8630447127,
@@ -2070,10 +2047,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-25T16:39:51.408279+00:00",
-      "last_error": "════════════════ START 2026-10-25T16:39:51.376646+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-25T16:44:55.528791+00:00",
+      "last_error": "════════════════ START 2026-10-25T16:44:55.496848+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-25T16:39:51.429451+00:00"
+      "last_exit_at": "2026-10-25T16:44:55.551583+00:00"
     },
     "f481486328c8b497": {
       "_id": "f481486328c8b497",
@@ -2094,6 +2071,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-25T13:02:59.945638+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "04760a5ee1b56655": {
+      "_id": "04760a5ee1b56655",
+      "owner": 8630447127,
+      "name": "wpigtg",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_04760a5ee1b56655",
+      "created": "2026-10-25T16:42:22.377638+00:00",
+      "enc_files": [
+        {
+          "key_id": "_eCjxsayvX2NX9_XQ_bqwQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792946543_wpigtg_py.enc",
+          "filename": "wpigtg.py",
+          "rel_path": "wpigtg.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-25T16:42:31.834438+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2256,12 +2255,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-19T00:24:22.251662+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=1957"
-    },
     {
       "ts": "2026-09-19T13:04:24.394710+00:00",
       "uid": 8740135346,
@@ -5255,6 +5248,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=16678"
+    },
+    {
+      "ts": "2026-10-25T16:42:05.188474+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=8ef77cebae698833"
     }
   ],
   "coupons": {},
@@ -7654,6 +7653,14 @@
       "filename": "proxy_engine_fixed.py",
       "verdict": "SAFE",
       "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T16:42:22.940070+00:00",
+      "uid": "8630447127",
+      "filename": "wpigtg.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
