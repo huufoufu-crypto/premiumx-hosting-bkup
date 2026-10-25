@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T06:53:46.931302+00:00",
+      "last_seen": "2026-10-25T07:23:26.271863+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 29,
-        "logins": 346
+        "logins": 351
       }
     },
     "8854714402": {
@@ -1978,29 +1978,6 @@
       "last_exit_code": 1,
       "last_exit_at": "2026-10-25T05:06:35.670104+00:00"
     },
-    "8b0e69b6a01ccf9a": {
-      "_id": "8b0e69b6a01ccf9a",
-      "owner": 8630447127,
-      "name": "wpsell_fixed",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_8b0e69b6a01ccf9a",
-      "created": "2026-10-25T05:10:47.625591+00:00",
-      "enc_files": [
-        {
-          "key_id": "sp6i_AN4OOm5hIAmsNrmiQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792905048_wpsell_fixed_py.enc",
-          "filename": "wpsell_fixed.py",
-          "rel_path": "wpsell_fixed.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T06:44:49.893233+00:00",
-      "last_error": "2026-10-25 06:45:04,644 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-25 06:45:11,200 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-25 06:45:17,756 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-25 06:45:30,309 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-25 06:45:54,863 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-25 06:46:43,417 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to th",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-25T06:49:51.482452+00:00"
-    },
     "501cfa19931caf62": {
       "_id": "501cfa19931caf62",
       "owner": 7745343711,
@@ -2187,12 +2164,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T08:00:11.161667+00:00",
-      "uid": 0,
-      "action": "trial_grant",
-      "detail": "uid=8740135346"
-    },
     {
       "ts": "2026-09-18T08:08:14.714052+00:00",
       "uid": 8740135346,
@@ -5186,6 +5157,12 @@
       "uid": 8740135346,
       "action": "broadcast_sent",
       "detail": "sent=43 fail=3"
+    },
+    {
+      "ts": "2026-10-25T07:23:21.831487+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=8b0e69b6a01ccf9a"
     }
   ],
   "coupons": {},
