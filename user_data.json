@@ -496,7 +496,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-25T04:25:46.416081+00:00",
+      "last_seen": "2026-10-25T06:19:27.352520+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -510,8 +510,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 16,
-        "logins": 229
+        "bots_uploaded": 17,
+        "logins": 242
       }
     },
     "8630447127": {
@@ -1446,34 +1446,6 @@
       "last_exit_code": 1,
       "last_exit_at": "2026-10-15T06:58:42.160904+00:00"
     },
-    "3bbb79af67d30906": {
-      "_id": "3bbb79af67d30906",
-      "owner": 7745343711,
-      "name": "kanhabhagwan_1",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_3bbb79af67d30906",
-      "created": "2026-10-16T05:09:39.867793+00:00",
-      "enc_files": [
-        {
-          "key_id": "eAVjFcJbLSZzEqnhaM9Trw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792127380_kanhabhagwan_1_py.enc",
-          "filename": "kanhabhagwan_1.py",
-          "rel_path": "kanhabhagwan_1.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:31:56.020018+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-19T15:59:19.779526+00:00"
-    },
     "9c9d87ad681c4975": {
       "_id": "9c9d87ad681c4975",
       "owner": 8788156789,
@@ -1706,33 +1678,6 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-23T16:32:29.787692+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "0557da5dcc3740ab": {
-      "_id": "0557da5dcc3740ab",
-      "owner": 7745343711,
-      "name": "NEWKRISHNA_1",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7745343711_0557da5dcc3740ab",
-      "created": "2026-10-23T08:34:23.008884+00:00",
-      "enc_files": [
-        {
-          "key_id": "s4c8Dj7UFgrfos1wWKPzmQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7745343711/1792744466_NEWKRISHNA_1_py.enc",
-          "filename": "NEWKRISHNA_1.py",
-          "rel_path": "NEWKRISHNA_1.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:32:32.824591+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2050,6 +1995,33 @@
       "last_started": "2026-10-25T05:10:57.178219+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "501cfa19931caf62": {
+      "_id": "501cfa19931caf62",
+      "owner": 7745343711,
+      "name": "NEWKRISHNA_1",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/7745343711_501cfa19931caf62",
+      "created": "2026-10-25T06:19:11.080696+00:00",
+      "enc_files": [
+        {
+          "key_id": "kS3el5DIk50JQaBCkX2-iw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/7745343711/1792909152_NEWKRISHNA_1_py.enc",
+          "filename": "NEWKRISHNA_1.py",
+          "rel_path": "NEWKRISHNA_1.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-25T06:19:20.787328+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2210,18 +2182,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-18T07:26:00.080105+00:00",
-      "uid": 8740135346,
-      "action": "bot_download",
-      "detail": "bot=04c8aaf7989a75ed"
-    },
-    {
-      "ts": "2026-09-18T07:26:08.908455+00:00",
-      "uid": 8740135346,
-      "action": "bot_delete",
-      "detail": "bot=04c8aaf7989a75ed"
-    },
     {
       "ts": "2026-09-18T07:39:51.409903+00:00",
       "uid": 8740135346,
@@ -5209,6 +5169,18 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=8a3b1fdd53516a77"
+    },
+    {
+      "ts": "2026-10-25T06:18:17.656774+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=0557da5dcc3740ab"
+    },
+    {
+      "ts": "2026-10-25T06:18:43.274396+00:00",
+      "uid": 7745343711,
+      "action": "bot_delete",
+      "detail": "bot=3bbb79af67d30906"
     }
   ],
   "coupons": {},
@@ -7489,6 +7461,14 @@
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T06:19:11.761583+00:00",
+      "uid": "7745343711",
+      "filename": "NEWKRISHNA_1.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
