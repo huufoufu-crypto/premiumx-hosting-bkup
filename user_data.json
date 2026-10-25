@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-24T16:49:46.671061+00:00",
+      "last_seen": "2026-10-25T08:38:56.746268+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -863,7 +863,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 19,
-        "logins": 140
+        "logins": 148
       }
     },
     "8831661619": {
@@ -1557,7 +1557,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
