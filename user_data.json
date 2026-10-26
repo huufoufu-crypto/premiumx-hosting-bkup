@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-26T13:11:42.457360+00:00",
+      "last_seen": "2026-10-26T13:15:22.395709+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 30,
-        "logins": 1827
+        "logins": 1833
       },
       "last_expiry_warn": -1
     },
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-25T16:42:18.696270+00:00",
+      "last_seen": "2026-10-26T13:17:21.924537+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 37,
-        "logins": 403
+        "bots_uploaded": 38,
+        "logins": 424
       }
     },
     "8854714402": {
@@ -2018,28 +2018,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "04760a5ee1b56655": {
-      "_id": "04760a5ee1b56655",
-      "owner": 8630447127,
-      "name": "wpigtg",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_04760a5ee1b56655",
-      "created": "2026-10-25T16:42:22.377638+00:00",
-      "enc_files": [
-        {
-          "key_id": "_eCjxsayvX2NX9_XQ_bqwQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1792946543_wpigtg_py.enc",
-          "filename": "wpigtg.py",
-          "rel_path": "wpigtg.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T16:42:31.834438+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "df202efc091e611c": {
       "_id": "df202efc091e611c",
       "owner": 8837858140,
@@ -2061,29 +2039,6 @@
       "last_started": "2026-10-26T10:50:32.765243+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "dbb17fad50a04973": {
-      "_id": "dbb17fad50a04973",
-      "owner": 8740135346,
-      "name": "proxy_engine_fixed",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973",
-      "created": "2026-10-25T11:36:09.503661+00:00",
-      "enc_files": [
-        {
-          "key_id": "mj1n8K92_USOXSf-SnKBZg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792928170_proxy_engine_fixed_py.enc",
-          "filename": "proxy_engine_fixed.py",
-          "rel_path": "proxy_engine_fixed.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-26T13:14:06.418334+00:00",
-      "last_error": "════════════════ START 2026-10-26T13:14:06.381524+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-26T13:14:06.442061+00:00"
     },
     "21bea58c14408909": {
       "_id": "21bea58c14408909",
@@ -2109,16 +2064,39 @@
       },
       "gh_synced_at": 0
     },
-    "89ac6dd8caaa3eb0": {
-      "_id": "89ac6dd8caaa3eb0",
+    "dbb17fad50a04973": {
+      "_id": "dbb17fad50a04973",
       "owner": 8740135346,
       "name": "proxy_engine_fixed",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_89ac6dd8caaa3eb0",
-      "created": "2026-10-26T13:11:25.382695+00:00",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973",
+      "created": "2026-10-25T11:36:09.503661+00:00",
       "enc_files": [
         {
-          "key_id": "3Ti90v7Xn9vDH5dQWjlzZw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1793020286_proxy_engine_fixed_py.enc",
+          "key_id": "mj1n8K92_USOXSf-SnKBZg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792928170_proxy_engine_fixed_py.enc",
+          "filename": "proxy_engine_fixed.py",
+          "rel_path": "proxy_engine_fixed.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-26T13:19:09.483296+00:00",
+      "last_error": "════════════════ START 2026-10-26T13:19:09.444966+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-26T13:19:09.505141+00:00"
+    },
+    "ec8b2f1eb81e464e": {
+      "_id": "ec8b2f1eb81e464e",
+      "owner": 8630447127,
+      "name": "proxy_engine_fixed",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_ec8b2f1eb81e464e",
+      "created": "2026-10-26T13:16:49.878314+00:00",
+      "enc_files": [
+        {
+          "key_id": "1nzS-hs-YDrc21MM43g82g",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1793020610_proxy_engine_fixed_py.enc",
           "filename": "proxy_engine_fixed.py",
           "rel_path": "proxy_engine_fixed.py"
         }
@@ -2127,10 +2105,9 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-26T13:13:08.972216+00:00",
+      "last_started": "2026-10-26T13:16:59.462592+00:00",
       "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-26T13:13:05.600362+00:00"
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2291,24 +2268,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-19T13:38:28.514026+00:00",
-      "uid": 8740135346,
-      "action": "pay_approve",
-      "detail": "pid=OG22VZ9J"
-    },
-    {
-      "ts": "2026-09-19T13:40:54.227932+00:00",
-      "uid": 8740135346,
-      "action": "give_plan",
-      "detail": "uid=8649287269 plan=enterprise days=1"
-    },
-    {
-      "ts": "2026-09-19T13:45:35.509289+00:00",
-      "uid": 8740135346,
-      "action": "sub_remind_all",
-      "detail": "sent=1 fail=0"
-    },
     {
       "ts": "2026-09-19T13:46:39.294977+00:00",
       "uid": 0,
@@ -5290,6 +5249,24 @@
       "uid": 8740135346,
       "action": "bot_delete",
       "detail": "bot=dbb17fad50a04973"
+    },
+    {
+      "ts": "2026-10-26T13:15:12.027859+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=89ac6dd8caaa3eb0"
+    },
+    {
+      "ts": "2026-10-26T13:15:22.866980+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=dbb17fad50a04973"
+    },
+    {
+      "ts": "2026-10-26T13:16:38.340690+00:00",
+      "uid": 8630447127,
+      "action": "bot_delete",
+      "detail": "bot=04760a5ee1b56655"
     }
   ],
   "coupons": {},
@@ -7726,6 +7703,14 @@
     {
       "ts": "2026-10-26T13:11:25.981287+00:00",
       "uid": "8740135346",
+      "filename": "proxy_engine_fixed.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-26T13:16:50.421529+00:00",
+      "uid": "8630447127",
       "filename": "proxy_engine_fixed.py",
       "verdict": "SAFE",
       "risk_score": 12,
