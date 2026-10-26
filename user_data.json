@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-26T15:05:34.997409+00:00",
+      "last_seen": "2026-10-26T15:06:19.644093+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 15,
-        "logins": 250
+        "logins": 251
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2059,10 +2059,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-26T15:05:32.388466+00:00",
-      "last_error": "════════════════ START 2026-10-26T15:05:32.335048+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-26T15:10:38.281430+00:00",
+      "last_error": "════════════════ START 2026-10-26T15:10:38.248380+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-26T15:05:32.435503+00:00"
+      "last_exit_at": "2026-10-26T15:10:38.301639+00:00"
     }
   },
   "payments": [
