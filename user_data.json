@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-26T14:43:59.561815+00:00",
+      "last_seen": "2026-10-26T14:49:27.286066+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 14,
-        "logins": 240
+        "bots_uploaded": 15,
+        "logins": 249
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -1778,29 +1778,6 @@
       "last_exit_code": null,
       "last_exit_at": "2026-10-24T14:45:58.363369+00:00"
     },
-    "28575d6f79a4003f": {
-      "_id": "28575d6f79a4003f",
-      "owner": 6426979067,
-      "name": "vps",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_28575d6f79a4003f",
-      "created": "2026-10-24T11:13:07.620994+00:00",
-      "enc_files": [
-        {
-          "key_id": "z-WoEJwiRqecoYajmkiF3g",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1792840388_vps_py.enc",
-          "filename": "vps.py",
-          "rel_path": "vps.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T11:26:04.058926+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-25T06:49:51.414748+00:00"
-    },
     "230d99202d2a42c3": {
       "_id": "230d99202d2a42c3",
       "owner": 8832189607,
@@ -2082,10 +2059,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-26T14:45:20.088654+00:00",
-      "last_error": "════════════════ START 2026-10-26T14:45:20.049300+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-26T14:50:22.706745+00:00",
+      "last_error": "════════════════ START 2026-10-26T14:50:22.669023+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-26T14:45:20.110450+00:00"
+      "last_exit_at": "2026-10-26T14:50:22.726162+00:00"
     }
   },
   "payments": [
@@ -2246,18 +2223,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-19T13:47:02.835499+00:00",
-      "uid": 8740135346,
-      "action": "sub_remind_all",
-      "detail": "sent=1 fail=0"
-    },
-    {
-      "ts": "2026-09-19T13:50:21.671886+00:00",
-      "uid": 8740135346,
-      "action": "admin_del",
-      "detail": "uid=7850084518"
-    },
     {
       "ts": "2026-09-19T13:51:20.226430+00:00",
       "uid": 0,
@@ -5245,6 +5210,18 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=ec8b2f1eb81e464e"
+    },
+    {
+      "ts": "2026-10-26T14:48:48.548061+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=28575d6f79a4003f"
+    },
+    {
+      "ts": "2026-10-26T14:49:27.781673+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=02f819b11478e454"
     }
   ],
   "coupons": {},
@@ -7693,6 +7670,14 @@
       "verdict": "SAFE",
       "risk_score": 12,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-26T14:48:19.498102+00:00",
+      "uid": "6426979067",
+      "filename": "requirements.txt",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'requirements.txt' allow nahi hai."
     }
   ]
 }
