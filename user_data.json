@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-26T05:01:23.277054+00:00",
+      "last_seen": "2026-10-26T12:45:21.273423+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 20,
-        "logins": 171
+        "bots_uploaded": 21,
+        "logins": 173
       }
     },
     "8831661619": {
@@ -2080,10 +2080,34 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-26T12:43:46.482306+00:00",
-      "last_error": "════════════════ START 2026-10-26T12:43:46.449180+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-26T12:48:48.792605+00:00",
+      "last_error": "════════════════ START 2026-10-26T12:48:48.757808+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-26T12:43:46.501721+00:00"
+      "last_exit_at": "2026-10-26T12:48:48.810921+00:00"
+    },
+    "21bea58c14408909": {
+      "_id": "21bea58c14408909",
+      "owner": 8926345670,
+      "name": "kanhawp_1",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8926345670_21bea58c14408909",
+      "created": "2026-10-26T12:45:23.971026+00:00",
+      "enc_files": [
+        {
+          "key_id": "OaXDDQZrl8lO1iFWfNS5TQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8926345670/1793018724_kanhawp_1_mjs.enc",
+          "filename": "kanhawp_1.mjs",
+          "rel_path": "kanhawp_1.mjs"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'kanhawp_1.mjs' allow nahi hai."
+      },
+      "gh_synced_at": 0
     }
   },
   "payments": [
@@ -7667,6 +7691,14 @@
       "verdict": "SAFE",
       "risk_score": 12,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-26T12:45:24.454316+00:00",
+      "uid": "8926345670",
+      "filename": "kanhawp_1.mjs",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'kanhawp_1.mjs' allow nahi hai."
     }
   ]
 }
