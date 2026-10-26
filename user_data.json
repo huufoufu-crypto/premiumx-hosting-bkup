@@ -2080,10 +2080,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-26T13:03:57.460991+00:00",
-      "last_error": "════════════════ START 2026-10-26T13:03:57.424029+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-26T13:09:03.613742+00:00",
+      "last_error": "════════════════ START 2026-10-26T13:09:03.577961+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-26T13:03:57.479782+00:00"
+      "last_exit_at": "2026-10-26T13:09:03.633237+00:00"
     },
     "21bea58c14408909": {
       "_id": "21bea58c14408909",
