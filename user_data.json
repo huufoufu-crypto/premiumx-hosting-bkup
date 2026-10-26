@@ -923,7 +923,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-19T09:29:21.813916+00:00",
-      "last_seen": "2026-10-25T15:04:36.177468+00:00",
+      "last_seen": "2026-10-26T10:43:36.503052+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -938,7 +938,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 2,
-        "logins": 18
+        "logins": 29
       }
     },
     "8832189607": {
@@ -1610,50 +1610,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "b62919779ba174a4": {
-      "_id": "b62919779ba174a4",
-      "owner": 8837858140,
-      "name": "gwdpannel",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8837858140_b62919779ba174a4",
-      "created": "2026-10-23T05:17:38.935378+00:00",
-      "enc_files": [
-        {
-          "key_id": "Pr-cX8M6WaioCwcRUgDAxg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8837858140/1792732659_gwdpannel_py.enc",
-          "filename": "gwdpannel.py",
-          "rel_path": "gwdpannel.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:32:29.787692+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "09d1e0b59526f622": {
-      "_id": "09d1e0b59526f622",
-      "owner": 8837858140,
-      "name": "anayana",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8837858140_09d1e0b59526f622",
-      "created": "2026-10-23T09:02:43.488799+00:00",
-      "enc_files": [
-        {
-          "key_id": "InosODR71B6U4qzo1ecahg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8837858140/1792746165_anayana_py.enc",
-          "filename": "anayana.py",
-          "rel_path": "anayana.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:32:35.086592+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "0cba54ca6c92a3f4": {
       "_id": "0cba54ca6c92a3f4",
       "owner": 7557062822,
@@ -2072,10 +2028,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-26T10:42:16.964361+00:00",
-      "last_error": "════════════════ START 2026-10-26T10:42:16.929410+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-26T10:47:21.618587+00:00",
+      "last_error": "════════════════ START 2026-10-26T10:47:21.588332+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-26T10:42:16.984394+00:00"
+      "last_exit_at": "2026-10-26T10:47:21.636014+00:00"
     },
     "f481486328c8b497": {
       "_id": "f481486328c8b497",
@@ -2280,18 +2236,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-19T13:24:22.160612+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=1963"
-    },
-    {
-      "ts": "2026-09-19T13:25:20.800439+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=1966"
-    },
     {
       "ts": "2026-09-19T13:26:12.803825+00:00",
       "uid": 0,
@@ -5279,6 +5223,18 @@
       "uid": 8740135346,
       "action": "broadcast_sent",
       "detail": "sent=44 fail=4"
+    },
+    {
+      "ts": "2026-10-26T10:43:25.848850+00:00",
+      "uid": 8837858140,
+      "action": "bot_delete",
+      "detail": "bot=b62919779ba174a4"
+    },
+    {
+      "ts": "2026-10-26T10:43:34.207473+00:00",
+      "uid": 8837858140,
+      "action": "bot_delete",
+      "detail": "bot=09d1e0b59526f622"
     }
   ],
   "coupons": {},
