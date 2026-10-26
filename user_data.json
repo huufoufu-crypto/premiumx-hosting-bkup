@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-26T11:22:22.371572+00:00",
+      "last_seen": "2026-10-26T11:27:49.842455+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 1,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 28,
-        "logins": 1811
+        "bots_uploaded": 29,
+        "logins": 1819
       },
       "last_expiry_warn": -1
     },
@@ -2010,29 +2010,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "dbb17fad50a04973": {
-      "_id": "dbb17fad50a04973",
-      "owner": 8740135346,
-      "name": "proxy_engine_fixed",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973",
-      "created": "2026-10-25T11:36:09.503661+00:00",
-      "enc_files": [
-        {
-          "key_id": "mj1n8K92_USOXSf-SnKBZg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792928170_proxy_engine_fixed_py.enc",
-          "filename": "proxy_engine_fixed.py",
-          "rel_path": "proxy_engine_fixed.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-26T11:22:46.112978+00:00",
-      "last_error": "════════════════ START 2026-10-26T11:22:46.079493+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-26T11:22:46.138774+00:00"
-    },
     "04760a5ee1b56655": {
       "_id": "04760a5ee1b56655",
       "owner": 8630447127,
@@ -2076,6 +2053,52 @@
       "last_started": "2026-10-26T10:50:32.765243+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "dbb17fad50a04973": {
+      "_id": "dbb17fad50a04973",
+      "owner": 8740135346,
+      "name": "proxy_engine_fixed",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973",
+      "created": "2026-10-25T11:36:09.503661+00:00",
+      "enc_files": [
+        {
+          "key_id": "mj1n8K92_USOXSf-SnKBZg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792928170_proxy_engine_fixed_py.enc",
+          "filename": "proxy_engine_fixed.py",
+          "rel_path": "proxy_engine_fixed.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-26T11:27:51.275878+00:00",
+      "last_error": "════════════════ START 2026-10-26T11:27:51.245232+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-26T11:27:51.296589+00:00"
+    },
+    "45810069c00862c3": {
+      "_id": "45810069c00862c3",
+      "owner": 8740135346,
+      "name": "proxy_engine_fixed",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_45810069c00862c3",
+      "created": "2026-10-26T11:25:56.315199+00:00",
+      "enc_files": [
+        {
+          "key_id": "bMyZe6jN9qM9HbnPSIV-jw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1793013957_proxy_engine_fixed_py.enc",
+          "filename": "proxy_engine_fixed.py",
+          "rel_path": "proxy_engine_fixed.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-26T11:26:05.765969+00:00",
+      "last_error": "════════════════ START 2026-10-26T11:26:05.709479+00:00 ════════════════\nPlease enter your phone (or bot token): Please enter the code you received: Invalid code. Please try again.\nPlease enter the code you received: ",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-26T11:27:51.795699+00:00"
     }
   },
   "payments": [
@@ -2236,12 +2259,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-19T13:27:01.564506+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=1966"
-    },
     {
       "ts": "2026-09-19T13:31:59.235631+00:00",
       "uid": 0,
@@ -5235,6 +5252,12 @@
       "uid": 8740135346,
       "action": "bot_delete",
       "detail": "bot=f481486328c8b497"
+    },
+    {
+      "ts": "2026-10-26T11:25:35.267297+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=dbb17fad50a04973"
     }
   ],
   "coupons": {},
@@ -7650,6 +7673,14 @@
       "filename": "gwdpannel.py",
       "verdict": "SAFE",
       "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-26T11:25:56.846092+00:00",
+      "uid": "8740135346",
+      "filename": "proxy_engine_fixed.py",
+      "verdict": "SAFE",
+      "risk_score": 12,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
