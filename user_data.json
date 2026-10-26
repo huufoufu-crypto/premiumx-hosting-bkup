@@ -923,7 +923,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-19T09:29:21.813916+00:00",
-      "last_seen": "2026-10-26T10:43:36.503052+00:00",
+      "last_seen": "2026-10-26T10:50:40.612923+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -937,8 +937,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 29
+        "bots_uploaded": 3,
+        "logins": 31
       }
     },
     "8832189607": {
@@ -2028,10 +2028,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-26T10:47:21.618587+00:00",
-      "last_error": "════════════════ START 2026-10-26T10:47:21.588332+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-26T10:52:23.499503+00:00",
+      "last_error": "════════════════ START 2026-10-26T10:52:23.469927+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-26T10:47:21.636014+00:00"
+      "last_exit_at": "2026-10-26T10:52:23.517983+00:00"
     },
     "f481486328c8b497": {
       "_id": "f481486328c8b497",
@@ -2074,6 +2074,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-25T16:42:31.834438+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "df202efc091e611c": {
+      "_id": "df202efc091e611c",
+      "owner": 8837858140,
+      "name": "gwdpannel",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8837858140_df202efc091e611c",
+      "created": "2026-10-26T10:50:23.074754+00:00",
+      "enc_files": [
+        {
+          "key_id": "1i8YibcNvw639WFiEuDc-g",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8837858140/1793011824_gwdpannel_py.enc",
+          "filename": "gwdpannel.py",
+          "rel_path": "gwdpannel.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-26T10:50:32.765243+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -7640,6 +7662,14 @@
       "ts": "2026-10-25T16:42:22.940070+00:00",
       "uid": "8630447127",
       "filename": "wpigtg.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-26T10:50:23.623321+00:00",
+      "uid": "8837858140",
+      "filename": "gwdpannel.py",
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
