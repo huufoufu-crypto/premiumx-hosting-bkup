@@ -948,7 +948,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-20T04:37:13.440325+00:00",
-      "last_seen": "2026-10-25T07:30:32.741375+00:00",
+      "last_seen": "2026-10-27T15:16:01.709641+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -963,7 +963,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 22
+        "logins": 26
       }
     },
     "7541401494": {
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-27T15:09:19.559905+00:00",
+      "last_seen": "2026-10-27T15:12:50.116923+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 20,
-        "logins": 279
+        "logins": 280
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -1789,7 +1789,7 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1797,9 +1797,9 @@
         "summary": "File type 'procfile' allow nahi hai."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:49.351963+00:00",
-      "last_error": "2026-10-27 14:22:49,700 - __main__ - INFO - Loading data...\n2026-10-27 14:22:49,701 - __main__ - INFO - 🚀 Starting bot...\nFlask Keep-Alive started\n * Serving Flask app ''\n * Debug mode: off\nAddress already in use\nPort 10460 is in use by another program. Either identify and stop that program, or start the server with a different port.\n2026-10-27 14:22:50,738 - __main__ - INFO - Polling...",
-      "last_exit_code": -15,
+      "last_started": "2026-10-27T15:16:14.289085+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-10-27T14:24:44.146225+00:00"
     },
     "79a5e3295635ef0a": {
@@ -2020,29 +2020,6 @@
       "last_exit_code": 1,
       "last_exit_at": "2026-10-27T02:05:24.847567+00:00"
     },
-    "67dc89a333487684": {
-      "_id": "67dc89a333487684",
-      "owner": 6426979067,
-      "name": "mainosint",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_67dc89a333487684",
-      "created": "2026-10-27T01:42:01.572253+00:00",
-      "enc_files": [
-        {
-          "key_id": "SOgc8M9dNBR4R3DyQzWLYA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793065322_mainosint_py.enc",
-          "filename": "mainosint.py",
-          "rel_path": "mainosint.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:53.089188+00:00",
-      "last_error": "  File \"/home/ubuntu/venv/lib/python3.12/site-packages/aiogram/client/session/base.py\", line 127, in check_response\n    raise TelegramUnauthorizedError(method=method, message=description)\naiogram.exceptions.TelegramUnauthorizedError: Telegram server says - Unauthorized\n2026-10-27 14:22:58,639 [ERROR] Unclosed client session\nclient_session: <aiohttp.client.ClientSession object at 0x7d08457e3920>\n2026-10-27 14:22:58,639 [ERROR] Unclosed connector\nconnections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7d0844e114d0>, 1164279.467050175)])']\nconnector: <aiohttp.connector.TCPConnector object at 0x7d08457e38c0>",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-27T14:22:58.855108+00:00"
-    },
     "99620e5c86696de0": {
       "_id": "99620e5c86696de0",
       "owner": 6426979067,
@@ -2224,12 +2201,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-20T04:45:17.419769+00:00",
-      "uid": 8740135346,
-      "action": "admin_add",
-      "detail": "uid=8262559292 role=full-access"
-    },
     {
       "ts": "2026-09-21T03:40:58.414346+00:00",
       "uid": 5478596644,
@@ -5223,6 +5194,12 @@
       "uid": 8630447127,
       "action": "bot_delete",
       "detail": "bot=305044058a4e762e"
+    },
+    {
+      "ts": "2026-10-27T15:12:51.177341+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=67dc89a333487684"
     }
   ],
   "coupons": {},
