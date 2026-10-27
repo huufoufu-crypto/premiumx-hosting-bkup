@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-27T01:33:00.777230+00:00",
+      "last_seen": "2026-10-27T01:36:36.583882+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 17,
-        "logins": 260
+        "logins": 265
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2037,32 +2037,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T01:33:16.571329+00:00",
-      "last_error": "════════════════ START 2026-10-27T01:33:16.533226+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-27T01:38:18.180395+00:00",
+      "last_error": "════════════════ START 2026-10-27T01:38:18.145516+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-27T01:33:16.590210+00:00"
-    },
-    "4f3f2cdad42e263a": {
-      "_id": "4f3f2cdad42e263a",
-      "owner": 6426979067,
-      "name": "osnit",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_4f3f2cdad42e263a",
-      "created": "2026-10-27T01:32:13.283571+00:00",
-      "enc_files": [
-        {
-          "key_id": "ERhM1Fv4menGRyiQkmaf0w",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793064734_osnit_py.enc",
-          "filename": "osnit.py",
-          "rel_path": "osnit.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-27T01:32:22.866943+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_exit_at": "2026-10-27T01:38:18.208476+00:00"
     }
   },
   "payments": [
@@ -2223,12 +2201,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-19T13:52:50.182870+00:00",
-      "uid": 8740135346,
-      "action": "give_plan",
-      "detail": "uid=8649287269 plan=starter days=1"
-    },
     {
       "ts": "2026-09-19T14:05:01.174748+00:00",
       "uid": 8740135346,
@@ -5222,6 +5194,12 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=c0be75312ef93f45"
+    },
+    {
+      "ts": "2026-10-27T01:36:33.914707+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=4f3f2cdad42e263a"
     }
   ],
   "coupons": {},
