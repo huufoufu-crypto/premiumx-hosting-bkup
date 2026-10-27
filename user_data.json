@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-26T13:15:22.395709+00:00",
+      "last_seen": "2026-10-27T14:25:21.051889+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 30,
-        "logins": 1833
+        "logins": 1837
       },
       "last_expiry_warn": -1
     },
@@ -1633,13 +1633,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-27T14:22:39.157245+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-25T05:14:15.405599+00:00"
+      "last_error": "✅ Worker bot 7/10: @primeabbu_7bot ready (no command polling)\n2026-10-27 14:22:49,495 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-10-27 14:22:50,685 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-10-27 14:22:51,900 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-27T14:24:44.080079+00:00"
     },
     "fd22bd0a5bcadea5": {
       "_id": "fd22bd0a5bcadea5",
@@ -1679,13 +1679,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-27T14:22:39.540258+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-25T05:14:34.845741+00:00"
+      "last_error": "    result = await request.post(\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/6515961246_7a8f5fcc885977be/.deps/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/6515961246_7a8f5fcc885977be/.deps/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-27T14:24:44.109841+00:00"
     },
     "50e8843a2623daa4": {
       "_id": "50e8843a2623daa4",
@@ -1748,7 +1748,7 @@
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-27T14:22:40.017182+00:00",
@@ -1789,7 +1789,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1798,9 +1798,9 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-10-27T14:22:49.351963+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-25T06:49:51.457454+00:00"
+      "last_error": "2026-10-27 14:22:49,700 - __main__ - INFO - Loading data...\n2026-10-27 14:22:49,701 - __main__ - INFO - 🚀 Starting bot...\nFlask Keep-Alive started\n * Serving Flask app ''\n * Debug mode: off\nAddress already in use\nPort 10460 is in use by another program. Either identify and stop that program, or start the server with a different port.\n2026-10-27 14:22:50,738 - __main__ - INFO - Polling...",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-27T14:24:44.146225+00:00"
     },
     "79a5e3295635ef0a": {
       "_id": "79a5e3295635ef0a",
@@ -1871,7 +1871,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:49.877226+00:00",
+      "last_started": "2026-10-27T14:24:55.533246+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1898,7 +1898,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:50.798229+00:00",
+      "last_started": "2026-10-27T14:24:56.150346+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1920,7 +1920,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:51.237947+00:00",
+      "last_started": "2026-10-27T14:24:56.601263+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1947,7 +1947,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:51.745480+00:00",
+      "last_started": "2026-10-27T14:24:57.150191+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1969,7 +1969,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:52.164234+00:00",
+      "last_started": "2026-10-27T14:24:57.533594+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1991,7 +1991,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:52.621632+00:00",
+      "last_started": "2026-10-27T14:24:58.026384+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2224,12 +2224,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-19T14:40:53.631057+00:00",
-      "uid": 0,
-      "action": "trial_grant",
-      "detail": "uid=6760294810"
-    },
     {
       "ts": "2026-09-19T19:52:11.081910+00:00",
       "uid": 0,
@@ -5223,6 +5217,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=15762"
+    },
+    {
+      "ts": "2026-10-27T14:24:56.228768+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=15815"
     }
   ],
   "coupons": {},
