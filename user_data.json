@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-26T15:06:19.644093+00:00",
+      "last_seen": "2026-10-27T01:28:04.080957+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 15,
-        "logins": 251
+        "bots_uploaded": 16,
+        "logins": 256
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2037,10 +2037,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T01:23:09.188029+00:00",
-      "last_error": "════════════════ START 2026-10-27T01:23:09.153436+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
+      "last_started": "2026-10-27T01:28:11.539242+00:00",
+      "last_error": "════════════════ START 2026-10-27T01:28:11.506183+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-27T01:23:09.215990+00:00"
+      "last_exit_at": "2026-10-27T01:28:11.562734+00:00"
     }
   },
   "payments": [
@@ -2201,12 +2201,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-19T13:52:07.351732+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=1966"
-    },
     {
       "ts": "2026-09-19T13:52:50.182870+00:00",
       "uid": 8740135346,
@@ -5200,6 +5194,12 @@
       "uid": 8788156789,
       "action": "bot_delete",
       "detail": "bot=a68c9f81756c58aa"
+    },
+    {
+      "ts": "2026-10-27T01:28:04.576749+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=c0be75312ef93f45"
     }
   ],
   "coupons": {},
@@ -7656,6 +7656,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "File type 'requirements.txt' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-27T01:27:40.189004+00:00",
+      "uid": "6426979067",
+      "filename": "osnit.py",
+      "verdict": "SAFE",
+      "risk_score": 5,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
