@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-27T14:51:41.498081+00:00",
+      "last_seen": "2026-10-27T15:06:07.450754+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 19,
-        "logins": 275
+        "bots_uploaded": 20,
+        "logins": 277
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2042,6 +2042,28 @@
       "last_error": "  File \"/home/ubuntu/venv/lib/python3.12/site-packages/aiogram/client/session/base.py\", line 127, in check_response\n    raise TelegramUnauthorizedError(method=method, message=description)\naiogram.exceptions.TelegramUnauthorizedError: Telegram server says - Unauthorized\n2026-10-27 14:22:58,639 [ERROR] Unclosed client session\nclient_session: <aiohttp.client.ClientSession object at 0x7d08457e3920>\n2026-10-27 14:22:58,639 [ERROR] Unclosed connector\nconnections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7d0844e114d0>, 1164279.467050175)])']\nconnector: <aiohttp.connector.TCPConnector object at 0x7d08457e38c0>",
       "last_exit_code": 1,
       "last_exit_at": "2026-10-27T14:22:58.855108+00:00"
+    },
+    "99620e5c86696de0": {
+      "_id": "99620e5c86696de0",
+      "owner": 6426979067,
+      "name": "osnt5656",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_99620e5c86696de0",
+      "created": "2026-10-27T15:06:05.454011+00:00",
+      "enc_files": [
+        {
+          "key_id": "wNwZGb_xco1LMUE5CCOSiA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793113566_osnt5656_py.enc",
+          "filename": "osnt5656.py",
+          "rel_path": "osnt5656.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-27T15:06:16.457224+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -7686,6 +7708,14 @@
       "ts": "2026-10-27T01:42:02.107838+00:00",
       "uid": "6426979067",
       "filename": "mainosint.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-27T15:06:06.028302+00:00",
+      "uid": "6426979067",
+      "filename": "osnt5656.py",
       "verdict": "SAFE",
       "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
