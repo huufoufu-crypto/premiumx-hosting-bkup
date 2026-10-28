@@ -1308,7 +1308,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T11:12:51.418312+00:00",
-      "last_seen": "2026-10-28T11:52:51.907186+00:00",
+      "last_seen": "2026-10-28T11:55:28.642419+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1322,8 +1322,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 6
+        "bots_uploaded": 2,
+        "logins": 10
       }
     },
     "8998552292": {
@@ -2206,6 +2206,29 @@
       "last_error": "════════════════ START 2026-10-28T11:53:04.513604+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8060521173_d44c61c3e9fd2873/FREEDOM_LIFE.py\", line 184\n    NC1_WORDS = [\"GOD FATHER 𝐔sᴋᴇ 𝐓ᴀᴛᴛᴏ RISHU x AJEET 𝐏ᴀᴘᴀ 𝐊ᴀ 𝐋ᴜɴᴅ 𝐂ʜᴜs ༊࿐ ‌. ｡˚ ° 𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫\"����]\n                                                                                                                                                            ^\nSyntaxError: invalid character '�' (U+FFFD)",
       "last_exit_code": 1,
       "last_exit_at": "2026-10-28T11:53:04.582982+00:00"
+    },
+    "733e06d9c40b551c": {
+      "_id": "733e06d9c40b551c",
+      "owner": 8060521173,
+      "name": "FREEDOM_LIFE",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8060521173_733e06d9c40b551c",
+      "created": "2026-10-28T11:54:36.907200+00:00",
+      "enc_files": [
+        {
+          "key_id": "40myS55X--00L8Zs-xjgWA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8060521173/1793188477_FREEDOM_LIFE_py.enc",
+          "filename": "FREEDOM_LIFE.py",
+          "rel_path": "FREEDOM_LIFE.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-28T11:55:30.508099+00:00",
+      "last_error": "════════════════ START 2026-10-28T11:55:30.431344+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8060521173_733e06d9c40b551c/FREEDOM_LIFE.py\", line 184\n    NC1_WORDS = [\"GOD FATHER 𝐔sᴋᴇ 𝐓ᴀᴛᴛᴏ RISHU x AJEET 𝐏ᴀᴘᴀ 𝐊ᴀ 𝐋ᴜɴᴅ 𝐂ʜᴜs ༊࿐ ‌. ｡˚ ° 𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫\"����]\n                                                                                                                                                            ^\nSyntaxError: invalid character '�' (U+FFFD)",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-28T11:55:30.583575+00:00"
     }
   },
   "payments": [
@@ -7952,6 +7975,14 @@
     },
     {
       "ts": "2026-10-28T11:52:55.529534+00:00",
+      "uid": "8060521173",
+      "filename": "FREEDOM_LIFE.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T11:54:37.496256+00:00",
       "uid": "8060521173",
       "filename": "FREEDOM_LIFE.py",
       "verdict": "SAFE",
