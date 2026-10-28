@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-28T10:20:11.054550+00:00",
+      "last_seen": "2026-10-28T10:24:10.721375+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 23,
-        "logins": 304
+        "logins": 307
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2044,28 +2044,6 @@
       "last_error": "════════════════ START 2026-10-27T02:05:24.726594+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
       "last_exit_at": "2026-10-27T02:05:24.847567+00:00"
-    },
-    "0c2126b85cd6cdfe": {
-      "_id": "0c2126b85cd6cdfe",
-      "owner": 6426979067,
-      "name": "5_6273901309020087377",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_0c2126b85cd6cdfe",
-      "created": "2026-10-28T10:20:12.654963+00:00",
-      "enc_files": [
-        {
-          "key_id": "I9sNI65tgov9no0LAmUxmg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793182813_5_6273901309020087377_py.enc",
-          "filename": "5_6273901309020087377.py",
-          "rel_path": "5_6273901309020087377.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T10:20:22.399333+00:00",
-      "last_error": "",
-      "last_exit_code": null
     }
   },
   "payments": [
@@ -2226,12 +2204,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T09:22:05.354658+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=3878"
-    },
     {
       "ts": "2026-09-23T14:58:50.073100+00:00",
       "uid": 7724735659,
@@ -5225,6 +5197,12 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=f392fc58a537c328"
+    },
+    {
+      "ts": "2026-10-28T10:24:12.766365+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=0c2126b85cd6cdfe"
     }
   ],
   "coupons": {},
