@@ -2227,12 +2227,6 @@
   },
   "audit": [
     {
-      "ts": "2026-09-23T03:24:35.481002+00:00",
-      "uid": 8740135346,
-      "action": "pay_approve",
-      "detail": "pid=UYE7FHQS"
-    },
-    {
       "ts": "2026-09-23T03:25:32.182151+00:00",
       "uid": 8740135346,
       "action": "give_plan",
@@ -5225,6 +5219,12 @@
       "uid": 6284167472,
       "action": "bot_delete",
       "detail": "bot=f7df7d776e8ef094"
+    },
+    {
+      "ts": "2026-10-28T08:26:08.812510+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=15354"
     }
   ],
   "coupons": {},
