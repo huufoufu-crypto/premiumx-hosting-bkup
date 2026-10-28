@@ -1283,7 +1283,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T02:45:27.054519+00:00",
-      "last_seen": "2026-10-28T14:24:51.508717+00:00",
+      "last_seen": "2026-10-28T14:37:42.312551+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1298,7 +1298,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 4,
-        "logins": 30
+        "logins": 38
       }
     },
     "8060521173": {
@@ -2278,9 +2278,10 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-28T14:25:05.027536+00:00",
+      "last_started": "2026-10-28T14:37:44.300210+00:00",
       "last_error": "",
-      "last_exit_code": null
+      "last_exit_code": null,
+      "last_exit_at": "2026-10-28T14:37:18.170265+00:00"
     }
   },
   "payments": [
@@ -2441,12 +2442,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T15:09:12.469375+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=f786881ea5e4d049"
-    },
     {
       "ts": "2026-09-23T16:01:12.317830+00:00",
       "uid": 8439890658,
@@ -5440,6 +5435,12 @@
       "uid": 8514647510,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-28T14:37:18.239630+00:00",
+      "uid": 6284167472,
+      "action": "bot_delete",
+      "detail": "bot=de2452192c209da1"
     }
   ],
   "coupons": {},
