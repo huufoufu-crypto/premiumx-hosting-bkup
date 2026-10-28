@@ -1400,6 +1400,31 @@
         "bots_uploaded": 0,
         "logins": 1
       }
+    },
+    "8424259405": {
+      "_id": 8424259405,
+      "name": "𝑬𝑳𝑰𝒁𝑨𝑩𝑬𝑻𝑯",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-28T16:10:52.729327+00:00",
+      "last_seen": "2026-10-28T16:10:52.729343+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-28T16:11:08.389441+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
@@ -2442,12 +2467,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-24T09:23:04.500908+00:00",
-      "uid": 0,
-      "action": "trial_grant",
-      "detail": "uid=8944080637"
-    },
     {
       "ts": "2026-09-24T09:26:00.489083+00:00",
       "uid": 6515961246,
@@ -5441,6 +5460,12 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=075914d1b44f555c"
+    },
+    {
+      "ts": "2026-10-28T16:11:09.402905+00:00",
+      "uid": 8424259405,
+      "action": "captcha_pass",
+      "detail": "verified after 2 try(s)"
     }
   ],
   "coupons": {},
