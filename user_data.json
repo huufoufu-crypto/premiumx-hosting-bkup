@@ -1333,7 +1333,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T11:24:33.707097+00:00",
-      "last_seen": "2026-10-28T11:24:58.036343+00:00",
+      "last_seen": "2026-10-28T11:48:24.482304+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1348,7 +1348,32 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 2
+        "logins": 4
+      }
+    },
+    "8955487769": {
+      "_id": 8955487769,
+      "name": "𓊈 𝐑𝐔𝐃𝐑𝐀 भगवान हूँ 𓊉 /~🌙",
+      "username": "rudra443857",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-28T11:48:36.696233+00:00",
+      "last_seen": "2026-10-28T11:48:36.696246+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
       }
     }
   },
