@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-28T10:45:27.933192+00:00",
+      "last_seen": "2026-10-28T10:52:37.333161+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -636,7 +636,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 21,
-        "logins": 261
+        "logins": 269
       }
     },
     "8788156789": {
@@ -1776,10 +1776,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-28T10:41:19.130407+00:00",
-      "last_error": "════════════════ START 2026-10-28T10:41:18.992414+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
+      "last_started": "2026-10-28T10:52:24.029238+00:00",
+      "last_error": "════════════════ START 2026-10-28T10:52:23.898451+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-28T10:41:19.681405+00:00"
+      "last_exit_at": "2026-10-28T10:52:24.938124+00:00"
     },
     "230d99202d2a42c3": {
       "_id": "230d99202d2a42c3",
