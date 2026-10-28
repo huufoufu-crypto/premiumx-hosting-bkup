@@ -1308,13 +1308,13 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T11:12:51.418312+00:00",
-      "last_seen": "2026-10-28T11:12:51.418327+00:00",
+      "last_seen": "2026-10-28T11:16:04.333759+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
       "kyc": false,
-      "verified": false,
-      "verified_at": null,
+      "verified": true,
+      "verified_at": "2026-10-28T11:15:06.383087+00:00",
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -1323,7 +1323,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 1
+        "logins": 4
       }
     }
   },
@@ -2250,12 +2250,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T15:06:14.321508+00:00",
-      "uid": 8740135346,
-      "action": "admin_add",
-      "detail": "uid=7724735659 role=manage-users"
-    },
     {
       "ts": "2026-09-23T15:06:50.623158+00:00",
       "uid": 8740135346,
@@ -5249,6 +5243,12 @@
       "uid": 6284167472,
       "action": "bot_delete",
       "detail": "bot=2a37b3359364d9dc"
+    },
+    {
+      "ts": "2026-10-28T11:15:07.954807+00:00",
+      "uid": 8060521173,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
