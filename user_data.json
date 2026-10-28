@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-28T10:52:37.333161+00:00",
+      "last_seen": "2026-10-28T10:55:11.653834+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -635,8 +635,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 21,
-        "logins": 269
+        "bots_uploaded": 22,
+        "logins": 271
       }
     },
     "8788156789": {
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-28T10:29:28.420753+00:00",
+      "last_seen": "2026-10-28T10:56:18.692933+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 24,
-        "logins": 310
+        "logins": 313
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2022,25 +2022,25 @@
       "last_exit_code": 1,
       "last_exit_at": "2026-10-27T02:05:24.847567+00:00"
     },
-    "89e4204a5bc2c741": {
-      "_id": "89e4204a5bc2c741",
-      "owner": 6426979067,
-      "name": "deepseek_python_20261028_478c25",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_89e4204a5bc2c741",
-      "created": "2026-10-28T10:29:13.721604+00:00",
+    "ca578fa5ab56636f": {
+      "_id": "ca578fa5ab56636f",
+      "owner": 8032573119,
+      "name": "DOC-20261027-WA0001",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_ca578fa5ab56636f",
+      "created": "2026-10-28T10:54:54.242486+00:00",
       "enc_files": [
         {
-          "key_id": "RAJbP8AvrxoYppnIQdAmfA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793183354_deepseek_python_20261028_478c25_py.enc",
-          "filename": "deepseek_python_20261028_478c25.py",
-          "rel_path": "deepseek_python_20261028_478c25.py"
+          "key_id": "8wZca2Uk7kEcVFSG-KS9Gg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1793184895_DOC-20261027-WA0001_py.enc",
+          "filename": "DOC-20261027-WA0001.py",
+          "rel_path": "DOC-20261027-WA0001.py"
         }
       ],
       "env": {},
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-28T10:29:23.284250+00:00",
+      "last_started": "2026-10-28T10:55:03.922715+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2203,12 +2203,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T15:00:35.862285+00:00",
-      "uid": 8740135346,
-      "action": "approve_bot",
-      "detail": "bot=f786881ea5e4d049"
-    },
     {
       "ts": "2026-09-23T15:00:47.574148+00:00",
       "uid": 8439890658,
@@ -5202,6 +5196,12 @@
       "uid": 8032573119,
       "action": "bot_delete",
       "detail": "bot=79a5e3295635ef0a"
+    },
+    {
+      "ts": "2026-10-28T10:56:20.713126+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=89e4204a5bc2c741"
     }
   ],
   "coupons": {},
@@ -7737,6 +7737,14 @@
       "filename": "deepseek_python_20261028_478c25.py",
       "verdict": "SAFE",
       "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T10:54:54.814126+00:00",
+      "uid": "8032573119",
+      "filename": "DOC-20261027-WA0001.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
