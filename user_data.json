@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-28T14:49:30.382268+00:00",
+      "last_seen": "2026-10-28T15:00:01.792599+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 26,
-        "logins": 321
+        "bots_uploaded": 27,
+        "logins": 328
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2261,25 +2261,25 @@
       "last_exit_code": null,
       "last_exit_at": "2026-10-28T14:37:18.170265+00:00"
     },
-    "4cbb1d547881a8fd": {
-      "_id": "4cbb1d547881a8fd",
+    "075914d1b44f555c": {
+      "_id": "075914d1b44f555c",
       "owner": 6426979067,
-      "name": "paidosint3",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_4cbb1d547881a8fd",
-      "created": "2026-10-28T14:49:03.559546+00:00",
+      "name": "paidc",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_075914d1b44f555c",
+      "created": "2026-10-28T14:59:51.471664+00:00",
       "enc_files": [
         {
-          "key_id": "-HbC6AEdrjIf-yD8saY8Yw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793198944_paidosint3_py.enc",
-          "filename": "paidosint3.py",
-          "rel_path": "paidosint3.py"
+          "key_id": "c2oqeZIXVRqR7UG1i2g9Yw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793199592_paidc_py.enc",
+          "filename": "paidc.py",
+          "rel_path": "paidc.py"
         }
       ],
       "env": {},
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-28T14:49:14.207603+00:00",
+      "last_started": "2026-10-28T15:00:02.046289+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2442,12 +2442,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T16:03:04.494406+00:00",
-      "uid": 8439890658,
-      "action": "bot_delete",
-      "detail": "bot=4edc22e47d69287a"
-    },
     {
       "ts": "2026-09-23T16:03:32.652131+00:00",
       "uid": 8439890658,
@@ -5441,6 +5435,12 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=a8593facd80cf01d"
+    },
+    {
+      "ts": "2026-10-28T14:59:54.129671+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=4cbb1d547881a8fd"
     }
   ],
   "coupons": {},
@@ -8054,6 +8054,14 @@
       "ts": "2026-10-28T14:49:04.399606+00:00",
       "uid": "6426979067",
       "filename": "paidosint3.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T14:59:52.216736+00:00",
+      "uid": "6426979067",
+      "filename": "paidc.py",
       "verdict": "SAFE",
       "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
