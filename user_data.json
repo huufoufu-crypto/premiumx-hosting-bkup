@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-27T15:12:50.116923+00:00",
+      "last_seen": "2026-10-28T09:26:18.328232+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 20,
-        "logins": 280
+        "logins": 289
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2044,28 +2044,6 @@
       "last_error": "════════════════ START 2026-10-27T02:05:24.726594+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
       "last_exit_code": 1,
       "last_exit_at": "2026-10-27T02:05:24.847567+00:00"
-    },
-    "99620e5c86696de0": {
-      "_id": "99620e5c86696de0",
-      "owner": 6426979067,
-      "name": "osnt5656",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_99620e5c86696de0",
-      "created": "2026-10-27T15:06:05.454011+00:00",
-      "enc_files": [
-        {
-          "key_id": "wNwZGb_xco1LMUE5CCOSiA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793113566_osnt5656_py.enc",
-          "filename": "osnt5656.py",
-          "rel_path": "osnt5656.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T02:26:03.579505+00:00",
-      "last_error": "",
-      "last_exit_code": null
     }
   },
   "payments": [
@@ -2226,12 +2204,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T03:25:32.182151+00:00",
-      "uid": 8740135346,
-      "action": "give_plan",
-      "detail": "uid=8944080637 plan=terminal days=30"
-    },
     {
       "ts": "2026-09-23T03:26:38.542778+00:00",
       "uid": 8740135346,
@@ -5225,6 +5197,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=15354"
+    },
+    {
+      "ts": "2026-10-28T09:25:17.727298+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=99620e5c86696de0"
     }
   ],
   "coupons": {},
