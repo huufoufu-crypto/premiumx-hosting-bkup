@@ -1283,7 +1283,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T02:45:27.054519+00:00",
-      "last_seen": "2026-10-28T11:01:26.798514+00:00",
+      "last_seen": "2026-10-28T11:05:21.441667+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1297,8 +1297,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 18
+        "bots_uploaded": 3,
+        "logins": 28
       }
     }
   },
@@ -2065,28 +2065,6 @@
       "last_started": "2026-10-28T10:59:10.882489+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "e85caf2a311a96bf": {
-      "_id": "e85caf2a311a96bf",
-      "owner": 6284167472,
-      "name": "HOSTINBOT",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6284167472_e85caf2a311a96bf",
-      "created": "2026-10-28T11:00:27.806899+00:00",
-      "enc_files": [
-        {
-          "key_id": "0hTRrYmKrQ1XXPeb8Nri3Q",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793185228_HOSTINBOT_py.enc",
-          "filename": "HOSTINBOT.py",
-          "rel_path": "HOSTINBOT.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T11:00:37.610256+00:00",
-      "last_error": "",
-      "last_exit_code": null
     }
   },
   "payments": [
@@ -2247,18 +2225,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T15:00:47.574148+00:00",
-      "uid": 8439890658,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
-    {
-      "ts": "2026-09-23T15:05:51.439911+00:00",
-      "uid": 8740135346,
-      "action": "approval_toggle",
-      "detail": "now=False"
-    },
     {
       "ts": "2026-09-23T15:06:14.321508+00:00",
       "uid": 8740135346,
@@ -5246,6 +5212,18 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=89e4204a5bc2c741"
+    },
+    {
+      "ts": "2026-10-28T11:03:59.137806+00:00",
+      "uid": 6284167472,
+      "action": "bot_delete",
+      "detail": "bot=e85caf2a311a96bf"
+    },
+    {
+      "ts": "2026-10-28T11:05:20.222580+00:00",
+      "uid": 6284167472,
+      "action": "bot_delete",
+      "detail": "bot=2a37b3359364d9dc"
     }
   ],
   "coupons": {},
@@ -7803,6 +7781,14 @@
       "ts": "2026-10-28T11:00:28.375664+00:00",
       "uid": "6284167472",
       "filename": "HOSTINBOT.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T11:04:35.176033+00:00",
+      "uid": "6284167472",
+      "filename": "ladle.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
