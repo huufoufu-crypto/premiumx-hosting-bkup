@@ -1233,7 +1233,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-25T08:52:14.718898+00:00",
-      "last_seen": "2026-10-25T09:01:06.025160+00:00",
+      "last_seen": "2026-10-28T11:24:15.199401+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1248,7 +1248,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 2,
-        "logins": 23
+        "logins": 25
       }
     },
     "8097500497": {
@@ -1324,6 +1324,31 @@
         "commands": 0,
         "bots_uploaded": 0,
         "logins": 4
+      }
+    },
+    "8998552292": {
+      "_id": 8998552292,
+      "name": "𝐀𝐍𝐔 𝐗 𝐘𝐔𝐓𝐀 𝐂𝐇𝐔𝐃𝐀𝐈 𝐀𝐑𝐂 ❤️‍🔥",
+      "username": "AnuxYutaChudaiArC",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-28T11:24:33.707097+00:00",
+      "last_seen": "2026-10-28T11:24:58.036343+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-28T11:24:53.331134+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 2
       }
     }
   },
@@ -2250,12 +2275,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T15:06:50.623158+00:00",
-      "uid": 8740135346,
-      "action": "bot_delete",
-      "detail": "bot=6396b46e11f660d8"
-    },
     {
       "ts": "2026-09-23T15:07:00.227106+00:00",
       "uid": 8740135346,
@@ -5247,6 +5266,12 @@
     {
       "ts": "2026-10-28T11:15:07.954807+00:00",
       "uid": 8060521173,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-28T11:24:54.856818+00:00",
+      "uid": 8998552292,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
     }
