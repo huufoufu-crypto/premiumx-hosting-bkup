@@ -1283,7 +1283,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T02:45:27.054519+00:00",
-      "last_seen": "2026-10-28T11:05:21.441667+00:00",
+      "last_seen": "2026-10-28T14:24:51.508717+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1297,8 +1297,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 3,
-        "logins": 28
+        "bots_uploaded": 4,
+        "logins": 30
       }
     },
     "8060521173": {
@@ -2254,6 +2254,33 @@
       "last_error": "════════════════ START 2026-10-28T11:55:30.431344+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8060521173_733e06d9c40b551c/FREEDOM_LIFE.py\", line 184\n    NC1_WORDS = [\"GOD FATHER 𝐔sᴋᴇ 𝐓ᴀᴛᴛᴏ RISHU x AJEET 𝐏ᴀᴘᴀ 𝐊ᴀ 𝐋ᴜɴᴅ 𝐂ʜᴜs ༊࿐ ‌. ｡˚ ° 𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫\"����]\n                                                                                                                                                            ^\nSyntaxError: invalid character '�' (U+FFFD)",
       "last_exit_code": 1,
       "last_exit_at": "2026-10-28T11:55:30.583575+00:00"
+    },
+    "de2452192c209da1": {
+      "_id": "de2452192c209da1",
+      "owner": 6284167472,
+      "name": "iginfo",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6284167472_de2452192c209da1",
+      "created": "2026-10-28T14:24:55.332735+00:00",
+      "enc_files": [
+        {
+          "key_id": "ke_YF9gIeapfDO0vYlVl2Q",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793197496_iginfo_py.enc",
+          "filename": "iginfo.py",
+          "rel_path": "iginfo.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 35,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-28T14:25:05.027536+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -8013,6 +8040,14 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T14:24:55.829792+00:00",
+      "uid": "6284167472",
+      "filename": "iginfo.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 35,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
