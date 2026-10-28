@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-28T10:56:18.692933+00:00",
+      "last_seen": "2026-10-28T10:59:19.724433+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 24,
-        "logins": 313
+        "bots_uploaded": 25,
+        "logins": 316
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -1283,7 +1283,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T02:45:27.054519+00:00",
-      "last_seen": "2026-10-28T02:47:54.854436+00:00",
+      "last_seen": "2026-10-28T11:01:26.798514+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1297,8 +1297,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 10
+        "bots_uploaded": 2,
+        "logins": 18
       }
     }
   },
@@ -2041,6 +2041,50 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-28T10:55:03.922715+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "a8593facd80cf01d": {
+      "_id": "a8593facd80cf01d",
+      "owner": 6426979067,
+      "name": "Harshitfinalosint",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_a8593facd80cf01d",
+      "created": "2026-10-28T10:59:01.398526+00:00",
+      "enc_files": [
+        {
+          "key_id": "-j1weW024zqEGSdQ4JCtnQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793185142_Harshitfinalosint_py.enc",
+          "filename": "Harshitfinalosint.py",
+          "rel_path": "Harshitfinalosint.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-28T10:59:10.882489+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "e85caf2a311a96bf": {
+      "_id": "e85caf2a311a96bf",
+      "owner": 6284167472,
+      "name": "HOSTINBOT",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6284167472_e85caf2a311a96bf",
+      "created": "2026-10-28T11:00:27.806899+00:00",
+      "enc_files": [
+        {
+          "key_id": "0hTRrYmKrQ1XXPeb8Nri3Q",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793185228_HOSTINBOT_py.enc",
+          "filename": "HOSTINBOT.py",
+          "rel_path": "HOSTINBOT.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-28T11:00:37.610256+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -7743,6 +7787,22 @@
       "ts": "2026-10-28T10:54:54.814126+00:00",
       "uid": "8032573119",
       "filename": "DOC-20261027-WA0001.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T10:59:01.973275+00:00",
+      "uid": "6426979067",
+      "filename": "Harshitfinalosint.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T11:00:28.375664+00:00",
+      "uid": "6284167472",
+      "filename": "HOSTINBOT.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
