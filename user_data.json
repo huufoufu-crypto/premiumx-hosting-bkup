@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-28T10:59:19.724433+00:00",
+      "last_seen": "2026-10-28T14:49:30.382268+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 25,
-        "logins": 316
+        "bots_uploaded": 26,
+        "logins": 321
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2144,28 +2144,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "a8593facd80cf01d": {
-      "_id": "a8593facd80cf01d",
-      "owner": 6426979067,
-      "name": "Harshitfinalosint",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_a8593facd80cf01d",
-      "created": "2026-10-28T10:59:01.398526+00:00",
-      "enc_files": [
-        {
-          "key_id": "-j1weW024zqEGSdQ4JCtnQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793185142_Harshitfinalosint_py.enc",
-          "filename": "Harshitfinalosint.py",
-          "rel_path": "Harshitfinalosint.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T10:59:10.882489+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "d26fa7ed01d5e485": {
       "_id": "d26fa7ed01d5e485",
       "owner": 8998552292,
@@ -2282,6 +2260,28 @@
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-28T14:37:18.170265+00:00"
+    },
+    "4cbb1d547881a8fd": {
+      "_id": "4cbb1d547881a8fd",
+      "owner": 6426979067,
+      "name": "paidosint3",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_4cbb1d547881a8fd",
+      "created": "2026-10-28T14:49:03.559546+00:00",
+      "enc_files": [
+        {
+          "key_id": "-HbC6AEdrjIf-yD8saY8Yw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793198944_paidosint3_py.enc",
+          "filename": "paidosint3.py",
+          "rel_path": "paidosint3.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-28T14:49:14.207603+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2442,12 +2442,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T16:01:12.317830+00:00",
-      "uid": 8439890658,
-      "action": "bot_download",
-      "detail": "bot=4edc22e47d69287a"
-    },
     {
       "ts": "2026-09-23T16:03:04.494406+00:00",
       "uid": 8439890658,
@@ -5441,6 +5435,12 @@
       "uid": 6284167472,
       "action": "bot_delete",
       "detail": "bot=de2452192c209da1"
+    },
+    {
+      "ts": "2026-10-28T14:49:04.720686+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=a8593facd80cf01d"
     }
   ],
   "coupons": {},
@@ -8049,6 +8049,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 35,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-28T14:49:04.399606+00:00",
+      "uid": "6426979067",
+      "filename": "paidosint3.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
