@@ -1133,7 +1133,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T07:47:59.066197+00:00",
-      "last_seen": "2026-10-22T07:47:59.066214+00:00",
+      "last_seen": "2026-10-28T07:16:59.717486+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1148,7 +1148,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 1
+        "logins": 2
       }
     },
     "7786013581": {
