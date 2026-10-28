@@ -1375,6 +1375,31 @@
         "bots_uploaded": 1,
         "logins": 4
       }
+    },
+    "8514647510": {
+      "_id": 8514647510,
+      "name": "#𝙰💤",
+      "username": "Aiinxii",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-28T13:23:31.438226+00:00",
+      "last_seen": "2026-10-28T13:23:31.438240+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-28T13:23:52.462683+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
@@ -2389,12 +2414,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T15:08:41.910007+00:00",
-      "uid": 8740135346,
-      "action": "bot_delete",
-      "detail": "bot=dec23ded03fc55f0"
-    },
     {
       "ts": "2026-09-23T15:09:12.469375+00:00",
       "uid": 7724735659,
@@ -5386,6 +5405,12 @@
     {
       "ts": "2026-10-28T11:48:49.429088+00:00",
       "uid": 8955487769,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-28T13:23:54.496187+00:00",
+      "uid": 8514647510,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
     }
