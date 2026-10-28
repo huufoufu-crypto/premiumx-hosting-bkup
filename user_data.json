@@ -1275,6 +1275,31 @@
         "bots_uploaded": 0,
         "logins": 1
       }
+    },
+    "6284167472": {
+      "_id": 6284167472,
+      "name": "~ 𝐊 ᴀ 𝐍 ʜ ᴀ 🤍🎀",
+      "username": "Kjodz",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-28T02:45:27.054519+00:00",
+      "last_seen": "2026-10-28T02:46:58.368389+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-28T02:45:39.734868+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 3
+      }
     }
   },
   "bots": {
@@ -2041,6 +2066,33 @@
       "last_started": "2026-10-28T02:26:03.579505+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "f7df7d776e8ef094": {
+      "_id": "f7df7d776e8ef094",
+      "owner": 6284167472,
+      "name": "kanhabhagwan_1",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6284167472_f7df7d776e8ef094",
+      "created": "2026-10-28T02:47:00.960875+00:00",
+      "enc_files": [
+        {
+          "key_id": "1yZFMS5o1zNZZUmJWD63MA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793155622_kanhabhagwan_1_py.enc",
+          "filename": "kanhabhagwan_1.py",
+          "rel_path": "kanhabhagwan_1.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-28T02:47:10.610351+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2201,12 +2253,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-21T06:17:54.579318+00:00",
-      "uid": 8444271488,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
     {
       "ts": "2026-09-23T03:00:31.331674+00:00",
       "uid": 0,
@@ -5200,6 +5246,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=15360"
+    },
+    {
+      "ts": "2026-10-28T02:45:41.305703+00:00",
+      "uid": 6284167472,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -7696,6 +7748,14 @@
       "verdict": "SAFE",
       "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T02:47:01.690423+00:00",
+      "uid": "6284167472",
+      "filename": "kanhabhagwan_1.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
