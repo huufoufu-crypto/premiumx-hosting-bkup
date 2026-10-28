@@ -1308,7 +1308,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T11:12:51.418312+00:00",
-      "last_seen": "2026-10-28T11:16:04.333759+00:00",
+      "last_seen": "2026-10-28T11:52:51.907186+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1322,8 +1322,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 4
+        "bots_uploaded": 1,
+        "logins": 6
       }
     },
     "8998552292": {
@@ -1333,7 +1333,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T11:24:33.707097+00:00",
-      "last_seen": "2026-10-28T11:48:24.482304+00:00",
+      "last_seen": "2026-10-28T11:49:36.742667+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1347,8 +1347,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 4
+        "bots_uploaded": 1,
+        "logins": 6
       }
     },
     "8955487769": {
@@ -1358,13 +1358,13 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T11:48:36.696233+00:00",
-      "last_seen": "2026-10-28T11:48:36.696246+00:00",
+      "last_seen": "2026-10-28T11:52:25.519516+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
       "kyc": false,
-      "verified": false,
-      "verified_at": null,
+      "verified": true,
+      "verified_at": "2026-10-28T11:48:48.470072+00:00",
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -1372,8 +1372,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 1
+        "bots_uploaded": 1,
+        "logins": 4
       }
     }
   },
@@ -2140,6 +2140,72 @@
       "last_started": "2026-10-28T10:59:10.882489+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "d26fa7ed01d5e485": {
+      "_id": "d26fa7ed01d5e485",
+      "owner": 8998552292,
+      "name": "rishugidf",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8998552292_d26fa7ed01d5e485",
+      "created": "2026-10-28T11:49:39.070385+00:00",
+      "enc_files": [
+        {
+          "key_id": "K1BdeUQrySNMtA-gA12DFQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8998552292/1793188180_rishugidf_py.enc",
+          "filename": "rishugidf.py",
+          "rel_path": "rishugidf.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-28T11:49:49.127798+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "5a76cf2a56d2fd80": {
+      "_id": "5a76cf2a56d2fd80",
+      "owner": 8955487769,
+      "name": "rishugajeet",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8955487769_5a76cf2a56d2fd80",
+      "created": "2026-10-28T11:51:07.097199+00:00",
+      "enc_files": [
+        {
+          "key_id": "wH-uoR3K6eGCH1x9j2JnHw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8955487769/1793188268_rishugajeet_py.enc",
+          "filename": "rishugajeet.py",
+          "rel_path": "rishugajeet.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-28T11:51:17.198186+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "d44c61c3e9fd2873": {
+      "_id": "d44c61c3e9fd2873",
+      "owner": 8060521173,
+      "name": "FREEDOM_LIFE",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8060521173_d44c61c3e9fd2873",
+      "created": "2026-10-28T11:52:55.004822+00:00",
+      "enc_files": [
+        {
+          "key_id": "TYmM50RKrevUdwOrkAB37g",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8060521173/1793188376_FREEDOM_LIFE_py.enc",
+          "filename": "FREEDOM_LIFE.py",
+          "rel_path": "FREEDOM_LIFE.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_error": "════════════════ START 2026-10-28T11:53:04.513604+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8060521173_d44c61c3e9fd2873/FREEDOM_LIFE.py\", line 184\n    NC1_WORDS = [\"GOD FATHER 𝐔sᴋᴇ 𝐓ᴀᴛᴛᴏ RISHU x AJEET 𝐏ᴀᴘᴀ 𝐊ᴀ 𝐋ᴜɴᴅ 𝐂ʜᴜs ༊࿐ ‌. ｡˚ ° 𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫\"����]\n                                                                                                                                                            ^\nSyntaxError: invalid character '�' (U+FFFD)",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-10-28T11:53:04.582982+00:00"
     }
   },
   "payments": [
@@ -2300,12 +2366,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T15:07:00.227106+00:00",
-      "uid": 8740135346,
-      "action": "bot_delete",
-      "detail": "bot=f39cd74358a5bdd3"
-    },
     {
       "ts": "2026-09-23T15:08:41.910007+00:00",
       "uid": 8740135346,
@@ -5299,6 +5359,12 @@
       "uid": 8998552292,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-28T11:48:49.429088+00:00",
+      "uid": 8955487769,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -7864,6 +7930,30 @@
       "ts": "2026-10-28T11:04:35.176033+00:00",
       "uid": "6284167472",
       "filename": "ladle.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T11:49:39.799641+00:00",
+      "uid": "8998552292",
+      "filename": "rishugidf.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T11:51:07.876597+00:00",
+      "uid": "8955487769",
+      "filename": "rishugajeet.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T11:52:55.529534+00:00",
+      "uid": "8060521173",
+      "filename": "FREEDOM_LIFE.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
