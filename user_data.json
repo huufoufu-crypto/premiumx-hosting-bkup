@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-27T14:33:57.911918+00:00",
+      "last_seen": "2026-10-28T02:26:10.800951+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 38,
-        "logins": 439
+        "logins": 440
       }
     },
     "8854714402": {
@@ -1789,7 +1789,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1797,10 +1797,10 @@
         "summary": "File type 'procfile' allow nahi hai."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T15:16:14.289085+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-27T14:24:44.146225+00:00"
+      "last_started": "2026-10-28T02:25:24.285631+00:00",
+      "last_error": "2026-10-28 02:25:30,261 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-28 02:25:30,261 - TeleBot - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\n2026-10-28 02:25:34,453 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-28 02:25:34,453 - TeleBot - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\n2026-10-28 02:25:39,396 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-10-28 02:25:39,396 - TeleBot - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-10-28T02:25:51.603761+00:00"
     },
     "79a5e3295635ef0a": {
       "_id": "79a5e3295635ef0a",
@@ -1871,7 +1871,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:24:55.533246+00:00",
+      "last_started": "2026-10-28T02:26:00.052248+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1898,7 +1898,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:24:56.150346+00:00",
+      "last_started": "2026-10-28T02:26:00.539403+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1920,7 +1920,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:24:56.601263+00:00",
+      "last_started": "2026-10-28T02:26:01.004345+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1947,7 +1947,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:24:57.150191+00:00",
+      "last_started": "2026-10-28T02:26:01.808238+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1969,7 +1969,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:24:58.026384+00:00",
+      "last_started": "2026-10-28T02:26:02.309655+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2038,7 +2038,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T15:06:16.457224+00:00",
+      "last_started": "2026-10-28T02:26:03.579505+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2201,18 +2201,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-21T03:40:58.414346+00:00",
-      "uid": 5478596644,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
-    {
-      "ts": "2026-09-21T04:52:17.207728+00:00",
-      "uid": 0,
-      "action": "trial_grant",
-      "detail": "uid=5478596644"
-    },
     {
       "ts": "2026-09-21T06:17:54.579318+00:00",
       "uid": 8444271488,
@@ -5200,6 +5188,18 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=67dc89a333487684"
+    },
+    {
+      "ts": "2026-10-28T02:25:15.078240+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=15350"
+    },
+    {
+      "ts": "2026-10-28T02:25:59.956781+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=15360"
     }
   ],
   "coupons": {},
