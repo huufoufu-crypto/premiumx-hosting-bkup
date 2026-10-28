@@ -1300,6 +1300,31 @@
         "bots_uploaded": 3,
         "logins": 28
       }
+    },
+    "8060521173": {
+      "_id": 8060521173,
+      "name": "𖡴𒁵⃟༅ ⃟ ⃝⃟𒁍𖡴༎𓋲 ⃟ ༎𓋲𝗚𝗢𝗢𝗗 𝗕𝗢𝗬𓋲 ༎ ⃟💗 𓋲༎𖡴𒁵⃟༅ ⃟ ⃝⃟𒁍𖡴𒁵⃟༅ ⃟ ⃝⃟𒁍𖡴༎𓋲 ⃟ ༎𓋲𓋲",
+      "username": "FREEDOM_LIFE_77",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-28T11:12:51.418312+00:00",
+      "last_seen": "2026-10-28T11:12:51.418327+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
