@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-28T02:26:10.800951+00:00",
+      "last_seen": "2026-10-28T02:49:37.366920+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 38,
-        "logins": 440
+        "logins": 441
       }
     },
     "8854714402": {
@@ -1283,7 +1283,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T02:45:27.054519+00:00",
-      "last_seen": "2026-10-28T02:46:58.368389+00:00",
+      "last_seen": "2026-10-28T02:47:54.854436+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1298,7 +1298,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 3
+        "logins": 10
       }
     }
   },
@@ -2066,33 +2066,6 @@
       "last_started": "2026-10-28T02:26:03.579505+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "f7df7d776e8ef094": {
-      "_id": "f7df7d776e8ef094",
-      "owner": 6284167472,
-      "name": "kanhabhagwan_1",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6284167472_f7df7d776e8ef094",
-      "created": "2026-10-28T02:47:00.960875+00:00",
-      "enc_files": [
-        {
-          "key_id": "1yZFMS5o1zNZZUmJWD63MA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793155622_kanhabhagwan_1_py.enc",
-          "filename": "kanhabhagwan_1.py",
-          "rel_path": "kanhabhagwan_1.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T02:47:10.610351+00:00",
-      "last_error": "",
-      "last_exit_code": null
     }
   },
   "payments": [
@@ -2253,18 +2226,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T03:00:31.331674+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=3878"
-    },
-    {
-      "ts": "2026-09-23T03:22:01.932261+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=3878"
-    },
     {
       "ts": "2026-09-23T03:24:35.481002+00:00",
       "uid": 8740135346,
@@ -5252,6 +5213,18 @@
       "uid": 6284167472,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-28T02:47:55.408407+00:00",
+      "uid": 6284167472,
+      "action": "bot_delete",
+      "detail": "bot=f7df7d776e8ef094"
+    },
+    {
+      "ts": "2026-10-28T02:47:55.428941+00:00",
+      "uid": 6284167472,
+      "action": "bot_delete",
+      "detail": "bot=f7df7d776e8ef094"
     }
   ],
   "coupons": {},
