@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-27T14:33:51.134075+00:00",
+      "last_seen": "2026-10-28T10:41:17.261763+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -636,7 +636,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 21,
-        "logins": 245
+        "logins": 254
       }
     },
     "8788156789": {
@@ -1773,13 +1773,13 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:40.017182+00:00",
-      "last_error": "════════════════ START 2026-10-27T14:22:39.922552+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
+      "last_started": "2026-10-28T10:41:19.130407+00:00",
+      "last_error": "════════════════ START 2026-10-28T10:41:18.992414+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
       "last_exit_code": 1,
-      "last_exit_at": "2026-10-27T14:22:40.501114+00:00"
+      "last_exit_at": "2026-10-28T10:41:19.681405+00:00"
     },
     "230d99202d2a42c3": {
       "_id": "230d99202d2a42c3",
@@ -1826,29 +1826,6 @@
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-10-28T02:25:51.603761+00:00"
-    },
-    "79a5e3295635ef0a": {
-      "_id": "79a5e3295635ef0a",
-      "owner": 8032573119,
-      "name": "RISHIV16",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_79a5e3295635ef0a",
-      "created": "2026-10-25T05:03:38.769548+00:00",
-      "enc_files": [
-        {
-          "key_id": "cgUbBM68m5g1-OEgkPIp-w",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1792904619_RISHIV16_py.enc",
-          "filename": "RISHIV16.py",
-          "rel_path": "RISHIV16.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T07:33:36.514781+00:00",
-      "last_error": "════════════════ START 2026-10-25T07:33:36.485247+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8032573119_79a5e3295635ef0a/RISHIV16.py\", line 2252\n    \"{t} ᴋᴀʟɪ ᴋᴜᴛᴛɪ ᴋɪ ᴄʜᴜᴛ sᴀ ɴɪᴋʟᴀ ᴋᴜᴛᴛᴀ ᴋᴀ ᴘɪʟʟᴀ👻 ᴛᴇʀʏ ᴍᴀᴀ ʜᴀᴄᴋʟᴀ ᴋʀ ᴍᴀʀ ᴊᴀʏᴇ🤣\",{t} ᴛᴇʀʏ ᴅᴀᴅɪ ᴋ ᴄʜᴜᴛᴀᴅ ᴍᴀ ᴀᴀᴍ ᴋᴀ ᴛʀᴇᴇ ʟɢᴀᴋᴇ 𝐋ᴜɴ ғᴇᴋ ᴍʀ ᴍᴀʀᴋᴇ ᴛᴏʀᴜɴɢᴀ😘🤩\",\n                                                                                                                                                       ^\nSyntaxError: invalid character '😘' (U+1F618)",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-25T07:33:36.540513+00:00"
     },
     "ce534e7233496818": {
       "_id": "ce534e7233496818",
@@ -2226,12 +2203,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-23T14:58:50.073100+00:00",
-      "uid": 7724735659,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
     {
       "ts": "2026-09-23T15:00:35.862285+00:00",
       "uid": 8740135346,
@@ -5225,6 +5196,12 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=0c2126b85cd6cdfe"
+    },
+    {
+      "ts": "2026-10-28T10:41:10.825437+00:00",
+      "uid": 8032573119,
+      "action": "bot_delete",
+      "detail": "bot=79a5e3295635ef0a"
     }
   ],
   "coupons": {},
