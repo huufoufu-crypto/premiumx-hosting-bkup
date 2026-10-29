@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-27T14:30:07.236753+00:00",
+      "last_seen": "2026-10-29T04:06:12.536939+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 30,
-        "logins": 1838
+        "logins": 1841
       },
       "last_expiry_warn": -1
     },
@@ -1383,7 +1383,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T13:23:31.438226+00:00",
-      "last_seen": "2026-10-28T13:23:31.438240+00:00",
+      "last_seen": "2026-10-28T16:37:55.973939+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1398,7 +1398,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 1
+        "logins": 2
       }
     },
     "8424259405": {
@@ -1425,890 +1425,34 @@
         "bots_uploaded": 0,
         "logins": 1
       }
+    },
+    "8558656037": {
+      "_id": 8558656037,
+      "name": "𝀚゙ 𝐌𝆅ʌʀ︩︪֟ؖ۬ɨʏʌ ༐𝆺𝅥 <3🐾",
+      "username": "XQhibcf",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-28T16:15:21.886976+00:00",
+      "last_seen": "2026-10-28T16:16:28.190426+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-28T16:16:05.167289+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 2,
+        "logins": 4
+      }
     }
   },
-  "bots": {
-    "ec27e83ffe3bb6f6": {
-      "_id": "ec27e83ffe3bb6f6",
-      "owner": 8944080637,
-      "name": "mfgggg",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8944080637_ec27e83ffe3bb6f6",
-      "created": "2026-09-18T18:38:54.797743+00:00",
-      "enc_files": [
-        {
-          "key_id": "9ggAWqeqR3gHUh1yn9ApNQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8944080637/1789756735_mfgggg_py.enc",
-          "filename": "mfgggg.py",
-          "rel_path": "mfgggg.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-09-19T13:25:14.772307+00:00",
-      "last_error": "[2026-09-19 13:25:14] ✅ EICAR file created: /tmp/eicar_test.txt\n[2026-09-19 13:25:14] 📏 Size: 68 bytes\n[2026-09-19 13:25:14] 🧪 This is a HARMLESS test file - not a real virus!\n[2026-09-19 13:25:14]\n==================================================\n[2026-09-19 13:25:14] ✅ TEST COMPLETE\n[2026-09-19 13:25:14] ==================================================\n[2026-09-19 13:25:14] 📄 Report saved: /tmp/test_report_20260919_132514.txt",
-      "last_exit_code": 0,
-      "last_exit_at": "2026-09-19T13:25:14.841359+00:00"
-    },
-    "d6772fec4969fda2": {
-      "_id": "d6772fec4969fda2",
-      "owner": 8439890658,
-      "name": "add_premium_fixed_v2",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8439890658_d6772fec4969fda2",
-      "created": "2026-09-23T16:03:57.258607+00:00",
-      "enc_files": [
-        {
-          "key_id": "YvXcYn7t-kGKAyrllP_Zuw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8439890658/1790179437_add_premium_fixed_v2_py.enc",
-          "filename": "add_premium_fixed_v2.py",
-          "rel_path": "add_premium_fixed_v2.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-09-23T16:04:30.608463+00:00",
-      "last_error": "════════════════ START 2026-09-23T16:04:30.571340+00:00 ════════════════\nTraceback (most recent call last):\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8439890658_d6772fec4969fda2/add_premium_fixed_v2.py\", line 14, in <module>\n    raise RuntimeError(\"Missing API_ID/API_HASH/BOT_TOKEN/LOGS_BOT_TOKEN environment variables.\")\nRuntimeError: Missing API_ID/API_HASH/BOT_TOKEN/LOGS_BOT_TOKEN environment variables.",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-09-23T16:04:31.132674+00:00"
-    },
-    "4b01e8c9f56762cd": {
-      "_id": "4b01e8c9f56762cd",
-      "owner": 7958364334,
-      "name": "spammm",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7958364334_4b01e8c9f56762cd",
-      "created": "2026-09-25T13:29:42.316895+00:00",
-      "enc_files": [
-        {
-          "key_id": "9Puokdh8quMPpPi7jrNZwA",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7958364334/1790342982_spammm_py.enc",
-          "filename": "spammm.py",
-          "rel_path": "spammm.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-09-25T13:29:47.774585+00:00",
-      "last_error": "2026-09-25 14:56:24,227 - INFO - 📦 Page 1: 40 items received\n2026-09-25 14:56:26,511 - INFO - 📦 Page 2: 40 items received\n2026-09-25 14:56:27,032 - INFO - ✅ Added 61 new items. Total: 1334\n2026-09-25 15:01:27,064 - INFO - 🔄 Auto-sync triggered\n2026-09-25 15:01:27,064 - INFO - 🔄 Starting LZT stock sync...\n2026-09-25 15:01:28,505 - INFO - 📦 Page 1: 40 items received\n2026-09-25 15:01:30,286 - INFO - 📦 Page 2: 40 items received\n2026-09-25 15:01:30,809 - INFO - ✅ Added 77 new items. Total: 1411",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-09-25T15:02:44.830755+00:00"
-    },
-    "4c9f9064f632e790": {
-      "_id": "4c9f9064f632e790",
-      "owner": 8790937904,
-      "name": "pyrunner-main1",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8790937904_4c9f9064f632e790",
-      "created": "2026-09-27T10:11:52.735511+00:00",
-      "enc_files": [
-        {
-          "key_id": "RfigtofK9q9X8Hidc8OP_A",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8790937904/1790503913_Procfile.enc",
-          "filename": "Procfile",
-          "rel_path": "Procfile"
-        },
-        {
-          "key_id": "otcnby0XzUVaT_Kd3a5jpg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8790937904/1790503913_python_runner1_py.enc",
-          "filename": "python_runner1.py",
-          "rel_path": "python_runner1.py"
-        },
-        {
-          "key_id": "ZtRJJ5i6UwSbDzfEQ_LNzQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8790937904/1790503913_requirements_txt.enc",
-          "filename": "requirements.txt",
-          "rel_path": "requirements.txt"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 30,
-        "summary": "File type 'procfile' allow nahi hai."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-14T14:52:34.622357+00:00",
-      "last_error": "    return cast(TelegramType, await middleware(bot, method))\n                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8790937904_4c9f9064f632e790/.deps/aiogram/client/session/aiohttp.py\", line 177, in make_request\n    response = self.check_response(\n               ^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8790937904_4c9f9064f632e790/.deps/aiogram/client/session/base.py\", line 127, in check_response\n    raise TelegramUnauthorizedError(method=method, message=description)\naiogram.exceptions.TelegramUnauthorizedError: Telegram server says - Unauthorized",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-14T14:52:41.724418+00:00"
-    },
-    "233de27d1f89bb0a": {
-      "_id": "233de27d1f89bb0a",
-      "owner": 7724735659,
-      "name": "ultimate",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7724735659_233de27d1f89bb0a",
-      "created": "2026-09-28T07:14:36.633038+00:00",
-      "enc_files": [
-        {
-          "key_id": "E2v7eYPpBwbcIqLZkaUoAg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7724735659/1790579677_ultimate_py.enc",
-          "filename": "ultimate.py",
-          "rel_path": "ultimate.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-14T16:10:17.117303+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "f5712e0934d26146": {
-      "_id": "f5712e0934d26146",
-      "owner": 7724735659,
-      "name": "LZT",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7724735659_f5712e0934d26146",
-      "created": "2026-09-28T14:31:14.390776+00:00",
-      "enc_files": [
-        {
-          "key_id": "QVBHwhROoB2aYdJ3V_R8lg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7724735659/1790605874_LZT_py.enc",
-          "filename": "LZT.py",
-          "rel_path": "LZT.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-09-28T14:31:45.256383+00:00",
-      "last_error": "════════════════ START 2026-09-28T14:31:45.214307+00:00 ════════════════\nSyntaxError: Non-UTF-8 code starting with '\\x95' in file /home/ubuntu/premium-hosting/hosting/sandbox/7724735659_f5712e0934d26146/LZT.py on line 66, but no encoding declared; see https://peps.python.org/pep-0263/ for details",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-09-28T14:31:45.275269+00:00"
-    },
-    "ec33720298f8db5c": {
-      "_id": "ec33720298f8db5c",
-      "owner": 8790937904,
-      "name": "kingreq5",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8790937904_ec33720298f8db5c",
-      "created": "2026-09-28T14:57:56.737138+00:00",
-      "enc_files": [
-        {
-          "key_id": "aLdpoOiHFV2ifmlIxR8wXw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8790937904/1790607477_kingreq5_py.enc",
-          "filename": "kingreq5.py",
-          "rel_path": "kingreq5.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-14T14:52:35.218153+00:00",
-      "last_error": "    return _make_request(token, method_url, params=payload)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telebot/apihelper.py\", line 168, in _make_request\n    json_result = _check_result(method_name, result)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telebot/apihelper.py\", line 197, in _check_result\n    raise ApiTelegramException(method_name, result, result_json)\ntelebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-14T14:52:39.489509+00:00"
-    },
-    "8f64b64bb0ac6548": {
-      "_id": "8f64b64bb0ac6548",
-      "owner": 8009335025,
-      "name": "proxyuser",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8009335025_8f64b64bb0ac6548",
-      "created": "2026-10-15T06:04:58.800716+00:00",
-      "enc_files": [
-        {
-          "key_id": "wIf1rqWXgWQNnathN9-lTw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8009335025/1792044299_proxyuser_py.enc",
-          "filename": "proxyuser.py",
-          "rel_path": "proxyuser.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-16T13:04:42.951260+00:00",
-      "last_error": "════════════════ START 2026-10-16T13:04:42.754842+00:00 ════════════════\nPlease enter your phone (or bot token): ",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-16T13:06:13.250994+00:00"
-    },
-    "829268d7a6448d27": {
-      "_id": "829268d7a6448d27",
-      "owner": 8602543306,
-      "name": "sruuserbot",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8602543306_829268d7a6448d27",
-      "created": "2026-10-15T06:58:36.453656+00:00",
-      "enc_files": [
-        {
-          "key_id": "d3pitEpiDVFayPo260Zyyg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8602543306/1792047517_sruuserbot_py.enc",
-          "filename": "sruuserbot.py",
-          "rel_path": "sruuserbot.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-15T06:58:42.136357+00:00",
-      "last_error": "════════════════ START 2026-10-15T06:58:42.098892+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/hosting/sandbox/8602543306_829268d7a6448d27/sruuserbot.py\", line 224\n    state[\"last_random\"][str(group.id)] = datetime.now().timestamp()                save_state(state)\n                                                                                    ^^^^^^^^^^\nSyntaxError: invalid syntax",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-15T06:58:42.160904+00:00"
-    },
-    "9ab9a0468d3ee112": {
-      "_id": "9ab9a0468d3ee112",
-      "owner": 8444271488,
-      "name": "bomb",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8444271488_9ab9a0468d3ee112",
-      "created": "2026-10-17T17:45:25.658186+00:00",
-      "enc_files": [
-        {
-          "key_id": "DEm0-EN05vfI_9cQlYP6YQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8444271488/1792259127_bomb_py.enc",
-          "filename": "bomb.py",
-          "rel_path": "bomb.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-17T17:45:34.484385+00:00",
-      "last_error": "01:11:49 [ERROR] aiogram.dispatcher — Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway\n01:11:49 [WARNING] aiogram.dispatcher — Sleep for 4.178326 seconds and try again... (tryings = 5, bot id = 8945895586)\n01:13:04 [ERROR] aiogram.dispatcher — Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error\n01:13:04 [WARNING] aiogram.dispatcher — Sleep for 4.782300 seconds and try again... (tryings = 6, bot id = 8945895586)\n01:14:03 [INFO] aiogram.dispatcher — Connection established (tryings = 7, bot id = 8945895586)\n09:57:53 [WARNING] aiogram.dispatcher — Received SIGTERM signal\n09:57:53 [INFO] aiogram.dispatcher — Polling stopped for bot @Bomerbbot id=8945895586 - 'Bombebebbrt'\n09:57:53 [INFO] aiogram.dispatcher — Polling stopped",
-      "last_exit_code": 0,
-      "last_exit_at": "2026-10-18T09:57:55.165257+00:00"
-    },
-    "73f4dc4db996dd2a": {
-      "_id": "73f4dc4db996dd2a",
-      "owner": 7950545220,
-      "name": "vishux",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7950545220_73f4dc4db996dd2a",
-      "created": "2026-10-17T20:26:17.251073+00:00",
-      "enc_files": [
-        {
-          "key_id": "Tn7jMXV-IQOIwSb1py5PYw",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7950545220/1792268778_vishux_py.enc",
-          "filename": "vishux.py",
-          "rel_path": "vishux.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-17T20:26:25.776345+00:00",
-      "last_error": "2026-10-18 09:57:46,969 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7965412435:AAH6fRZSiCzqxTRjYGY5GpsYr6oHxQU1Ppc/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:47,115 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8905913573:AAGCtduPayIoUgjOnocRPFpZk0g1qI9a7V0/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:47,729 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8528158754:AAGfm8yjJw8UjMxcuQU53noIQJ90srR7Bds/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,205 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7651290228:AAGgMoTvckHvwB4LuWLH5shMtdOZYIp0W5k/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,391 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8387018864:AAEfaNk0cOdSQHgP_U-PCX6m9xUK-sPT8rQ/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,721 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8593174886:AAH7ibZofWJGv1GnM7DZcDSpkjl1mILskbc/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:48,794 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8678463057:AAFW5rNIGH8f6cQV4wloe68N6WzJyjt91qE/getUpdates \"HTTP/1.1 200 OK\"\n2026-10-18 09:57:51,227 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8369322630:AAFHqcsk4KpXMo_qYy6iicmdZd8Xgv1m4Vw/getUpdates \"HTTP/1.1 200 OK\"",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-18T09:57:55.251477+00:00"
-    },
-    "d44bb9cc0718f9ae": {
-      "_id": "d44bb9cc0718f9ae",
-      "owner": 8824267480,
-      "name": "rishugidf",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8824267480_d44bb9cc0718f9ae",
-      "created": "2026-10-19T16:08:35.274343+00:00",
-      "enc_files": [
-        {
-          "key_id": "FrWFOBqLxHE6yB09J6bVww",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8824267480/1792426116_rishugidf_py.enc",
-          "filename": "rishugidf.py",
-          "rel_path": "rishugidf.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-19T16:08:43.335571+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "e07f861322caaa23": {
-      "_id": "e07f861322caaa23",
-      "owner": 8827098905,
-      "name": "krishnav8",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/8827098905_e07f861322caaa23",
-      "created": "2026-10-22T06:44:51.029528+00:00",
-      "enc_files": [
-        {
-          "key_id": "jJn1fnVZ-NyUFbH9gT1KBQ",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/8827098905/1792651491_krishnav8_py.enc",
-          "filename": "krishnav8.py",
-          "rel_path": "krishnav8.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:32:28.241087+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "0cba54ca6c92a3f4": {
-      "_id": "0cba54ca6c92a3f4",
-      "owner": 7557062822,
-      "name": "rdxv3",
-      "dir": "/home/ubuntu/premium-hosting/hosting/sandbox/7557062822_0cba54ca6c92a3f4",
-      "created": "2026-10-23T15:31:19.074765+00:00",
-      "enc_files": [
-        {
-          "key_id": "PTMaiauiG4gW7YpFMDvsvg",
-          "enc_path": "/home/ubuntu/premium-hosting/hosting/storage/encfiles/7557062822/1792769480_rdxv3_py.enc",
-          "filename": "rdxv3.py",
-          "rel_path": "rdxv3.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-23T16:32:39.454461+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "da8829db1d35e63c": {
-      "_id": "da8829db1d35e63c",
-      "owner": 6515961246,
-      "name": "prime1",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6515961246_da8829db1d35e63c",
-      "created": "2026-10-24T07:34:42.446115+00:00",
-      "enc_files": [
-        {
-          "key_id": "-rWQezNSbl5GvG5z1nqFrA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6515961246/1792827283_prime1_py.enc",
-          "filename": "prime1.py",
-          "rel_path": "prime1.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:39.157245+00:00",
-      "last_error": "✅ Worker bot 7/10: @primeabbu_7bot ready (no command polling)\n2026-10-27 14:22:49,495 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-10-27 14:22:50,685 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-10-27 14:22:51,900 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-27T14:24:44.080079+00:00"
-    },
-    "fd22bd0a5bcadea5": {
-      "_id": "fd22bd0a5bcadea5",
-      "owner": 8740135346,
-      "name": "proxybutterscoth",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_fd22bd0a5bcadea5",
-      "created": "2026-10-24T07:36:38.173361+00:00",
-      "enc_files": [
-        {
-          "key_id": "zlBv9rbc7IpCmZCCUfFRJQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792827399_proxybutterscoth_py.enc",
-          "filename": "proxybutterscoth.py",
-          "rel_path": "proxybutterscoth.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T06:44:37.979205+00:00",
-      "last_error": "             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.12/socketserver.py\", line 457, in __init__\n    self.server_bind()\n  File \"/usr/lib/python3.12/http/server.py\", line 136, in server_bind\n    socketserver.TCPServer.server_bind(self)\n  File \"/usr/lib/python3.12/socketserver.py\", line 473, in server_bind\n    self.socket.bind(self.server_address)\nOSError: [Errno 98] Address already in use",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-25T06:49:51.328186+00:00"
-    },
-    "7a8f5fcc885977be": {
-      "_id": "7a8f5fcc885977be",
-      "owner": 6515961246,
-      "name": "primexgwd",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6515961246_7a8f5fcc885977be",
-      "created": "2026-10-24T07:42:19.298195+00:00",
-      "enc_files": [
-        {
-          "key_id": "MznGSpF5MTafOJCSyYN6xA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6515961246/1792827740_primexgwd_py.enc",
-          "filename": "primexgwd.py",
-          "rel_path": "primexgwd.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-27T14:22:39.540258+00:00",
-      "last_error": "    result = await request.post(\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/6515961246_7a8f5fcc885977be/.deps/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/6515961246_7a8f5fcc885977be/.deps/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-27T14:24:44.109841+00:00"
-    },
-    "50e8843a2623daa4": {
-      "_id": "50e8843a2623daa4",
-      "owner": 7204407681,
-      "name": "rebel15",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/7204407681_50e8843a2623daa4",
-      "created": "2026-10-24T10:29:54.806547+00:00",
-      "enc_files": [
-        {
-          "key_id": "plxy9lq-JxcbnHhS3eSRFw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/7204407681/1792837795_rebel15_py.enc",
-          "filename": "rebel15.py",
-          "rel_path": "rebel15.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T06:44:38.531633+00:00",
-      "last_error": "    result = await request.post(\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/7204407681_50e8843a2623daa4/.deps/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/premium-hosting/sandbox/7204407681_50e8843a2623daa4/.deps/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-25T06:49:51.356634+00:00"
-    },
-    "6f95dea8c133cc07": {
-      "_id": "6f95dea8c133cc07",
-      "owner": 8112920868,
-      "name": "JAYVEXOR",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8112920868_6f95dea8c133cc07",
-      "created": "2026-10-24T10:46:18.731005+00:00",
-      "enc_files": [
-        {
-          "key_id": "wvJSxmkicoiBdK43ZoMHtw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8112920868/1792838779_JAYVEXOR_py.enc",
-          "filename": "JAYVEXOR.py",
-          "rel_path": "JAYVEXOR.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T06:44:39.075340+00:00",
-      "last_error": "❌ Failed for token 8790042621...: The token `8790042621:AAH6roJ12qWs_D5aZzGQoLeeISMYN4_xfnw` was rejected by the server.\n⚠️ Bot 9 failed to start - retrying in 60s...\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8857844302:AAGCie1Fhw8qEggsqI6QzAGtOuuCwFIQE2E/getMe \"HTTP/1.1 401 Unauthorized\"\nINFO:httpx:HTTP Request: POST https://api.telegram.org/bot8999813407:AAFyUElsKRDb97PctSKPifBXypiDGed5__A/getMe \"HTTP/1.1 401 Unauthorized\"\n❌ Failed for token 8857844302...: The token `8857844302:AAGCie1Fhw8qEggsqI6QzAGtOuuCwFIQE2E` was rejected by the server.\n⚠️ Bot 4 failed to start - retrying in 60s...\n❌ Failed for token 8999813407...: The token `8999813407:AAFyUElsKRDb97PctSKPifBXypiDGed5__A` was rejected by the server.\n⚠️ Bot 15 failed to start - retrying in 60s...",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-10-25T06:49:51.385997+00:00"
-    },
-    "8db2cf5150697959": {
-      "_id": "8db2cf5150697959",
-      "owner": 8032573119,
-      "name": "rebelx",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_8db2cf5150697959",
-      "created": "2026-10-24T10:50:16.215593+00:00",
-      "enc_files": [
-        {
-          "key_id": "XRJdWVKdMqUfgaRJv4yW5Q",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1792839017_rebelx_py.enc",
-          "filename": "rebelx.py",
-          "rel_path": "rebelx.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T10:52:24.029238+00:00",
-      "last_error": "════════════════ START 2026-10-28T10:52:23.898451+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-28T10:52:24.938124+00:00"
-    },
-    "230d99202d2a42c3": {
-      "_id": "230d99202d2a42c3",
-      "owner": 8832189607,
-      "name": "HOSTHOM_py",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8832189607_230d99202d2a42c3",
-      "created": "2026-10-24T13:28:24.614911+00:00",
-      "enc_files": [
-        {
-          "key_id": "WwJH3QzKH4vND1F4EnYInw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1792848505_bot_py.enc",
-          "filename": "bot.py",
-          "rel_path": "bot.py"
-        },
-        {
-          "key_id": "HGShcWkbPXIeAg3XmZ4PDg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1792848506_Procfile.enc",
-          "filename": "Procfile",
-          "rel_path": "Procfile"
-        },
-        {
-          "key_id": "f4bkuqITJHRT9gzSmYdgEQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1792848508_requirements_txt.enc",
-          "filename": "requirements.txt",
-          "rel_path": "requirements.txt"
-        },
-        {
-          "key_id": "2m1z-Bpzu-VvuOV7_bUiHQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1792848509_runtime_txt.enc",
-          "filename": "runtime.txt",
-          "rel_path": "runtime.txt"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 30,
-        "summary": "File type 'procfile' allow nahi hai."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T08:53:23.863309+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-28T02:25:51.603761+00:00"
-    },
-    "ce534e7233496818": {
-      "_id": "ce534e7233496818",
-      "owner": 8705836014,
-      "name": "RISHIV16",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8705836014_ce534e7233496818",
-      "created": "2026-10-25T05:06:15.035755+00:00",
-      "enc_files": [
-        {
-          "key_id": "K1TLmDwe7QnFfIs6QAx3fA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8705836014/1792904776_RISHIV16_py.enc",
-          "filename": "RISHIV16.py",
-          "rel_path": "RISHIV16.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-25T05:06:35.630296+00:00",
-      "last_error": "════════════════ START 2026-10-25T05:06:35.577211+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8705836014_ce534e7233496818/RISHIV16.py\", line 2252\n    \"{t} ᴋᴀʟɪ ᴋᴜᴛᴛɪ ᴋɪ ᴄʜᴜᴛ sᴀ ɴɪᴋʟᴀ ᴋᴜᴛᴛᴀ ᴋᴀ ᴘɪʟʟᴀ👻 ᴛᴇʀʏ ᴍᴀᴀ ʜᴀᴄᴋʟᴀ ᴋʀ ᴍᴀʀ ᴊᴀʏᴇ🤣\",{t} ᴛᴇʀʏ ᴅᴀᴅɪ ᴋ ᴄʜᴜᴛᴀᴅ ᴍᴀ ᴀᴀᴍ ᴋᴀ ᴛʀᴇᴇ ʟɢᴀᴋᴇ 𝐋ᴜɴ ғᴇᴋ ᴍʀ ᴍᴀʀᴋᴇ ᴛᴏʀᴜɴɢᴀ😘🤩\",\n                                                                                                                                                       ^\nSyntaxError: invalid character '😘' (U+1F618)",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-25T05:06:35.670104+00:00"
-    },
-    "501cfa19931caf62": {
-      "_id": "501cfa19931caf62",
-      "owner": 7745343711,
-      "name": "NEWKRISHNA_1",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/7745343711_501cfa19931caf62",
-      "created": "2026-10-25T06:19:11.080696+00:00",
-      "enc_files": [
-        {
-          "key_id": "kS3el5DIk50JQaBCkX2-iw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/7745343711/1792909152_NEWKRISHNA_1_py.enc",
-          "filename": "NEWKRISHNA_1.py",
-          "rel_path": "NEWKRISHNA_1.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T02:26:00.052248+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "ede39ea045b0a139": {
-      "_id": "ede39ea045b0a139",
-      "owner": 8926345670,
-      "name": "zenoxgod_1",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8926345670_ede39ea045b0a139",
-      "created": "2026-10-25T08:49:00.641364+00:00",
-      "enc_files": [
-        {
-          "key_id": "YJc0JUQPwTZOCSQeW6cj1A",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8926345670/1792918141_zenoxgod_1_py.enc",
-          "filename": "zenoxgod_1.py",
-          "rel_path": "zenoxgod_1.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T02:26:00.539403+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "a98adf81fa1ebd8d": {
-      "_id": "a98adf81fa1ebd8d",
-      "owner": 8527194057,
-      "name": "free",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8527194057_a98adf81fa1ebd8d",
-      "created": "2026-10-25T09:00:48.321819+00:00",
-      "enc_files": [
-        {
-          "key_id": "U-qKkLTK6bT465wnpI9HKg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8527194057/1792918849_free_py.enc",
-          "filename": "free.py",
-          "rel_path": "free.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T02:26:01.004345+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "81c5932ede5db218": {
-      "_id": "81c5932ede5db218",
-      "owner": 8788156789,
-      "name": "kanhafytr_02",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8788156789_81c5932ede5db218",
-      "created": "2026-10-25T09:28:35.594637+00:00",
-      "enc_files": [
-        {
-          "key_id": "8T6LkuCPPgLd_Zvd5Y5W7g",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8788156789/1792920516_kanhafytr_02_py.enc",
-          "filename": "kanhafytr_02.py",
-          "rel_path": "kanhafytr_02.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 37,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T02:26:01.808238+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "df202efc091e611c": {
-      "_id": "df202efc091e611c",
-      "owner": 8837858140,
-      "name": "gwdpannel",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8837858140_df202efc091e611c",
-      "created": "2026-10-26T10:50:23.074754+00:00",
-      "enc_files": [
-        {
-          "key_id": "1i8YibcNvw639WFiEuDc-g",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8837858140/1793011824_gwdpannel_py.enc",
-          "filename": "gwdpannel.py",
-          "rel_path": "gwdpannel.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T02:26:02.309655+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "21bea58c14408909": {
-      "_id": "21bea58c14408909",
-      "owner": 8926345670,
-      "name": "kanhawp_1",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8926345670_21bea58c14408909",
-      "created": "2026-10-26T12:45:23.971026+00:00",
-      "enc_files": [
-        {
-          "key_id": "OaXDDQZrl8lO1iFWfNS5TQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8926345670/1793018724_kanhawp_1_mjs.enc",
-          "filename": "kanhawp_1.mjs",
-          "rel_path": "kanhawp_1.mjs"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 30,
-        "summary": "File type 'kanhawp_1.mjs' allow nahi hai."
-      },
-      "gh_synced_at": 0
-    },
-    "dbb17fad50a04973": {
-      "_id": "dbb17fad50a04973",
-      "owner": 8740135346,
-      "name": "proxy_engine_fixed",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973",
-      "created": "2026-10-25T11:36:09.503661+00:00",
-      "enc_files": [
-        {
-          "key_id": "mj1n8K92_USOXSf-SnKBZg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1792928170_proxy_engine_fixed_py.enc",
-          "filename": "proxy_engine_fixed.py",
-          "rel_path": "proxy_engine_fixed.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-27T02:05:24.799353+00:00",
-      "last_error": "════════════════ START 2026-10-27T02:05:24.726594+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8740135346_dbb17fad50a04973/proxy_engine_fixed.py\", line 210\n    reply_list = [reply_texts = [\n                  ^^^^^^^^^^^^^^^\nSyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-27T02:05:24.847567+00:00"
-    },
-    "ca578fa5ab56636f": {
-      "_id": "ca578fa5ab56636f",
-      "owner": 8032573119,
-      "name": "DOC-20261027-WA0001",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_ca578fa5ab56636f",
-      "created": "2026-10-28T10:54:54.242486+00:00",
-      "enc_files": [
-        {
-          "key_id": "8wZca2Uk7kEcVFSG-KS9Gg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1793184895_DOC-20261027-WA0001_py.enc",
-          "filename": "DOC-20261027-WA0001.py",
-          "rel_path": "DOC-20261027-WA0001.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T10:55:03.922715+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "d26fa7ed01d5e485": {
-      "_id": "d26fa7ed01d5e485",
-      "owner": 8998552292,
-      "name": "rishugidf",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8998552292_d26fa7ed01d5e485",
-      "created": "2026-10-28T11:49:39.070385+00:00",
-      "enc_files": [
-        {
-          "key_id": "K1BdeUQrySNMtA-gA12DFQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8998552292/1793188180_rishugidf_py.enc",
-          "filename": "rishugidf.py",
-          "rel_path": "rishugidf.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T11:49:49.127798+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "5a76cf2a56d2fd80": {
-      "_id": "5a76cf2a56d2fd80",
-      "owner": 8955487769,
-      "name": "rishugajeet",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8955487769_5a76cf2a56d2fd80",
-      "created": "2026-10-28T11:51:07.097199+00:00",
-      "enc_files": [
-        {
-          "key_id": "wH-uoR3K6eGCH1x9j2JnHw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8955487769/1793188268_rishugajeet_py.enc",
-          "filename": "rishugajeet.py",
-          "rel_path": "rishugajeet.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T11:51:17.198186+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "d44c61c3e9fd2873": {
-      "_id": "d44c61c3e9fd2873",
-      "owner": 8060521173,
-      "name": "FREEDOM_LIFE",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8060521173_d44c61c3e9fd2873",
-      "created": "2026-10-28T11:52:55.004822+00:00",
-      "enc_files": [
-        {
-          "key_id": "TYmM50RKrevUdwOrkAB37g",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8060521173/1793188376_FREEDOM_LIFE_py.enc",
-          "filename": "FREEDOM_LIFE.py",
-          "rel_path": "FREEDOM_LIFE.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_error": "════════════════ START 2026-10-28T11:53:04.513604+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8060521173_d44c61c3e9fd2873/FREEDOM_LIFE.py\", line 184\n    NC1_WORDS = [\"GOD FATHER 𝐔sᴋᴇ 𝐓ᴀᴛᴛᴏ RISHU x AJEET 𝐏ᴀᴘᴀ 𝐊ᴀ 𝐋ᴜɴᴅ 𝐂ʜᴜs ༊࿐ ‌. ｡˚ ° 𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫\"����]\n                                                                                                                                                            ^\nSyntaxError: invalid character '�' (U+FFFD)",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-28T11:53:04.582982+00:00"
-    },
-    "733e06d9c40b551c": {
-      "_id": "733e06d9c40b551c",
-      "owner": 8060521173,
-      "name": "FREEDOM_LIFE",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8060521173_733e06d9c40b551c",
-      "created": "2026-10-28T11:54:36.907200+00:00",
-      "enc_files": [
-        {
-          "key_id": "40myS55X--00L8Zs-xjgWA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8060521173/1793188477_FREEDOM_LIFE_py.enc",
-          "filename": "FREEDOM_LIFE.py",
-          "rel_path": "FREEDOM_LIFE.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T11:55:30.508099+00:00",
-      "last_error": "════════════════ START 2026-10-28T11:55:30.431344+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8060521173_733e06d9c40b551c/FREEDOM_LIFE.py\", line 184\n    NC1_WORDS = [\"GOD FATHER 𝐔sᴋᴇ 𝐓ᴀᴛᴛᴏ RISHU x AJEET 𝐏ᴀᴘᴀ 𝐊ᴀ 𝐋ᴜɴᴅ 𝐂ʜᴜs ༊࿐ ‌. ｡˚ ° 𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫\"����]\n                                                                                                                                                            ^\nSyntaxError: invalid character '�' (U+FFFD)",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-10-28T11:55:30.583575+00:00"
-    },
-    "de2452192c209da1": {
-      "_id": "de2452192c209da1",
-      "owner": 6284167472,
-      "name": "iginfo",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6284167472_de2452192c209da1",
-      "created": "2026-10-28T14:24:55.332735+00:00",
-      "enc_files": [
-        {
-          "key_id": "ke_YF9gIeapfDO0vYlVl2Q",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793197496_iginfo_py.enc",
-          "filename": "iginfo.py",
-          "rel_path": "iginfo.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 35,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T14:37:44.300210+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-10-28T14:37:18.170265+00:00"
-    },
-    "624fd9d52d429b45": {
-      "_id": "624fd9d52d429b45",
-      "owner": 6426979067,
-      "name": "osint811",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_624fd9d52d429b45",
-      "created": "2026-10-28T15:31:47.420546+00:00",
-      "enc_files": [
-        {
-          "key_id": "mc4aV9Hrj8aDek-Ngb88yA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793201508_osint811_py.enc",
-          "filename": "osint811.py",
-          "rel_path": "osint811.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-10-28T15:31:57.864325+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    }
-  },
+  "bots": {},
   "payments": [
     {
       "id": "XZD4B2XN",
@@ -2467,96 +1611,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-24T09:26:00.489083+00:00",
-      "uid": 6515961246,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
-    {
-      "ts": "2026-09-24T13:39:54.281174+00:00",
-      "uid": 7289146443,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
-    {
-      "ts": "2026-09-25T03:17:07.486398+00:00",
-      "uid": 8740135346,
-      "action": "set_brand",
-      "detail": "V2 HOSTING"
-    },
-    {
-      "ts": "2026-09-25T07:15:50.609567+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=2294"
-    },
-    {
-      "ts": "2026-09-25T11:29:32.276073+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=717c8e45d85b339d"
-    },
-    {
-      "ts": "2026-09-25T11:32:11.318115+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=af4955b09619a8b2"
-    },
-    {
-      "ts": "2026-09-25T11:35:37.238784+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=85d2212a78b0cc09"
-    },
-    {
-      "ts": "2026-09-25T11:39:34.739995+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=093ececa54469562"
-    },
-    {
-      "ts": "2026-09-25T12:12:49.904766+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=db45244059c8954a"
-    },
-    {
-      "ts": "2026-09-25T12:30:54.741535+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=209b2482872e7be4"
-    },
-    {
-      "ts": "2026-09-25T12:32:33.207366+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=6988cc47ce9042eb"
-    },
-    {
-      "ts": "2026-09-25T12:37:47.332634+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=d0696829131a023e"
-    },
-    {
-      "ts": "2026-09-25T12:40:38.450278+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=b876ab8a0688eb0e"
-    },
-    {
-      "ts": "2026-09-25T12:57:45.649933+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=257cd20917c99255"
-    },
-    {
-      "ts": "2026-09-25T13:08:03.384075+00:00",
-      "uid": 7958364334,
-      "action": "bot_delete",
-      "detail": "bot=c908b7701a859c3d"
-    },
     {
       "ts": "2026-09-25T13:10:41.533061+00:00",
       "uid": 7958364334,
@@ -5466,6 +4520,96 @@
       "uid": 8424259405,
       "action": "captcha_pass",
       "detail": "verified after 2 try(s)"
+    },
+    {
+      "ts": "2026-10-28T16:16:06.192127+00:00",
+      "uid": 8558656037,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-28T16:37:44.389006+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18523"
+    },
+    {
+      "ts": "2026-10-28T16:38:53.697544+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18549"
+    },
+    {
+      "ts": "2026-10-28T16:40:28.358791+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18545"
+    },
+    {
+      "ts": "2026-10-28T16:44:24.169261+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18548"
+    },
+    {
+      "ts": "2026-10-29T03:09:20.108301+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18550"
+    },
+    {
+      "ts": "2026-10-29T03:14:33.983114+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18565"
+    },
+    {
+      "ts": "2026-10-29T03:21:21.183227+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18566"
+    },
+    {
+      "ts": "2026-10-29T03:45:58.905349+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18566"
+    },
+    {
+      "ts": "2026-10-29T04:05:55.701585+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18567"
+    },
+    {
+      "ts": "2026-10-29T04:07:50.686075+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18562"
+    },
+    {
+      "ts": "2026-10-29T14:06:11.186669+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18563"
+    },
+    {
+      "ts": "2026-10-29T14:15:03.174629+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18567"
+    },
+    {
+      "ts": "2026-10-29T14:19:35.493872+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18565"
+    },
+    {
+      "ts": "2026-10-29T14:23:20.374243+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=18560"
     }
   ],
   "coupons": {},
@@ -8098,6 +7242,22 @@
       "verdict": "SAFE",
       "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T16:16:29.653212+00:00",
+      "uid": "8558656037",
+      "filename": "pythonweb_Cyber-D_PyEncrypter.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T16:16:30.320503+00:00",
+      "uid": "8558656037",
+      "filename": "Screenshot_20261028-183418.png",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'screenshot_20261028-183418.png' allow nahi hai."
     }
   ]
 }
