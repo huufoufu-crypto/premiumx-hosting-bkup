@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-29T14:59:44.092673+00:00",
+      "last_seen": "2026-10-29T15:00:23.268538+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 30,
-        "logins": 1856
+        "logins": 1858
       },
       "last_expiry_warn": -1
     },
@@ -496,7 +496,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:21:34.267758+00:00",
-      "last_seen": "2026-10-29T14:52:59.773486+00:00",
+      "last_seen": "2026-10-29T15:00:00.375867+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -510,8 +510,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 17,
-        "logins": 250
+        "bots_uploaded": 18,
+        "logins": 251
       }
     },
     "8630447127": {
@@ -949,8 +949,8 @@
       "plan_expires": null,
       "joined": "2026-10-20T04:37:13.440325+00:00",
       "last_seen": "2026-10-29T14:31:18.874135+00:00",
-      "banned": false,
-      "ban_reason": "",
+      "banned": true,
+      "ban_reason": "UPLOADING HOSTING BOTS",
       "wallet": 0,
       "kyc": false,
       "verified": true,
@@ -1542,6 +1542,33 @@
       "last_started": "2026-10-29T14:36:51.642086+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "13f453cff474a7af": {
+      "_id": "13f453cff474a7af",
+      "owner": 7745343711,
+      "name": "Krishnapapa_01",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/7745343711_13f453cff474a7af",
+      "created": "2026-10-29T15:00:03.019742+00:00",
+      "enc_files": [
+        {
+          "key_id": "SlCqLXgrpVApuoA9VOmkLw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/7745343711/1793286004_Krishnapapa_01_py.enc",
+          "filename": "Krishnapapa_01.py",
+          "rel_path": "Krishnapapa_01.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-29T15:00:13.114839+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -1702,12 +1729,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-25T13:15:53.004304+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=3194"
-    },
     {
       "ts": "2026-09-25T13:29:29.516190+00:00",
       "uid": 7958364334,
@@ -4701,6 +4722,12 @@
       "uid": 8740135346,
       "action": "broadcast_sent",
       "detail": "sent=51 fail=4"
+    },
+    {
+      "ts": "2026-10-29T15:00:23.284485+00:00",
+      "uid": 8740135346,
+      "action": "ban_user",
+      "detail": "uid=8832189607"
     }
   ],
   "coupons": {},
@@ -7373,6 +7400,14 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-29T15:00:03.705011+00:00",
+      "uid": "7745343711",
+      "filename": "Krishnapapa_01.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
