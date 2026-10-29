@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-29T14:27:15.488224+00:00",
+      "last_seen": "2026-10-29T14:37:02.165683+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -279,8 +279,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 11,
-        "logins": 321
+        "bots_uploaded": 12,
+        "logins": 325
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -1517,6 +1517,28 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-10-29T14:31:00.651441+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "0c28d0e8cf75f8b4": {
+      "_id": "0c28d0e8cf75f8b4",
+      "owner": 6515961246,
+      "name": "gwdx",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6515961246_0c28d0e8cf75f8b4",
+      "created": "2026-10-29T14:36:40.023957+00:00",
+      "enc_files": [
+        {
+          "key_id": "LbhPz9xRggAys3b8ql8wgA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6515961246/1793284601_gwdx_py.enc",
+          "filename": "gwdx.py",
+          "rel_path": "gwdx.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-29T14:36:51.642086+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -7342,6 +7364,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "File type 'procfile' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-29T14:36:40.613369+00:00",
+      "uid": "6515961246",
+      "filename": "gwdx.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
