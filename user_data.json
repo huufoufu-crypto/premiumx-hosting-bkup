@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-29T15:00:23.268538+00:00",
+      "last_seen": "2026-10-29T16:23:13.474026+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 30,
-        "logins": 1858
+        "logins": 1862
       },
       "last_expiry_warn": -1
     },
@@ -1799,12 +1799,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-25T15:22:34.684100+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=e46b972dc18c5530"
-    },
     {
       "ts": "2026-09-25T15:28:38.437260+00:00",
       "uid": 7724735659,
@@ -4798,6 +4792,12 @@
       "uid": 7482781113,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-29T16:23:13.939362+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
     }
   ],
   "coupons": {},
