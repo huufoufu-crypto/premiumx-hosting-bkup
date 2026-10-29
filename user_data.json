@@ -1308,7 +1308,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T11:12:51.418312+00:00",
-      "last_seen": "2026-10-29T16:10:27.422563+00:00",
+      "last_seen": "2026-10-29T16:13:45.205055+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1323,7 +1323,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 4,
-        "logins": 32
+        "logins": 36
       }
     },
     "8998552292": {
@@ -1449,6 +1449,31 @@
         "commands": 0,
         "bots_uploaded": 2,
         "logins": 4
+      }
+    },
+    "7482781113": {
+      "_id": 7482781113,
+      "name": "Anuj",
+      "username": "Anuj_rawat07",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-29T16:12:27.495269+00:00",
+      "last_seen": "2026-10-29T16:14:23.301853+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-29T16:12:47.659616+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 5
       }
     }
   },
@@ -1774,12 +1799,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-25T13:29:29.516190+00:00",
-      "uid": 7958364334,
-      "action": "bot_delete",
-      "detail": "bot=9e810e36c2deef94"
-    },
     {
       "ts": "2026-09-25T15:22:34.684100+00:00",
       "uid": 7724735659,
@@ -4773,6 +4792,12 @@
       "uid": 8740135346,
       "action": "ban_user",
       "detail": "uid=8832189607"
+    },
+    {
+      "ts": "2026-10-29T16:12:48.611744+00:00",
+      "uid": 7482781113,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
