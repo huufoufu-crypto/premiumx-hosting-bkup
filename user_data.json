@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-29T04:06:12.536939+00:00",
+      "last_seen": "2026-10-29T14:27:20.782356+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 30,
-        "logins": 1841
+        "logins": 1847
       },
       "last_expiry_warn": -1
     },
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-27T14:32:01.316472+00:00",
+      "last_seen": "2026-10-29T14:27:15.488224+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 11,
-        "logins": 320
+        "logins": 321
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-28T02:49:37.366920+00:00",
+      "last_seen": "2026-10-29T14:29:13.933614+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 38,
-        "logins": 441
+        "logins": 444
       }
     },
     "8854714402": {
@@ -948,7 +948,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-20T04:37:13.440325+00:00",
-      "last_seen": "2026-10-28T08:54:00.918320+00:00",
+      "last_seen": "2026-10-29T14:27:57.081029+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -963,7 +963,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 32
+        "logins": 34
       }
     },
     "7541401494": {
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-28T15:31:44.589692+00:00",
+      "last_seen": "2026-10-29T14:28:59.266510+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 28,
-        "logins": 332
+        "logins": 333
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -1611,12 +1611,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-25T13:10:41.533061+00:00",
-      "uid": 7958364334,
-      "action": "bot_delete",
-      "detail": "bot=eb42f9bc28d16f70"
-    },
     {
       "ts": "2026-09-25T13:15:53.004304+00:00",
       "uid": 0,
@@ -4610,6 +4604,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=18560"
+    },
+    {
+      "ts": "2026-10-29T14:27:48.485042+00:00",
+      "uid": 8740135346,
+      "action": "broadcast_sent",
+      "detail": "sent=51 fail=4"
     }
   ],
   "coupons": {},
