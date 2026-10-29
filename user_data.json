@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-29T14:29:13.933614+00:00",
+      "last_seen": "2026-10-29T14:30:04.458739+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -535,8 +535,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 38,
-        "logins": 444
+        "bots_uploaded": 39,
+        "logins": 447
       }
     },
     "8854714402": {
@@ -948,7 +948,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-20T04:37:13.440325+00:00",
-      "last_seen": "2026-10-29T14:27:57.081029+00:00",
+      "last_seen": "2026-10-29T14:31:18.874135+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -962,8 +962,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 3,
-        "logins": 34
+        "bots_uploaded": 4,
+        "logins": 37
       }
     },
     "7541401494": {
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-29T14:28:59.266510+00:00",
+      "last_seen": "2026-10-29T14:29:24.002896+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 28,
-        "logins": 333
+        "logins": 334
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -1452,7 +1452,75 @@
       }
     }
   },
-  "bots": {},
+  "bots": {
+    "fd54b87b07b44091": {
+      "_id": "fd54b87b07b44091",
+      "owner": 8630447127,
+      "name": "ig",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8630447127_fd54b87b07b44091",
+      "created": "2026-10-29T14:30:15.895519+00:00",
+      "enc_files": [
+        {
+          "key_id": "_lVpycNWp1SmzaVHS6alRw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8630447127/1793284216_ig_py.enc",
+          "filename": "ig.py",
+          "rel_path": "ig.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-29T14:30:26.306540+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "75325833915fab48": {
+      "_id": "75325833915fab48",
+      "owner": 8832189607,
+      "name": "HOSTHOM_py",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8832189607_75325833915fab48",
+      "created": "2026-10-29T14:30:40.895236+00:00",
+      "enc_files": [
+        {
+          "key_id": "UFi-moB4rIrhbFOvpsREYg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1793284241_bot_py.enc",
+          "filename": "bot.py",
+          "rel_path": "bot.py"
+        },
+        {
+          "key_id": "0FC4qpmooOPOx7uMMtyKrw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1793284243_Procfile.enc",
+          "filename": "Procfile",
+          "rel_path": "Procfile"
+        },
+        {
+          "key_id": "r76zgqIvsFftxdqkiO3FGw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1793284244_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "requirements.txt"
+        },
+        {
+          "key_id": "xjrZQnKEVId2O7deLtEp5A",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8832189607/1793284246_runtime_txt.enc",
+          "filename": "runtime.txt",
+          "rel_path": "runtime.txt"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'procfile' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-10-29T14:31:00.651441+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    }
+  },
   "payments": [
     {
       "id": "XZD4B2XN",
@@ -7258,6 +7326,22 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "File type 'screenshot_20261028-183418.png' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-29T14:30:16.431419+00:00",
+      "uid": "8630447127",
+      "filename": "ig.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-29T14:30:41.450965+00:00",
+      "uid": "8832189607",
+      "filename": "Procfile",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'procfile' allow nahi hai."
     }
   ]
 }
