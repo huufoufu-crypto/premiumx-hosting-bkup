@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-10-31T13:43:27.747456+00:00",
+      "last_seen": "2026-10-31T15:24:06.355541+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 30,
-        "logins": 351
+        "bots_uploaded": 31,
+        "logins": 356
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -1732,25 +1732,25 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "efb263f4387b4112": {
-      "_id": "efb263f4387b4112",
+    "d710acabf0dfe1ae": {
+      "_id": "d710acabf0dfe1ae",
       "owner": 6426979067,
-      "name": "gemini-code-1793438649411",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_efb263f4387b4112",
-      "created": "2026-10-31T13:43:29.465831+00:00",
+      "name": "gemini-code-1793460036929",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_d710acabf0dfe1ae",
+      "created": "2026-10-31T15:23:44.646374+00:00",
       "enc_files": [
         {
-          "key_id": "oJfzDv5aU5sHSj2pf38gQA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793454210_gemini-code-1793438649411_py.enc",
-          "filename": "gemini-code-1793438649411.py",
-          "rel_path": "gemini-code-1793438649411.py"
+          "key_id": "duOWeIBAuya5zTJSFn_AJQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793460225_gemini-code-1793460036929_py.enc",
+          "filename": "gemini-code-1793460036929.py",
+          "rel_path": "gemini-code-1793460036929.py"
         }
       ],
       "env": {},
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-31T13:43:39.990976+00:00",
+      "last_started": "2026-10-31T15:23:56.342806+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -1913,12 +1913,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T10:06:47.406345+00:00",
-      "uid": 8790937904,
-      "action": "bot_delete",
-      "detail": "bot=15a9aba6cd726390"
-    },
     {
       "ts": "2026-09-27T10:10:38.387225+00:00",
       "uid": 8790937904,
@@ -4912,6 +4906,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=23206"
+    },
+    {
+      "ts": "2026-10-31T15:23:22.365820+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=efb263f4387b4112"
     }
   ],
   "coupons": {},
@@ -7661,6 +7661,14 @@
       "ts": "2026-10-31T13:43:30.049877+00:00",
       "uid": "6426979067",
       "filename": "gemini-code-1793438649411.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-31T15:23:45.230964+00:00",
+      "uid": "6426979067",
+      "filename": "gemini-code-1793460036929.py",
       "verdict": "SAFE",
       "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
