@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-31T04:49:37.960258+00:00",
+      "last_seen": "2026-10-31T05:37:27.047646+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 1,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 31,
-        "logins": 1874
+        "bots_uploaded": 32,
+        "logins": 1880
       },
       "last_expiry_warn": -1
     },
@@ -1483,13 +1483,13 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-30T15:14:51.605059+00:00",
-      "last_seen": "2026-10-31T02:03:12.593067+00:00",
+      "last_seen": "2026-10-31T05:38:20.617875+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
       "kyc": false,
-      "verified": false,
-      "verified_at": null,
+      "verified": true,
+      "verified_at": "2026-10-31T05:34:39.856226+00:00",
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -1497,8 +1497,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 6
+        "bots_uploaded": 1,
+        "logins": 15
       }
     }
   },
@@ -1687,16 +1687,16 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "57e7e6d87e0f3ce8": {
-      "_id": "57e7e6d87e0f3ce8",
+    "54fab4f8f9d0c7f4": {
+      "_id": "54fab4f8f9d0c7f4",
       "owner": 8740135346,
       "name": "newig",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_57e7e6d87e0f3ce8",
-      "created": "2026-10-31T04:49:01.145908+00:00",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_54fab4f8f9d0c7f4",
+      "created": "2026-10-31T05:37:27.849720+00:00",
       "enc_files": [
         {
-          "key_id": "R9uJOmoba0AA1_2CdUfRtQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1793422142_newig_py.enc",
+          "key_id": "OifK8ps8Z8o4CJ4Yqa9njg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1793425048_newig_py.enc",
           "filename": "newig.py",
           "rel_path": "newig.py"
         }
@@ -1705,7 +1705,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-31T04:49:10.351876+00:00",
+      "last_started": "2026-10-31T05:37:37.140429+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -1868,24 +1868,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-26T11:18:56.745767+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=80c8c7b6b83b3d75"
-    },
-    {
-      "ts": "2026-09-27T09:54:46.728577+00:00",
-      "uid": 8790937904,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
-    {
-      "ts": "2026-09-27T09:58:27.952115+00:00",
-      "uid": 8790937904,
-      "action": "bot_delete",
-      "detail": "bot=237f57f1c1c645fb"
-    },
     {
       "ts": "2026-09-27T10:01:48.765257+00:00",
       "uid": 8790937904,
@@ -4867,6 +4849,24 @@
       "uid": 8740135346,
       "action": "maintenance_toggle",
       "detail": "now=off"
+    },
+    {
+      "ts": "2026-10-31T05:34:41.341838+00:00",
+      "uid": 8605542364,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-31T05:37:13.429514+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=57e7e6d87e0f3ce8"
+    },
+    {
+      "ts": "2026-10-31T05:38:15.615156+00:00",
+      "uid": 8605542364,
+      "action": "bot_delete",
+      "detail": "bot=194e370e3ed58941"
     }
   ],
   "coupons": {},
@@ -7574,6 +7574,22 @@
     },
     {
       "ts": "2026-10-31T04:49:01.625592+00:00",
+      "uid": "8740135346",
+      "filename": "newig.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-31T05:36:11.183646+00:00",
+      "uid": "8605542364",
+      "filename": "scraper.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-31T05:37:28.341329+00:00",
       "uid": "8740135346",
       "filename": "newig.py",
       "verdict": "SAFE",
