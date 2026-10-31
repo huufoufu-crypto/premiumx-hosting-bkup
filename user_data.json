@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-30T01:56:24.558509+00:00",
+      "last_seen": "2026-10-31T04:14:26.427706+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 30,
-        "logins": 1866
+        "logins": 1868
       },
       "last_expiry_warn": -1
     },
@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-10-29T17:39:55.379562+00:00",
+      "last_seen": "2026-10-31T04:16:29.132449+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -635,8 +635,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 22,
-        "logins": 272
+        "bots_uploaded": 23,
+        "logins": 276
       }
     },
     "8788156789": {
@@ -1664,6 +1664,28 @@
       "last_error": "════════════════ START 2026-10-29T16:04:31.868770+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8060521173_02fc272ec88c898a/FREEDOM_LIFE.py\", line 184\n    NC1_WORDS = [\"GOD FATHER 𝐔sᴋᴇ 𝐓ᴀᴛᴛᴏ RISHU x AJEET 𝐏ᴀᴘᴀ 𝐊ᴀ 𝐋ᴜɴᴅ 𝐂ʜᴜs ༊࿐ ‌. ｡˚ ° 𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫\"����]\n                                                                                                                                                            ^\nSyntaxError: invalid character '�' (U+FFFD)",
       "last_exit_code": 1,
       "last_exit_at": "2026-10-29T16:04:31.920833+00:00"
+    },
+    "44e90d5225b29ade": {
+      "_id": "44e90d5225b29ade",
+      "owner": 8032573119,
+      "name": "rebelx",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_44e90d5225b29ade",
+      "created": "2026-10-31T04:16:31.374170+00:00",
+      "enc_files": [
+        {
+          "key_id": "5DmFAByEAwwf75HDP_0MfA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1793420192_rebelx_py.enc",
+          "filename": "rebelx.py",
+          "rel_path": "rebelx.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-31T04:16:41.554258+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -1824,12 +1846,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-26T11:01:12.921720+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=f886cb9f257e5924"
-    },
     {
       "ts": "2026-09-26T11:18:56.745767+00:00",
       "uid": 7724735659,
@@ -4823,6 +4839,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=21400"
+    },
+    {
+      "ts": "2026-10-31T04:14:26.907560+00:00",
+      "uid": 8740135346,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
     }
   ],
   "coupons": {},
@@ -7516,6 +7538,14 @@
       "ts": "2026-10-29T16:04:22.189378+00:00",
       "uid": "8060521173",
       "filename": "FREEDOM_LIFE.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-31T04:16:32.135190+00:00",
+      "uid": "8032573119",
+      "filename": "rebelx.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
