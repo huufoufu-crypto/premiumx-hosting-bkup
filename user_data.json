@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-31T04:48:28.232335+00:00",
+      "last_seen": "2026-10-31T04:49:37.960258+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 1,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 30,
-        "logins": 1869
+        "bots_uploaded": 31,
+        "logins": 1874
       },
       "last_expiry_warn": -1
     },
@@ -1684,6 +1684,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-10-31T04:16:41.554258+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "57e7e6d87e0f3ce8": {
+      "_id": "57e7e6d87e0f3ce8",
+      "owner": 8740135346,
+      "name": "newig",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_57e7e6d87e0f3ce8",
+      "created": "2026-10-31T04:49:01.145908+00:00",
+      "enc_files": [
+        {
+          "key_id": "R9uJOmoba0AA1_2CdUfRtQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1793422142_newig_py.enc",
+          "filename": "newig.py",
+          "rel_path": "newig.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-31T04:49:10.351876+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -7546,6 +7568,14 @@
       "ts": "2026-10-31T04:16:32.135190+00:00",
       "uid": "8032573119",
       "filename": "rebelx.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-31T04:49:01.625592+00:00",
+      "uid": "8740135346",
+      "filename": "newig.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
