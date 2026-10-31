@@ -1483,7 +1483,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-30T15:14:51.605059+00:00",
-      "last_seen": "2026-10-31T05:38:20.617875+00:00",
+      "last_seen": "2026-10-31T05:42:42.100891+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1497,8 +1497,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 15
+        "bots_uploaded": 2,
+        "logins": 19
       }
     }
   },
@@ -1708,6 +1708,28 @@
       "last_started": "2026-10-31T05:37:37.140429+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "d6cdb61d1b57436c": {
+      "_id": "d6cdb61d1b57436c",
+      "owner": 8605542364,
+      "name": "scraper",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_d6cdb61d1b57436c",
+      "created": "2026-10-31T05:40:34.763852+00:00",
+      "enc_files": [
+        {
+          "key_id": "UyWu6fXBwkcuF2v03hIQMQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1793425235_scraper_py.enc",
+          "filename": "scraper.py",
+          "rel_path": "scraper.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-10-31T05:40:43.952705+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -1868,12 +1890,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T10:01:48.765257+00:00",
-      "uid": 8790937904,
-      "action": "bot_delete",
-      "detail": "bot=5f40abc9638543f1"
-    },
     {
       "ts": "2026-09-27T10:03:07.967086+00:00",
       "uid": 8790937904,
@@ -4867,6 +4883,12 @@
       "uid": 8605542364,
       "action": "bot_delete",
       "detail": "bot=194e370e3ed58941"
+    },
+    {
+      "ts": "2026-10-31T05:42:43.713475+00:00",
+      "uid": 8605542364,
+      "action": "pip_install",
+      "detail": "bot=d6cdb61d1b57436c ok=True"
     }
   ],
   "coupons": {},
@@ -7594,6 +7616,14 @@
       "filename": "newig.py",
       "verdict": "SAFE",
       "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-31T05:40:35.263476+00:00",
+      "uid": "8605542364",
+      "filename": "scraper.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
