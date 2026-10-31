@@ -1892,12 +1892,6 @@
   },
   "audit": [
     {
-      "ts": "2026-09-27T10:03:07.967086+00:00",
-      "uid": 8790937904,
-      "action": "bot_clone",
-      "detail": "src=8d57a50d0f9aabc4 new=e27f4d14e1595799"
-    },
-    {
       "ts": "2026-09-27T10:04:14.665612+00:00",
       "uid": 8790937904,
       "action": "bot_delete",
@@ -4890,6 +4884,12 @@
       "uid": 8605542364,
       "action": "pip_install",
       "detail": "bot=d6cdb61d1b57436c ok=True"
+    },
+    {
+      "ts": "2026-10-31T08:24:30.299723+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=22746"
     }
   ],
   "coupons": {},
