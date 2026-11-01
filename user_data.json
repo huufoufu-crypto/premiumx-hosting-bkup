@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-11-01T07:46:12.397922+00:00",
+      "last_seen": "2026-11-01T07:58:32.561295+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -279,8 +279,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 12,
-        "logins": 334
+        "bots_uploaded": 13,
+        "logins": 342
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -596,7 +596,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T06:53:49.789741+00:00",
-      "last_seen": "2026-11-01T07:54:05.155107+00:00",
+      "last_seen": "2026-11-01T07:54:18.579746+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -610,8 +610,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 4,
-        "logins": 23
+        "bots_uploaded": 5,
+        "logins": 24
       }
     },
     "8032573119": {
@@ -1483,7 +1483,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-30T15:14:51.605059+00:00",
-      "last_seen": "2026-10-31T05:42:42.100891+00:00",
+      "last_seen": "2026-11-01T07:59:06.431341+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1497,8 +1497,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 19
+        "bots_uploaded": 3,
+        "logins": 33
       }
     },
     "8813971540": {
@@ -1714,28 +1714,6 @@
       "last_exit_code": 0,
       "last_exit_at": "2026-10-31T05:56:55.334412+00:00"
     },
-    "d6cdb61d1b57436c": {
-      "_id": "d6cdb61d1b57436c",
-      "owner": 8605542364,
-      "name": "scraper",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_d6cdb61d1b57436c",
-      "created": "2026-10-31T05:40:34.763852+00:00",
-      "enc_files": [
-        {
-          "key_id": "UyWu6fXBwkcuF2v03hIQMQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1793425235_scraper_py.enc",
-          "filename": "scraper.py",
-          "rel_path": "scraper.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-01T07:53:17.125404+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "d710acabf0dfe1ae": {
       "_id": "d710acabf0dfe1ae",
       "owner": 6426979067,
@@ -1757,6 +1735,66 @@
       "last_started": "2026-11-01T07:53:17.557241+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "35f0f73c050e9c5a": {
+      "_id": "35f0f73c050e9c5a",
+      "owner": 8602543306,
+      "name": "newig",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8602543306_35f0f73c050e9c5a",
+      "created": "2026-11-01T07:54:32.544197+00:00",
+      "enc_files": [
+        {
+          "key_id": "0lqZGacn2OiGj5oY2iN-1A",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8602543306/1793519673_newig_py.enc",
+          "filename": "newig.py",
+          "rel_path": "newig.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
+    },
+    "7cba2153c40b7aa3": {
+      "_id": "7cba2153c40b7aa3",
+      "owner": 6515961246,
+      "name": "primex",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6515961246_7cba2153c40b7aa3",
+      "created": "2026-11-01T07:55:05.312873+00:00",
+      "enc_files": [
+        {
+          "key_id": "5X-aNdVwSGmpaQ3huWf1ng",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6515961246/1793519706_primex_py.enc",
+          "filename": "primex.py",
+          "rel_path": "primex.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
+    },
+    "da61afb8513ce74d": {
+      "_id": "da61afb8513ce74d",
+      "owner": 8605542364,
+      "name": "decoder",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_da61afb8513ce74d",
+      "created": "2026-11-01T07:57:09.043515+00:00",
+      "enc_files": [
+        {
+          "key_id": "WzDGK5W1yi180MAbkkhOrQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1793519830_decoder_py.enc",
+          "filename": "decoder.py",
+          "rel_path": "decoder.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -1917,18 +1955,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T13:29:13.180888+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=f10f44fe331cccb6"
-    },
-    {
-      "ts": "2026-09-27T13:32:11.145664+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=474b42188025ce3b"
-    },
     {
       "ts": "2026-09-27T13:36:47.063308+00:00",
       "uid": 7724735659,
@@ -4916,6 +4942,18 @@
       "uid": 8740135346,
       "action": "reject_bot",
       "detail": "bot=aae9a63782722eb6 reason=rejected by admin"
+    },
+    {
+      "ts": "2026-11-01T07:58:01.178955+00:00",
+      "uid": 8605542364,
+      "action": "bot_delete",
+      "detail": "bot=d6cdb61d1b57436c"
+    },
+    {
+      "ts": "2026-11-01T07:58:53.261810+00:00",
+      "uid": 8605542364,
+      "action": "pip_install",
+      "detail": "bot=da61afb8513ce74d ok=False"
     }
   ],
   "coupons": {},
@@ -7705,6 +7743,30 @@
       "ts": "2026-11-01T07:52:01.634030+00:00",
       "uid": "8602543306",
       "filename": "newig.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T07:54:33.051766+00:00",
+      "uid": "8602543306",
+      "filename": "newig.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T07:55:05.965283+00:00",
+      "uid": "6515961246",
+      "filename": "primex.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T07:57:09.580850+00:00",
+      "uid": "8605542364",
+      "filename": "decoder.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
