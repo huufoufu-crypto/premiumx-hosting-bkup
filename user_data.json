@@ -2054,12 +2054,6 @@
   },
   "audit": [
     {
-      "ts": "2026-09-27T19:23:58.174314+00:00",
-      "uid": 8790937904,
-      "action": "pip_install",
-      "detail": "bot=4c9f9064f632e790 ok=True"
-    },
-    {
       "ts": "2026-09-27T19:25:31.979060+00:00",
       "uid": 8790937904,
       "action": "pip_install",
@@ -5052,6 +5046,12 @@
       "uid": 8740135346,
       "action": "reject_bot",
       "detail": "bot=dbf82089337706b3 reason=rejected by admin"
+    },
+    {
+      "ts": "2026-11-01T19:53:37.767373+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=27297"
     }
   ],
   "coupons": {},
