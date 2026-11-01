@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-10-31T16:52:51.577126+00:00",
+      "last_seen": "2026-11-01T07:15:22.628483+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 39,
-        "logins": 458
+        "logins": 460
       }
     },
     "8854714402": {
@@ -596,7 +596,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T06:53:49.789741+00:00",
-      "last_seen": "2026-10-29T16:03:14.830736+00:00",
+      "last_seen": "2026-11-01T07:15:50.685713+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -610,8 +610,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 6
+        "bots_uploaded": 2,
+        "logins": 11
       }
     },
     "8032573119": {
@@ -1778,6 +1778,26 @@
       "last_started": "2026-11-01T07:11:13.044946+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "5d9a9be484999f42": {
+      "_id": "5d9a9be484999f42",
+      "owner": 8602543306,
+      "name": "newig",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8602543306_5d9a9be484999f42",
+      "created": "2026-11-01T07:15:57.738797+00:00",
+      "enc_files": [
+        {
+          "key_id": "0gqrGttbDYakjSaME5ZjhA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8602543306/1793517358_newig_py.enc",
+          "filename": "newig.py",
+          "rel_path": "newig.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -7704,6 +7724,14 @@
       "filename": "Pookiebot.py",
       "verdict": "SAFE",
       "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T07:15:58.224666+00:00",
+      "uid": "8602543306",
+      "filename": "newig.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
