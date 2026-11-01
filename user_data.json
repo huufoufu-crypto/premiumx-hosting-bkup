@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-01T07:53:42.072475+00:00",
+      "last_seen": "2026-11-01T08:00:34.083750+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 32,
-        "logins": 1889
+        "logins": 1890
       },
       "last_expiry_warn": -1
     },
@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-11-01T07:58:32.561295+00:00",
+      "last_seen": "2026-11-01T08:01:15.187076+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 13,
-        "logins": 342
+        "logins": 345
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -1480,10 +1480,10 @@
       "_id": 8605542364,
       "name": "💲",
       "username": "cummingniggas",
-      "plan": "free",
-      "plan_expires": null,
+      "plan": "pro",
+      "plan_expires": "2026-11-03T08:02:56.379727+00:00",
       "joined": "2026-10-30T15:14:51.605059+00:00",
-      "last_seen": "2026-11-01T07:59:06.431341+00:00",
+      "last_seen": "2026-11-01T08:03:39.158822+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1493,13 +1493,14 @@
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
-      "trial_used": false,
+      "trial_used": true,
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 3,
-        "logins": 33
-      }
+        "bots_uploaded": 4,
+        "logins": 63
+      },
+      "last_expiry_warn": 1
     },
     "8813971540": {
       "_id": 8813971540,
@@ -1771,21 +1772,25 @@
         }
       ],
       "env": {},
-      "status": "pending_approval",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "approval_status": "pending"
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-11-01T08:00:36.984628+00:00",
+      "last_error": "",
+      "last_exit_code": null
     },
-    "da61afb8513ce74d": {
-      "_id": "da61afb8513ce74d",
+    "830cb740b12ca4c2": {
+      "_id": "830cb740b12ca4c2",
       "owner": 8605542364,
       "name": "decoder",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_da61afb8513ce74d",
-      "created": "2026-11-01T07:57:09.043515+00:00",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_830cb740b12ca4c2",
+      "created": "2026-11-01T08:03:40.810919+00:00",
       "enc_files": [
         {
-          "key_id": "WzDGK5W1yi180MAbkkhOrQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1793519830_decoder_py.enc",
+          "key_id": "jwjWoRY2EcMQ9E4CEWSrMg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1793520221_decoder_py.enc",
           "filename": "decoder.py",
           "rel_path": "decoder.py"
         }
@@ -1955,48 +1960,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T13:36:47.063308+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=84232f5f36e61364"
-    },
-    {
-      "ts": "2026-09-27T13:37:37.894418+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=5aa3a9849f23fd76"
-    },
-    {
-      "ts": "2026-09-27T13:43:39.942397+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=03686f4a4d93a458"
-    },
-    {
-      "ts": "2026-09-27T15:53:48.042104+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=b397cdc839cfd5a9"
-    },
-    {
-      "ts": "2026-09-27T15:58:48.123693+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=1a45ff1b123406cb"
-    },
-    {
-      "ts": "2026-09-27T16:01:23.730192+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=ab5f618371df6374"
-    },
-    {
-      "ts": "2026-09-27T16:15:34.308197+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=45e587acea86576b"
-    },
     {
       "ts": "2026-09-27T16:22:19.189286+00:00",
       "uid": 7724735659,
@@ -4954,6 +4917,48 @@
       "uid": 8605542364,
       "action": "pip_install",
       "detail": "bot=da61afb8513ce74d ok=False"
+    },
+    {
+      "ts": "2026-11-01T07:59:37.580936+00:00",
+      "uid": 8605542364,
+      "action": "pip_install",
+      "detail": "bot=da61afb8513ce74d ok=False"
+    },
+    {
+      "ts": "2026-11-01T08:00:34.100293+00:00",
+      "uid": 8740135346,
+      "action": "approve_bot",
+      "detail": "bot=7cba2153c40b7aa3"
+    },
+    {
+      "ts": "2026-11-01T08:01:10.603963+00:00",
+      "uid": 8605542364,
+      "action": "pip_install",
+      "detail": "bot=da61afb8513ce74d ok=False"
+    },
+    {
+      "ts": "2026-11-01T08:02:08.157960+00:00",
+      "uid": 8605542364,
+      "action": "pip_install",
+      "detail": "bot=da61afb8513ce74d ok=False"
+    },
+    {
+      "ts": "2026-11-01T08:02:56.873497+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=8605542364"
+    },
+    {
+      "ts": "2026-11-01T08:03:17.244867+00:00",
+      "uid": 8605542364,
+      "action": "bot_delete",
+      "detail": "bot=da61afb8513ce74d"
+    },
+    {
+      "ts": "2026-11-01T08:03:28.659798+00:00",
+      "uid": 8605542364,
+      "action": "bot_delete",
+      "detail": "bot=da61afb8513ce74d"
     }
   ],
   "coupons": {},
@@ -7765,6 +7770,14 @@
     },
     {
       "ts": "2026-11-01T07:57:09.580850+00:00",
+      "uid": "8605542364",
+      "filename": "decoder.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T08:03:41.344588+00:00",
       "uid": "8605542364",
       "filename": "decoder.py",
       "verdict": "SAFE",
