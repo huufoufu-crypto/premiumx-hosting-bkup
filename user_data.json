@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-01T14:18:33.067951+00:00",
+      "last_seen": "2026-11-01T18:15:44.783535+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 32,
-        "logins": 1895
+        "logins": 1896
       },
       "last_expiry_warn": -1
     },
@@ -1893,26 +1893,6 @@
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "pending"
-    },
-    "dbf82089337706b3": {
-      "_id": "dbf82089337706b3",
-      "owner": 8955487769,
-      "name": "areaajeet",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8955487769_dbf82089337706b3",
-      "created": "2026-11-01T17:51:58.463831+00:00",
-      "enc_files": [
-        {
-          "key_id": "8cE4RI0stoVOIPG10jYJZw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8955487769/1793555519_areaajeet_py.enc",
-          "filename": "areaajeet.py",
-          "rel_path": "areaajeet.py"
-        }
-      ],
-      "env": {},
-      "status": "pending_approval",
-      "cron": {},
-      "gh_synced_at": 0,
-      "approval_status": "pending"
     }
   },
   "payments": [
@@ -2073,12 +2053,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T17:04:41.894747+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=9c1c2abe9fb6b634"
-    },
     {
       "ts": "2026-09-27T19:23:58.174314+00:00",
       "uid": 8790937904,
@@ -5072,6 +5046,12 @@
       "uid": 8740135346,
       "action": "broadcast_sent",
       "detail": "sent=53 fail=4"
+    },
+    {
+      "ts": "2026-11-01T18:15:44.840869+00:00",
+      "uid": 8740135346,
+      "action": "reject_bot",
+      "detail": "bot=dbf82089337706b3 reason=rejected by admin"
     }
   ],
   "coupons": {},
