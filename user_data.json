@@ -1500,7 +1500,8 @@
         "bots_uploaded": 4,
         "logins": 69
       },
-      "last_expiry_warn": 1
+      "last_expiry_warn": 1,
+      "last_renewal_reminder": "2026-11-01"
     },
     "8813971540": {
       "_id": 8813971540,
