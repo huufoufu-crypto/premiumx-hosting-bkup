@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-01T07:11:38.058352+00:00",
+      "last_seen": "2026-11-01T07:18:32.951061+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 32,
-        "logins": 1885
+        "logins": 1886
       },
       "last_expiry_warn": -1
     },
@@ -596,7 +596,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T06:53:49.789741+00:00",
-      "last_seen": "2026-11-01T07:15:50.685713+00:00",
+      "last_seen": "2026-11-01T07:21:49.424003+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -611,7 +611,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 2,
-        "logins": 11
+        "logins": 13
       }
     },
     "8032573119": {
@@ -1778,26 +1778,6 @@
       "last_started": "2026-11-01T07:11:13.044946+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "5d9a9be484999f42": {
-      "_id": "5d9a9be484999f42",
-      "owner": 8602543306,
-      "name": "newig",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8602543306_5d9a9be484999f42",
-      "created": "2026-11-01T07:15:57.738797+00:00",
-      "enc_files": [
-        {
-          "key_id": "0gqrGttbDYakjSaME5ZjhA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8602543306/1793517358_newig_py.enc",
-          "filename": "newig.py",
-          "rel_path": "newig.py"
-        }
-      ],
-      "env": {},
-      "status": "pending_approval",
-      "cron": {},
-      "gh_synced_at": 0,
-      "approval_status": "pending"
     }
   },
   "payments": [
@@ -1958,12 +1938,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T12:48:07.659072+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=ff523f40c47436b9"
-    },
     {
       "ts": "2026-09-27T12:48:49.089346+00:00",
       "uid": 7724735659,
@@ -4957,6 +4931,12 @@
       "uid": 8740135346,
       "action": "approval_toggle",
       "detail": "now=True"
+    },
+    {
+      "ts": "2026-11-01T07:18:32.974464+00:00",
+      "uid": 8740135346,
+      "action": "reject_bot",
+      "detail": "bot=5d9a9be484999f42 reason=rejected by admin"
     }
   ],
   "coupons": {},
