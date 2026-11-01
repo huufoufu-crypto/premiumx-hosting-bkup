@@ -2034,12 +2034,6 @@
   },
   "audit": [
     {
-      "ts": "2026-09-27T16:43:52.828234+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=179322fe8cd40838"
-    },
-    {
       "ts": "2026-09-27T16:48:39.937217+00:00",
       "uid": 7724735659,
       "action": "bot_delete",
@@ -5032,6 +5026,12 @@
       "uid": 0,
       "action": "trial_grant",
       "detail": "uid=7940339638"
+    },
+    {
+      "ts": "2026-11-01T13:53:31.032247+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=26392"
     }
   ],
   "coupons": {},
