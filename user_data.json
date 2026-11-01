@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-11-01T07:46:04.461490+00:00",
+      "last_seen": "2026-11-01T07:46:12.397922+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 12,
-        "logins": 331
+        "logins": 334
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -596,7 +596,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T06:53:49.789741+00:00",
-      "last_seen": "2026-11-01T07:24:17.144832+00:00",
+      "last_seen": "2026-11-01T07:51:04.264098+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -611,7 +611,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 16
+        "logins": 18
       }
     },
     "8032573119": {
@@ -1596,29 +1596,6 @@
       "last_exit_code": -15,
       "last_exit_at": "2026-10-29T14:59:26.028466+00:00"
     },
-    "0c28d0e8cf75f8b4": {
-      "_id": "0c28d0e8cf75f8b4",
-      "owner": 6515961246,
-      "name": "gwdx",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6515961246_0c28d0e8cf75f8b4",
-      "created": "2026-10-29T14:36:40.023957+00:00",
-      "enc_files": [
-        {
-          "key_id": "LbhPz9xRggAys3b8ql8wgA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6515961246/1793284601_gwdx_py.enc",
-          "filename": "gwdx.py",
-          "rel_path": "gwdx.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-01T07:24:54.599246+00:00",
-      "last_error": "✅ Worker bot 7/10: @primeabbu_7bot ready (no command polling)\n2026-11-01 07:25:04,698 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-11-01 07:25:05,846 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-11-01 07:25:06,993 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-11-01T07:45:28.450387+00:00"
-    },
     "13f453cff474a7af": {
       "_id": "13f453cff474a7af",
       "owner": 7745343711,
@@ -1940,12 +1917,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T12:54:29.410958+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=35e42ecea3f26a99"
-    },
     {
       "ts": "2026-09-27T13:01:23.590383+00:00",
       "uid": 7724735659,
@@ -4939,6 +4910,12 @@
       "uid": 8740135346,
       "action": "reject_bot",
       "detail": "bot=be71e3b3209b30ff reason=rejected by admin"
+    },
+    {
+      "ts": "2026-11-01T07:46:12.925272+00:00",
+      "uid": 6515961246,
+      "action": "bot_delete",
+      "detail": "bot=0c28d0e8cf75f8b4"
     }
   ],
   "coupons": {},
