@@ -1283,7 +1283,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T02:45:27.054519+00:00",
-      "last_seen": "2026-10-30T02:35:16.054016+00:00",
+      "last_seen": "2026-11-01T12:46:11.435132+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1297,8 +1297,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 4,
-        "logins": 40
+        "bots_uploaded": 5,
+        "logins": 42
       }
     },
     "8060521173": {
@@ -1846,6 +1846,26 @@
           "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/7940339638/1793525061_zyro7_py.enc",
           "filename": "zyro7.py",
           "rel_path": "zyro7.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
+    },
+    "dd52ae166ab48313": {
+      "_id": "dd52ae166ab48313",
+      "owner": 6284167472,
+      "name": "hostingkrishnaxkanha",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6284167472_dd52ae166ab48313",
+      "created": "2026-11-01T12:46:15.913025+00:00",
+      "enc_files": [
+        {
+          "key_id": "Zk3WrxqdI9LIhtJ1mmj5wg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793537177_hostingkrishnaxkanha_py.enc",
+          "filename": "hostingkrishnaxkanha.py",
+          "rel_path": "hostingkrishnaxkanha.py"
         }
       ],
       "env": {},
@@ -7843,6 +7863,14 @@
       "filename": "zyro7.py",
       "verdict": "SAFE",
       "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T12:46:16.599327+00:00",
+      "uid": "6284167472",
+      "filename": "hostingkrishnaxkanha.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
