@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-10-29T14:37:02.165683+00:00",
+      "last_seen": "2026-11-01T07:46:04.461490+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 12,
-        "logins": 325
+        "logins": 331
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -1611,12 +1611,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-01T07:24:54.599246+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "✅ Worker bot 7/10: @primeabbu_7bot ready (no command polling)\n2026-11-01 07:25:04,698 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 8/10: @primeabbu_8bot ready (no command polling)\n2026-11-01 07:25:05,846 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 9/10: @primeabbu_9bot ready (no command polling)\n2026-11-01 07:25:06,993 - apscheduler.scheduler - INFO - Scheduler started\n✅ Worker bot 10/10: @primeabbu_10bot ready (no command polling)\n🎯 10 PRiME Bots Ready",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-11-01T07:45:28.450387+00:00"
     },
     "13f453cff474a7af": {
       "_id": "13f453cff474a7af",
