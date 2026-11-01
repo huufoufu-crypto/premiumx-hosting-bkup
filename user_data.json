@@ -1358,7 +1358,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T11:48:36.696233+00:00",
-      "last_seen": "2026-11-01T17:47:59.909417+00:00",
+      "last_seen": "2026-11-01T17:51:56.150964+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1372,8 +1372,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 14
+        "bots_uploaded": 2,
+        "logins": 15
       }
     },
     "8514647510": {
@@ -1886,6 +1886,26 @@
           "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8514647510/1793546933_dotsbots_py.enc",
           "filename": "dotsbots.py",
           "rel_path": "dotsbots.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
+    },
+    "dbf82089337706b3": {
+      "_id": "dbf82089337706b3",
+      "owner": 8955487769,
+      "name": "areaajeet",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8955487769_dbf82089337706b3",
+      "created": "2026-11-01T17:51:58.463831+00:00",
+      "enc_files": [
+        {
+          "key_id": "8cE4RI0stoVOIPG10jYJZw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8955487769/1793555519_areaajeet_py.enc",
+          "filename": "areaajeet.py",
+          "rel_path": "areaajeet.py"
         }
       ],
       "env": {},
@@ -7899,6 +7919,14 @@
       "filename": "dotsbots.py",
       "verdict": "SAFE",
       "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T17:51:59.108959+00:00",
+      "uid": "8955487769",
+      "filename": "areaajeet.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
