@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-10-31T05:56:52.431673+00:00",
+      "last_seen": "2026-11-01T07:11:38.058352+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 32,
-        "logins": 1882
+        "logins": 1885
       },
       "last_expiry_warn": -1
     },
@@ -1500,6 +1500,31 @@
         "bots_uploaded": 2,
         "logins": 19
       }
+    },
+    "8813971540": {
+      "_id": 8813971540,
+      "name": "𝖉𝖆𝖗𝖐",
+      "username": "Ddos_a06",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-31T18:49:29.773852+00:00",
+      "last_seen": "2026-10-31T18:50:43.484888+00:00",
+      "banned": true,
+      "ban_reason": "VPS crash / dangerous upload",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-31T18:50:14.939343+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 4
+      }
     }
   },
   "bots": {
@@ -1521,7 +1546,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-29T14:30:26.306540+00:00",
+      "last_started": "2026-11-01T07:11:10.598486+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1589,7 +1614,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-29T14:36:51.642086+00:00",
+      "last_started": "2026-11-01T07:11:11.056185+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1616,7 +1641,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-10-29T15:00:13.114839+00:00",
+      "last_started": "2026-11-01T07:11:11.426217+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1638,7 +1663,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-29T16:07:40.355789+00:00",
+      "last_started": "2026-11-01T07:11:11.756627+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1683,7 +1708,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-31T04:16:41.554258+00:00",
+      "last_started": "2026-11-01T07:11:12.283236+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1728,7 +1753,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-31T05:40:43.952705+00:00",
+      "last_started": "2026-11-01T07:11:12.593470+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1750,7 +1775,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-10-31T15:23:56.342806+00:00",
+      "last_started": "2026-11-01T07:11:13.044946+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -1913,30 +1938,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T10:10:38.387225+00:00",
-      "uid": 8790937904,
-      "action": "bot_delete",
-      "detail": "bot=d15a64645633da5f"
-    },
-    {
-      "ts": "2026-09-27T12:38:00.667691+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=b9142012141eccf0"
-    },
-    {
-      "ts": "2026-09-27T12:39:12.092733+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=d1ff2107e48ce1c8"
-    },
-    {
-      "ts": "2026-09-27T12:43:22.367323+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=3f68a535c0afad5c"
-    },
     {
       "ts": "2026-09-27T12:48:07.659072+00:00",
       "uid": 7724735659,
@@ -4912,6 +4913,30 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=efb263f4387b4112"
+    },
+    {
+      "ts": "2026-10-31T18:50:16.412493+00:00",
+      "uid": 8813971540,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-11-01T07:08:24.278843+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=23656"
+    },
+    {
+      "ts": "2026-11-01T07:11:12.795389+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=23704"
+    },
+    {
+      "ts": "2026-11-01T07:11:39.098657+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=True"
     }
   ],
   "coupons": {},
@@ -7671,6 +7696,14 @@
       "filename": "gemini-code-1793460036929.py",
       "verdict": "SAFE",
       "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-31T18:50:46.214634+00:00",
+      "uid": "8813971540",
+      "filename": "Pookiebot.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
