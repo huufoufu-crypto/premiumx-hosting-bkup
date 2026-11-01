@@ -1527,6 +1527,32 @@
         "bots_uploaded": 1,
         "logins": 4
       }
+    },
+    "7940339638": {
+      "_id": 7940339638,
+      "name": "ZYRO",
+      "username": "Evreneclipse",
+      "plan": "pro",
+      "plan_expires": "2026-11-03T09:21:43.372273+00:00",
+      "joined": "2026-11-01T09:21:08.903899+00:00",
+      "last_seen": "2026-11-01T09:24:17.680034+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-11-01T09:21:27.809802+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": true,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 5
+      },
+      "last_expiry_warn": 1
     }
   },
   "bots": {
@@ -1806,6 +1832,26 @@
       "last_error": "2026-11-01 08:42:41,052 | INFO | HTTP Request: POST https://api.telegram.org/bot9100554087:AAH4lFNN5ZTX3kTwHEkXR4N0hvvpmyzmXTs/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-01 08:42:51,334 | INFO | HTTP Request: POST https://api.telegram.org/bot9100554087:AAH4lFNN5ZTX3kTwHEkXR4N0hvvpmyzmXTs/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-01 08:43:01,618 | INFO | HTTP Request: POST https://api.telegram.org/bot9100554087:AAH4lFNN5ZTX3kTwHEkXR4N0hvvpmyzmXTs/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-01 08:43:11,905 | INFO | HTTP Request: POST https://api.telegram.org/bot9100554087:AAH4lFNN5ZTX3kTwHEkXR4N0hvvpmyzmXTs/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-01 08:43:18,696 | INFO | HTTP Request: POST https://api.telegram.org/bot9100554087:AAH4lFNN5ZTX3kTwHEkXR4N0hvvpmyzmXTs/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-01 08:43:18,696 | INFO | Application is stopping. This might take a moment.\n2026-11-01 08:43:18,696 | INFO | Scheduler has been shut down\n2026-11-01 08:43:18,706 | INFO | Application.stop() complete",
       "last_exit_code": 0,
       "last_exit_at": "2026-11-01T08:43:18.780755+00:00"
+    },
+    "66b996b30008d9dc": {
+      "_id": "66b996b30008d9dc",
+      "owner": 7940339638,
+      "name": "zyro7",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/7940339638_66b996b30008d9dc",
+      "created": "2026-11-01T09:24:20.326589+00:00",
+      "enc_files": [
+        {
+          "key_id": "DGG3Rk5SslLKQCShBadWgQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/7940339638/1793525061_zyro7_py.enc",
+          "filename": "zyro7.py",
+          "rel_path": "zyro7.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [
@@ -1966,18 +2012,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T16:31:36.377358+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=8c629989496d8d0f"
-    },
-    {
-      "ts": "2026-09-27T16:38:40.532843+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=bfb78788fd772481"
-    },
     {
       "ts": "2026-09-27T16:43:52.828234+00:00",
       "uid": 7724735659,
@@ -4965,6 +4999,18 @@
       "uid": 8605542364,
       "action": "pip_install",
       "detail": "bot=830cb740b12ca4c2 ok=False"
+    },
+    {
+      "ts": "2026-11-01T09:21:29.317912+00:00",
+      "uid": 7940339638,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-11-01T09:21:43.860344+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=7940339638"
     }
   ],
   "coupons": {},
@@ -7786,6 +7832,14 @@
       "ts": "2026-11-01T08:03:41.344588+00:00",
       "uid": "8605542364",
       "filename": "decoder.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T09:24:20.922526+00:00",
+      "uid": "7940339638",
+      "filename": "zyro7.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
