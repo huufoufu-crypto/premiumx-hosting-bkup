@@ -1383,7 +1383,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T13:23:31.438226+00:00",
-      "last_seen": "2026-11-01T15:16:21.751387+00:00",
+      "last_seen": "2026-11-01T15:28:50.476655+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1397,8 +1397,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 4
+        "bots_uploaded": 1,
+        "logins": 6
       }
     },
     "8424259405": {
@@ -1866,6 +1866,26 @@
           "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793537177_hostingkrishnaxkanha_py.enc",
           "filename": "hostingkrishnaxkanha.py",
           "rel_path": "hostingkrishnaxkanha.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
+    },
+    "d05429fbcf0bb31a": {
+      "_id": "d05429fbcf0bb31a",
+      "owner": 8514647510,
+      "name": "dotsbots",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8514647510_d05429fbcf0bb31a",
+      "created": "2026-11-01T15:28:52.879788+00:00",
+      "enc_files": [
+        {
+          "key_id": "XNwAu6TP2S1S8BWVSdkSUw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8514647510/1793546933_dotsbots_py.enc",
+          "filename": "dotsbots.py",
+          "rel_path": "dotsbots.py"
         }
       ],
       "env": {},
@@ -7869,6 +7889,14 @@
       "ts": "2026-11-01T12:46:16.599327+00:00",
       "uid": "6284167472",
       "filename": "hostingkrishnaxkanha.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T15:28:53.409547+00:00",
+      "uid": "8514647510",
+      "filename": "dotsbots.py",
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
