@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-01T07:18:32.951061+00:00",
+      "last_seen": "2026-11-01T07:25:22.734502+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 32,
-        "logins": 1886
+        "logins": 1887
       },
       "last_expiry_warn": -1
     },
@@ -596,7 +596,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T06:53:49.789741+00:00",
-      "last_seen": "2026-11-01T07:21:49.424003+00:00",
+      "last_seen": "2026-11-01T07:24:17.144832+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -610,8 +610,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 13
+        "bots_uploaded": 3,
+        "logins": 16
       }
     },
     "8032573119": {
@@ -1546,7 +1546,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-01T07:11:10.598486+00:00",
+      "last_started": "2026-11-01T07:24:54.124864+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1614,7 +1614,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-01T07:11:11.056185+00:00",
+      "last_started": "2026-11-01T07:24:54.599246+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1641,7 +1641,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-01T07:11:11.426217+00:00",
+      "last_started": "2026-11-01T07:24:54.992243+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1663,7 +1663,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-01T07:11:11.756627+00:00",
+      "last_started": "2026-11-01T07:24:55.338291+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1705,12 +1705,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-01T07:11:12.283236+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_started": "2026-11-01T07:24:55.857230+00:00",
+      "last_error": "════════════════ START 2026-11-01T07:24:55.736475+00:00 ════════════════\n❌ Another rishugidf.py instance is already running on this server. Stop the duplicate process.",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-11-01T07:24:56.431320+00:00"
     },
     "54fab4f8f9d0c7f4": {
       "_id": "54fab4f8f9d0c7f4",
@@ -1753,7 +1754,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-01T07:11:12.593470+00:00",
+      "last_started": "2026-11-01T07:24:56.217588+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1775,7 +1776,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-01T07:11:13.044946+00:00",
+      "last_started": "2026-11-01T07:24:56.669220+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -1938,18 +1939,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T12:48:49.089346+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=75987505a5d9ce9d"
-    },
-    {
-      "ts": "2026-09-27T12:51:32.074189+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=1581a5612d745899"
-    },
     {
       "ts": "2026-09-27T12:54:29.410958+00:00",
       "uid": 7724735659,
@@ -4937,6 +4926,18 @@
       "uid": 8740135346,
       "action": "reject_bot",
       "detail": "bot=5d9a9be484999f42 reason=rejected by admin"
+    },
+    {
+      "ts": "2026-11-01T07:24:54.175318+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=24600"
+    },
+    {
+      "ts": "2026-11-01T07:25:22.757222+00:00",
+      "uid": 8740135346,
+      "action": "reject_bot",
+      "detail": "bot=be71e3b3209b30ff reason=rejected by admin"
     }
   ],
   "coupons": {},
@@ -7708,6 +7709,14 @@
     },
     {
       "ts": "2026-11-01T07:15:58.224666+00:00",
+      "uid": "8602543306",
+      "filename": "newig.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T07:24:27.957375+00:00",
       "uid": "8602543306",
       "filename": "newig.py",
       "verdict": "SAFE",
