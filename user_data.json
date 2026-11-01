@@ -1433,7 +1433,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T16:15:21.886976+00:00",
-      "last_seen": "2026-11-01T14:48:38.990654+00:00",
+      "last_seen": "2026-11-01T23:51:43.900486+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1447,8 +1447,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 7
+        "bots_uploaded": 3,
+        "logins": 9
       }
     },
     "7482781113": {
@@ -1891,6 +1891,31 @@
       "env": {},
       "status": "pending_approval",
       "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
+    },
+    "bc1fe68760760410": {
+      "_id": "bc1fe68760760410",
+      "owner": 8558656037,
+      "name": "VID_20261101_135559_176",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8558656037_bc1fe68760760410",
+      "created": "2026-11-01T23:51:48.901475+00:00",
+      "enc_files": [
+        {
+          "key_id": "hopsD57jknzllbJ_lYIsdA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8558656037/1793577109_VID_20261101_135559_176_mp4.enc",
+          "filename": "VID_20261101_135559_176.mp4",
+          "rel_path": "VID_20261101_135559_176.mp4"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'vid_20261101_135559_176.mp4' allow nahi hai."
+      },
       "gh_synced_at": 0,
       "approval_status": "pending"
     }
@@ -7916,6 +7941,14 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-01T23:51:49.370430+00:00",
+      "uid": "8558656037",
+      "filename": "VID_20261101_135559_176.mp4",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'vid_20261101_135559_176.mp4' allow nahi hai."
     }
   ]
 }
