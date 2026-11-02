@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-02T09:22:18.677366+00:00",
+      "last_seen": "2026-11-02T09:23:40.831396+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 33,
-        "logins": 1922
+        "logins": 1924
       },
       "last_expiry_warn": -1
     },
@@ -1938,12 +1938,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-02T09:22:42.595910+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "════════════════ START 2026-11-02T09:22:42.546293+00:00 ════════════════\n2026-11-02 09:22:42 | INFO    | instabot             | ============================================================\n2026-11-02 09:22:42 | INFO    | instabot             | InstaBot starting at 2026-11-02 09:22:42\n2026-11-02 09:22:42 | INFO    | instabot             | Platforms: instagram, youtube, twitter, facebook, tiktok, reddit\n2026-11-02 09:22:42 | INFO    | instabot             | Database initialised at /home/ubuntu/premium-hosting/sandbox/8740135346_b03e10bb61807c16/data/bot.db\n2026-11-02 09:22:42 | INFO    | instabot             | Queue manager started with 3 workers\n2026-11-02 09:22:43 | INFO    | instabot             | Polling started. Ctrl+C to stop.\n2026-11-02 09:23:24 | INFO    | instabot             | Downloaded https://www.instagram.com/reel/DfNNF28TJ2Q/?xtok=Z2JnOG5nMXZwbG1t -> /home/ubuntu/premium-hosting/sandbox/8740135346_b03e10bb61807c16/downloads/DfNNF28TJ2Q.mp4 (3323889B in 2.7s)",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-11-02T09:23:42.795004+00:00"
     }
   },
   "payments": [
