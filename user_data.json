@@ -848,7 +848,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-18T18:36:49.555055+00:00",
-      "last_seen": "2026-10-26T12:45:21.273423+00:00",
+      "last_seen": "2026-11-02T07:00:26.787953+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -862,8 +862,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 21,
-        "logins": 173
+        "bots_uploaded": 23,
+        "logins": 180
       }
     },
     "8831661619": {
@@ -1871,6 +1871,57 @@
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "pending"
+    },
+    "f2bd7e39b16c78e7": {
+      "_id": "f2bd7e39b16c78e7",
+      "owner": 8926345670,
+      "name": "kanhawp_1",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8926345670_f2bd7e39b16c78e7",
+      "created": "2026-11-02T06:59:42.582280+00:00",
+      "enc_files": [
+        {
+          "key_id": "_Jswkv8h1Lc0p0wfukV5Eg",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8926345670/1793602783_kanhawp_1_mjs.enc",
+          "filename": "kanhawp_1.mjs",
+          "rel_path": "kanhawp_1.mjs"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'kanhawp_1.mjs' allow nahi hai."
+      },
+      "gh_synced_at": 0
+    },
+    "52f2c20bfbf2087a": {
+      "_id": "52f2c20bfbf2087a",
+      "owner": 8926345670,
+      "name": "zenoxgod_1",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8926345670_52f2c20bfbf2087a",
+      "created": "2026-11-02T07:00:04.288622+00:00",
+      "enc_files": [
+        {
+          "key_id": "4AmgZiKM-5H0N4P88u2sLA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8926345670/1793602805_zenoxgod_1_py.enc",
+          "filename": "zenoxgod_1.py",
+          "rel_path": "zenoxgod_1.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 37,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-11-02T07:00:32.736187+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -7950,6 +8001,22 @@
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-02T06:59:43.060400+00:00",
+      "uid": "8926345670",
+      "filename": "kanhawp_1.mjs",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'kanhawp_1.mjs' allow nahi hai."
+    },
+    {
+      "ts": "2026-11-02T07:00:04.950889+00:00",
+      "uid": "8926345670",
+      "filename": "zenoxgod_1.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
