@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-02T01:25:26.472880+00:00",
+      "last_seen": "2026-11-02T01:26:57.345449+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 32,
-        "logins": 1903
+        "logins": 1909
       },
       "last_expiry_warn": -1
     },
@@ -1871,31 +1871,6 @@
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "pending"
-    },
-    "bc1fe68760760410": {
-      "_id": "bc1fe68760760410",
-      "owner": 8558656037,
-      "name": "VID_20261101_135559_176",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8558656037_bc1fe68760760410",
-      "created": "2026-11-01T23:51:48.901475+00:00",
-      "enc_files": [
-        {
-          "key_id": "hopsD57jknzllbJ_lYIsdA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8558656037/1793577109_VID_20261101_135559_176_mp4.enc",
-          "filename": "VID_20261101_135559_176.mp4",
-          "rel_path": "VID_20261101_135559_176.mp4"
-        }
-      ],
-      "env": {},
-      "status": "pending_approval",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 30,
-        "summary": "File type 'vid_20261101_135559_176.mp4' allow nahi hai."
-      },
-      "gh_synced_at": 0,
-      "approval_status": "pending"
     }
   },
   "payments": [
@@ -2056,18 +2031,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T19:36:51.650556+00:00",
-      "uid": 8790937904,
-      "action": "bot_delete",
-      "detail": "bot=399e374b3ef43051"
-    },
-    {
-      "ts": "2026-09-27T19:45:53.214886+00:00",
-      "uid": 8790937904,
-      "action": "bot_download",
-      "detail": "bot=8153475623c694a1"
-    },
     {
       "ts": "2026-09-27T19:50:42.097337+00:00",
       "uid": 8790937904,
@@ -5055,6 +5018,18 @@
       "uid": 8740135346,
       "action": "broadcast_sent",
       "detail": "sent=53 fail=4"
+    },
+    {
+      "ts": "2026-11-02T01:26:15.406988+00:00",
+      "uid": 8740135346,
+      "action": "reject_bot",
+      "detail": "bot=bc1fe68760760410 reason=rejected by admin"
+    },
+    {
+      "ts": "2026-11-02T01:26:58.393419+00:00",
+      "uid": 8740135346,
+      "action": "notify_user",
+      "detail": "to=8558656037"
     }
   ],
   "coupons": {},
