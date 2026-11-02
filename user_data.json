@@ -1433,7 +1433,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T16:15:21.886976+00:00",
-      "last_seen": "2026-11-02T04:03:04.212595+00:00",
+      "last_seen": "2026-11-02T04:08:17.491178+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1447,8 +1447,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 4,
-        "logins": 11
+        "bots_uploaded": 6,
+        "logins": 22
       }
     },
     "7482781113": {
@@ -1872,16 +1872,16 @@
       "gh_synced_at": 0,
       "approval_status": "pending"
     },
-    "7477c0a6ddd5a0a2": {
-      "_id": "7477c0a6ddd5a0a2",
+    "4e0a14042302054d": {
+      "_id": "4e0a14042302054d",
       "owner": 8558656037,
       "name": "Instagramdownloader",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8558656037_7477c0a6ddd5a0a2",
-      "created": "2026-11-02T04:03:06.112638+00:00",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8558656037_4e0a14042302054d",
+      "created": "2026-11-02T04:05:04.103563+00:00",
       "enc_files": [
         {
-          "key_id": "jFvMRmImPDLTnyd3ZC8p3g",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8558656037/1793592187_Instagramdownloader_py.enc",
+          "key_id": "oNTAdS8Gw4P1Zx2TTAju7Q",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8558656037/1793592305_Instagramdownloader_py.enc",
           "filename": "Instagramdownloader.py",
           "rel_path": "Instagramdownloader.py"
         }
@@ -1890,10 +1890,29 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-02T04:03:15.989190+00:00",
-      "last_error": "════════════════ START 2026-11-02T04:03:15.942203+00:00 ════════════════\n2026-11-02 04:03:16 | INFO    | instabot             | ============================================================\n2026-11-02 04:03:16 | INFO    | instabot             | InstaBot starting at 2026-11-02 04:03:16\n2026-11-02 04:03:16 | INFO    | instabot             | Platforms: instagram, youtube, twitter, facebook, tiktok, reddit\nERROR: BOT_TOKEN env var missing. Get it from @BotFather and export it first.",
+      "last_started": "2026-11-02T04:05:59.708667+00:00",
+      "last_error": "════════════════ START 2026-11-02T04:05:59.664395+00:00 ════════════════\n2026-11-02 04:05:59 | INFO    | instabot             | ============================================================\n2026-11-02 04:05:59 | INFO    | instabot             | InstaBot starting at 2026-11-02 04:05:59\n2026-11-02 04:05:59 | INFO    | instabot             | Platforms: instagram, youtube, twitter, facebook, tiktok, reddit\nERROR: BOT_TOKEN env var missing. Get it from @BotFather and export it first.",
       "last_exit_code": 1,
-      "last_exit_at": "2026-11-02T04:03:16.303367+00:00"
+      "last_exit_at": "2026-11-02T04:06:00.035817+00:00"
+    },
+    "eae0a7e0c2b27cd0": {
+      "_id": "eae0a7e0c2b27cd0",
+      "owner": 8558656037,
+      "name": "Instagramdownloader",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8558656037_eae0a7e0c2b27cd0",
+      "created": "2026-11-02T04:08:19.080536+00:00",
+      "enc_files": [
+        {
+          "key_id": "wpVo-JG4wtf5ueDBKu2Vdw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8558656037/1793592500_Instagramdownloader_py.enc",
+          "filename": "Instagramdownloader.py",
+          "rel_path": "Instagramdownloader.py"
+        }
+      ],
+      "env": {},
+      "status": "stopped",
+      "cron": {},
+      "gh_synced_at": 0
     }
   },
   "payments": [
@@ -2054,12 +2073,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T20:00:27.191050+00:00",
-      "uid": 8790937904,
-      "action": "bot_delete",
-      "detail": "bot=1034c1f1342ecb67"
-    },
     {
       "ts": "2026-09-28T05:00:03.209915+00:00",
       "uid": 7724735659,
@@ -5053,6 +5066,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=27743"
+    },
+    {
+      "ts": "2026-11-02T04:05:47.200682+00:00",
+      "uid": 8558656037,
+      "action": "bot_delete",
+      "detail": "bot=7477c0a6ddd5a0a2"
     }
   ],
   "coupons": {},
@@ -7936,6 +7955,22 @@
     },
     {
       "ts": "2026-11-02T04:03:06.628587+00:00",
+      "uid": "8558656037",
+      "filename": "Instagramdownloader.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-02T04:05:04.612269+00:00",
+      "uid": "8558656037",
+      "filename": "Instagramdownloader.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-02T04:08:19.738554+00:00",
       "uid": "8558656037",
       "filename": "Instagramdownloader.py",
       "verdict": "SAFE",
