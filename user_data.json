@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-01T18:15:44.783535+00:00",
+      "last_seen": "2026-11-02T01:25:26.472880+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 32,
-        "logins": 1896
+        "logins": 1903
       },
       "last_expiry_warn": -1
     },
@@ -521,7 +521,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T03:23:31.261081+00:00",
-      "last_seen": "2026-11-01T13:21:41.991548+00:00",
+      "last_seen": "2026-11-02T01:26:06.938988+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -536,7 +536,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 39,
-        "logins": 461
+        "logins": 462
       }
     },
     "8854714402": {
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-11-01T15:13:26.616551+00:00",
+      "last_seen": "2026-11-02T01:23:47.743643+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 31,
-        "logins": 358
+        "bots_uploaded": 32,
+        "logins": 362
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -1743,28 +1743,6 @@
       "last_exit_code": 0,
       "last_exit_at": "2026-10-31T05:56:55.334412+00:00"
     },
-    "d710acabf0dfe1ae": {
-      "_id": "d710acabf0dfe1ae",
-      "owner": 6426979067,
-      "name": "gemini-code-1793460036929",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_d710acabf0dfe1ae",
-      "created": "2026-10-31T15:23:44.646374+00:00",
-      "enc_files": [
-        {
-          "key_id": "duOWeIBAuya5zTJSFn_AJQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793460225_gemini-code-1793460036929_py.enc",
-          "filename": "gemini-code-1793460036929.py",
-          "rel_path": "gemini-code-1793460036929.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-01T07:53:17.557241+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "35f0f73c050e9c5a": {
       "_id": "35f0f73c050e9c5a",
       "owner": 8602543306,
@@ -2078,30 +2056,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-27T19:25:44.561590+00:00",
-      "uid": 8790937904,
-      "action": "pip_install",
-      "detail": "bot=4c9f9064f632e790 ok=False"
-    },
-    {
-      "ts": "2026-09-27T19:26:19.415728+00:00",
-      "uid": 8790937904,
-      "action": "pip_install",
-      "detail": "bot=4c9f9064f632e790 ok=False"
-    },
-    {
-      "ts": "2026-09-27T19:26:46.811585+00:00",
-      "uid": 8790937904,
-      "action": "pip_install",
-      "detail": "bot=4c9f9064f632e790 ok=True"
-    },
-    {
-      "ts": "2026-09-27T19:32:27.212490+00:00",
-      "uid": 8790937904,
-      "action": "bot_delete",
-      "detail": "bot=87f902457a41278b"
-    },
     {
       "ts": "2026-09-27T19:36:51.650556+00:00",
       "uid": 8790937904,
@@ -5077,6 +5031,30 @@
       "uid": 6284167472,
       "action": "bot_delete",
       "detail": "bot=dd52ae166ab48313"
+    },
+    {
+      "ts": "2026-11-02T01:23:35.015578+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=d710acabf0dfe1ae"
+    },
+    {
+      "ts": "2026-11-02T01:24:33.415426+00:00",
+      "uid": 8740135346,
+      "action": "reject_bot",
+      "detail": "bot=4184931b05232ab7 reason=rejected by admin"
+    },
+    {
+      "ts": "2026-11-02T01:24:41.580395+00:00",
+      "uid": 8740135346,
+      "action": "approval_toggle",
+      "detail": "now=False"
+    },
+    {
+      "ts": "2026-11-02T01:25:57.854619+00:00",
+      "uid": 8740135346,
+      "action": "broadcast_sent",
+      "detail": "sent=53 fail=4"
     }
   ],
   "coupons": {},
@@ -7949,6 +7927,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "File type 'vid_20261101_135559_176.mp4' allow nahi hai."
+    },
+    {
+      "ts": "2026-11-02T01:23:53.902468+00:00",
+      "uid": "6426979067",
+      "filename": "Osintkingdom.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
