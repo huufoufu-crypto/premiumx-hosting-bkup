@@ -1554,6 +1554,31 @@
       },
       "last_expiry_warn": 1,
       "last_renewal_reminder": "2026-11-02"
+    },
+    "8693749085": {
+      "_id": 8693749085,
+      "name": "𓆩𓆩ꪶ🦢┊𝐃ᴇꪜ ~!!⚜️ ~भगवान हुँ𓆪𓆪",
+      "username": "devbhgwanhu",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-02T15:20:31.455981+00:00",
+      "last_seen": "2026-11-02T15:20:31.455994+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
