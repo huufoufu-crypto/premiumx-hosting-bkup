@@ -1433,7 +1433,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T16:15:21.886976+00:00",
-      "last_seen": "2026-11-02T05:57:53.472585+00:00",
+      "last_seen": "2026-11-02T06:03:35.489555+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1448,7 +1448,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 8,
-        "logins": 69
+        "logins": 73
       }
     },
     "7482781113": {
@@ -1871,28 +1871,6 @@
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "pending"
-    },
-    "a2875b2a6ea1d644": {
-      "_id": "a2875b2a6ea1d644",
-      "owner": 8558656037,
-      "name": "5_6287414680587608872",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8558656037_a2875b2a6ea1d644",
-      "created": "2026-11-02T05:56:27.226535+00:00",
-      "enc_files": [
-        {
-          "key_id": "qIkExz6IfihzJHioWbbxQg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8558656037/1793598988_5_6287414680587608872_py.enc",
-          "filename": "5_6287414680587608872.py",
-          "rel_path": "5_6287414680587608872.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-02T05:56:36.371343+00:00",
-      "last_error": "",
-      "last_exit_code": null
     }
   },
   "payments": [
@@ -2053,12 +2031,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-28T05:28:52.783263+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=27ec881518592e61"
-    },
     {
       "ts": "2026-09-28T05:37:18.882110+00:00",
       "uid": 7724735659,
@@ -5052,6 +5024,12 @@
       "uid": 8558656037,
       "action": "bot_delete",
       "detail": "bot=eae0a7e0c2b27cd0"
+    },
+    {
+      "ts": "2026-11-02T06:03:36.557473+00:00",
+      "uid": 8558656037,
+      "action": "bot_delete",
+      "detail": "bot=a2875b2a6ea1d644"
     }
   ],
   "coupons": {},
