@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-02T09:17:12.897862+00:00",
+      "last_seen": "2026-11-02T09:22:18.677366+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 1,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 32,
-        "logins": 1914
+        "bots_uploaded": 33,
+        "logins": 1922
       },
       "last_expiry_warn": -1
     },
@@ -1434,8 +1434,8 @@
       "plan_expires": null,
       "joined": "2026-10-28T16:15:21.886976+00:00",
       "last_seen": "2026-11-02T06:03:35.489555+00:00",
-      "banned": false,
-      "ban_reason": "",
+      "banned": true,
+      "ban_reason": "uploading fishing files",
       "wallet": 0,
       "kyc": false,
       "verified": true,
@@ -1922,6 +1922,28 @@
       "last_started": "2026-11-02T07:01:58.121047+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "b03e10bb61807c16": {
+      "_id": "b03e10bb61807c16",
+      "owner": 8740135346,
+      "name": "5_6287414680587608872",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_b03e10bb61807c16",
+      "created": "2026-11-02T09:22:32.352659+00:00",
+      "enc_files": [
+        {
+          "key_id": "OmlICmdhDp34F-_AdNRvfQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1793611353_5_6287414680587608872_py.enc",
+          "filename": "5_6287414680587608872.py",
+          "rel_path": "5_6287414680587608872.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-02T09:22:42.595910+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2082,12 +2104,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-28T09:23:13.877477+00:00",
-      "uid": 8635333045,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
     {
       "ts": "2026-09-28T10:00:25.193900+00:00",
       "uid": 8635333045,
@@ -5081,6 +5097,12 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=28eca36c22b707c9"
+    },
+    {
+      "ts": "2026-11-02T09:20:30.011498+00:00",
+      "uid": 8740135346,
+      "action": "ban_user",
+      "detail": "uid=8558656037"
     }
   ],
   "coupons": {},
@@ -8032,6 +8054,14 @@
       "filename": "Osintkingdom.py",
       "verdict": "SAFE",
       "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-02T09:22:32.867402+00:00",
+      "uid": "8740135346",
+      "filename": "5_6287414680587608872.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
