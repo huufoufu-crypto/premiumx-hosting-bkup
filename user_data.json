@@ -1433,7 +1433,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T16:15:21.886976+00:00",
-      "last_seen": "2026-11-02T05:33:58.190720+00:00",
+      "last_seen": "2026-11-02T05:40:04.298456+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1447,8 +1447,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 6,
-        "logins": 45
+        "bots_uploaded": 7,
+        "logins": 54
       }
     },
     "7482781113": {
@@ -1894,6 +1894,28 @@
       "last_error": "════════════════ START 2026-11-02T04:08:29.090548+00:00 ════════════════\n2026-11-02 04:08:29 | INFO    | instabot             | ============================================================\n2026-11-02 04:08:29 | INFO    | instabot             | InstaBot starting at 2026-11-02 04:08:29\n2026-11-02 04:08:29 | INFO    | instabot             | Platforms: instagram, youtube, twitter, facebook, tiktok, reddit\nERROR: BOT_TOKEN env var missing. Get it from @BotFather and export it first.",
       "last_exit_code": 1,
       "last_exit_at": "2026-11-02T04:08:29.456930+00:00"
+    },
+    "03172989c0517de6": {
+      "_id": "03172989c0517de6",
+      "owner": 8558656037,
+      "name": "Instagramdownloader",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8558656037_03172989c0517de6",
+      "created": "2026-11-02T05:39:20.453925+00:00",
+      "enc_files": [
+        {
+          "key_id": "R6t8ZfqZeEn5aFXifldkzw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8558656037/1793597961_Instagramdownloader_py.enc",
+          "filename": "Instagramdownloader.py",
+          "rel_path": "Instagramdownloader.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-02T05:39:30.440908+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -7952,6 +7974,14 @@
     },
     {
       "ts": "2026-11-02T04:08:19.738554+00:00",
+      "uid": "8558656037",
+      "filename": "Instagramdownloader.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-02T05:39:20.962969+00:00",
       "uid": "8558656037",
       "filename": "Instagramdownloader.py",
       "verdict": "SAFE",
