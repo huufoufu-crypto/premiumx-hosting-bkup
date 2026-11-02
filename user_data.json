@@ -1433,7 +1433,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T16:15:21.886976+00:00",
-      "last_seen": "2026-11-02T04:08:17.491178+00:00",
+      "last_seen": "2026-11-02T04:09:38.730694+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1448,7 +1448,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 6,
-        "logins": 22
+        "logins": 31
       }
     },
     "7482781113": {
@@ -1890,10 +1890,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-02T04:05:59.708667+00:00",
-      "last_error": "════════════════ START 2026-11-02T04:05:59.664395+00:00 ════════════════\n2026-11-02 04:05:59 | INFO    | instabot             | ============================================================\n2026-11-02 04:05:59 | INFO    | instabot             | InstaBot starting at 2026-11-02 04:05:59\n2026-11-02 04:05:59 | INFO    | instabot             | Platforms: instagram, youtube, twitter, facebook, tiktok, reddit\nERROR: BOT_TOKEN env var missing. Get it from @BotFather and export it first.",
+      "last_started": "2026-11-02T04:09:40.804683+00:00",
+      "last_error": "════════════════ START 2026-11-02T04:09:40.759617+00:00 ════════════════\n2026-11-02 04:09:41 | INFO    | instabot             | ============================================================\n2026-11-02 04:09:41 | INFO    | instabot             | InstaBot starting at 2026-11-02 04:09:41\n2026-11-02 04:09:41 | INFO    | instabot             | Platforms: instagram, youtube, twitter, facebook, tiktok, reddit\nERROR: BOT_TOKEN env var missing. Get it from @BotFather and export it first.",
       "last_exit_code": 1,
-      "last_exit_at": "2026-11-02T04:06:00.035817+00:00"
+      "last_exit_at": "2026-11-02T04:09:41.116648+00:00"
     },
     "eae0a7e0c2b27cd0": {
       "_id": "eae0a7e0c2b27cd0",
@@ -1910,9 +1910,13 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "crashed",
       "cron": {},
-      "gh_synced_at": 0
+      "gh_synced_at": 0,
+      "last_started": "2026-11-02T04:08:29.136084+00:00",
+      "last_error": "════════════════ START 2026-11-02T04:08:29.090548+00:00 ════════════════\n2026-11-02 04:08:29 | INFO    | instabot             | ============================================================\n2026-11-02 04:08:29 | INFO    | instabot             | InstaBot starting at 2026-11-02 04:08:29\n2026-11-02 04:08:29 | INFO    | instabot             | Platforms: instagram, youtube, twitter, facebook, tiktok, reddit\nERROR: BOT_TOKEN env var missing. Get it from @BotFather and export it first.",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-11-02T04:08:29.456930+00:00"
     }
   },
   "payments": [
