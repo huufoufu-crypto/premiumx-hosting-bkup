@@ -1501,7 +1501,7 @@
         "logins": 69
       },
       "last_expiry_warn": 1,
-      "last_renewal_reminder": "2026-11-01"
+      "last_renewal_reminder": "2026-11-02"
     },
     "8813971540": {
       "_id": 8813971540,
@@ -1553,7 +1553,7 @@
         "logins": 5
       },
       "last_expiry_warn": 1,
-      "last_renewal_reminder": "2026-11-01"
+      "last_renewal_reminder": "2026-11-02"
     }
   },
   "bots": {
