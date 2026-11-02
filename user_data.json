@@ -1308,7 +1308,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T11:12:51.418312+00:00",
-      "last_seen": "2026-11-02T09:46:45.406062+00:00",
+      "last_seen": "2026-11-02T16:05:52.733501+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1323,7 +1323,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 4,
-        "logins": 74
+        "logins": 75
       }
     },
     "8998552292": {
@@ -1563,6 +1563,31 @@
       "plan_expires": null,
       "joined": "2026-11-02T15:20:31.455981+00:00",
       "last_seen": "2026-11-02T15:20:31.455994+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "6585789141": {
+      "_id": 6585789141,
+      "name": "ㅤㅤㅤ ㅤㅤ𝐊ɪɴɢ֟֟፝͠ 💗/<𝟑🪽ㅤ ㅤㅤㅤㅤ",
+      "username": "Kingdom_hu",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-02T16:02:54.460853+00:00",
+      "last_seen": "2026-11-02T16:02:54.460870+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
