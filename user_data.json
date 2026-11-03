@@ -1629,6 +1629,31 @@
         "bots_uploaded": 0,
         "logins": 1
       }
+    },
+    "8946835726": {
+      "_id": 8946835726,
+      "name": "lyat",
+      "username": "Oiiiiiiuu",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-03T12:22:53.969830+00:00",
+      "last_seen": "2026-11-03T12:22:53.969841+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
