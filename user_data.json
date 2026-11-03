@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-11-03T01:25:53.646289+00:00",
+      "last_seen": "2026-11-03T15:20:26.497256+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 34,
-        "logins": 379
+        "bots_uploaded": 35,
+        "logins": 387
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2179,12 +2179,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-28T14:42:34.288599+00:00",
-      "uid": 8790937904,
-      "action": "bot_delete",
-      "detail": "bot=310b93a331075a81"
-    },
     {
       "ts": "2026-09-28T14:47:49.498755+00:00",
       "uid": 8790937904,
@@ -5178,6 +5172,12 @@
       "uid": 8605542364,
       "action": "bot_delete",
       "detail": "bot=830cb740b12ca4c2"
+    },
+    {
+      "ts": "2026-11-03T15:20:26.973935+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=79d82223512f7887"
     }
   ],
   "coupons": {},
@@ -8143,6 +8143,14 @@
       "ts": "2026-11-03T14:13:41.387872+00:00",
       "uid": "8605542364",
       "filename": "hidmee.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-03T15:18:37.461717+00:00",
+      "uid": "6426979067",
+      "filename": "deepseek_python_20261103_b50379.py",
       "verdict": "SAFE",
       "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
