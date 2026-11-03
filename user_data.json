@@ -1383,7 +1383,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T13:23:31.438226+00:00",
-      "last_seen": "2026-11-02T10:18:42.029065+00:00",
+      "last_seen": "2026-11-03T22:10:50.903747+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1397,8 +1397,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 8
+        "bots_uploaded": 2,
+        "logins": 16
       }
     },
     "8424259405": {
@@ -2066,6 +2066,28 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-11-03T17:43:42.013002+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "8131db23c7631747": {
+      "_id": "8131db23c7631747",
+      "owner": 8514647510,
+      "name": "hot",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8514647510_8131db23c7631747",
+      "created": "2026-11-03T22:10:10.814256+00:00",
+      "enc_files": [
+        {
+          "key_id": "ZedIYHSK68eRcc28ZsG3DQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8514647510/1793743811_hot_py.enc",
+          "filename": "hot.py",
+          "rel_path": "hot.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-03T22:10:21.512403+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -8219,6 +8241,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 35,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-11-03T22:10:11.294804+00:00",
+      "uid": "8514647510",
+      "filename": "hot.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
