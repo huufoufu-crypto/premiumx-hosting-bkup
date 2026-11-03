@@ -1483,7 +1483,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-30T15:14:51.605059+00:00",
-      "last_seen": "2026-11-03T14:13:38.436356+00:00",
+      "last_seen": "2026-11-03T14:16:44.520937+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1498,7 +1498,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 5,
-        "logins": 78
+        "logins": 83
       },
       "last_expiry_warn": 1,
       "last_renewal_reminder": "2026-11-03"
@@ -1887,31 +1887,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "830cb740b12ca4c2": {
-      "_id": "830cb740b12ca4c2",
-      "owner": 8605542364,
-      "name": "decoder",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_830cb740b12ca4c2",
-      "created": "2026-11-01T08:03:40.810919+00:00",
-      "enc_files": [
-        {
-          "key_id": "jwjWoRY2EcMQ9E4CEWSrMg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1793520221_decoder_py.enc",
-          "filename": "decoder.py",
-          "rel_path": "decoder.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "approval_status": "approved",
-      "approval_reason": "",
-      "last_started": "2026-11-01T08:23:14.341898+00:00",
-      "last_error": "2026-11-01 08:42:41,052 | INFO | HTTP Request: POST https://api.telegram.org/bot9100554087:AAH4lFNN5ZTX3kTwHEkXR4N0hvvpmyzmXTs/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-01 08:42:51,334 | INFO | HTTP Request: POST https://api.telegram.org/bot9100554087:AAH4lFNN5ZTX3kTwHEkXR4N0hvvpmyzmXTs/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-01 08:43:01,618 | INFO | HTTP Request: POST https://api.telegram.org/bot9100554087:AAH4lFNN5ZTX3kTwHEkXR4N0hvvpmyzmXTs/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-01 08:43:11,905 | INFO | HTTP Request: POST https://api.telegram.org/bot9100554087:AAH4lFNN5ZTX3kTwHEkXR4N0hvvpmyzmXTs/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-01 08:43:18,696 | INFO | HTTP Request: POST https://api.telegram.org/bot9100554087:AAH4lFNN5ZTX3kTwHEkXR4N0hvvpmyzmXTs/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-01 08:43:18,696 | INFO | Application is stopping. This might take a moment.\n2026-11-01 08:43:18,696 | INFO | Scheduler has been shut down\n2026-11-01 08:43:18,706 | INFO | Application.stop() complete",
-      "last_exit_code": 0,
-      "last_exit_at": "2026-11-01T08:43:18.780755+00:00"
-    },
     "66b996b30008d9dc": {
       "_id": "66b996b30008d9dc",
       "owner": 7940339638,
@@ -2204,12 +2179,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-28T14:31:06.055522+00:00",
-      "uid": 7724735659,
-      "action": "bot_delete",
-      "detail": "bot=3be392afe014fce7"
-    },
     {
       "ts": "2026-09-28T14:42:34.288599+00:00",
       "uid": 8790937904,
@@ -5203,6 +5172,12 @@
       "uid": 8740135346,
       "action": "maintenance_toggle",
       "detail": "now=off"
+    },
+    {
+      "ts": "2026-11-03T14:16:38.901486+00:00",
+      "uid": 8605542364,
+      "action": "bot_delete",
+      "detail": "bot=830cb740b12ca4c2"
     }
   ],
   "coupons": {},
