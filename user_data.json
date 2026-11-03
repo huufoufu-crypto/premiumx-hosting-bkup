@@ -1283,7 +1283,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T02:45:27.054519+00:00",
-      "last_seen": "2026-11-03T15:41:07.902555+00:00",
+      "last_seen": "2026-11-03T15:42:05.814561+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1297,8 +1297,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 6,
-        "logins": 69
+        "bots_uploaded": 7,
+        "logins": 71
       }
     },
     "8060521173": {
@@ -2017,6 +2017,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-03T14:13:50.921854+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "db9a5d5b5ce3ec2a": {
+      "_id": "db9a5d5b5ce3ec2a",
+      "owner": 6284167472,
+      "name": "hostingkrishnaxkanha",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6284167472_db9a5d5b5ce3ec2a",
+      "created": "2026-11-03T15:41:10.810973+00:00",
+      "enc_files": [
+        {
+          "key_id": "BW_A9EMSBhuiSUZp1LZQ0w",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793720472_hostingkrishnaxkanha_py.enc",
+          "filename": "hostingkrishnaxkanha.py",
+          "rel_path": "hostingkrishnaxkanha.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-03T15:41:21.819140+00:00",
       "last_error": "",
       "last_exit_code": null
     }
