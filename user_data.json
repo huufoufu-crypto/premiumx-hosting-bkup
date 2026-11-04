@@ -1283,7 +1283,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T02:45:27.054519+00:00",
-      "last_seen": "2026-11-04T09:33:56.652926+00:00",
+      "last_seen": "2026-11-04T09:35:41.770634+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1297,8 +1297,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 7,
-        "logins": 82
+        "bots_uploaded": 8,
+        "logins": 86
       }
     },
     "8060521173": {
@@ -2225,12 +2225,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-14T15:49:42.356756+00:00",
-      "uid": 8009335025,
-      "action": "bot_delete",
-      "detail": "bot=7032d7bd1b2331f5"
-    },
     {
       "ts": "2026-10-14T15:55:35.555257+00:00",
       "uid": 0,
@@ -5224,6 +5218,12 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=3e74194905552e3a"
+    },
+    {
+      "ts": "2026-11-04T09:35:43.193136+00:00",
+      "uid": 6284167472,
+      "action": "bot_delete",
+      "detail": "bot=5d71f69b00cfcb06"
     }
   ],
   "coupons": {},
@@ -8247,6 +8247,14 @@
       "filename": "deepseek_python_20261104_dfdfd9.py",
       "verdict": "SAFE",
       "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-04T09:35:15.938742+00:00",
+      "uid": "6284167472",
+      "filename": "HOSTINBOT.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
