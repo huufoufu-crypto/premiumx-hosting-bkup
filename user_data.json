@@ -1283,7 +1283,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T02:45:27.054519+00:00",
-      "last_seen": "2026-11-04T03:29:46.471934+00:00",
+      "last_seen": "2026-11-04T03:30:11.655463+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1298,7 +1298,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 7,
-        "logins": 73
+        "logins": 78
       }
     },
     "8060521173": {
@@ -1927,26 +1927,6 @@
       "gh_synced_at": 0,
       "approval_status": "pending"
     },
-    "5a30ef158b9bf9ef": {
-      "_id": "5a30ef158b9bf9ef",
-      "owner": 6284167472,
-      "name": "newkanhauserbot",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6284167472_5a30ef158b9bf9ef",
-      "created": "2026-11-01T20:22:02.771269+00:00",
-      "enc_files": [
-        {
-          "key_id": "VjQmjBPuFxDptBJnQze0ow",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793564523_newkanhauserbot__py.enc",
-          "filename": "newkanhauserbot_.py",
-          "rel_path": "newkanhauserbot_.py"
-        }
-      ],
-      "env": {},
-      "status": "pending_approval",
-      "cron": {},
-      "gh_synced_at": 0,
-      "approval_status": "pending"
-    },
     "f2bd7e39b16c78e7": {
       "_id": "f2bd7e39b16c78e7",
       "owner": 8926345670,
@@ -2245,12 +2225,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-14T15:40:38.600641+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=4688"
-    },
     {
       "ts": "2026-10-14T15:42:11.845391+00:00",
       "uid": 8740135346,
@@ -5244,6 +5218,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=29994"
+    },
+    {
+      "ts": "2026-11-04T03:30:12.742557+00:00",
+      "uid": 6284167472,
+      "action": "bot_delete",
+      "detail": "bot=5a30ef158b9bf9ef"
     }
   ],
   "coupons": {},
