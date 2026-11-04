@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-11-04T08:12:21.034538+00:00",
+      "last_seen": "2026-11-04T09:25:59.138980+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 37,
-        "logins": 395
+        "bots_uploaded": 38,
+        "logins": 402
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2044,25 +2044,25 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "3e74194905552e3a": {
-      "_id": "3e74194905552e3a",
+    "d87f8f3d55e2593d": {
+      "_id": "d87f8f3d55e2593d",
       "owner": 6426979067,
-      "name": "deepseek_python_20261104_deca4d",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_3e74194905552e3a",
-      "created": "2026-11-04T08:12:22.820668+00:00",
+      "name": "deepseek_python_20261104_dfdfd9",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_d87f8f3d55e2593d",
+      "created": "2026-11-04T09:24:57.124005+00:00",
       "enc_files": [
         {
-          "key_id": "AeBH7It9ChC-iJPo0koTDg",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793779944_deepseek_python_20261104_deca4d_py.enc",
-          "filename": "deepseek_python_20261104_deca4d.py",
-          "rel_path": "deepseek_python_20261104_deca4d.py"
+          "key_id": "M-uDjWNuGJFGoxvDedabog",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793784298_deepseek_python_20261104_dfdfd9_py.enc",
+          "filename": "deepseek_python_20261104_dfdfd9.py",
+          "rel_path": "deepseek_python_20261104_dfdfd9.py"
         }
       ],
       "env": {},
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-04T08:12:32.741140+00:00",
+      "last_started": "2026-11-04T09:25:46.701438+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2225,12 +2225,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-14T15:45:48.457780+00:00",
-      "uid": 8740135346,
-      "action": "give_plan",
-      "detail": "uid=8009335025 plan=terminal days=7"
-    },
     {
       "ts": "2026-10-14T15:49:42.356756+00:00",
       "uid": 8009335025,
@@ -5224,6 +5218,12 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=2fb0723f73961abf"
+    },
+    {
+      "ts": "2026-11-04T09:25:36.188256+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=3e74194905552e3a"
     }
   ],
   "coupons": {},
@@ -8237,6 +8237,14 @@
       "ts": "2026-11-04T08:12:23.352536+00:00",
       "uid": "6426979067",
       "filename": "deepseek_python_20261104_deca4d.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-04T09:24:57.681724+00:00",
+      "uid": "6426979067",
+      "filename": "deepseek_python_20261104_dfdfd9.py",
       "verdict": "SAFE",
       "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
