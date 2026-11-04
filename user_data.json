@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-04T13:54:52.971450+00:00",
+      "last_seen": "2026-11-04T14:02:59.472715+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 1,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 36,
-        "logins": 1967
+        "bots_uploaded": 37,
+        "logins": 1973
       },
       "last_expiry_warn": -1
     },
@@ -2066,16 +2066,16 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "337c94c5b5535177": {
-      "_id": "337c94c5b5535177",
+    "df5493f288d828be": {
+      "_id": "df5493f288d828be",
       "owner": 8740135346,
       "name": "stieng",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_337c94c5b5535177",
-      "created": "2026-11-04T13:54:55.384919+00:00",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8740135346_df5493f288d828be",
+      "created": "2026-11-04T14:03:03.003999+00:00",
       "enc_files": [
         {
-          "key_id": "dVlBqxUJ_qcQhJr0fQQvPA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1793800496_stieng_py.enc",
+          "key_id": "GHeMgVc3E6SysDoK2_ag8w",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8740135346/1793800983_stieng_py.enc",
           "filename": "stieng.py",
           "rel_path": "stieng.py"
         }
@@ -2084,7 +2084,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-04T13:55:07.797376+00:00",
+      "last_started": "2026-11-04T14:03:15.238952+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2247,12 +2247,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-14T16:07:18.248950+00:00",
-      "uid": 8009335025,
-      "action": "bot_delete",
-      "detail": "bot=9b819f907e891955"
-    },
     {
       "ts": "2026-10-14T16:10:16.716510+00:00",
       "uid": 0,
@@ -5246,6 +5240,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=29984"
+    },
+    {
+      "ts": "2026-11-04T14:02:33.355759+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=337c94c5b5535177"
     }
   ],
   "coupons": {},
@@ -8297,6 +8297,14 @@
     },
     {
       "ts": "2026-11-04T13:54:55.868042+00:00",
+      "uid": "8740135346",
+      "filename": "stieng.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-04T14:03:03.500100+00:00",
       "uid": "8740135346",
       "filename": "stieng.py",
       "verdict": "SAFE",
