@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-11-03T15:20:26.497256+00:00",
+      "last_seen": "2026-11-04T00:55:06.825221+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 35,
-        "logins": 387
+        "bots_uploaded": 36,
+        "logins": 389
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2061,6 +2061,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-03T22:10:21.512403+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "2fb0723f73961abf": {
+      "_id": "2fb0723f73961abf",
+      "owner": 6426979067,
+      "name": "deepseek_python_20261104_10cd69",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_2fb0723f73961abf",
+      "created": "2026-11-04T00:55:09.266665+00:00",
+      "enc_files": [
+        {
+          "key_id": "BMia8FBLiVJhG19xX2Umcw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1793753710_deepseek_python_20261104_10cd69_py.enc",
+          "filename": "deepseek_python_20261104_10cd69.py",
+          "rel_path": "deepseek_python_20261104_10cd69.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-04T00:55:18.913296+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -8221,6 +8243,14 @@
       "filename": "hot.py",
       "verdict": "SAFE",
       "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-04T00:55:09.815342+00:00",
+      "uid": "6426979067",
+      "filename": "deepseek_python_20261104_10cd69.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
