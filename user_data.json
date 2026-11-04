@@ -444,7 +444,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-28T09:23:04.854588+00:00",
-      "last_seen": "2026-11-03T17:43:48.866734+00:00",
+      "last_seen": "2026-11-04T00:41:17.839125+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -459,7 +459,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 45
+        "logins": 50
       }
     },
     "8009335025": {
@@ -2042,33 +2042,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "fff50da80cb9b779": {
-      "_id": "fff50da80cb9b779",
-      "owner": 8635333045,
-      "name": "mainm",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8635333045_fff50da80cb9b779",
-      "created": "2026-11-03T17:43:32.493289+00:00",
-      "enc_files": [
-        {
-          "key_id": "iSldKzKSvdMv-bhrh6vM4A",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8635333045/1793727813_mainm_py.enc",
-          "filename": "mainm.py",
-          "rel_path": "mainm.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "security_scan": {
-        "verdict": "SUSPICIOUS",
-        "risk_score": 35,
-        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
-      },
-      "gh_synced_at": 0,
-      "last_started": "2026-11-03T17:43:42.013002+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "8131db23c7631747": {
       "_id": "8131db23c7631747",
       "owner": 8514647510,
@@ -2250,12 +2223,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-09-28T14:57:29.781759+00:00",
-      "uid": 8790937904,
-      "action": "bot_delete",
-      "detail": "bot=cc739e762e220b45"
-    },
     {
       "ts": "2026-10-14T14:52:21.688059+00:00",
       "uid": 0,
@@ -5249,6 +5216,12 @@
       "uid": 8946835726,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-11-04T00:41:21.994337+00:00",
+      "uid": 8635333045,
+      "action": "bot_delete",
+      "detail": "bot=fff50da80cb9b779"
     }
   ],
   "coupons": {},
