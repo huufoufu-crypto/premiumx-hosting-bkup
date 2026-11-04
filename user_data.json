@@ -1283,7 +1283,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T02:45:27.054519+00:00",
-      "last_seen": "2026-11-04T09:35:41.770634+00:00",
+      "last_seen": "2026-11-04T14:31:28.355795+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1297,8 +1297,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 8,
-        "logins": 86
+        "bots_uploaded": 9,
+        "logins": 91
       }
     },
     "8060521173": {
@@ -2085,6 +2085,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-04T14:03:15.238952+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "ae2b6d27456c051a": {
+      "_id": "ae2b6d27456c051a",
+      "owner": 6284167472,
+      "name": "newkanhauserbot",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6284167472_ae2b6d27456c051a",
+      "created": "2026-11-04T14:30:49.618621+00:00",
+      "enc_files": [
+        {
+          "key_id": "djxsZ3NJU8Q-S_iwvLOSvA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6284167472/1793802650_newkanhauserbot__py.enc",
+          "filename": "newkanhauserbot_.py",
+          "rel_path": "newkanhauserbot_.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-04T14:30:59.556076+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -8307,6 +8329,14 @@
       "ts": "2026-11-04T14:03:03.500100+00:00",
       "uid": "8740135346",
       "filename": "stieng.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-04T14:30:50.190041+00:00",
+      "uid": "6284167472",
+      "filename": "newkanhauserbot_.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
