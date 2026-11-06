@@ -2295,12 +2295,6 @@
   },
   "audit": [
     {
-      "ts": "2026-10-14T16:38:05.897946+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=4692"
-    },
-    {
       "ts": "2026-10-14T16:39:00.219911+00:00",
       "uid": 0,
       "action": "tg_channel_backup",
@@ -5290,6 +5284,12 @@
     },
     {
       "ts": "2026-11-05T19:56:57.027536+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=30439"
+    },
+    {
+      "ts": "2026-11-06T01:57:08.188988+00:00",
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=30439"
