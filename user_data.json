@@ -1679,6 +1679,31 @@
         "bots_uploaded": 0,
         "logins": 1
       }
+    },
+    "6518225929": {
+      "_id": 6518225929,
+      "name": "ᴠᴇxᴏʀᴀ ᴏꜰꜰɪᴄɪᴀʟ",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-06T17:38:19.286292+00:00",
+      "last_seen": "2026-11-06T17:39:32.734178+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-11-06T17:39:26.019537+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 6
+      }
     }
   },
   "bots": {
@@ -2161,6 +2186,28 @@
       "last_started": "2026-11-06T02:41:09.184254+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "bf8ba911e732262c": {
+      "_id": "bf8ba911e732262c",
+      "owner": 6518225929,
+      "name": "main",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6518225929_bf8ba911e732262c",
+      "created": "2026-11-06T17:39:16.823004+00:00",
+      "enc_files": [
+        {
+          "key_id": "EgGdOjFhlJrndGGAJIZfZw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6518225929/1793986757_main_py.enc",
+          "filename": "main.py",
+          "rel_path": "main.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-06T17:39:26.544829+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2321,18 +2368,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T03:21:46.020988+00:00",
-      "uid": 7745343711,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
-    {
-      "ts": "2026-10-15T03:33:00.809807+00:00",
-      "uid": 8630447127,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
     {
       "ts": "2026-10-15T04:07:18.020468+00:00",
       "uid": 6515961246,
@@ -5320,6 +5355,18 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=30880"
+    },
+    {
+      "ts": "2026-11-06T17:38:58.677364+00:00",
+      "uid": 6518225929,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-11-06T17:39:27.578615+00:00",
+      "uid": 6518225929,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -8408,6 +8455,14 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-06T17:39:17.409656+00:00",
+      "uid": "6518225929",
+      "filename": "main.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
