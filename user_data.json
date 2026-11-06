@@ -621,7 +621,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-15T08:37:06.164725+00:00",
-      "last_seen": "2026-11-06T02:32:25.650247+00:00",
+      "last_seen": "2026-11-06T02:37:30.802373+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -635,8 +635,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 23,
-        "logins": 292
+        "bots_uploaded": 24,
+        "logins": 293
       }
     },
     "8788156789": {
@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-11-05T00:24:36.459703+00:00",
+      "last_seen": "2026-11-06T02:37:14.934871+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 38,
-        "logins": 403
+        "logins": 404
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2111,6 +2111,34 @@
       "last_started": "2026-11-04T14:30:59.556076+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "f040bcca51f94d54": {
+      "_id": "f040bcca51f94d54",
+      "owner": 8032573119,
+      "name": "Rebel5",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8032573119_f040bcca51f94d54",
+      "created": "2026-11-06T02:37:33.640048+00:00",
+      "enc_files": [
+        {
+          "key_id": "rmdB51aWhAkp7SU_H0OtmQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8032573119/1793932654_Rebel5_py.enc",
+          "filename": "Rebel5.py",
+          "rel_path": "Rebel5.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-11-06T02:37:43.508574+00:00",
+      "last_error": "════════════════ START 2026-11-06T02:37:43.457693+00:00 ════════════════\n  File \"/home/ubuntu/premium-hosting/sandbox/8032573119_f040bcca51f94d54/Rebel5.py\", line 159\n    ]\nIndentationError: unexpected indent",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-11-06T02:37:43.543374+00:00"
     }
   },
   "payments": [
@@ -8342,6 +8370,14 @@
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-06T02:37:34.214805+00:00",
+      "uid": "8032573119",
+      "filename": "Rebel5.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
 }
