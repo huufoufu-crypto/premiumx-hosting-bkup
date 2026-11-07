@@ -1333,7 +1333,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T11:24:33.707097+00:00",
-      "last_seen": "2026-11-07T02:56:05.252213+00:00",
+      "last_seen": "2026-11-07T02:59:45.679605+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1347,8 +1347,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 10
+        "bots_uploaded": 2,
+        "logins": 12
       }
     },
     "8955487769": {
@@ -2206,6 +2206,33 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-06T17:39:26.544829+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "6e12180ee6df1090": {
+      "_id": "6e12180ee6df1090",
+      "owner": 8998552292,
+      "name": "rishwqerer",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8998552292_6e12180ee6df1090",
+      "created": "2026-11-07T02:59:48.214100+00:00",
+      "enc_files": [
+        {
+          "key_id": "NMI_ZJJYKdAA6xJd-nXWVw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8998552292/1794020389_rishwqerer_py.enc",
+          "filename": "rishwqerer.py",
+          "rel_path": "rishwqerer.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-11-07T02:59:57.963631+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -8462,6 +8489,14 @@
       "filename": "main.py",
       "verdict": "SUSPICIOUS",
       "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-11-07T02:59:48.771178+00:00",
+      "uid": "8998552292",
+      "filename": "rishwqerer.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
