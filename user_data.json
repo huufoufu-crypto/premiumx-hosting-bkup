@@ -2369,12 +2369,6 @@
   },
   "audit": [
     {
-      "ts": "2026-10-15T04:52:11.037901+00:00",
-      "uid": 8740135346,
-      "action": "maintenance_toggle",
-      "detail": "now=on"
-    },
-    {
       "ts": "2026-10-15T04:52:24.128865+00:00",
       "uid": 8740135346,
       "action": "maintenance_toggle",
@@ -5364,6 +5358,12 @@
     },
     {
       "ts": "2026-11-06T19:57:50.265983+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=31327"
+    },
+    {
+      "ts": "2026-11-07T01:58:08.702295+00:00",
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=31327"
