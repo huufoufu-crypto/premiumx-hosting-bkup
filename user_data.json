@@ -2396,12 +2396,6 @@
   },
   "audit": [
     {
-      "ts": "2026-10-15T04:52:24.128865+00:00",
-      "uid": 8740135346,
-      "action": "maintenance_toggle",
-      "detail": "now=off"
-    },
-    {
       "ts": "2026-10-15T04:52:40.286984+00:00",
       "uid": 8740135346,
       "action": "maintenance_toggle",
@@ -5394,6 +5388,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=31327"
+    },
+    {
+      "ts": "2026-11-07T07:58:19.091665+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=31778"
     }
   ],
   "coupons": {},
