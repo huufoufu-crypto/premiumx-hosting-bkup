@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-11-08T07:26:56.567579+00:00",
+      "last_seen": "2026-11-08T12:27:29.423469+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 40,
-        "logins": 422
+        "bots_uploaded": 41,
+        "logins": 430
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2233,6 +2233,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-08T06:54:46.320387+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "eea831ef45991dda": {
+      "_id": "eea831ef45991dda",
+      "owner": 6426979067,
+      "name": "Bomber",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_eea831ef45991dda",
+      "created": "2026-11-08T12:27:31.192518+00:00",
+      "enc_files": [
+        {
+          "key_id": "zOESJZXQ5WkyMP4uET4n_w",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1794140852_Bomber_py.enc",
+          "filename": "Bomber.py",
+          "rel_path": "Bomber.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-08T12:27:40.723513+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -8543,6 +8565,14 @@
       "ts": "2026-11-08T07:23:49.310194+00:00",
       "uid": "6426979067",
       "filename": "deepseek_python_20261108_007b9e.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-08T12:27:31.849626+00:00",
+      "uid": "6426979067",
+      "filename": "Bomber.py",
       "verdict": "SAFE",
       "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
