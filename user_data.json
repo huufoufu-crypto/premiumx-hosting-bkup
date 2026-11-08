@@ -1483,7 +1483,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-30T15:14:51.605059+00:00",
-      "last_seen": "2026-11-08T06:20:19.790812+00:00",
+      "last_seen": "2026-11-08T06:22:49.077655+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1498,7 +1498,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 7,
-        "logins": 110
+        "logins": 117
       },
       "last_expiry_warn": 1,
       "last_renewal_reminder": "2026-11-03"
@@ -2254,10 +2254,10 @@
       "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-08T06:20:22.142356+00:00",
-      "last_error": "════════════════ START 2026-11-08T06:20:22.096994+00:00 ════════════════\nTraceback (most recent call last):\n  File \"/home/ubuntu/premium-hosting/sandbox/8605542364_6983e4bbb4ef5e12/koko.py\", line 29, in <module>\n    raise RuntimeError(\"Missing Telegram or Dify API credentials.\")\nRuntimeError: Missing Telegram or Dify API credentials.",
+      "last_started": "2026-11-08T06:22:51.396351+00:00",
+      "last_error": "════════════════ START 2026-11-08T06:22:51.353927+00:00 ════════════════\nTraceback (most recent call last):\n  File \"/home/ubuntu/premium-hosting/sandbox/8605542364_6983e4bbb4ef5e12/koko.py\", line 29, in <module>\n    raise RuntimeError(\"Missing Telegram or Dify API credentials.\")\nRuntimeError: Missing Telegram or Dify API credentials.",
       "last_exit_code": 1,
-      "last_exit_at": "2026-11-08T06:20:22.509968+00:00"
+      "last_exit_at": "2026-11-08T06:22:51.696320+00:00"
     }
   },
   "payments": [
