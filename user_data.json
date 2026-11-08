@@ -1704,6 +1704,31 @@
         "bots_uploaded": 1,
         "logins": 22
       }
+    },
+    "5947582282": {
+      "_id": 5947582282,
+      "name": "#𝐑ᴇɴ𝐃ᴇʀ/-!!",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-08T17:38:02.511035+00:00",
+      "last_seen": "2026-11-08T17:38:02.511050+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
     }
   },
   "bots": {
