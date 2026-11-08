@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-11-08T07:25:49.437673+00:00",
+      "last_seen": "2026-11-08T07:26:56.567579+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1088,7 +1088,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 40,
-        "logins": 420
+        "logins": 422
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2235,28 +2235,6 @@
       "last_started": "2026-11-08T06:54:46.320387+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "6c3a7c3ae67367c3": {
-      "_id": "6c3a7c3ae67367c3",
-      "owner": 6426979067,
-      "name": "deepseek_python_20261108_007b9e",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_6c3a7c3ae67367c3",
-      "created": "2026-11-08T07:23:48.795374+00:00",
-      "enc_files": [
-        {
-          "key_id": "ZlMJHeUxnhM4BHSB-XpChw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1794122629_deepseek_python_20261108_007b9e_py.enc",
-          "filename": "deepseek_python_20261108_007b9e.py",
-          "rel_path": "deepseek_python_20261108_007b9e.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-08T07:25:53.633127+00:00",
-      "last_error": "",
-      "last_exit_code": null
     }
   },
   "payments": [
@@ -2417,12 +2395,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T05:47:45.917705+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=6980"
-    },
     {
       "ts": "2026-10-15T05:54:47.626149+00:00",
       "uid": 0,
@@ -5416,6 +5388,12 @@
       "uid": 6426979067,
       "action": "bot_delete",
       "detail": "bot=730cd38bcebab426"
+    },
+    {
+      "ts": "2026-11-08T07:26:58.474107+00:00",
+      "uid": 6426979067,
+      "action": "bot_delete",
+      "detail": "bot=6c3a7c3ae67367c3"
     }
   ],
   "coupons": {},
