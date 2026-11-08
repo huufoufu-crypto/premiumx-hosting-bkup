@@ -1483,7 +1483,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-30T15:14:51.605059+00:00",
-      "last_seen": "2026-11-08T13:17:24.623360+00:00",
+      "last_seen": "2026-11-08T13:29:54.998203+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1498,7 +1498,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 9,
-        "logins": 145
+        "logins": 146
       },
       "last_expiry_warn": 1,
       "last_renewal_reminder": "2026-11-03"
@@ -2229,12 +2229,12 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-08T13:15:33.500033+00:00",
-      "last_error": "2026-11-08 13:17:05,497 - INFO - HTTP Request: POST https://api.telegram.org/bot9237309508:AAFlQEhY5TgYNOjfWPUcEV5tJQ8jg3pchqM/editMessageText \"HTTP/1.1 200 OK\"\n2026-11-08 13:17:12,459 - INFO - HTTP Request: POST https://api.telegram.org/bot9237309508:AAFlQEhY5TgYNOjfWPUcEV5tJQ8jg3pchqM/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-08 13:17:22,740 - INFO - HTTP Request: POST https://api.telegram.org/bot9237309508:AAFlQEhY5TgYNOjfWPUcEV5tJQ8jg3pchqM/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-08 13:17:26,843 - INFO - HTTP Request: POST https://api.telegram.org/bot9237309508:AAFlQEhY5TgYNOjfWPUcEV5tJQ8jg3pchqM/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-08 13:17:26,844 - INFO - Application is stopping. This might take a moment.\n2026-11-08 13:17:26,844 - INFO - Scheduler has been shut down\n2026-11-08 13:17:26,854 - INFO - Application.stop() complete\n2026-11-08 13:17:26,855 - INFO - KOKO shutting down.",
-      "last_exit_code": 0,
+      "last_started": "2026-11-08T13:29:57.334420+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-11-08T13:17:26.924575+00:00"
     },
     "eea831ef45991dda": {
