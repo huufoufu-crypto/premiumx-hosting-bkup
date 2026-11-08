@@ -1712,13 +1712,13 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-11-08T17:38:02.511035+00:00",
-      "last_seen": "2026-11-08T17:38:02.511050+00:00",
+      "last_seen": "2026-11-08T17:39:15.738746+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
       "kyc": false,
-      "verified": false,
-      "verified_at": null,
+      "verified": true,
+      "verified_at": "2026-11-08T17:39:05.507679+00:00",
       "ref_by": null,
       "ref_count": 0,
       "ref_credit": 0,
@@ -1727,7 +1727,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 1
+        "logins": 2
       }
     }
   },
@@ -2443,12 +2443,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T06:02:46.039699+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=6988"
-    },
     {
       "ts": "2026-10-15T06:04:08.537999+00:00",
       "uid": 8009335025,
@@ -5442,6 +5436,12 @@
       "uid": 8740135346,
       "action": "broadcast_sent",
       "detail": "sent=53 fail=9"
+    },
+    {
+      "ts": "2026-11-08T17:39:07.034761+00:00",
+      "uid": 5947582282,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
