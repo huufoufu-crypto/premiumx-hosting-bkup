@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-11-06T21:33:24.627325+00:00",
+      "last_seen": "2026-11-08T06:41:07.591879+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 13,
-        "logins": 356
+        "logins": 357
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -1483,7 +1483,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-30T15:14:51.605059+00:00",
-      "last_seen": "2026-11-08T06:22:49.077655+00:00",
+      "last_seen": "2026-11-08T06:44:01.673023+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1497,8 +1497,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 7,
-        "logins": 117
+        "bots_uploaded": 8,
+        "logins": 125
       },
       "last_expiry_warn": 1,
       "last_renewal_reminder": "2026-11-03"
@@ -2236,28 +2236,27 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "6983e4bbb4ef5e12": {
-      "_id": "6983e4bbb4ef5e12",
+    "f4ac5d932129406e": {
+      "_id": "f4ac5d932129406e",
       "owner": 8605542364,
       "name": "koko",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_6983e4bbb4ef5e12",
-      "created": "2026-11-08T05:58:29.325435+00:00",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_f4ac5d932129406e",
+      "created": "2026-11-08T06:42:55.349502+00:00",
       "enc_files": [
         {
-          "key_id": "w2Aflxw2WuShN13-OR8uRw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1794117510_koko_py.enc",
+          "key_id": "uz0ixeCLB27mZB6QZlfW6A",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1794120176_koko_py.enc",
           "filename": "koko.py",
           "rel_path": "koko.py"
         }
       ],
       "env": {},
-      "status": "crashed",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-08T06:22:51.396351+00:00",
-      "last_error": "════════════════ START 2026-11-08T06:22:51.353927+00:00 ════════════════\nTraceback (most recent call last):\n  File \"/home/ubuntu/premium-hosting/sandbox/8605542364_6983e4bbb4ef5e12/koko.py\", line 29, in <module>\n    raise RuntimeError(\"Missing Telegram or Dify API credentials.\")\nRuntimeError: Missing Telegram or Dify API credentials.",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-11-08T06:22:51.696320+00:00"
+      "last_started": "2026-11-08T06:43:04.788951+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2418,12 +2417,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T05:36:07.399110+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=6072"
-    },
     {
       "ts": "2026-10-15T05:40:39.970855+00:00",
       "uid": 8740135346,
@@ -5417,6 +5410,12 @@
       "uid": 8605542364,
       "action": "bot_delete",
       "detail": "bot=07fe2925acb8fd7e"
+    },
+    {
+      "ts": "2026-11-08T06:42:44.448301+00:00",
+      "uid": 8605542364,
+      "action": "bot_delete",
+      "detail": "bot=6983e4bbb4ef5e12"
     }
   ],
   "coupons": {},
@@ -8536,6 +8535,14 @@
       "filename": "koko.py",
       "verdict": "SAFE",
       "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-08T06:42:55.852878+00:00",
+      "uid": "8605542364",
+      "filename": "koko.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
