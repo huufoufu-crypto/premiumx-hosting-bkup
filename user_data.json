@@ -1483,7 +1483,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-30T15:14:51.605059+00:00",
-      "last_seen": "2026-11-08T04:47:42.031395+00:00",
+      "last_seen": "2026-11-08T05:58:25.608224+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1497,8 +1497,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 6,
-        "logins": 102
+        "bots_uploaded": 7,
+        "logins": 104
       },
       "last_expiry_warn": 1,
       "last_renewal_reminder": "2026-11-03"
@@ -2235,6 +2235,29 @@
       "last_started": "2026-11-07T02:59:57.963631+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "6983e4bbb4ef5e12": {
+      "_id": "6983e4bbb4ef5e12",
+      "owner": 8605542364,
+      "name": "koko",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_6983e4bbb4ef5e12",
+      "created": "2026-11-08T05:58:29.325435+00:00",
+      "enc_files": [
+        {
+          "key_id": "w2Aflxw2WuShN13-OR8uRw",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1794117510_koko_py.enc",
+          "filename": "koko.py",
+          "rel_path": "koko.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-08T05:58:38.908963+00:00",
+      "last_error": "════════════════ START 2026-11-08T05:58:38.864724+00:00 ════════════════\nTraceback (most recent call last):\n  File \"/home/ubuntu/premium-hosting/sandbox/8605542364_6983e4bbb4ef5e12/koko.py\", line 29, in <module>\n    raise RuntimeError(\"Missing Telegram or Dify API credentials.\")\nRuntimeError: Missing Telegram or Dify API credentials.",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-11-08T05:58:39.248589+00:00"
     }
   },
   "payments": [
@@ -8505,6 +8528,14 @@
       "filename": "kokoapi.py",
       "verdict": "SAFE",
       "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-08T05:58:29.820624+00:00",
+      "uid": "8605542364",
+      "filename": "koko.py",
+      "verdict": "SAFE",
+      "risk_score": 15,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
