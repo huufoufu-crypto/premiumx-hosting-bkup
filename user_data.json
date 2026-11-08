@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-11-08T06:41:07.591879+00:00",
+      "last_seen": "2026-11-08T17:08:25.120268+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 13,
-        "logins": 357
+        "logins": 358
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -2418,12 +2418,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T06:00:29.680995+00:00",
-      "uid": 0,
-      "action": "tg_channel_backup",
-      "detail": "channel=-1003862203771 size=6988"
-    },
     {
       "ts": "2026-10-15T06:02:46.039699+00:00",
       "uid": 0,
@@ -5417,6 +5411,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=32217"
+    },
+    {
+      "ts": "2026-11-08T17:08:43.123844+00:00",
+      "uid": 8740135346,
+      "action": "broadcast_sent",
+      "detail": "sent=53 fail=9"
     }
   ],
   "coupons": {},
