@@ -1483,7 +1483,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-30T15:14:51.605059+00:00",
-      "last_seen": "2026-11-08T06:44:01.673023+00:00",
+      "last_seen": "2026-11-08T06:54:31.304406+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1497,8 +1497,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 8,
-        "logins": 125
+        "bots_uploaded": 9,
+        "logins": 131
       },
       "last_expiry_warn": 1,
       "last_renewal_reminder": "2026-11-03"
@@ -2236,28 +2236,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "f4ac5d932129406e": {
-      "_id": "f4ac5d932129406e",
-      "owner": 8605542364,
-      "name": "koko",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_f4ac5d932129406e",
-      "created": "2026-11-08T06:42:55.349502+00:00",
-      "enc_files": [
-        {
-          "key_id": "uz0ixeCLB27mZB6QZlfW6A",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1794120176_koko_py.enc",
-          "filename": "koko.py",
-          "rel_path": "koko.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-08T06:43:04.788951+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "730cd38bcebab426": {
       "_id": "730cd38bcebab426",
       "owner": 6426979067,
@@ -2277,6 +2255,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-08T06:48:42.518286+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "249e88f59e0f5747": {
+      "_id": "249e88f59e0f5747",
+      "owner": 8605542364,
+      "name": "koko",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8605542364_249e88f59e0f5747",
+      "created": "2026-11-08T06:54:36.641959+00:00",
+      "enc_files": [
+        {
+          "key_id": "1ZlL49GRD14vfep4yk-k5A",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8605542364/1794120877_koko_py.enc",
+          "filename": "koko.py",
+          "rel_path": "koko.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-08T06:54:46.320387+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2439,12 +2439,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T05:40:39.970855+00:00",
-      "uid": 8740135346,
-      "action": "maintenance_toggle",
-      "detail": "now=off"
-    },
     {
       "ts": "2026-10-15T05:46:10.918052+00:00",
       "uid": 8009335025,
@@ -5438,6 +5432,12 @@
       "uid": 8605542364,
       "action": "bot_delete",
       "detail": "bot=6983e4bbb4ef5e12"
+    },
+    {
+      "ts": "2026-11-08T06:54:12.946725+00:00",
+      "uid": 8605542364,
+      "action": "bot_delete",
+      "detail": "bot=f4ac5d932129406e"
     }
   ],
   "coupons": {},
@@ -8573,6 +8573,14 @@
       "filename": "deepseek_python_20261108_1748e2.py",
       "verdict": "SAFE",
       "risk_score": 15,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-08T06:54:37.154903+00:00",
+      "uid": "8605542364",
+      "filename": "koko.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
