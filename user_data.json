@@ -1383,7 +1383,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T13:23:31.438226+00:00",
-      "last_seen": "2026-11-09T12:05:28.419274+00:00",
+      "last_seen": "2026-11-09T12:12:23.009085+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1398,7 +1398,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 4,
-        "logins": 36
+        "logins": 38
       }
     },
     "8424259405": {
@@ -1712,7 +1712,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-11-08T17:38:02.511035+00:00",
-      "last_seen": "2026-11-09T11:51:31.927483+00:00",
+      "last_seen": "2026-11-09T12:11:18.392540+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1726,8 +1726,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 3,
-        "logins": 26
+        "bots_uploaded": 4,
+        "logins": 29
       }
     },
     "8196586829": {
@@ -2365,12 +2365,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-09T12:05:21.014416+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\n2026-11-09 12:12:15,336 [INFO] HTTP Request: POST https://api.telegram.org/bot8657834186:AAEI8YXHDfOD6o9uV7PJmJPeF_StvqYEdtk/getUpdates \"HTTP/1.1 200 OK\"\n2026-11-09 12:12:15,336 [INFO] Application is stopping. This might take a moment.\n2026-11-09 12:12:15,336 [INFO] Scheduler has been shut down\n2026-11-09 12:12:15,346 [INFO] Application.stop() complete\n2026-11-09 12:12:15,381 [INFO] 🤖 Telegram Manager chal raha hai...\n2026-11-09 12:12:15,381 [ERROR] 💥 Manager crash: Event loop is closed\n2026-11-09 12:12:15,381 [INFO] ⏳ 10 sec baad restart...",
+      "last_exit_code": -9,
+      "last_exit_at": "2026-11-09T12:12:16.626032+00:00"
     },
     "26682f240657f9ce": {
       "_id": "26682f240657f9ce",
@@ -2391,6 +2392,28 @@
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-09T12:05:23.128875+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "e50bd186a06ff745": {
+      "_id": "e50bd186a06ff745",
+      "owner": 5947582282,
+      "name": "NexusXxRebel",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/5947582282_e50bd186a06ff745",
+      "created": "2026-11-09T12:11:20.034532+00:00",
+      "enc_files": [
+        {
+          "key_id": "RACSQQQyWaQGPfYQaq7-mA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/5947582282/1794226281_NexusXxRebel_py.enc",
+          "filename": "NexusXxRebel.py",
+          "rel_path": "NexusXxRebel.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-09T12:11:29.412605+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -8773,6 +8796,14 @@
       "ts": "2026-11-09T12:05:14.133628+00:00",
       "uid": "8514647510",
       "filename": "main.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-09T12:11:20.565400+00:00",
+      "uid": "5947582282",
+      "filename": "NexusXxRebel.py",
       "verdict": "SAFE",
       "risk_score": 25,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
