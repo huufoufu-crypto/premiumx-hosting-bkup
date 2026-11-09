@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-09T10:17:08.421175+00:00",
+      "last_seen": "2026-11-09T10:25:02.007959+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 37,
-        "logins": 2017
+        "logins": 2019
       },
       "last_expiry_warn": -1
     },
@@ -2054,7 +2054,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:20:25.009294+00:00",
+      "last_started": "2026-11-09T10:24:06.630622+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2098,7 +2098,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:20:27.837313+00:00",
+      "last_started": "2026-11-09T10:24:08.830456+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2143,7 +2143,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:20:28.450243+00:00",
+      "last_started": "2026-11-09T10:24:09.284106+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2216,7 +2216,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:20:28.874403+00:00",
+      "last_started": "2026-11-09T10:24:09.687224+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2238,7 +2238,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:20:55.476245+00:00",
+      "last_started": "2026-11-09T10:24:29.356418+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2265,7 +2265,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:20:55.997501+00:00",
+      "last_started": "2026-11-09T10:24:29.735180+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2315,7 +2315,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:20:56.829202+00:00",
+      "last_started": "2026-11-09T10:24:30.363773+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2478,12 +2478,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T08:09:53.499827+00:00",
-      "uid": 8740135346,
-      "action": "maintenance_toggle",
-      "detail": "now=off"
-    },
     {
       "ts": "2026-10-15T08:37:28.468727+00:00",
       "uid": 8032573119,
@@ -5474,6 +5468,12 @@
     },
     {
       "ts": "2026-11-09T10:20:25.711420+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=33222"
+    },
+    {
+      "ts": "2026-11-09T10:24:06.622864+00:00",
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=33222"
