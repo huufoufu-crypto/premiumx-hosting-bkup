@@ -1762,7 +1762,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-11-09T11:56:51.479927+00:00",
-      "last_seen": "2026-11-09T19:47:48.779874+00:00",
+      "last_seen": "2026-11-09T19:51:20.181820+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1776,8 +1776,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 3,
-        "logins": 22
+        "bots_uploaded": 4,
+        "logins": 33
       }
     },
     "8769965268": {
@@ -2400,27 +2400,28 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "f49d02baa36a955a": {
-      "_id": "f49d02baa36a955a",
+    "fe12955ce2435ce9": {
+      "_id": "fe12955ce2435ce9",
       "owner": 8566897279,
-      "name": "BOTMANAGER",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8566897279_f49d02baa36a955a",
-      "created": "2026-11-09T19:35:56.873685+00:00",
+      "name": "MANAGEBY",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8566897279_fe12955ce2435ce9",
+      "created": "2026-11-09T19:50:12.837797+00:00",
       "enc_files": [
         {
-          "key_id": "oWhJ95JVJuD-i99Ngwhasw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8566897279/1794252957_BOTMANAGER_py.enc",
-          "filename": "BOTMANAGER.py",
-          "rel_path": "BOTMANAGER.py"
+          "key_id": "RhAPeYNQiVXdsvZS8pN0zA",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8566897279/1794253814_MANAGEBY_py.enc",
+          "filename": "MANAGEBY.py",
+          "rel_path": "MANAGEBY.py"
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T19:36:06.225623+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_started": "2026-11-09T19:50:23.908574+00:00",
+      "last_error": "          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telebot/__init__.py\", line 197, in __init__\n    self.bot_id: Union[int, None] = util.extract_bot_id(self.token) # subject to change in future, unspecified\n                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telebot/util.py\", line 756, in extract_bot_id\n    return int(token.split(':')[0])\n           ^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: invalid literal for int() with base 10: 'l9182354058'",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-11-09T19:50:24.097338+00:00"
     }
   },
   "payments": [
@@ -2581,12 +2582,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T14:22:34.035678+00:00",
-      "uid": 8740135346,
-      "action": "env_set",
-      "detail": "bot=621f8b8398ebf628 key=BOT_TOKEN"
-    },
     {
       "ts": "2026-10-15T16:20:55.479810+00:00",
       "uid": 8740135346,
@@ -5580,6 +5575,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=34612"
+    },
+    {
+      "ts": "2026-11-09T19:47:53.314593+00:00",
+      "uid": 8566897279,
+      "action": "bot_delete",
+      "detail": "bot=f49d02baa36a955a"
     }
   ],
   "coupons": {},
@@ -8851,6 +8852,14 @@
       "filename": "BOTMANAGER.py",
       "verdict": "SAFE",
       "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-09T19:50:14.497045+00:00",
+      "uid": "8566897279",
+      "filename": "MANAGEBY.py",
+      "verdict": "SAFE",
+      "risk_score": 10,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
