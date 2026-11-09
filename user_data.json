@@ -1073,7 +1073,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
-      "last_seen": "2026-11-08T12:27:29.423469+00:00",
+      "last_seen": "2026-11-09T07:05:50.274933+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1087,8 +1087,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 41,
-        "logins": 430
+        "bots_uploaded": 42,
+        "logins": 431
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-26",
@@ -2333,6 +2333,28 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-11-09T02:24:03.435207+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "87b5e318d98cb127": {
+      "_id": "87b5e318d98cb127",
+      "owner": 6426979067,
+      "name": "deepseek_python_20261109_ac5312",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_87b5e318d98cb127",
+      "created": "2026-11-09T07:06:07.850977+00:00",
+      "enc_files": [
+        {
+          "key_id": "6I5vQMHEiz4I3-S9FrNrPQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1794207968_deepseek_python_20261109_ac5312_py.enc",
+          "filename": "deepseek_python_20261109_ac5312.py",
+          "rel_path": "deepseek_python_20261109_ac5312.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-09T07:06:17.267670+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -8661,6 +8683,14 @@
       "filename": "finalkanhafyt_1.py",
       "verdict": "SUSPICIOUS",
       "risk_score": 37,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-11-09T07:06:08.465296+00:00",
+      "uid": "6426979067",
+      "filename": "deepseek_python_20261109_ac5312.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
     }
   ]
