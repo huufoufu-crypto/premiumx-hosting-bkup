@@ -265,7 +265,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-09-20T04:55:08.256400+00:00",
-      "last_seen": "2026-11-09T10:40:39.622478+00:00",
+      "last_seen": "2026-11-09T13:07:04.189868+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -280,7 +280,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 13,
-        "logins": 365
+        "logins": 369
       },
       "last_expiry_warn": -1,
       "last_renewal_reminder": "2026-10-19"
@@ -2007,14 +2007,14 @@
         }
       ],
       "env": {},
-      "status": "stopped",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-11-09T12:30:07.834969+00:00",
-      "last_error": "✅ Worker bot 3/10: @primeabbu_3bot \n✅ Worker bot 4/10: @primeabbu_4bot \n✅ Worker bot 5/10: @primeabbu_5bot \n✅ Worker bot 6/10: @primeabbu_6bot \n✅ Worker bot 7/10: @primeabbu_7bot \n✅ Worker bot 8/10: @primeabbu_8bot \n✅ Worker bot 9/10: @primeabbu_9bot \n✅ Worker bot 10/10: @primeabbu_10bot ",
-      "last_exit_code": -15,
+      "last_started": "2026-11-09T13:07:06.167446+00:00",
+      "last_error": "",
+      "last_exit_code": null,
       "last_exit_at": "2026-11-09T12:32:45.967787+00:00"
     },
     "66b996b30008d9dc": {
