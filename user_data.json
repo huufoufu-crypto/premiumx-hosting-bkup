@@ -1383,7 +1383,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T13:23:31.438226+00:00",
-      "last_seen": "2026-11-09T12:12:23.009085+00:00",
+      "last_seen": "2026-11-09T12:12:26.280211+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1398,7 +1398,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 4,
-        "logins": 38
+        "logins": 39
       }
     },
     "8424259405": {
@@ -1712,7 +1712,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-11-08T17:38:02.511035+00:00",
-      "last_seen": "2026-11-09T12:11:18.392540+00:00",
+      "last_seen": "2026-11-09T12:13:10.393133+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1727,7 +1727,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 4,
-        "logins": 29
+        "logins": 31
       }
     },
     "8196586829": {
@@ -1762,7 +1762,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-11-09T11:56:51.479927+00:00",
-      "last_seen": "2026-11-09T11:58:12.427887+00:00",
+      "last_seen": "2026-11-09T12:14:54.397184+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1777,7 +1777,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 4
+        "logins": 5
       }
     }
   },
