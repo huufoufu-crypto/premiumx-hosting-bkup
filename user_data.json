@@ -1712,7 +1712,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-11-08T17:38:02.511035+00:00",
-      "last_seen": "2026-11-09T11:50:23.311610+00:00",
+      "last_seen": "2026-11-09T11:51:31.927483+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1727,7 +1727,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 3,
-        "logins": 20
+        "logins": 26
       }
     },
     "8196586829": {
@@ -2302,28 +2302,6 @@
       "last_started": "2026-11-09T11:22:52.702931+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "8d2f4bfcdbd04629": {
-      "_id": "8d2f4bfcdbd04629",
-      "owner": 5947582282,
-      "name": "telehost",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/5947582282_8d2f4bfcdbd04629",
-      "created": "2026-11-09T11:50:26.827898+00:00",
-      "enc_files": [
-        {
-          "key_id": "dCyCbkDbP1ycKQchN8ob7w",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/5947582282/1794225027_telehost_py.enc",
-          "filename": "telehost.py",
-          "rel_path": "telehost.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-09T11:50:36.412369+00:00",
-      "last_error": "",
-      "last_exit_code": null
     }
   },
   "payments": [
@@ -2484,12 +2462,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T10:00:00.982934+00:00",
-      "uid": 8630447127,
-      "action": "bot_delete",
-      "detail": "bot=fab680575fa76ee8"
-    },
     {
       "ts": "2026-10-15T10:09:12.197320+00:00",
       "uid": 8740135346,
@@ -5483,6 +5455,12 @@
       "uid": 8514647510,
       "action": "bot_delete",
       "detail": "bot=d05429fbcf0bb31a"
+    },
+    {
+      "ts": "2026-11-09T11:51:32.435164+00:00",
+      "uid": 5947582282,
+      "action": "bot_delete",
+      "detail": "bot=8d2f4bfcdbd04629"
     }
   ],
   "coupons": {},
