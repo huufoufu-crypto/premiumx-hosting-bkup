@@ -1074,8 +1074,8 @@
       "plan_expires": null,
       "joined": "2026-10-22T06:31:26.408738+00:00",
       "last_seen": "2026-11-09T07:42:36.633127+00:00",
-      "banned": false,
-      "ban_reason": "",
+      "banned": true,
+      "ban_reason": "Suspicious / hosting-related uploads",
       "wallet": 0,
       "kyc": false,
       "verified": true,
@@ -1775,7 +1775,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T09:07:03.407204+00:00",
+      "last_started": "2026-11-09T10:11:22.403601+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1848,7 +1848,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T09:07:04.366588+00:00",
+      "last_started": "2026-11-09T10:11:23.188647+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1870,7 +1870,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T09:07:04.896335+00:00",
+      "last_started": "2026-11-09T10:11:23.842853+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -1960,7 +1960,7 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-11-09T09:07:06.432098+00:00",
+      "last_started": "2026-11-09T10:11:25.382333+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2051,7 +2051,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T09:07:07.704001+00:00",
+      "last_started": "2026-11-09T10:11:26.134564+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2095,7 +2095,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T09:07:13.663211+00:00",
+      "last_started": "2026-11-09T10:11:31.659593+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2140,7 +2140,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T09:07:15.817556+00:00",
+      "last_started": "2026-11-09T10:11:32.390383+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2213,7 +2213,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T09:07:19.003219+00:00",
+      "last_started": "2026-11-09T10:11:32.982348+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2289,28 +2289,6 @@
       "last_exit_code": -9,
       "last_exit_at": "2026-11-09T04:34:37.127955+00:00"
     },
-    "eea831ef45991dda": {
-      "_id": "eea831ef45991dda",
-      "owner": 6426979067,
-      "name": "Bomber",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_eea831ef45991dda",
-      "created": "2026-11-08T12:27:31.192518+00:00",
-      "enc_files": [
-        {
-          "key_id": "zOESJZXQ5WkyMP4uET4n_w",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1794140852_Bomber_py.enc",
-          "filename": "Bomber.py",
-          "rel_path": "Bomber.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-09T09:08:10.064026+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "02a62134ba64c1ab": {
       "_id": "02a62134ba64c1ab",
       "owner": 7745343711,
@@ -2335,28 +2313,6 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-11-09T09:08:11.254183+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "87b5e318d98cb127": {
-      "_id": "87b5e318d98cb127",
-      "owner": 6426979067,
-      "name": "deepseek_python_20261109_ac5312",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/6426979067_87b5e318d98cb127",
-      "created": "2026-11-09T07:06:07.850977+00:00",
-      "enc_files": [
-        {
-          "key_id": "6I5vQMHEiz4I3-S9FrNrPQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/6426979067/1794207968_deepseek_python_20261109_ac5312_py.enc",
-          "filename": "deepseek_python_20261109_ac5312.py",
-          "rel_path": "deepseek_python_20261109_ac5312.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-09T09:08:12.187346+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2519,12 +2475,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T06:35:38.339150+00:00",
-      "uid": 8814719976,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
     {
       "ts": "2026-10-15T06:58:17.933853+00:00",
       "uid": 8602543306,
@@ -5518,6 +5468,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=33141"
+    },
+    {
+      "ts": "2026-11-09T10:11:22.342415+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=33208"
     }
   ],
   "coupons": {},
