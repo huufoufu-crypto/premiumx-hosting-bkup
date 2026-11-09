@@ -2054,7 +2054,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:17:48.839220+00:00",
+      "last_started": "2026-11-09T10:20:25.009294+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2098,7 +2098,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:17:52.185380+00:00",
+      "last_started": "2026-11-09T10:20:27.837313+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2143,7 +2143,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:17:52.651369+00:00",
+      "last_started": "2026-11-09T10:20:28.450243+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2216,7 +2216,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:17:53.089231+00:00",
+      "last_started": "2026-11-09T10:20:28.874403+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2238,7 +2238,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:18:25.012248+00:00",
+      "last_started": "2026-11-09T10:20:55.476245+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2265,7 +2265,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:18:25.524350+00:00",
+      "last_started": "2026-11-09T10:20:55.997501+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2315,7 +2315,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:18:26.270670+00:00",
+      "last_started": "2026-11-09T10:20:56.829202+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2478,12 +2478,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T08:08:01.278577+00:00",
-      "uid": 8740135346,
-      "action": "maintenance_toggle",
-      "detail": "now=on"
-    },
     {
       "ts": "2026-10-15T08:09:53.499827+00:00",
       "uid": 8740135346,
@@ -5477,6 +5471,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=33224"
+    },
+    {
+      "ts": "2026-11-09T10:20:25.711420+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=33222"
     }
   ],
   "coupons": {},
