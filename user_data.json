@@ -1383,7 +1383,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-28T13:23:31.438226+00:00",
-      "last_seen": "2026-11-09T11:46:02.779869+00:00",
+      "last_seen": "2026-11-09T11:46:35.424434+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1398,7 +1398,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 2,
-        "logins": 20
+        "logins": 31
       }
     },
     "8424259405": {
@@ -1712,7 +1712,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-11-08T17:38:02.511035+00:00",
-      "last_seen": "2026-11-09T11:23:14.565292+00:00",
+      "last_seen": "2026-11-09T11:50:23.311610+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -1726,8 +1726,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 2,
-        "logins": 17
+        "bots_uploaded": 3,
+        "logins": 20
       }
     },
     "8196586829": {
@@ -1987,26 +1987,6 @@
       "gh_synced_at": 0,
       "approval_status": "pending"
     },
-    "d05429fbcf0bb31a": {
-      "_id": "d05429fbcf0bb31a",
-      "owner": 8514647510,
-      "name": "dotsbots",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8514647510_d05429fbcf0bb31a",
-      "created": "2026-11-01T15:28:52.879788+00:00",
-      "enc_files": [
-        {
-          "key_id": "XNwAu6TP2S1S8BWVSdkSUw",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8514647510/1793546933_dotsbots_py.enc",
-          "filename": "dotsbots.py",
-          "rel_path": "dotsbots.py"
-        }
-      ],
-      "env": {},
-      "status": "pending_approval",
-      "cron": {},
-      "gh_synced_at": 0,
-      "approval_status": "pending"
-    },
     "f2bd7e39b16c78e7": {
       "_id": "f2bd7e39b16c78e7",
       "owner": 8926345670,
@@ -2101,29 +2081,6 @@
       "last_started": "2026-11-09T10:24:08.830456+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "8131db23c7631747": {
-      "_id": "8131db23c7631747",
-      "owner": 8514647510,
-      "name": "hot",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8514647510_8131db23c7631747",
-      "created": "2026-11-03T22:10:10.814256+00:00",
-      "enc_files": [
-        {
-          "key_id": "ZedIYHSK68eRcc28ZsG3DQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8514647510/1793743811_hot_py.enc",
-          "filename": "hot.py",
-          "rel_path": "hot.py"
-        }
-      ],
-      "env": {},
-      "status": "crashed",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-09T09:07:15.121379+00:00",
-      "last_error": "════════════════ START 2026-11-09T09:07:14.072698+00:00 ════════════════\n * Serving Flask app 'app'\n * Debug mode: off\nAddress already in use\nPort 10460 is in use by another program. Either identify and stop that program, or start the server with a different port.",
-      "last_exit_code": 1,
-      "last_exit_at": "2026-11-09T09:07:15.432978+00:00"
     },
     "df5493f288d828be": {
       "_id": "df5493f288d828be",
@@ -2345,6 +2302,28 @@
       "last_started": "2026-11-09T11:22:52.702931+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "8d2f4bfcdbd04629": {
+      "_id": "8d2f4bfcdbd04629",
+      "owner": 5947582282,
+      "name": "telehost",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/5947582282_8d2f4bfcdbd04629",
+      "created": "2026-11-09T11:50:26.827898+00:00",
+      "enc_files": [
+        {
+          "key_id": "dCyCbkDbP1ycKQchN8ob7w",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/5947582282/1794225027_telehost_py.enc",
+          "filename": "telehost.py",
+          "rel_path": "telehost.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-09T11:50:36.412369+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2505,18 +2484,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T09:46:09.648067+00:00",
-      "uid": 7745343711,
-      "action": "bot_delete",
-      "detail": "bot=f2d6993836bd99a5"
-    },
-    {
-      "ts": "2026-10-15T09:59:26.744775+00:00",
-      "uid": 6515961246,
-      "action": "bot_delete",
-      "detail": "bot=4b68987ca7e94a83"
-    },
     {
       "ts": "2026-10-15T10:00:00.982934+00:00",
       "uid": 8630447127,
@@ -5504,6 +5471,18 @@
       "uid": 8740135346,
       "action": "notify_user",
       "detail": "to=5947582282"
+    },
+    {
+      "ts": "2026-11-09T11:46:23.764141+00:00",
+      "uid": 8514647510,
+      "action": "bot_delete",
+      "detail": "bot=8131db23c7631747"
+    },
+    {
+      "ts": "2026-11-09T11:46:32.787641+00:00",
+      "uid": 8514647510,
+      "action": "bot_delete",
+      "detail": "bot=d05429fbcf0bb31a"
     }
   ],
   "coupons": {},
@@ -8696,6 +8675,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 37,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-11-09T11:50:27.496666+00:00",
+      "uid": "5947582282",
+      "filename": "telehost.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
