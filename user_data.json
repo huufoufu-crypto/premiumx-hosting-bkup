@@ -1754,6 +1754,31 @@
         "bots_uploaded": 0,
         "logins": 6
       }
+    },
+    "8566897279": {
+      "_id": 8566897279,
+      "name": "Govind",
+      "username": "Pvtgovind",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-09T11:56:51.479927+00:00",
+      "last_seen": "2026-11-09T11:58:12.427887+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-11-09T11:57:10.455198+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 4
+      }
     }
   },
   "bots": {
@@ -2302,6 +2327,28 @@
       "last_started": "2026-11-09T11:22:52.702931+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "8e54633f39439f21": {
+      "_id": "8e54633f39439f21",
+      "owner": 8566897279,
+      "name": "Nexushost",
+      "dir": "/home/ubuntu/premium-hosting/sandbox/8566897279_8e54633f39439f21",
+      "created": "2026-11-09T11:57:57.604069+00:00",
+      "enc_files": [
+        {
+          "key_id": "SwOIybOZZJJYjYwoVk-RWQ",
+          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8566897279/1794225478_Nexushost_py.enc",
+          "filename": "Nexushost.py",
+          "rel_path": "Nexushost.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-09T11:58:07.348069+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [
@@ -2462,12 +2509,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T10:09:12.197320+00:00",
-      "uid": 8740135346,
-      "action": "notify_user",
-      "detail": "to=8032573119"
-    },
     {
       "ts": "2026-10-15T10:10:55.144454+00:00",
       "uid": 8740135346,
@@ -5461,6 +5502,12 @@
       "uid": 5947582282,
       "action": "bot_delete",
       "detail": "bot=8d2f4bfcdbd04629"
+    },
+    {
+      "ts": "2026-11-09T11:57:11.965411+00:00",
+      "uid": 8566897279,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
@@ -8658,6 +8705,14 @@
       "ts": "2026-11-09T11:50:27.496666+00:00",
       "uid": "5947582282",
       "filename": "telehost.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-09T11:57:58.257715+00:00",
+      "uid": "8566897279",
+      "filename": "Nexushost.py",
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
