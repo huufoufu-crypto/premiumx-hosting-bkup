@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-09T12:58:53.870422+00:00",
+      "last_seen": "2026-11-09T13:05:56.428459+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 37,
-        "logins": 2057
+        "logins": 2064
       },
       "last_expiry_warn": -1
     },
@@ -1384,8 +1384,8 @@
       "plan_expires": null,
       "joined": "2026-10-28T13:23:31.438226+00:00",
       "last_seen": "2026-11-09T12:24:56.989618+00:00",
-      "banned": false,
-      "ban_reason": "",
+      "banned": true,
+      "ban_reason": "Hosting manager upload not allowed",
       "wallet": 0,
       "kyc": false,
       "verified": true,
@@ -2329,29 +2329,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "8e54633f39439f21": {
-      "_id": "8e54633f39439f21",
-      "owner": 8566897279,
-      "name": "Nexushost",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8566897279_8e54633f39439f21",
-      "created": "2026-11-09T11:57:57.604069+00:00",
-      "enc_files": [
-        {
-          "key_id": "SwOIybOZZJJYjYwoVk-RWQ",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8566897279/1794225478_Nexushost_py.enc",
-          "filename": "Nexushost.py",
-          "rel_path": "Nexushost.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-09T12:30:43.986534+00:00",
-      "last_error": "2026-11-09 12:31:06,544 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-11-09 12:31:06,544 - TeleBot - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\n2026-11-09 12:31:13,135 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-11-09 12:31:13,135 - TeleBot - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\n2026-11-09 12:31:25,712 (__init__.py:1301 MainThread) ERROR - TeleBot: \"Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\"\n2026-11-09 12:31:25,712 - TeleBot - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-11-09T12:31:55.446514+00:00"
-    },
     "e50bd186a06ff745": {
       "_id": "e50bd186a06ff745",
       "owner": 5947582282,
@@ -2373,29 +2350,6 @@
       "last_started": "2026-11-09T12:50:45.780535+00:00",
       "last_error": "",
       "last_exit_code": null
-    },
-    "8e56370b0cbd79d5": {
-      "_id": "8e56370b0cbd79d5",
-      "owner": 8514647510,
-      "name": "dotsbots",
-      "dir": "/home/ubuntu/premium-hosting/sandbox/8514647510_8e56370b0cbd79d5",
-      "created": "2026-11-09T12:23:25.785846+00:00",
-      "enc_files": [
-        {
-          "key_id": "0r4d7LlMcW864LfphoRqVA",
-          "enc_path": "/home/ubuntu/premium-hosting/storage/encfiles/8514647510/1794227006_dotsbots_py.enc",
-          "filename": "dotsbots.py",
-          "rel_path": "dotsbots.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "last_started": "2026-11-09T12:50:46.254385+00:00",
-      "last_error": "    result = await request.post(\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-11-09T12:58:54.351965+00:00"
     },
     "7ca4bc1326cbae93": {
       "_id": "7ca4bc1326cbae93",
@@ -2605,12 +2559,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T14:17:32.853222+00:00",
-      "uid": 8740135346,
-      "action": "env_set",
-      "detail": "bot=621f8b8398ebf628 key=FORCE_CHANNEL_ID"
-    },
     {
       "ts": "2026-10-15T14:17:43.987062+00:00",
       "uid": 8740135346,
@@ -5604,6 +5552,12 @@
       "uid": 8740135346,
       "action": "notify_user",
       "detail": "to=8566897279"
+    },
+    {
+      "ts": "2026-11-09T13:05:52.981734+00:00",
+      "uid": 8740135346,
+      "action": "bot_delete",
+      "detail": "bot=8e54633f39439f21"
     }
   ],
   "coupons": {},
