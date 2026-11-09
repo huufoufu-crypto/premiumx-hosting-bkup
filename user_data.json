@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-08T17:27:20.612694+00:00",
+      "last_seen": "2026-11-09T10:17:08.421175+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 37,
-        "logins": 2016
+        "logins": 2017
       },
       "last_expiry_warn": -1
     },
@@ -1772,7 +1772,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-09T10:14:25.421696+00:00",
@@ -1840,7 +1840,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -1849,8 +1849,9 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-11-09T10:14:26.225270+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "[!] Bot startup failed: The token `8716482711:AAEq1ijdKVzi67p52Uo4JMK_TfSH_nQ_cD8` was rejected by the server.\n[!] Bot startup failed: The token `8915270595:AAGw9bfGWa-0Ku2ttD4pz63YGthchLS5aaE` was rejected by the server.\n[!] Bot startup failed: The token `8600713625:AAEyG7uOKx3fZQjAIULBB62gf1BgKIhCE5k` was rejected by the server.\n[!] Bot startup failed: The token `8819889918:AAGLXYF5bxGXaQH-s2E26ZSiVwElLeJpWt8` was rejected by the server.\n[!] All bot tasks exited unexpectedly — triggering restart\n[*] Shutdown signal — stopping bots...\n[✓] KANHA GOD restarting…\n[*] Restarting in 3 s…",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-11-09T10:17:33.546413+00:00"
     },
     "51b0f74fb45596a0": {
       "_id": "51b0f74fb45596a0",
@@ -1867,12 +1868,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-09T10:14:26.801553+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "    result = await request.post(\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/ubuntu/venv/lib/python3.12/site-packages/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-11-09T10:17:33.606501+00:00"
     },
     "02fc272ec88c898a": {
       "_id": "02fc272ec88c898a",
@@ -1955,14 +1957,15 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
       "last_started": "2026-11-09T10:14:28.250396+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "✅ Worker bot 3/10: @primeabbu_3bot \n✅ Worker bot 4/10: @primeabbu_4bot \n✅ Worker bot 5/10: @primeabbu_5bot \n✅ Worker bot 6/10: @primeabbu_6bot \n✅ Worker bot 7/10: @primeabbu_7bot \n✅ Worker bot 8/10: @primeabbu_8bot \n✅ Worker bot 9/10: @primeabbu_9bot \n✅ Worker bot 10/10: @primeabbu_10bot ",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-11-09T10:17:33.671612+00:00"
     },
     "66b996b30008d9dc": {
       "_id": "66b996b30008d9dc",
@@ -2051,7 +2054,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:14:28.945436+00:00",
+      "last_started": "2026-11-09T10:17:48.839220+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2095,7 +2098,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:14:34.448966+00:00",
+      "last_started": "2026-11-09T10:17:52.185380+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2140,7 +2143,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:14:35.355374+00:00",
+      "last_started": "2026-11-09T10:17:52.651369+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2213,7 +2216,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:14:36.173129+00:00",
+      "last_started": "2026-11-09T10:17:53.089231+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2235,7 +2238,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:12:23.317506+00:00",
+      "last_started": "2026-11-09T10:18:25.012248+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2262,7 +2265,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:12:24.065344+00:00",
+      "last_started": "2026-11-09T10:18:25.524350+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2312,7 +2315,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T10:12:25.321348+00:00",
+      "last_started": "2026-11-09T10:18:26.270670+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2475,12 +2478,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T07:09:33.103271+00:00",
-      "uid": 8740135346,
-      "action": "bot_delete",
-      "detail": "bot=4dede2b26bf28fd2"
-    },
     {
       "ts": "2026-10-15T08:08:01.278577+00:00",
       "uid": 8740135346,
@@ -5474,6 +5471,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=33205"
+    },
+    {
+      "ts": "2026-11-09T10:17:48.793050+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=33224"
     }
   ],
   "coupons": {},
