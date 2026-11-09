@@ -7,7 +7,7 @@
       "plan": "pro",
       "plan_expires": "2126-08-27T07:39:50.945318+00:00",
       "joined": "2026-09-17T14:46:38.933030+00:00",
-      "last_seen": "2026-11-09T12:39:54.193950+00:00",
+      "last_seen": "2026-11-09T12:51:01.801624+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 37,
-        "logins": 2044
+        "logins": 2045
       },
       "last_expiry_warn": -1
     },
@@ -2076,7 +2076,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -2085,8 +2085,9 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-11-09T12:47:44.031212+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "  Ctrl+C to stop completely\n[*] Starting 5 bots — PRIME GOD\n[✓] @Zenoxxheree2_bot polling\n[✓] @Zenoxxheree4_bot polling\n[✓] @Zenoxxheree5_bot polling\n[✓] @zenoxxheree1_bot polling\n[✓] @Zenoxxheree3_bot polling\n[*] Shutdown signal — stopping bots...",
+      "last_exit_code": -9,
+      "last_exit_at": "2026-11-09T12:48:44.693657+00:00"
     },
     "232f186815b8c0ee": {
       "_id": "232f186815b8c0ee",
@@ -2125,12 +2126,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-09T12:47:46.160748+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "📢 Mandatory Channels: 0\n==================================================\nFlask Keep-Alive server started.\n2026-11-09 12:47:46,380 - __main__ - INFO - 🚀 Starting polling...\n * Serving Flask app ''\n * Debug mode: off\nAddress already in use\nPort 10460 is in use by another program. Either identify and stop that program, or start the server with a different port.",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-11-09T12:48:44.721261+00:00"
     },
     "df5493f288d828be": {
       "_id": "df5493f288d828be",
@@ -2220,12 +2222,13 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "last_started": "2026-11-09T12:47:46.527371+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "🚀 Bot 4 Started - ReP3L2o8\n🚀 Bot 5 Started - 0sj_-S7k\n🚀 Bot 6 Started - JU8ok4us\n🚀 Bot 7 Started - LWWC0NkE\n🚀 Bot 8 Started - 6JmmC9BM\n🚀 Bot 9 Started - 9H1R5Z8o\n🚀 Bot 10 Started - oRjsjcRQ\n✅ Bot is running! Press Ctrl+C to stop.",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-11-09T12:48:44.748860+00:00"
     },
     "bf8ba911e732262c": {
       "_id": "bf8ba911e732262c",
@@ -2245,7 +2248,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T12:48:05.785621+00:00",
+      "last_started": "2026-11-09T12:50:44.294425+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2272,7 +2275,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T12:48:06.191202+00:00",
+      "last_started": "2026-11-09T12:50:44.677829+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2322,7 +2325,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T12:48:06.796594+00:00",
+      "last_started": "2026-11-09T12:50:45.344551+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2367,7 +2370,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T12:48:07.242262+00:00",
+      "last_started": "2026-11-09T12:50:45.780535+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2389,7 +2392,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T12:48:07.750188+00:00",
+      "last_started": "2026-11-09T12:50:46.254385+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2416,7 +2419,7 @@
         "summary": "🔍 File suspicious hai. Admin se manual review karwao."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T12:48:09.649384+00:00",
+      "last_started": "2026-11-09T12:50:48.091367+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -2438,7 +2441,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-09T12:48:10.151283+00:00",
+      "last_started": "2026-11-09T12:50:48.537363+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -2601,12 +2604,6 @@
     }
   },
   "audit": [
-    {
-      "ts": "2026-10-15T14:17:10.110367+00:00",
-      "uid": 8740135346,
-      "action": "env_set",
-      "detail": "bot=621f8b8398ebf628 key=BOT_USERNAME"
-    },
     {
       "ts": "2026-10-15T14:17:22.498087+00:00",
       "uid": 8740135346,
@@ -5600,6 +5597,12 @@
       "uid": 0,
       "action": "tg_channel_backup",
       "detail": "channel=-1003862203771 size=35069"
+    },
+    {
+      "ts": "2026-11-09T12:50:31.399490+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=35075"
     }
   ],
   "coupons": {},
