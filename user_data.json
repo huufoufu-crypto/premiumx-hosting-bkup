@@ -2560,12 +2560,6 @@
   },
   "audit": [
     {
-      "ts": "2026-10-15T17:33:29.164499+00:00",
-      "uid": 8788156789,
-      "action": "captcha_pass",
-      "detail": "verified after 0 try(s)"
-    },
-    {
       "ts": "2026-10-15T19:01:44.743214+00:00",
       "uid": 8788156789,
       "action": "bot_delete",
@@ -5558,6 +5552,12 @@
       "uid": 8566897279,
       "action": "bot_delete",
       "detail": "bot=806ce57247e6c27c"
+    },
+    {
+      "ts": "2026-11-10T00:50:52.337062+00:00",
+      "uid": 0,
+      "action": "tg_channel_backup",
+      "detail": "channel=-1003862203771 size=34612"
     }
   ],
   "coupons": {},
